@@ -1,0 +1,383 @@
+[
+  {
+    "no": 29927,
+    "age": 95,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/12/05"
+    ],
+    "onset_dates": [
+      "2022/12/05",
+      "2022/12/05"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "コミナティ筋注（２価：\n起源株/オミクロン株\nBA.1）",
+    "concurrent_vaccination": "",
+    "manufacturer": "ファイザー",
+    "lot_no": "GE6396",
+    "PT_names": [
+      "そう痒症",
+      "蕁麻疹"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "2022/12/08",
+      "2022/12/08"
+    ],
+    "gross_results": [
+      "回復",
+      "回復"
+    ],
+    "source": {
+      "name": "第92回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001068694.pdf"
+    }
+  },
+  {
+    "no": 29928,
+    "age": 52,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/10/22"
+    ],
+    "onset_dates": [
+      "2022/10/23",
+      "2022/10/23"
+    ],
+    "days_to_onset": [
+      1
+    ],
+    "vaccine_name": "コミナティ筋注（２価：\n起源株/オミクロン株\nBA.1）",
+    "concurrent_vaccination": "",
+    "manufacturer": "ファイザー",
+    "lot_no": "GD9136",
+    "PT_names": [
+      "肺塞栓症",
+      "疲労"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "不明",
+      "不明"
+    ],
+    "source": {
+      "name": "第92回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001068694.pdf"
+    }
+  },
+  {
+    "no": 29929,
+    "age": 15,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/12/16"
+    ],
+    "onset_dates": [
+      "2022/12/18",
+      "2022/12/18",
+      "2022/12/18"
+    ],
+    "days_to_onset": [
+      2
+    ],
+    "vaccine_name": "コミナティ筋注（２価：\n起源株/オミクロン株\nBA.1）",
+    "concurrent_vaccination": "",
+    "manufacturer": "ファイザー",
+    "lot_no": "GD9135",
+    "PT_names": [
+      "ワクチン接種部位知覚異常",
+      "第６脳神経麻痺",
+      "四肢麻痺"
+    ],
+    "causal_relationship": "",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快",
+      "軽快",
+      "軽快"
+    ],
+    "source": {
+      "name": "第92回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001068694.pdf"
+    }
+  },
+  {
+    "no": 29930,
+    "age": 77,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/11/26"
+    ],
+    "onset_dates": [
+      "2022/11/27"
+    ],
+    "days_to_onset": [
+      1
+    ],
+    "vaccine_name": "コミナティ筋注（２価：\n起源株/オミクロン株\nBA.1）",
+    "concurrent_vaccination": "",
+    "manufacturer": "ファイザー",
+    "lot_no": "99999",
+    "PT_names": [
+      "心筋炎"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "死亡"
+    ],
+    "source": {
+      "name": "第92回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001068694.pdf"
+    }
+  },
+  {
+    "no": 29931,
+    "age": 17,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/10/20"
+    ],
+    "onset_dates": [
+      "2022/10/21",
+      "2022/10/21"
+    ],
+    "days_to_onset": [
+      1
+    ],
+    "vaccine_name": "コミナティ筋注（２価：\n起源株/オミクロン株\nBA.1）",
+    "concurrent_vaccination": "",
+    "manufacturer": "ファイザー",
+    "lot_no": "GD9571",
+    "PT_names": [
+      "腰椎穿刺後症候群",
+      "起立不耐性"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "未回復",
+      "未回復"
+    ],
+    "source": {
+      "name": "第92回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001068694.pdf"
+    }
+  },
+  {
+    "no": 29932,
+    "age": 81,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/10/15"
+    ],
+    "onset_dates": [
+      "2022/10/19",
+      "2022/10/19",
+      "2022/10/19"
+    ],
+    "days_to_onset": [
+      4
+    ],
+    "vaccine_name": "コミナティ筋注（２価：\n起源株/オミクロン株\nBA.1）",
+    "concurrent_vaccination": "",
+    "manufacturer": "ファイザー",
+    "lot_no": "GD9568",
+    "PT_names": [
+      "心筋炎",
+      "心膜炎",
+      "好酸球性心筋炎"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快",
+      "軽快",
+      "軽快"
+    ],
+    "source": {
+      "name": "第92回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001068694.pdf"
+    }
+  },
+  {
+    "no": 29933,
+    "age": 49,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/10/11"
+    ],
+    "onset_dates": [
+      "2022/10/11",
+      "2022/10/11",
+      "2022/10/11"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "コミナティ筋注（２価：\n起源株/オミクロン株\nBA.1）",
+    "concurrent_vaccination": "",
+    "manufacturer": "ファイザー",
+    "lot_no": "GD9568",
+    "PT_names": [
+      "頭痛",
+      "倦怠感",
+      "発熱"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "未回復",
+      "未回復",
+      "未回復"
+    ],
+    "source": {
+      "name": "第92回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001068694.pdf"
+    }
+  },
+  {
+    "no": 29934,
+    "age": 54,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/11/11"
+    ],
+    "onset_dates": [
+      "2022/11/18",
+      "2022/11/18",
+      "2022/11/18"
+    ],
+    "days_to_onset": [
+      7
+    ],
+    "vaccine_name": "コミナティ筋注（２価：\n起源株/オミクロン株\nBA.1）",
+    "concurrent_vaccination": "",
+    "manufacturer": "ファイザー",
+    "lot_no": "99999",
+    "PT_names": [
+      "関節炎",
+      "皮膚腫瘤",
+      "末梢腫脹"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "未回復",
+      "未回復",
+      "未回復"
+    ],
+    "source": {
+      "name": "第92回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001068694.pdf"
+    }
+  },
+  {
+    "no": 29935,
+    "age": 70,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/12/19"
+    ],
+    "onset_dates": [
+      "2022/12/23",
+      "2022/12/28"
+    ],
+    "days_to_onset": [
+      4
+    ],
+    "vaccine_name": "コミナティ筋注（２価：\n起源株/オミクロン株\nBA.1）",
+    "concurrent_vaccination": "",
+    "manufacturer": "ファイザー",
+    "lot_no": "99999",
+    "PT_names": [
+      "リンパ節症"
+    ],
+    "causal_relationship": "",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "未回復",
+      "未回復"
+    ],
+    "source": {
+      "name": "第92回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001068694.pdf"
+    }
+  },
+  {
+    "no": 29936,
+    "age": 54,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/12/09"
+    ],
+    "onset_dates": [
+      "2022/12/24",
+      "2022/12/24"
+    ],
+    "days_to_onset": [
+      15
+    ],
+    "vaccine_name": "コミナティ筋注（２価：\n起源株/オミクロン株\nBA.1）",
+    "concurrent_vaccination": "",
+    "manufacturer": "ファイザー",
+    "lot_no": "99999",
+    "PT_names": [
+      "末梢性ニューロパチー",
+      "ワクチン接種部位知覚異常"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快",
+      "軽快"
+    ],
+    "source": {
+      "name": "第92回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001068694.pdf"
+    }
+  }
+]

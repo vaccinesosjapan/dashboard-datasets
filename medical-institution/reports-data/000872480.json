@@ -1,0 +1,492 @@
+[
+  {
+    "no": 30193,
+    "age": 48,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2021/09/03"
+    ],
+    "onset_dates": [
+      "2021/09/10",
+      "2021/09/10"
+    ],
+    "days_to_onset": [
+      7
+    ],
+    "vaccine_name": "バキスゼブリア筋注",
+    "manufacturer": "アストラゼネカ",
+    "lot_no": "K004C",
+    "PT_names": [
+      "血小板減少症を伴う血栓症",
+      "頭痛"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "不明",
+      "不明"
+    ],
+    "source": {
+      "name": "第74回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000872480.pdf"
+    }
+  },
+  {
+    "no": 30194,
+    "age": 47,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2021/09/12"
+    ],
+    "onset_dates": [
+      "2021/09/12"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "バキスゼブリア筋注",
+    "manufacturer": "アストラゼネカ",
+    "lot_no": "K004C",
+    "PT_names": [
+      "蕁麻疹"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "source": {
+      "name": "第74回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000872480.pdf"
+    }
+  },
+  {
+    "no": 30195,
+    "age": 51,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2021/09/24"
+    ],
+    "onset_dates": [
+      "2021/09/24"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "バキスゼブリア筋注",
+    "manufacturer": "アストラゼネカ",
+    "lot_no": "D016A",
+    "PT_names": [
+      "アナフィラキシー反応"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "source": {
+      "name": "第74回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000872480.pdf"
+    }
+  },
+  {
+    "no": 30196,
+    "age": 57,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2021/09/23"
+    ],
+    "onset_dates": [
+      "2021/09/24",
+      "2021/09/24",
+      "2021/09/24"
+    ],
+    "days_to_onset": [
+      1
+    ],
+    "vaccine_name": "バキスゼブリア筋注",
+    "manufacturer": "アストラゼネカ",
+    "lot_no": "不明",
+    "PT_names": [
+      "頭痛",
+      "四肢痛",
+      "運動機能障害"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "不明",
+      "不明",
+      "不明"
+    ],
+    "source": {
+      "name": "第74回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000872480.pdf"
+    }
+  },
+  {
+    "no": 30197,
+    "age": 58,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2021/10/09"
+    ],
+    "onset_dates": [
+      "2021/10/09"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "バキスゼブリア筋注",
+    "manufacturer": "アストラゼネカ",
+    "lot_no": "D016A",
+    "PT_names": [
+      "アナフィラキシー反応"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "source": {
+      "name": "第74回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000872480.pdf"
+    }
+  },
+  {
+    "no": 30198,
+    "age": 61,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2021/10/02"
+    ],
+    "onset_dates": [
+      "2021/10/02",
+      "2021/10/02",
+      "2021/10/02",
+      "2021/10/02",
+      "2021/10/02"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "バキスゼブリア筋注",
+    "manufacturer": "アストラゼネカ",
+    "lot_no": "D017A",
+    "PT_names": [
+      "頭痛",
+      "腹痛",
+      "呼吸困難",
+      "発疹",
+      "異常感"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "2021/10/03",
+      "2021/10/03",
+      "2021/10/03",
+      "2021/10/03",
+      "2021/10/03"
+    ],
+    "gross_results": [
+      "回復",
+      "回復",
+      "回復",
+      "回復",
+      "回復"
+    ],
+    "source": {
+      "name": "第74回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000872480.pdf"
+    }
+  },
+  {
+    "no": 30199,
+    "age": 48,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2021/09/03"
+    ],
+    "onset_dates": [
+      "2021/09",
+      "2021/09",
+      "2021/09",
+      "2021/09"
+    ],
+    "days_to_onset": [],
+    "vaccine_name": "バキスゼブリア筋注",
+    "manufacturer": "アストラゼネカ",
+    "lot_no": "不明",
+    "PT_names": [
+      "深部静脈血栓症|深部静脈血栓症",
+      "肺塞栓症|肺塞栓症",
+      "熱感",
+      "末梢腫脹"
+    ],
+    "causal_relationship": "",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快"
+    ],
+    "source": {
+      "name": "第74回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000872480.pdf"
+    }
+  },
+  {
+    "no": 30200,
+    "age": 47,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2021/10/20"
+    ],
+    "onset_dates": [
+      "2021/10/20"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "バキスゼブリア筋注",
+    "manufacturer": "アストラゼネカ",
+    "lot_no": "D017A",
+    "PT_names": [
+      "アナフィラキシー反応"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "不明"
+    ],
+    "source": {
+      "name": "第74回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000872480.pdf"
+    }
+  },
+  {
+    "no": 30201,
+    "age": 43,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2021/10/26"
+    ],
+    "onset_dates": [
+      "2021/10/26"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "バキスゼブリア筋注",
+    "manufacturer": "アストラゼネカ",
+    "lot_no": "D016A",
+    "PT_names": [
+      "蕁麻疹"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "source": {
+      "name": "第74回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000872480.pdf"
+    }
+  },
+  {
+    "no": 30202,
+    "age": 47,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2021/10/20"
+    ],
+    "onset_dates": [
+      "2021/10/20",
+      "2021/10/20"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "バキスゼブリア筋注",
+    "manufacturer": "アストラゼネカ",
+    "lot_no": "不明",
+    "PT_names": [
+      "アナフィラキシー反応",
+      "呼吸困難"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快",
+      "軽快"
+    ],
+    "source": {
+      "name": "第74回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000872480.pdf"
+    }
+  },
+  {
+    "no": 30203,
+    "age": 57,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2021/11/04"
+    ],
+    "onset_dates": [
+      "2021/11/04"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "バキスゼブリア筋注",
+    "manufacturer": "アストラゼネカ",
+    "lot_no": "D017A",
+    "PT_names": [
+      "心停止"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "不明"
+    ],
+    "source": {
+      "name": "第74回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000872480.pdf"
+    }
+  },
+  {
+    "no": 30204,
+    "age": 49,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2021/11/08"
+    ],
+    "onset_dates": [
+      "2021/11/08"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "バキスゼブリア筋注",
+    "manufacturer": "アストラゼネカ",
+    "lot_no": "D017A",
+    "PT_names": [
+      "アナフィラキシー反応"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "source": {
+      "name": "第74回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000872480.pdf"
+    }
+  },
+  {
+    "no": 30205,
+    "age": 54,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2021/11/02"
+    ],
+    "onset_dates": [
+      "2021/11/20"
+    ],
+    "days_to_onset": [
+      18
+    ],
+    "vaccine_name": "バキスゼブリア筋注",
+    "manufacturer": "アストラゼネカ",
+    "lot_no": "D017A",
+    "PT_names": [
+      "脳梗塞"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "未回復"
+    ],
+    "source": {
+      "name": "第74回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000872480.pdf"
+    }
+  },
+  {
+    "no": 30206,
+    "age": 48,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2021/11/11"
+    ],
+    "onset_dates": [
+      "2021/11/13"
+    ],
+    "days_to_onset": [
+      2
+    ],
+    "vaccine_name": "バキスゼブリア筋注",
+    "manufacturer": "アストラゼネカ",
+    "lot_no": "不明",
+    "PT_names": [
+      "横紋筋融解症"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "2021/11/18"
+    ],
+    "gross_results": [
+      "回復"
+    ],
+    "source": {
+      "name": "第74回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000872480.pdf"
+    }
+  }
+]

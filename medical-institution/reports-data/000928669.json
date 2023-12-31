@@ -1,0 +1,218 @@
+[
+  {
+    "no": 32689,
+    "age": 5,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/03/05"
+    ],
+    "onset_dates": [
+      "2022/03/05"
+    ],
+    "days_to_onset": [],
+    "vaccine_name": "コミナティ筋注５～11歳\n用",
+    "manufacturer": "ファイザー",
+    "lot_no": "FN5988",
+    "PT_names": [
+      "嘔吐"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "※3月16日来",
+      "院時に回復を",
+      "確認。報告時",
+      "点では未記",
+      "入。"
+    ],
+    "gross_results": [
+      "※3月16日来院時",
+      "に回復を確認。",
+      "報告時点では",
+      "「不明」と記",
+      "載。"
+    ],
+    "source": {
+      "name": "第78回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000928669.pdf"
+    }
+  },
+  {
+    "no": 32690,
+    "age": 10,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/03/06"
+    ],
+    "onset_dates": [
+      "2022/03/06",
+      "2022/03/06",
+      "2022/03/06",
+      "2022/03/06"
+    ],
+    "days_to_onset": [],
+    "vaccine_name": "コミナティ筋注５～11歳\n用",
+    "manufacturer": "ファイザー",
+    "lot_no": "不明",
+    "PT_names": [
+      "痙攣発作",
+      "胸痛",
+      "四肢痛",
+      "倦怠感"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快"
+    ],
+    "source": {
+      "name": "第78回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000928669.pdf"
+    }
+  },
+  {
+    "no": 32691,
+    "age": 11,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/03/14"
+    ],
+    "onset_dates": [
+      "2022/03/14"
+    ],
+    "days_to_onset": [],
+    "vaccine_name": "コミナティ筋注５～11歳\n用",
+    "manufacturer": "ファイザー",
+    "lot_no": "FN5988",
+    "PT_names": [
+      "失神寸前の状態"
+    ],
+    "causal_relationship": "関連なし",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "2022/03/14"
+    ],
+    "gross_results": [
+      "回復"
+    ],
+    "source": {
+      "name": "第78回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000928669.pdf"
+    }
+  },
+  {
+    "no": 32692,
+    "age": 11,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/03/17"
+    ],
+    "onset_dates": [
+      "2022/03/17",
+      "2022/03/17"
+    ],
+    "days_to_onset": [],
+    "vaccine_name": "コミナティ筋注５～11歳\n用",
+    "manufacturer": "ファイザー",
+    "lot_no": "FN5988",
+    "PT_names": [
+      "失神寸前の状態",
+      "異常感"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "※「接種後の経",
+      "過観察時間中に",
+      "浮遊感を訴えた",
+      "ため、経過観察",
+      "の継続を家族に",
+      "勧めたが、大丈",
+      "夫との申し出が",
+      "あり、そのまま",
+      "帰宅されたた",
+      "め、転帰は不",
+      "明。所見として",
+      "は、概ね問題な",
+      "さそうだった」",
+      "と報告。"
+    ],
+    "source": {
+      "name": "第78回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000928669.pdf"
+    }
+  },
+  {
+    "no": 32693,
+    "age": 11,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/03/13"
+    ],
+    "onset_dates": [
+      "2022/03/13"
+    ],
+    "days_to_onset": [],
+    "vaccine_name": "コミナティ筋注５～11歳\n用",
+    "manufacturer": "ファイザー",
+    "lot_no": "FN5988",
+    "PT_names": [
+      "失神寸前の状態"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "2022/03/13"
+    ],
+    "gross_results": [
+      "回復"
+    ],
+    "source": {
+      "name": "第78回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000928669.pdf"
+    }
+  },
+  {
+    "no": 32694,
+    "age": 11,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/03/17"
+    ],
+    "onset_dates": [
+      "2022/03/17"
+    ],
+    "days_to_onset": [],
+    "vaccine_name": "コミナティ筋注５～11歳\n用",
+    "manufacturer": "ファイザー",
+    "lot_no": "FN5988",
+    "PT_names": [
+      "失神寸前の状態"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "2022/03/17"
+    ],
+    "gross_results": [
+      "回復"
+    ],
+    "source": {
+      "name": "第78回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000928669.pdf"
+    }
+  }
+]

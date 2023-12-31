@@ -1,0 +1,51 @@
+[
+  {
+    "no": 36497,
+    "age": 79,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2023/06/22"
+    ],
+    "onset_dates": [
+      "2023/06/22",
+      "2023/06/22",
+      "2023/06/22",
+      "2023/06/22",
+      "2023/06/22"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "スパイクバックス筋注（価不明）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "99999",
+    "PT_names": [
+      "頭痛",
+      "背部痛",
+      "末梢冷感",
+      "悪寒",
+      "発熱"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "2023/06/25",
+      "2023/06/25",
+      "2023/06/25",
+      "2023/06/25",
+      "2023/06/25"
+    ],
+    "gross_results": [
+      "回復",
+      "回復",
+      "回復",
+      "回復",
+      "回復"
+    ],
+    "source": {
+      "name": "第98回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001161411.pdf"
+    }
+  }
+]

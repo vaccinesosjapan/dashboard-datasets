@@ -1,0 +1,35 @@
+[
+  {
+    "no": 36107,
+    "age": 43,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2023/01/21"
+    ],
+    "onset_dates": [
+      "2023/01/21"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "スパイクバックス筋注（２価：\n起源株/オミクロン株BA.4-5）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "400084A",
+    "PT_names": [
+      "アナフィラキシー反応"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "不明"
+    ],
+    "source": {
+      "name": "第93回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001091336.pdf"
+    }
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "no": 35698,
+    "age": 2,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/11/24"
+    ],
+    "onset_dates": [
+      "2022/11/24"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "コミナティ筋注６ヵ月〜４\n歳用",
+    "concurrent_vaccination": "",
+    "manufacturer": "ファイザー",
+    "lot_no": "GE0695",
+    "PT_names": [
+      "熱性痙攣"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "source": {
+      "name": "第90回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001039673.pdf"
+    }
+  },
+  {
+    "no": 35699,
+    "age": 3,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/11/29"
+    ],
+    "onset_dates": [
+      "2022/11/29",
+      "2022/11/29"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "コミナティ筋注６ヵ月〜４\n歳用",
+    "concurrent_vaccination": "",
+    "manufacturer": "ファイザー",
+    "lot_no": "GE0695",
+    "PT_names": [
+      "アナフィラキシー反応",
+      "喘息"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快",
+      "軽快"
+    ],
+    "source": {
+      "name": "第90回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001039673.pdf"
+    }
+  }
+]

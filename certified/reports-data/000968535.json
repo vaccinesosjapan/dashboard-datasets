@@ -1,0 +1,24 @@
+[
+  {
+    "certified_date": "2022/07/25",
+    "gender": "女",
+    "age": [
+      91
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "死亡一時金・葬祭料",
+    "symptoms": [
+      "急性アレルギー反応",
+	  "急性心筋梗塞"
+    ],
+    "judgment_result": "認定",
+    "pre_existing_conditions": [
+		"脳虚血発作",
+		"高血圧症",
+		"心肥大"
+	],
+    "reasons_for_repudiation": [],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/000968535.pdf"
+  }
+]

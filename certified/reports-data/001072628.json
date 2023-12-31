@@ -1,0 +1,445 @@
+[
+  {
+    "certified_date": "2023/03/14",
+    "gender": "男",
+    "age": [
+      70
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "医療費・医療手当",
+    "symptoms": [
+      "低血糖",
+      "倦怠感",
+      "食欲不振",
+      "左放線冠出血"
+    ],
+    "judgment_result": "認定",
+    "pre_existing_conditions": [],
+    "reasons_for_repudiation": [],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001072628.pdf"
+  },
+  {
+    "certified_date": "2023/03/14",
+    "gender": "男",
+    "age": [
+      70
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "死亡一時金・葬祭料",
+    "symptoms": [
+      "低血糖",
+      "突然死"
+    ],
+    "judgment_result": "認定",
+    "pre_existing_conditions": [
+      "慢性胃炎"
+    ],
+    "reasons_for_repudiation": [],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001072628.pdf"
+  },
+  {
+    "certified_date": "2023/03/14",
+    "gender": "女",
+    "age": [
+      79
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "医療費・医療手当",
+    "symptoms": [
+      "急性循環不全"
+    ],
+    "judgment_result": "認定",
+    "pre_existing_conditions": [],
+    "reasons_for_repudiation": [],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001072628.pdf"
+  },
+  {
+    "certified_date": "2023/03/14",
+    "gender": "女",
+    "age": [
+      79
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "死亡一時金・葬祭料",
+    "symptoms": [
+      "突然死"
+    ],
+    "judgment_result": "認定",
+    "pre_existing_conditions": [],
+    "reasons_for_repudiation": [],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001072628.pdf"
+  },
+  {
+    "certified_date": "2023/03/14",
+    "gender": "男",
+    "age": [
+      79
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "死亡一時金・葬祭料",
+    "symptoms": [
+      "肺動脈血栓塞栓症",
+      "下肢深部静脈血栓症"
+    ],
+    "judgment_result": "認定",
+    "pre_existing_conditions": [
+      "糖尿病",
+      "肝疾患",
+      "心機能低下"
+    ],
+    "reasons_for_repudiation": [],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001072628.pdf"
+  },
+  {
+    "certified_date": "2023/03/14",
+    "gender": "女",
+    "age": [
+      68
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "医療費・医療手当",
+    "symptoms": [
+      "うっ血性心不全"
+    ],
+    "judgment_result": "認定",
+    "pre_existing_conditions": [],
+    "reasons_for_repudiation": [],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001072628.pdf"
+  },
+  {
+    "certified_date": "2023/03/14",
+    "gender": "女",
+    "age": [
+      68
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "死亡一時金・葬祭料",
+    "symptoms": [
+      "うっ血性心不全"
+    ],
+    "judgment_result": "認定",
+    "pre_existing_conditions": [
+      "糖尿病",
+      "高血圧症"
+    ],
+    "reasons_for_repudiation": [],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001072628.pdf"
+  },
+  {
+    "certified_date": "2023/03/14",
+    "gender": "男",
+    "age": [
+      83
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "死亡一時金・葬祭料",
+    "symptoms": [
+      "大動脈解離",
+      "心タンポナーデ"
+    ],
+    "judgment_result": "認定",
+    "pre_existing_conditions": [],
+    "reasons_for_repudiation": [],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001072628.pdf"
+  },
+  {
+    "certified_date": "2023/03/14",
+    "gender": "男",
+    "age": [
+      66
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "医療費・医療手当",
+    "symptoms": [
+      "脳梗塞",
+      "心房細動"
+    ],
+    "judgment_result": "認定",
+    "pre_existing_conditions": [],
+    "reasons_for_repudiation": [],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001072628.pdf"
+  },
+  {
+    "certified_date": "2023/03/14",
+    "gender": "男",
+    "age": [
+      66
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "死亡一時金・葬祭料",
+    "symptoms": [
+      "脳梗塞",
+      "心房細動"
+    ],
+    "judgment_result": "認定",
+    "pre_existing_conditions": [
+      "急性心筋梗塞",
+      "心房細動",
+      "高血圧症"
+    ],
+    "reasons_for_repudiation": [],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001072628.pdf"
+  },
+  {
+    "certified_date": "2023/03/14",
+    "gender": "女",
+    "age": [
+      80
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "死亡一時金・葬祭料",
+    "symptoms": [
+      "胸部大動脈破裂"
+    ],
+    "judgment_result": "認定",
+    "pre_existing_conditions": [],
+    "reasons_for_repudiation": [],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001072628.pdf"
+  },
+  {
+    "certified_date": "2023/03/14",
+    "gender": "男",
+    "age": [
+      79
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "医療費・医療手当",
+    "symptoms": [
+      "左被殻出血",
+      "脳ヘルニア"
+    ],
+    "judgment_result": "認定",
+    "pre_existing_conditions": [],
+    "reasons_for_repudiation": [],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001072628.pdf"
+  },
+  {
+    "certified_date": "2023/03/14",
+    "gender": "男",
+    "age": [
+      79
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "死亡一時金・葬祭料",
+    "symptoms": [
+      "左被殻出血",
+      "脳ヘルニア"
+    ],
+    "judgment_result": "認定",
+    "pre_existing_conditions": [
+      "高血圧症"
+    ],
+    "reasons_for_repudiation": [],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001072628.pdf"
+  },
+  {
+    "certified_date": "2023/03/14",
+    "gender": "女",
+    "age": [
+      73
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "死亡一時金・葬祭料",
+    "symptoms": [
+      "急性虚血性心不全疑い"
+    ],
+    "judgment_result": "認定",
+    "pre_existing_conditions": [
+      "糖尿病"
+    ],
+    "reasons_for_repudiation": [],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001072628.pdf"
+  },
+  {
+    "certified_date": "2023/03/14",
+    "gender": "男",
+    "age": [
+      52
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "医療費・医療手当",
+    "symptoms": [
+      "脳梗塞"
+    ],
+    "judgment_result": "認定",
+    "pre_existing_conditions": [],
+    "reasons_for_repudiation": [],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001072628.pdf"
+  },
+  {
+    "certified_date": "2023/03/14",
+    "gender": "男",
+    "age": [
+      52
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "死亡一時金・葬祭料",
+    "symptoms": [
+      "脳梗塞"
+    ],
+    "judgment_result": "認定",
+    "pre_existing_conditions": [],
+    "reasons_for_repudiation": [],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001072628.pdf"
+  },
+  {
+    "certified_date": "2023/03/14",
+    "gender": "女",
+    "age": [
+      81
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "死亡一時金・葬祭料",
+    "symptoms": [
+      "致死性不整脈疑い"
+    ],
+    "judgment_result": "認定",
+    "pre_existing_conditions": [
+      "甲状腺機能低下症",
+      "偽性アルドステロン症"
+    ],
+    "reasons_for_repudiation": [],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001072628.pdf"
+  },
+  {
+    "certified_date": "2023/03/14",
+    "gender": "女",
+    "age": [
+      67
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "医療費・医療手当",
+    "symptoms": [
+      "ネフローゼ症候群の再発"
+    ],
+    "judgment_result": "認定",
+    "pre_existing_conditions": [],
+    "reasons_for_repudiation": [],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001072628.pdf"
+  },
+  {
+    "certified_date": "2023/03/14",
+    "gender": "男",
+    "age": [
+      51
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "医療費・医療手当",
+    "symptoms": [
+      "頸肩腕症候群"
+    ],
+    "judgment_result": "認定",
+    "pre_existing_conditions": [],
+    "reasons_for_repudiation": [],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001072628.pdf"
+  },
+  {
+    "certified_date": "2023/03/14",
+    "gender": "女",
+    "age": [
+      21
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "医療費・医療手当",
+    "symptoms": [
+      "視神経脊髄炎スペクトラム"
+    ],
+    "judgment_result": "認定",
+    "pre_existing_conditions": [],
+    "reasons_for_repudiation": [],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001072628.pdf"
+  },
+  {
+    "certified_date": "2023/03/14",
+    "gender": "女",
+    "age": [
+      41
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "医療費・医療手当",
+    "symptoms": [
+      "微小変化型ネフローゼ症候群"
+    ],
+    "judgment_result": "認定",
+    "pre_existing_conditions": [],
+    "reasons_for_repudiation": [],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001072628.pdf"
+  },
+  {
+    "certified_date": "2023/03/14",
+    "gender": "女",
+    "age": [
+      79
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "医療費・医療手当",
+    "symptoms": [
+      "けいれん発作",
+      "貧血の増悪",
+      "肝機能障害",
+      "廃用症候群"
+    ],
+    "judgment_result": "認定",
+    "pre_existing_conditions": [],
+    "reasons_for_repudiation": [],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001072628.pdf"
+  },
+  {
+    "certified_date": "2023/03/14",
+    "gender": "男",
+    "age": [
+      64
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "医療費・医療手当",
+    "symptoms": [
+      "糖尿病の増悪",
+      "潰瘍性大腸炎の増悪"
+    ],
+    "judgment_result": "認定",
+    "pre_existing_conditions": [],
+    "reasons_for_repudiation": [],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001072628.pdf"
+  },
+  {
+    "certified_date": "2023/03/14",
+    "gender": "女",
+    "age": [
+      36
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "医療費・医療手当",
+    "symptoms": [],
+    "judgment_result": "否認",
+    "pre_existing_conditions": [],
+    "reasons_for_repudiation": [
+      "TypeB-1",
+      "TypeB-2"
+    ],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001072628.pdf"
+  }
+]

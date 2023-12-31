@@ -1,0 +1,1281 @@
+[
+  {
+    "no": 35999,
+    "age": 62,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/09/12"
+    ],
+    "onset_dates": [
+      "2022/09/13",
+      "2022/09/13"
+    ],
+    "days_to_onset": [
+      1
+    ],
+    "vaccine_name": "スパイクバックス筋注（起源株）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "000278A",
+    "PT_names": [
+      "疼痛",
+      "運動機能障害"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "未回復",
+      "未回復"
+    ],
+    "source": {
+      "name": "第93回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001091336.pdf"
+    }
+  },
+  {
+    "no": 36000,
+    "age": 53,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/08/28"
+    ],
+    "onset_dates": [
+      "2022/09/12",
+      "2022/09/12"
+    ],
+    "days_to_onset": [
+      15
+    ],
+    "vaccine_name": "スパイクバックス筋注（起源株）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "000268A",
+    "PT_names": [
+      "嘔吐",
+      "肛門失禁"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "死亡",
+      "死亡"
+    ],
+    "source": {
+      "name": "第93回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001091336.pdf"
+    }
+  },
+  {
+    "no": 36001,
+    "age": 51,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/03/01"
+    ],
+    "onset_dates": [
+      "2022/03/07"
+    ],
+    "days_to_onset": [
+      6
+    ],
+    "vaccine_name": "スパイクバックス筋注（起源株）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "000020A",
+    "PT_names": [
+      "末梢性ニューロパチー"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "2023/01/13"
+    ],
+    "gross_results": [
+      "後遺症あり"
+    ],
+    "source": {
+      "name": "第93回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001091336.pdf"
+    }
+  },
+  {
+    "no": 36002,
+    "age": 72,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/02/19"
+    ],
+    "onset_dates": [
+      "2022/06/13",
+      "2022/06/13",
+      "2022/06/13"
+    ],
+    "days_to_onset": [
+      114
+    ],
+    "vaccine_name": "スパイクバックス筋注（起源株）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "000008A",
+    "PT_names": [
+      "前立腺癌",
+      "自己免疫性甲状腺炎",
+      "倦怠感"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快",
+      "軽快",
+      "軽快"
+    ],
+    "source": {
+      "name": "第93回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001091336.pdf"
+    }
+  },
+  {
+    "no": 36003,
+    "age": 22,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/04/03"
+    ],
+    "onset_dates": [
+      "2022/05/01"
+    ],
+    "days_to_onset": [
+      28
+    ],
+    "vaccine_name": "スパイクバックス筋注（起源株）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "000204A",
+    "PT_names": [
+      "円形脱毛症"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "未回復"
+    ],
+    "source": {
+      "name": "第93回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001091336.pdf"
+    }
+  },
+  {
+    "no": 36004,
+    "age": 71,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/07/26"
+    ],
+    "onset_dates": [
+      "2023/01/11"
+    ],
+    "days_to_onset": [
+      169
+    ],
+    "vaccine_name": "スパイクバックス筋注（起源株）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "000218A",
+    "PT_names": [
+      "帯状疱疹"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "source": {
+      "name": "第93回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001091336.pdf"
+    }
+  },
+  {
+    "no": 36005,
+    "age": 52,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/04/01"
+    ],
+    "onset_dates": [
+      "2022/04/06"
+    ],
+    "days_to_onset": [
+      5
+    ],
+    "vaccine_name": "スパイクバックス筋注（起源株）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "000005A",
+    "PT_names": [
+      "副腎機能不全"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "source": {
+      "name": "第93回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001091336.pdf"
+    }
+  },
+  {
+    "no": 36006,
+    "age": 80,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/07/19"
+    ],
+    "onset_dates": [
+      "2022/11/25",
+      "2022/11/25"
+    ],
+    "days_to_onset": [
+      129
+    ],
+    "vaccine_name": "スパイクバックス筋注（起源株）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "000232A",
+    "PT_names": [
+      "痙攣発作"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "死亡",
+      "死亡"
+    ],
+    "source": {
+      "name": "第93回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001091336.pdf"
+    }
+  },
+  {
+    "no": 36007,
+    "age": 55,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/09/09"
+    ],
+    "onset_dates": [
+      "2022/09/14",
+      "2022/09/14",
+      "2022/09/14",
+      "2022/09/14",
+      "2022/09/14",
+      "2022/09/14",
+      "2022/09/14"
+    ],
+    "days_to_onset": [
+      5
+    ],
+    "vaccine_name": "スパイクバックス筋注（起源株）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "000240A",
+    "PT_names": [
+      "腸間膜血栓症",
+      "腸閉塞",
+      "腸間膜血行不全",
+      "腸出血",
+      "消化管壊死",
+      "嘔吐",
+      "尿量減少"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "死亡",
+      "死亡",
+      "死亡",
+      "死亡",
+      "死亡",
+      "死亡",
+      "死亡"
+    ],
+    "source": {
+      "name": "第93回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001091336.pdf"
+    }
+  },
+  {
+    "no": 36008,
+    "age": 87,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/08/16"
+    ],
+    "onset_dates": [
+      "2022/08/16"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "スパイクバックス筋注（起源株）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "000291A",
+    "PT_names": [
+      "移植拒絶反応"
+    ],
+    "causal_relationship": "",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "source": {
+      "name": "第93回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001091336.pdf"
+    }
+  },
+  {
+    "no": 36009,
+    "age": 93,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/02/24"
+    ],
+    "onset_dates": [
+      "2022/03/19",
+      "2022/03/19",
+      "2022/03/19",
+      "2022/03/19"
+    ],
+    "days_to_onset": [
+      23
+    ],
+    "vaccine_name": "スパイクバックス筋注（起源株）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "000020A",
+    "PT_names": [
+      "関節炎",
+      "食欲減退",
+      "倦怠感",
+      "発熱"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "未回復",
+      "未回復",
+      "未回復",
+      "未回復"
+    ],
+    "source": {
+      "name": "第93回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001091336.pdf"
+    }
+  },
+  {
+    "no": 36010,
+    "age": 76,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/02/28"
+    ],
+    "onset_dates": [
+      "2022/11/04"
+    ],
+    "days_to_onset": [
+      249
+    ],
+    "vaccine_name": "スパイクバックス筋注（起源株）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "000028A",
+    "PT_names": [
+      "心電図ＳＴ部分下降"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "未回復"
+    ],
+    "source": {
+      "name": "第93回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001091336.pdf"
+    }
+  },
+  {
+    "no": 36011,
+    "age": 78,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/07/25"
+    ],
+    "onset_dates": [
+      "2022/10/14",
+      "2022/10/14"
+    ],
+    "days_to_onset": [
+      81
+    ],
+    "vaccine_name": "スパイクバックス筋注（起源株）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "000020A",
+    "PT_names": [
+      "完全房室ブロック",
+      "呼吸困難"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快",
+      "軽快"
+    ],
+    "source": {
+      "name": "第93回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001091336.pdf"
+    }
+  },
+  {
+    "no": 36012,
+    "age": 81,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/08/10"
+    ],
+    "onset_dates": [
+      "2022/09/20",
+      "2022/09/20",
+      "2022/09/20",
+      "2022/09/20"
+    ],
+    "days_to_onset": [
+      41
+    ],
+    "vaccine_name": "スパイクバックス筋注（起源株）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "000237A",
+    "PT_names": [
+      "心不全",
+      "洞結節機能不全",
+      "心アミロイドーシス",
+      "呼吸困難"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "2023/02/10",
+      "2023/02/10",
+      "2023/02/10",
+      "2023/02/10"
+    ],
+    "gross_results": [
+      "後遺症あり",
+      "後遺症あり",
+      "後遺症あり",
+      "後遺症あり"
+    ],
+    "source": {
+      "name": "第93回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001091336.pdf"
+    }
+  },
+  {
+    "no": 36013,
+    "age": 32,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/03/11"
+    ],
+    "onset_dates": [
+      "2022/03/12",
+      "2022/03/12",
+      "2022/03/12",
+      "2022/03/12",
+      "2022/03/12"
+    ],
+    "days_to_onset": [
+      1
+    ],
+    "vaccine_name": "スパイクバックス筋注（起源株）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "000001A",
+    "PT_names": [
+      "呼吸困難",
+      "動悸",
+      "注意力障害",
+      "浮動性めまい",
+      "倦怠感"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快"
+    ],
+    "source": {
+      "name": "第93回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001091336.pdf"
+    }
+  },
+  {
+    "no": 36014,
+    "age": 98,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/03/03"
+    ],
+    "onset_dates": [
+      "2022/03/09",
+      "2022/03/09",
+      "2022/03/09",
+      "2022/03/09"
+    ],
+    "days_to_onset": [
+      6
+    ],
+    "vaccine_name": "スパイクバックス筋注（起源株）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "000028A",
+    "PT_names": [
+      "痙攣発作",
+      "頭痛",
+      "振戦",
+      "倦怠感"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "死亡",
+      "死亡",
+      "死亡",
+      "死亡"
+    ],
+    "source": {
+      "name": "第93回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001091336.pdf"
+    }
+  },
+  {
+    "no": 36015,
+    "age": 23,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/05/24"
+    ],
+    "onset_dates": [
+      "2022/05/27",
+      "2022/05/27",
+      "2022/05/27",
+      "2022/05/27",
+      "2022/05/27",
+      "2022/05/27",
+      "2022/05/27",
+      "2022/05/27",
+      "2022/05/27",
+      "2022/05/27"
+    ],
+    "days_to_onset": [
+      3
+    ],
+    "vaccine_name": "スパイクバックス筋注（起源株）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "99999",
+    "PT_names": [
+      "心筋炎",
+      "心筋症",
+      "Ｃ－反応性蛋白増加",
+      "胸部不快感",
+      "心電図変化",
+      "トロポニンＩ増加",
+      "血中乳酸脱水素酵素増加",
+      "左室拡大"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明"
+    ],
+    "source": {
+      "name": "第93回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001091336.pdf"
+    }
+  },
+  {
+    "no": 36016,
+    "age": 60,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/04/23"
+    ],
+    "onset_dates": [
+      "未記入"
+    ],
+    "days_to_onset": [],
+    "vaccine_name": "スパイクバックス筋注（起源株）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "000225A",
+    "PT_names": [],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "未回復"
+    ],
+    "source": {
+      "name": "第93回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001091336.pdf"
+    }
+  },
+  {
+    "no": 36017,
+    "age": 67,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/03/12"
+    ],
+    "onset_dates": [
+      "2022/03/26"
+    ],
+    "days_to_onset": [
+      14
+    ],
+    "vaccine_name": "スパイクバックス筋注（起源株）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "000001A",
+    "PT_names": [
+      "重症筋無力症"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "2023/02/17"
+    ],
+    "gross_results": [
+      "後遺症あり"
+    ],
+    "source": {
+      "name": "第93回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001091336.pdf"
+    }
+  },
+  {
+    "no": 36018,
+    "age": 75,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/02/18"
+    ],
+    "onset_dates": [
+      "2022/04/09",
+      "2022/04/09",
+      "2022/04/09"
+    ],
+    "days_to_onset": [
+      50
+    ],
+    "vaccine_name": "スパイクバックス筋注（起源株）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "99999",
+    "PT_names": [
+      "痙攣発作",
+      "抗利尿ホルモン不適合分泌",
+      "大脳静脈洞血栓症"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "2023/02/17",
+      "2023/02/17",
+      "2023/02/17"
+    ],
+    "gross_results": [
+      "回復",
+      "回復",
+      "回復"
+    ],
+    "source": {
+      "name": "第93回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001091336.pdf"
+    }
+  },
+  {
+    "no": 36019,
+    "age": 69,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/08/04"
+    ],
+    "onset_dates": [
+      "2022/08/15"
+    ],
+    "days_to_onset": [
+      11
+    ],
+    "vaccine_name": "スパイクバックス筋注（起源株）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "000291A",
+    "PT_names": [
+      "重症筋無力症"
+    ],
+    "causal_relationship": "",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "未回復"
+    ],
+    "source": {
+      "name": "第93回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001091336.pdf"
+    }
+  },
+  {
+    "no": 36020,
+    "age": 54,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "不明"
+    ],
+    "onset_dates": [
+      "2022/05/16",
+      "2022/05/16",
+      "2022/05/16"
+    ],
+    "days_to_onset": [],
+    "vaccine_name": "スパイクバックス筋注（起源株）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "000236A",
+    "PT_names": [
+      "脳梗塞",
+      "失語症",
+      "片麻痺"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "2022/06/06",
+      "2022/06/06",
+      "2022/06/06"
+    ],
+    "gross_results": [
+      "後遺症あり",
+      "後遺症あり",
+      "後遺症あり"
+    ],
+    "source": {
+      "name": "第93回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001091336.pdf"
+    }
+  },
+  {
+    "no": 36021,
+    "age": 26,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/02/15"
+    ],
+    "onset_dates": [
+      "2022/02/16",
+      "2022/02/16",
+      "2022/02/16"
+    ],
+    "days_to_onset": [
+      1
+    ],
+    "vaccine_name": "スパイクバックス筋注（起源株）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "3005701",
+    "PT_names": [
+      "血小板減少性紫斑病",
+      "肝機能異常",
+      "ネフローゼ症候群"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "2023/02/02",
+      "2023/02/02",
+      "2023/02/02"
+    ],
+    "gross_results": [
+      "後遺症あり",
+      "後遺症あり",
+      "後遺症あり"
+    ],
+    "source": {
+      "name": "第93回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001091336.pdf"
+    }
+  },
+  {
+    "no": 36022,
+    "age": 77,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/02/07"
+    ],
+    "onset_dates": [
+      "未記入"
+    ],
+    "days_to_onset": [],
+    "vaccine_name": "スパイクバックス筋注（起源株）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "3006279",
+    "PT_names": [
+      "感覚鈍麻"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "不明"
+    ],
+    "source": {
+      "name": "第93回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001091336.pdf"
+    }
+  },
+  {
+    "no": 36023,
+    "age": 45,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/04/15"
+    ],
+    "onset_dates": [
+      "2022/04"
+    ],
+    "days_to_onset": [],
+    "vaccine_name": "スパイクバックス筋注（起源株）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "3005786",
+    "PT_names": [
+      "四肢痛"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "未回復"
+    ],
+    "source": {
+      "name": "第93回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001091336.pdf"
+    }
+  },
+  {
+    "no": 36024,
+    "age": 53,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2021/08/26"
+    ],
+    "onset_dates": [
+      "2021/09",
+      "2021/09",
+      "2021/09",
+      "2021/09",
+      "2021/09",
+      "2021/09",
+      "2021/09",
+      "2021/09",
+      "2021/09",
+      "2021/09",
+      "2021/09",
+      "2021/09",
+      "2021/09",
+      "2021/09",
+      "2021/09",
+      "2021/09",
+      "2021/09"
+    ],
+    "days_to_onset": [],
+    "vaccine_name": "スパイクバックス筋注（起源株）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "3005288",
+    "PT_names": [
+      "口腔カンジダ症",
+      "静脈瘤",
+      "起立性頻脈症候群",
+      "線維筋痛",
+      "頚腕症候群",
+      "うつ病",
+      "脱毛症",
+      "リンパ節症",
+      "食欲減退",
+      "睡眠障害",
+      "関節拘縮",
+      "湿疹|ヘルペス性状湿疹",
+      "耳鳴",
+      "疲労",
+      "冷感",
+      "体重減少",
+      "倦怠感"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "2023/03/04",
+      "2023/03/04",
+      "2023/03/04",
+      "2023/03/04",
+      "2023/03/04",
+      "2023/03/04",
+      "2023/03/04",
+      "2023/03/04",
+      "2023/03/04",
+      "2023/03/04",
+      "2023/03/04",
+      "2023/03/04",
+      "2023/03/04",
+      "2023/03/04",
+      "2023/03/04",
+      "2023/03/04",
+      "2023/03/04"
+    ],
+    "gross_results": [
+      "後遺症あり",
+      "後遺症あり",
+      "後遺症あり",
+      "後遺症あり",
+      "後遺症あり",
+      "後遺症あり",
+      "後遺症あり",
+      "後遺症あり",
+      "後遺症あり",
+      "後遺症あり",
+      "後遺症あり",
+      "後遺症あり",
+      "後遺症あり",
+      "後遺症あり",
+      "後遺症あり",
+      "後遺症あり",
+      "後遺症あり"
+    ],
+    "source": {
+      "name": "第93回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001091336.pdf"
+    }
+  },
+  {
+    "no": 36025,
+    "age": 26,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/02/11"
+    ],
+    "onset_dates": [
+      "2022/08/01"
+    ],
+    "days_to_onset": [
+      171
+    ],
+    "vaccine_name": "スパイクバックス筋注（起源株）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "000008A",
+    "PT_names": [
+      "重症筋無力症"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "source": {
+      "name": "第93回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001091336.pdf"
+    }
+  },
+  {
+    "no": 36026,
+    "age": 88,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/03/12"
+    ],
+    "onset_dates": [
+      "2022/12"
+    ],
+    "days_to_onset": [],
+    "vaccine_name": "スパイクバックス筋注（起源株）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "000001A",
+    "PT_names": [
+      "帯状疱疹"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "source": {
+      "name": "第93回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001091336.pdf"
+    }
+  },
+  {
+    "no": 36027,
+    "age": 73,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/09/04"
+    ],
+    "onset_dates": [
+      "2022/12/16"
+    ],
+    "days_to_onset": [
+      103
+    ],
+    "vaccine_name": "スパイクバックス筋注（起源株）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "000288A",
+    "PT_names": [
+      "ギラン・バレー症候群"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "source": {
+      "name": "第93回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001091336.pdf"
+    }
+  },
+  {
+    "no": 36028,
+    "age": 83,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/09/04"
+    ],
+    "onset_dates": [
+      "2022/11/29"
+    ],
+    "days_to_onset": [
+      86
+    ],
+    "vaccine_name": "スパイクバックス筋注（起源株）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "000288A",
+    "PT_names": [
+      "血小板減少症を伴う血栓症"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "source": {
+      "name": "第93回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001091336.pdf"
+    }
+  },
+  {
+    "no": 36029,
+    "age": 70,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/02/20"
+    ],
+    "onset_dates": [
+      "2022/02/28",
+      "2022/02/28",
+      "2022/02/28",
+      "2022/02/28",
+      "2022/02/28"
+    ],
+    "days_to_onset": [
+      8
+    ],
+    "vaccine_name": "スパイクバックス筋注（起源株）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "3006279",
+    "PT_names": [
+      "一過性脳虚血発作",
+      "リンパ球数減少",
+      "運動耐性低下",
+      "補体因子増加",
+      "倦怠感"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "2023/03/08",
+      "2023/03/08",
+      "2023/03/08",
+      "2023/03/08",
+      "2023/03/08"
+    ],
+    "gross_results": [
+      "回復",
+      "回復",
+      "回復",
+      "回復",
+      "回復"
+    ],
+    "source": {
+      "name": "第93回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001091336.pdf"
+    }
+  },
+  {
+    "no": 36110,
+    "age": 68,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/09/29"
+    ],
+    "onset_dates": [
+      "2022/10/02"
+    ],
+    "days_to_onset": [
+      3
+    ],
+    "vaccine_name": "スパイクバックス筋注（価不明）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "99999",
+    "PT_names": [
+      "ギラン・バレー症候群"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "source": {
+      "name": "第93回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001091336.pdf"
+    }
+  }
+]

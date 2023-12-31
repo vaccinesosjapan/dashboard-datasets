@@ -1,0 +1,105 @@
+[
+  {
+    "no": 35556,
+    "age": 58,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/10/07"
+    ],
+    "onset_dates": [
+      "2022/10/07",
+      "2022/10/07"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "ヌバキソビッド筋注",
+    "concurrent_vaccination": "",
+    "manufacturer": "ノババックス\n／武田",
+    "lot_no": "NP001",
+    "PT_names": [
+      "アナフィラキシー反応",
+      "喘息"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快",
+      "軽快"
+    ],
+    "source": {
+      "name": "第90回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001039676.pdf"
+    }
+  },
+  {
+    "no": 35557,
+    "age": 40,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/10/31"
+    ],
+    "onset_dates": [
+      "2022/10/31"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "ヌバキソビッド筋注",
+    "concurrent_vaccination": "",
+    "manufacturer": "ノババックス\n／武田",
+    "lot_no": "NP001",
+    "PT_names": [
+      "不快感"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "2022/10/31"
+    ],
+    "gross_results": [
+      "回復"
+    ],
+    "source": {
+      "name": "第90回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001039676.pdf"
+    }
+  },
+  {
+    "no": 35558,
+    "age": 51,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/12/08"
+    ],
+    "onset_dates": [
+      "2022/12/08"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "ヌバキソビッド筋注",
+    "concurrent_vaccination": "",
+    "manufacturer": "ノババックス\n／武田",
+    "lot_no": "NP007",
+    "PT_names": [
+      "アナフィラキシー反応"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "不明"
+    ],
+    "source": {
+      "name": "第90回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001039676.pdf"
+    }
+  }
+]

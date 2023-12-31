@@ -1,0 +1,35 @@
+[
+  {
+    "no": 36451,
+    "age": 8,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2023/04/17"
+    ],
+    "onset_dates": [
+      "2023/04/18"
+    ],
+    "days_to_onset": [
+      1
+    ],
+    "vaccine_name": "コミナティ筋注５～11歳用\n（２価：起源株/オミクロ\nン株BA.4-5）",
+    "concurrent_vaccination": "",
+    "manufacturer": "ファイザー",
+    "lot_no": "GL6799",
+    "PT_names": [
+      "アナフィラキシー反応"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "2023/04/21"
+    ],
+    "gross_results": [
+      "回復"
+    ],
+    "source": {
+      "name": "第94回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001125511.pdf"
+    }
+  }
+]

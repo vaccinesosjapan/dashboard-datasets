@@ -1,0 +1,16 @@
+{
+  "medical_institution_summary_from_reports": {
+    "date": "2023/07/30",
+    "total_count": 36845,
+    "sum_causal_relationship": {
+      "関連あり": 21058,
+      "評価不能": 10259,
+      "(空白)": 4003,
+      "関連なし": 1525
+    },
+    "sum_severities_of_related": {
+      "重くない": 16619,
+      "重い": 4439
+    }
+  }
+}

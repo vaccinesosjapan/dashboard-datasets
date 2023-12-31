@@ -1,0 +1,26 @@
+settings: [
+  {
+    name: コミナティ筋注,
+    file: ./pdf-files/001161441.pdf,
+    pages: '1',
+    script-version: v1
+  },
+  {
+    name: スパイクバックス筋注,
+    file: ./pdf-files/001161442.pdf,
+    pages: '1',
+    script-version: v1
+  },
+  {
+    name: ヌバキソビッド筋注,
+    file: ./pdf-files/001161443.pdf,
+    pages: '1',
+    script-version: v1
+  },
+  {
+    name: コミナティ筋注5～11歳用,
+    file: ./pdf-files/001161445.pdf,
+    pages: '1',
+    script-version: v1
+  },
+]

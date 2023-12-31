@@ -1,0 +1,174 @@
+[
+  {
+    "no": 34233,
+    "age": 39,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/06/04"
+    ],
+    "onset_dates": [
+      "2022/06/04",
+      "2022/06/04"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "ヌバキソビッド筋注",
+    "manufacturer": "ノババックス\n／武田",
+    "lot_no": "NP001",
+    "PT_names": [
+      "咳嗽",
+      "収縮期血圧低下"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快",
+      "軽快"
+    ],
+    "source": {
+      "name": "第82回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000972956.pdf"
+    }
+  },
+  {
+    "no": 34234,
+    "age": 30,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/06/19"
+    ],
+    "onset_dates": [
+      "2022/06/19"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "ヌバキソビッド筋注",
+    "manufacturer": "ノババックス\n／武田",
+    "lot_no": "NP001",
+    "PT_names": [
+      "アナフィラキシー反応"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "未回復"
+    ],
+    "source": {
+      "name": "第82回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000972956.pdf"
+    }
+  },
+  {
+    "no": 34235,
+    "age": 58,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/06/19"
+    ],
+    "onset_dates": [
+      "2022/06/19",
+      "2022/06/19",
+      "2022/06/19"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "ヌバキソビッド筋注",
+    "manufacturer": "ノババックス\n／武田",
+    "lot_no": "NP001",
+    "PT_names": [
+      "腹痛",
+      "過換気",
+      "倦怠感"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "不明",
+      "不明",
+      "不明"
+    ],
+    "source": {
+      "name": "第82回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000972956.pdf"
+    }
+  },
+  {
+    "no": 34236,
+    "age": 47,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/06/25"
+    ],
+    "onset_dates": [
+      "2022/06/25"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "ヌバキソビッド筋注",
+    "manufacturer": "ノババックス\n／武田",
+    "lot_no": "NP001",
+    "PT_names": [
+      "アナフィラキシー反応"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "source": {
+      "name": "第82回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000972956.pdf"
+    }
+  },
+  {
+    "no": 34237,
+    "age": 52,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/06/29"
+    ],
+    "onset_dates": [
+      "2022/06/29"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "ヌバキソビッド筋注",
+    "manufacturer": "ノババックス\n／武田",
+    "lot_no": "NP001",
+    "PT_names": [
+      "アナフィラキシー反応"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "不明"
+    ],
+    "source": {
+      "name": "第82回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000972956.pdf"
+    }
+  }
+]

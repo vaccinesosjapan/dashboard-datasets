@@ -1,0 +1,117 @@
+[
+  {
+    "no": 36029,
+    "age": 11,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/12/13"
+    ],
+    "onset_dates": [
+      "2022/12/13",
+      "2022/12/13",
+      "2022/12/13",
+      "2022/12/13"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "コミナティ筋注５～11歳用",
+    "concurrent_vaccination": "",
+    "manufacturer": "ファイザー",
+    "lot_no": "FW5101",
+    "PT_names": [
+      "死亡",
+      "心肺停止|心停止",
+      "無脈性電気活動",
+      "食欲減退"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "死亡",
+      "死亡",
+      "死亡",
+      "死亡"
+    ],
+    "source": {
+      "name": "第92回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001068726.pdf"
+    }
+  },
+  {
+    "no": 36030,
+    "age": 11,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/12/02"
+    ],
+    "onset_dates": [
+      "2022/12/03",
+      "2022/12/03"
+    ],
+    "days_to_onset": [
+      1
+    ],
+    "vaccine_name": "コミナティ筋注５～11歳用",
+    "concurrent_vaccination": "",
+    "manufacturer": "ファイザー",
+    "lot_no": "FW5101",
+    "PT_names": [
+      "乳腺炎",
+      "乳房膿瘍"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "2022/12/15",
+      "2022/12/15"
+    ],
+    "gross_results": [
+      "回復",
+      "回復"
+    ],
+    "source": {
+      "name": "第92回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001068726.pdf"
+    }
+  },
+  {
+    "no": 36031,
+    "age": 10,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/12/23"
+    ],
+    "onset_dates": [
+      "2022/12/23"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "コミナティ筋注５～11歳用",
+    "concurrent_vaccination": "",
+    "manufacturer": "ファイザー",
+    "lot_no": "FW5101",
+    "PT_names": [
+      "アナフィラキシー反応"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "source": {
+      "name": "第92回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001068726.pdf"
+    }
+  }
+]

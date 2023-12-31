@@ -1,0 +1,2662 @@
+[
+  {
+    "no": 34591,
+    "age": 49,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/03/27"
+    ],
+    "onset_dates": [
+      "2022/04/07"
+    ],
+    "days_to_onset": [
+      11
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "99999",
+    "PT_names": [
+      "急性散在性脳脊髄炎"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34592,
+    "age": 24,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/08/04"
+    ],
+    "onset_dates": [
+      "2022/08/04",
+      "2022/08/04"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "000214A",
+    "PT_names": [
+      "感覚鈍麻",
+      "異常感"
+    ],
+    "causal_relationship": "関連なし",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "2022/08/04",
+      "2022/08/04"
+    ],
+    "gross_results": [
+      "回復",
+      "回復"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34593,
+    "age": 76,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/07/28"
+    ],
+    "onset_dates": [
+      "2022/07/29",
+      "2022/07/29",
+      "2022/07/29",
+      "2022/07/29"
+    ],
+    "days_to_onset": [
+      1
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "000234A",
+    "PT_names": [
+      "無力症",
+      "運動機能障害",
+      "起立障害",
+      "発熱"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "2022/08/01",
+      "2022/08/01",
+      "2022/08/01",
+      "2022/08/01"
+    ],
+    "gross_results": [
+      "回復",
+      "回復",
+      "回復",
+      "回復"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34594,
+    "age": 76,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/07/23"
+    ],
+    "onset_dates": [
+      "2022/07/24"
+    ],
+    "days_to_onset": [
+      1
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "000218A",
+    "PT_names": [
+      "発熱"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "2022/07/25"
+    ],
+    "gross_results": [
+      "回復"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34595,
+    "age": 20,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/07/23"
+    ],
+    "onset_dates": [
+      "2022/07/28"
+    ],
+    "days_to_onset": [
+      5
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "000233A",
+    "PT_names": [
+      "心筋炎"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34596,
+    "age": 79,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/08/05"
+    ],
+    "onset_dates": [
+      "2022/08/05",
+      "2022/08/05"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "000276A",
+    "PT_names": [
+      "そう痒症",
+      "発疹¦紅斑"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快",
+      "軽快"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34597,
+    "age": 62,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/07/29"
+    ],
+    "onset_dates": [
+      "2022/07/30",
+      "2022/07/30",
+      "2022/07/30",
+      "2022/07/30",
+      "2022/07/30"
+    ],
+    "days_to_onset": [
+      1
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "000237A",
+    "PT_names": [
+      "頭痛",
+      "倦怠感",
+      "発熱",
+      "ワクチン接種部位疼痛",
+      "ワクチン接種部位腫脹"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "2022/07/31",
+      "2022/07/31",
+      "2022/07/31",
+      "2022/07/31",
+      "2022/07/31"
+    ],
+    "gross_results": [
+      "回復",
+      "回復",
+      "回復",
+      "回復",
+      "回復"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34598,
+    "age": 51,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/03/08"
+    ],
+    "onset_dates": [
+      "2022/03/10"
+    ],
+    "days_to_onset": [
+      2
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "3005786",
+    "PT_names": [
+      "関節リウマチ"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "未回復"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34599,
+    "age": 54,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/07/21"
+    ],
+    "onset_dates": [
+      "2022/07/21",
+      "2022/07/21"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "000260A",
+    "PT_names": [
+      "胸痛",
+      "悪心"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "未回復",
+      "未回復"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34600,
+    "age": 27,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/08/06"
+    ],
+    "onset_dates": [
+      "2022/08/06",
+      "2022/08/06",
+      "2022/08/06",
+      "2022/08/06",
+      "2022/08/06"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "000234A",
+    "PT_names": [
+      "失見当識",
+      "熱性譫妄",
+      "異常行動",
+      "浮動性めまい",
+      "言葉もれ"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "2022/08/07",
+      "2022/08/07",
+      "2022/08/07",
+      "2022/08/07",
+      "2022/08/07"
+    ],
+    "gross_results": [
+      "回復",
+      "回復",
+      "回復",
+      "回復",
+      "回復"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34601,
+    "age": 64,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/08/06"
+    ],
+    "onset_dates": [
+      "2022/08/06"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "99999",
+    "PT_names": [
+      "失神寸前の状態"
+    ],
+    "causal_relationship": "",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34602,
+    "age": 38,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/03/20"
+    ],
+    "onset_dates": [
+      "2022/03/26",
+      "2022/03/26",
+      "2022/03/26",
+      "2022/03/26"
+    ],
+    "days_to_onset": [
+      6
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "99999",
+    "PT_names": [
+      "顔面麻痺¦顔面麻痺",
+      "末梢性ニューロパチー",
+      "錯覚",
+      "味覚障害"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "未回復",
+      "未回復",
+      "未回復",
+      "未回復"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34603,
+    "age": 87,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/02/02"
+    ],
+    "onset_dates": [
+      "2022/02"
+    ],
+    "days_to_onset": [],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "3006326",
+    "PT_names": [
+      "ギラン・バレー症候群"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "2022/06/02"
+    ],
+    "gross_results": [
+      "後遺症あり"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34604,
+    "age": 36,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/08/06"
+    ],
+    "onset_dates": [
+      "2022/08/07"
+    ],
+    "days_to_onset": [
+      1
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "99999",
+    "PT_names": [
+      "アナフィラキシー反応"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34605,
+    "age": 88,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/02/28"
+    ],
+    "onset_dates": [
+      "2022/03/01",
+      "2022/03/01"
+    ],
+    "days_to_onset": [
+      1
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "3005786",
+    "PT_names": [
+      "血小板減少症を伴う血栓症",
+      "ギラン・バレー症候群"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "死亡",
+      "死亡"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34606,
+    "age": 79,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/03/15"
+    ],
+    "onset_dates": [
+      "2022/04/30"
+    ],
+    "days_to_onset": [
+      46
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "3006327",
+    "PT_names": [
+      "うっ血性心不全"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "未回復"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34607,
+    "age": 69,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/08/05"
+    ],
+    "onset_dates": [
+      "2022/08/05"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "000221A",
+    "PT_names": [
+      "浮動性めまい"
+    ],
+    "causal_relationship": "",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34608,
+    "age": 47,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/08/06"
+    ],
+    "onset_dates": [
+      "2022/08/06",
+      "2022/08/06"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "000221A",
+    "PT_names": [
+      "動悸",
+      "浮動性めまい"
+    ],
+    "causal_relationship": "",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快",
+      "軽快"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34609,
+    "age": 66,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/07/23"
+    ],
+    "onset_dates": [
+      "2022/07/24",
+      "2022/07/24"
+    ],
+    "days_to_onset": [
+      1
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "000211A",
+    "PT_names": [
+      "肝機能異常",
+      "糖尿病"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "不明",
+      "不明"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34610,
+    "age": 67,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/07/24"
+    ],
+    "onset_dates": [
+      "2022/07/24",
+      "2022/07/24",
+      "2022/07/24"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "000232A",
+    "PT_names": [
+      "筋肉痛",
+      "運動機能障害",
+      "筋力低下"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "不明",
+      "不明",
+      "不明"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34611,
+    "age": 47,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/08/05"
+    ],
+    "onset_dates": [
+      "2022/08/07",
+      "2022/08/07"
+    ],
+    "days_to_onset": [
+      2
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "000234A",
+    "PT_names": [
+      "薬疹",
+      "発疹"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "不明",
+      "不明"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34612,
+    "age": 62,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2021/10/27"
+    ],
+    "onset_dates": [
+      "2021/10/28"
+    ],
+    "days_to_onset": [
+      1
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "3005890",
+    "PT_names": [
+      "血小板減少症を伴う血栓症"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "死亡"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34613,
+    "age": 94,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/07/21"
+    ],
+    "onset_dates": [
+      "2022/07/25",
+      "2022/07/25"
+    ],
+    "days_to_onset": [
+      4
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "000198A",
+    "PT_names": [
+      "肺炎",
+      "急性心不全"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "死亡",
+      "死亡"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34614,
+    "age": 62,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/08/05"
+    ],
+    "onset_dates": [
+      "2022/08/05",
+      "2022/08/05",
+      "2022/08/05"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "000193A",
+    "PT_names": [
+      "アナフィラキシー反応",
+      "無力症",
+      "発疹"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快",
+      "軽快",
+      "軽快"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34615,
+    "age": 84,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/08/05"
+    ],
+    "onset_dates": [
+      "2022/08/05"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "99999",
+    "PT_names": [
+      "ギラン・バレー症候群"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "未回復"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34616,
+    "age": 45,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2021/08/01"
+    ],
+    "onset_dates": [
+      "2021/08/01"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "3004229",
+    "PT_names": [
+      "四肢痛"
+    ],
+    "causal_relationship": "",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "未回復"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34617,
+    "age": 79,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/07/27"
+    ],
+    "onset_dates": [
+      "2022/07/30",
+      "2022/07/30"
+    ],
+    "days_to_onset": [
+      3
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "000237A",
+    "PT_names": [
+      "心肺停止",
+      "発熱"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "死亡",
+      "死亡"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34618,
+    "age": 26,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/05/01"
+    ],
+    "onset_dates": [
+      "2022/05/05"
+    ],
+    "days_to_onset": [
+      4
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "000277A",
+    "PT_names": [
+      "心筋炎"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34619,
+    "age": 38,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/04/20"
+    ],
+    "onset_dates": [
+      "2022/04/23"
+    ],
+    "days_to_onset": [
+      3
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "000278A",
+    "PT_names": [
+      "心筋炎¦心筋炎"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "死亡"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34620,
+    "age": 50,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2021/10/13"
+    ],
+    "onset_dates": [
+      "2021/10",
+      "2021/10",
+      "2021/10"
+    ],
+    "days_to_onset": [],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "3005788",
+    "PT_names": [
+      "神経痛",
+      "筋肉痛",
+      "疼痛¦疼痛"
+    ],
+    "causal_relationship": "",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快",
+      "軽快",
+      "軽快"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34621,
+    "age": 47,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/08/10"
+    ],
+    "onset_dates": [
+      "2022/08/10",
+      "2022/08/10"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "000220A",
+    "PT_names": [
+      "疼痛",
+      "筋力低下¦筋力低下"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快",
+      "軽快"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34622,
+    "age": 26,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/05/21"
+    ],
+    "onset_dates": [
+      "2022/05/23",
+      "2022/05/23"
+    ],
+    "days_to_onset": [
+      2
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "99999",
+    "PT_names": [
+      "心筋炎",
+      "胸痛"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "2022/05/30",
+      "2022/05/30"
+    ],
+    "gross_results": [
+      "回復",
+      "回復"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34623,
+    "age": 86,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/07/28"
+    ],
+    "onset_dates": [
+      "2022/07/30",
+      "2022/07/30"
+    ],
+    "days_to_onset": [
+      2
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "000221A",
+    "PT_names": [
+      "急性心筋梗塞",
+      "急性冠動脈症候群"
+    ],
+    "causal_relationship": "関連なし",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "死亡",
+      "死亡"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34624,
+    "age": 35,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/08/12"
+    ],
+    "onset_dates": [
+      "2022/08/12"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "000234A",
+    "PT_names": [
+      "アレルギー性皮膚炎"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "未回復"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34625,
+    "age": 41,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/07/30"
+    ],
+    "onset_dates": [
+      "2022/08/01"
+    ],
+    "days_to_onset": [
+      2
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "000218A",
+    "PT_names": [
+      "中毒性皮疹"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34626,
+    "age": 79,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/07/16"
+    ],
+    "onset_dates": [
+      "2022/07/17"
+    ],
+    "days_to_onset": [
+      1
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "99999",
+    "PT_names": [
+      "帯状疱疹"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34627,
+    "age": 72,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/03/11"
+    ],
+    "onset_dates": [
+      "2022/04/20"
+    ],
+    "days_to_onset": [
+      40
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "99999",
+    "PT_names": [
+      "血管炎"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "死亡"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34628,
+    "age": 78,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/02/12"
+    ],
+    "onset_dates": [
+      "2022/02"
+    ],
+    "days_to_onset": [],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "3005786",
+    "PT_names": [
+      "喘息"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "回復"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34629,
+    "age": 62,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/08/15"
+    ],
+    "onset_dates": [
+      "2022/08/15"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "000211A",
+    "PT_names": [
+      "咳嗽"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "2022/08/15"
+    ],
+    "gross_results": [
+      "回復"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34630,
+    "age": 56,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/08/15"
+    ],
+    "onset_dates": [
+      "2022/08/17"
+    ],
+    "days_to_onset": [
+      2
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "000218A",
+    "PT_names": [
+      "麻疹様発疹"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "未回復"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34631,
+    "age": 27,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/04/05"
+    ],
+    "onset_dates": [
+      "2022/04/07",
+      "2022/04/07",
+      "2022/04/07",
+      "2022/04/07"
+    ],
+    "days_to_onset": [
+      2
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "000048A",
+    "PT_names": [
+      "呼吸困難",
+      "動悸",
+      "過換気",
+      "発熱"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "未回復",
+      "未回復",
+      "未回復",
+      "未回復"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34632,
+    "age": 44,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/08/18"
+    ],
+    "onset_dates": [
+      "2022/08/18",
+      "2022/08/18"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "000214A",
+    "PT_names": [
+      "そう痒症",
+      "蕁麻疹"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快",
+      "軽快"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34633,
+    "age": 81,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/08/17"
+    ],
+    "onset_dates": [
+      "2022/08/18"
+    ],
+    "days_to_onset": [
+      1
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "000221A",
+    "PT_names": [
+      "呼吸停止"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "死亡"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34634,
+    "age": 63,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/08/15"
+    ],
+    "onset_dates": [
+      "2022/08/15"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "99999",
+    "PT_names": [
+      "異常感"
+    ],
+    "causal_relationship": "関連なし",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "2022/08/15"
+    ],
+    "gross_results": [
+      "後遺症あり"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34635,
+    "age": 37,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/08/19"
+    ],
+    "onset_dates": [
+      "2022/08/20"
+    ],
+    "days_to_onset": [
+      1
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "000214A",
+    "PT_names": [
+      "ＩｇＡ腎症"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "不明"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34636,
+    "age": 73,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/08/20"
+    ],
+    "onset_dates": [
+      "2022/08/20"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "000279A",
+    "PT_names": [
+      "耳下腺炎"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "不明"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34637,
+    "age": 64,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/03/18"
+    ],
+    "onset_dates": [
+      "2022/03/18"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "000018A",
+    "PT_names": [
+      "関節痛"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "未回復"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34638,
+    "age": 35,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/04/28"
+    ],
+    "onset_dates": [
+      "2022/04/28"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "000277A",
+    "PT_names": [
+      "腹痛"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34639,
+    "age": 32,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/08/24"
+    ],
+    "onset_dates": [
+      "2022/08/24",
+      "2022/08/24"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "000221A",
+    "PT_names": [
+      "呼吸困難",
+      "冷汗"
+    ],
+    "causal_relationship": "",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快",
+      "軽快"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34640,
+    "age": 43,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2021/08/01"
+    ],
+    "onset_dates": [
+      "2021/08/01",
+      "2021/08/01",
+      "2021/08/01"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "3003658",
+    "PT_names": [
+      "転倒",
+      "皮膚びらん",
+      "創傷"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "2022/01/18",
+      "2022/01/18",
+      "2022/01/18"
+    ],
+    "gross_results": [
+      "後遺症あり",
+      "後遺症あり",
+      "後遺症あり"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34641,
+    "age": 54,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/05/26"
+    ],
+    "onset_dates": [
+      "2022/06/03"
+    ],
+    "days_to_onset": [
+      8
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "000214A",
+    "PT_names": [
+      "ギラン・バレー症候群"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "未回復"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34642,
+    "age": 50,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/08/01"
+    ],
+    "onset_dates": [
+      "2022/08/01",
+      "2022/08/01",
+      "2022/08/01",
+      "2022/08/01"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "000222A",
+    "PT_names": [
+      "腹痛",
+      "嘔吐",
+      "運動機能障害",
+      "発熱"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "2022/08/13",
+      "2022/08/13",
+      "2022/08/13",
+      "2022/08/13"
+    ],
+    "gross_results": [
+      "回復",
+      "回復",
+      "回復",
+      "回復"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34643,
+    "age": 41,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/08/12"
+    ],
+    "onset_dates": [
+      "2022/08/14"
+    ],
+    "days_to_onset": [
+      2
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "000220A",
+    "PT_names": [
+      "血尿"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34644,
+    "age": 74,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/08/20"
+    ],
+    "onset_dates": [
+      "2022/08/26",
+      "2022/08/26"
+    ],
+    "days_to_onset": [
+      6
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "000248A",
+    "PT_names": [
+      "頭痛",
+      "倦怠感"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "不明",
+      "不明"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34645,
+    "age": 70,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/07/19"
+    ],
+    "onset_dates": [
+      "2022/07/20",
+      "2022/07/20",
+      "2022/07/20",
+      "2022/07/20"
+    ],
+    "days_to_onset": [
+      1
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "000211A",
+    "PT_names": [
+      "多汗症¦多汗症",
+      "食欲減退",
+      "倦怠感"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "2022/07/27",
+      "2022/07/27",
+      "2022/07/27",
+      "2022/07/27"
+    ],
+    "gross_results": [
+      "回復",
+      "回復",
+      "回復",
+      "回復"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34646,
+    "age": 47,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/08/24"
+    ],
+    "onset_dates": [
+      "2022/08/24"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "000207A",
+    "PT_names": [
+      "そう痒症"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "不明"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34647,
+    "age": 45,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/08/10"
+    ],
+    "onset_dates": [
+      "2022/08/10"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "000211A",
+    "PT_names": [
+      "アナフィラキシー反応"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "2022/08/10"
+    ],
+    "gross_results": [
+      "回復"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34648,
+    "age": 47,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/08/24"
+    ],
+    "onset_dates": [
+      "2022/08/24",
+      "2022/08/24",
+      "2022/08/24"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "000234A",
+    "PT_names": [
+      "心肺停止",
+      "低酸素症",
+      "発熱"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "死亡",
+      "死亡",
+      "死亡"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34649,
+    "age": 31,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2021/08/29"
+    ],
+    "onset_dates": [
+      "2021/10/15",
+      "2021/10/15"
+    ],
+    "days_to_onset": [
+      47
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "3004501",
+    "PT_names": [
+      "全身硬直症候群",
+      "脚部硬直症候群"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快",
+      "軽快"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34650,
+    "age": 53,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/08/16"
+    ],
+    "onset_dates": [
+      "2022/08/18",
+      "2022/08/18"
+    ],
+    "days_to_onset": [
+      2
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "000204A",
+    "PT_names": [
+      "脳梗塞",
+      "構語障害"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "不明",
+      "不明"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34651,
+    "age": 51,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/08/29"
+    ],
+    "onset_dates": [
+      "2022/08/29"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "000248A",
+    "PT_names": [
+      "アナフィラキシー反応"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "不明"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34652,
+    "age": 47,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/08/28"
+    ],
+    "onset_dates": [
+      "2022/08/29"
+    ],
+    "days_to_onset": [
+      1
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "000260A",
+    "PT_names": [
+      "アナフィラキシー反応"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "未回復"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34653,
+    "age": 45,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/08/28"
+    ],
+    "onset_dates": [
+      "2022/08/28"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "000225A",
+    "PT_names": [
+      "側腹部痛"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "不明"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34654,
+    "age": 30,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/08/22"
+    ],
+    "onset_dates": [
+      "2022/08/22"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "000198A",
+    "PT_names": [
+      "失神寸前の状態"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "不明"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34655,
+    "age": 60,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/08/24"
+    ],
+    "onset_dates": [
+      "2022/08/25"
+    ],
+    "days_to_onset": [
+      1
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "000234A",
+    "PT_names": [
+      "急性心不全"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "死亡"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34656,
+    "age": 29,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/04/02"
+    ],
+    "onset_dates": [
+      "2022/04/12",
+      "2022/04/12"
+    ],
+    "days_to_onset": [
+      10
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "000225A",
+    "PT_names": [
+      "帯状疱疹",
+      "蕁麻疹"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "未回復",
+      "未回復"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34657,
+    "age": 79,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/08/25"
+    ],
+    "onset_dates": [
+      "2022/08/25",
+      "2022/08/25"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "000220A",
+    "PT_names": [
+      "アナフィラキシー反応",
+      "嘔吐"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快",
+      "軽快"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34658,
+    "age": 72,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/08/28"
+    ],
+    "onset_dates": [
+      "2022/08/28",
+      "2022/08/28",
+      "2022/08/28",
+      "2022/08/28"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "000233A",
+    "PT_names": [
+      "アナフィラキシー反応",
+      "上腹部痛",
+      "悪心",
+      "浮動性めまい"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34659,
+    "age": 63,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/03/26"
+    ],
+    "onset_dates": [
+      "2022/04/01",
+      "2022/04/01",
+      "2022/04/01"
+    ],
+    "days_to_onset": [
+      6
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "000011A",
+    "PT_names": [
+      "筋肉痛",
+      "関節痛",
+      "発疹"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "2022/06",
+      "2022/06",
+      "2022/06"
+    ],
+    "gross_results": [
+      "回復",
+      "回復",
+      "回復"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34660,
+    "age": 50,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/08/23"
+    ],
+    "onset_dates": [
+      "2022/08/24"
+    ],
+    "days_to_onset": [
+      1
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "000261A",
+    "PT_names": [
+      "蜂巣炎"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34661,
+    "age": 91,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/08/31"
+    ],
+    "onset_dates": [
+      "2022/09/01"
+    ],
+    "days_to_onset": [
+      1
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "000234A",
+    "PT_names": [
+      "死亡"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "死亡"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34662,
+    "age": 81,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/08/23"
+    ],
+    "onset_dates": [
+      "2022/08/30"
+    ],
+    "days_to_onset": [
+      7
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "000241A",
+    "PT_names": [
+      "脳梗塞"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "未回復"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34663,
+    "age": 69,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/02/20"
+    ],
+    "onset_dates": [
+      "2022/02/28"
+    ],
+    "days_to_onset": [
+      8
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "3006279",
+    "PT_names": [
+      "一過性脳虚血発作"
+    ],
+    "causal_relationship": "",
+    "severity": "重い",
+    "gross_result_dates": [
+      "2022/08/30"
+    ],
+    "gross_results": [
+      "回復"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34664,
+    "age": 80,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/02/13"
+    ],
+    "onset_dates": [
+      "2022/05/03",
+      "2022/05/03",
+      "2022/05/03"
+    ],
+    "days_to_onset": [
+      79
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "3006279",
+    "PT_names": [
+      "多発血管炎性肉芽腫症",
+      "脳梗塞"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "未回復",
+      "未回復",
+      "未回復"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34665,
+    "age": 79,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/08/12"
+    ],
+    "onset_dates": [
+      "2022/08/12"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "99999",
+    "PT_names": [
+      "心不全"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "2022/08/15"
+    ],
+    "gross_results": [
+      "回復"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  },
+  {
+    "no": 34666,
+    "age": 76,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/07/30"
+    ],
+    "onset_dates": [
+      "2022/07/30"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "新型コロナ（モデルナ）",
+    "manufacturer": "モデルナ",
+    "lot_no": "000235A",
+    "PT_names": [
+      "顔面麻痺"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "2022/08/24"
+    ],
+    "gross_results": [
+      "回復"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998159.pdf"
+    }
+  }
+]

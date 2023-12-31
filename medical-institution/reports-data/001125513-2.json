@@ -1,0 +1,39 @@
+[
+  {
+    "no": 136,
+    "age": 31,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/12/02"
+    ],
+    "onset_dates": [
+      "2022/12/10",
+      "2022/12/10"
+    ],
+    "days_to_onset": [
+      8
+    ],
+    "vaccine_name": "スパイクバックス筋注（２価：起源\n株/オミクロン株BA.1）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "200074A",
+    "PT_names": [
+      "脳梗塞",
+      "脳血管収縮"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "未回復",
+      "未回復"
+    ],
+    "source": {
+      "name": "第94回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001125513.pdf"
+    }
+  }
+]

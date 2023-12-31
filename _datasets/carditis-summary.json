@@ -1,0 +1,37 @@
+{
+  "carditis_summary": {
+    "date": "2023/10/27",
+    "total": 679,
+    "myocarditis": 525,
+    "pericarditis": 154,
+    "source": {
+      "name": "第98回厚生科学審議会予防接種・ワクチン分科会副反応検討部会",
+      "url": "https://www.mhlw.go.jp/stf/shingi2/0000208910_00070.html"
+    }
+  },
+  "carditis_issues": {
+    "date": "2023/07/30",
+    "issues_with_vaccine_name": [
+      {
+        "vaccine_name": "コミナティ筋注",
+        "myocarditis_count": 328,
+        "pericarditis_count": 110
+      },
+      {
+        "vaccine_name": "コミナティ筋注5～11歳用",
+        "myocarditis_count": 7,
+        "pericarditis_count": 2
+      },
+      {
+        "vaccine_name": "スパイクバックス筋注",
+        "myocarditis_count": 189,
+        "pericarditis_count": 42
+      },
+      {
+        "vaccine_name": "ヌバキソビッド筋注",
+        "myocarditis_count": 1,
+        "pericarditis_count": 0
+      }
+    ]
+  }
+}

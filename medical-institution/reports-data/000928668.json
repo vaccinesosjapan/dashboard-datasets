@@ -1,0 +1,34 @@
+[
+  {
+    "no": 32688,
+    "age": 54,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2021/11/02"
+    ],
+    "onset_dates": [
+      "2021/11/20"
+    ],
+    "days_to_onset": [
+		18
+	],
+    "vaccine_name": "バキスゼブリア筋注",
+    "manufacturer": "アストラゼネカ",
+    "lot_no": "D017A",
+    "PT_names": [
+      "脳梗塞"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "2021/12/10"
+    ],
+    "gross_results": [
+      "回復"
+    ],
+    "source": {
+      "name": "第78回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000928668.pdf"
+    }
+  }
+]

@@ -1,0 +1,44 @@
+##
+## 心筋炎/心膜炎の報告一覧の表が掲載されているページを指定する設定ファイルです。
+##   例） 1,2,5ページを指定する場合  pages: '1,2,5'
+##   例） 10ページから13ページを指定する場合  pages: '10-13'
+##   例） 27ページ以降の全ページを指定する場合  pages: '27-end'
+## 
+settings: [
+  {
+    # ワクチンの名称
+    name: コミナティ筋注,
+    # 情報抽出に使うPDFファイルのパス
+    file: ./pdf-files/001161441.pdf,
+    # 情報を抽出する対象の表が掲載されているページ
+    pages: '29-end',
+    # 使用するPDFが扱われている審議会の名称と、PDFのURL
+    source: {
+      name: 第98回,
+      url: https://www.mhlw.go.jp/content/10601000/001161441.pdf,
+    },
+    # 使用するextractスクリプトのバージョン
+    script-version: v1
+  },
+  {
+    name: スパイクバックス筋注,
+    file: ./pdf-files/001161442.pdf,
+    pages: '29-end',
+    source: {
+      name: 第98回,
+      url: https://www.mhlw.go.jp/content/10601000/001161442.pdf,
+    },
+    script-version: v1
+  },
+  # 001161443.pdfの35ページ目に記載の報告一覧は、正常に抽出ができない状態なので手作業で抽出する
+  {
+    name: コミナティ筋注5~11歳用,
+    file: ./pdf-files/001161445.pdf,
+    pages: '28-end',
+    source: {
+      name: 第98回,
+      url: https://www.mhlw.go.jp/content/10601000/001161445.pdf,
+    },
+    script-version: v1
+  },
+]

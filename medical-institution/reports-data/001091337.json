@@ -1,0 +1,154 @@
+[
+  {
+    "no": 36166,
+    "age": 38,
+    "gender": "",
+    "vaccinated_dates": [
+      "2023/01/10"
+    ],
+    "onset_dates": [
+      "2023/01/10",
+      "2023/01/10",
+      "2023/01/10",
+      "2023/01/10"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "ヌバキソビッド筋注",
+    "concurrent_vaccination": "",
+    "manufacturer": "ノババックス\n／武田",
+    "lot_no": "NP007",
+    "PT_names": [
+      "そう痒症",
+      "喉頭不快感",
+      "喉頭刺激感",
+      "紅斑"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "2023/01/12",
+      "2023/01/12",
+      "2023/01/12",
+      "2023/01/12"
+    ],
+    "gross_results": [
+      "回復",
+      "回復",
+      "回復",
+      "回復"
+    ],
+    "source": {
+      "name": "第93回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001091337.pdf"
+    }
+  },
+  {
+    "no": 36167,
+    "age": 62,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2023/01/27"
+    ],
+    "onset_dates": [
+      "2023/01/27",
+      "2023/01/27",
+      "2023/01/27"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "ヌバキソビッド筋注",
+    "concurrent_vaccination": "",
+    "manufacturer": "ノババックス\n／武田",
+    "lot_no": "NP009",
+    "PT_names": [
+      "光線過敏性反応",
+      "頭痛",
+      "閃輝暗点"
+    ],
+    "causal_relationship": "",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快",
+      "軽快",
+      "軽快"
+    ],
+    "source": {
+      "name": "第93回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001091337.pdf"
+    }
+  },
+  {
+    "no": 36168,
+    "age": 49,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2023/01/29"
+    ],
+    "onset_dates": [
+      "2023/01/30"
+    ],
+    "days_to_onset": [
+      1
+    ],
+    "vaccine_name": "ヌバキソビッド筋注",
+    "concurrent_vaccination": "",
+    "manufacturer": "ノババックス\n／武田",
+    "lot_no": "99999",
+    "PT_names": [
+      "心筋炎"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "source": {
+      "name": "第93回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001091337.pdf"
+    }
+  },
+  {
+    "no": 36169,
+    "age": 45,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2023/02/24"
+    ],
+    "onset_dates": [
+      "2023/02/24"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "ヌバキソビッド筋注",
+    "concurrent_vaccination": "",
+    "manufacturer": "ノババックス\n／武田",
+    "lot_no": "NP009",
+    "PT_names": [
+      "アナフィラキシー反応"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "不明"
+    ],
+    "source": {
+      "name": "第93回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001091337.pdf"
+    }
+  }
+]

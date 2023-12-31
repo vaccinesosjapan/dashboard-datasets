@@ -1,0 +1,830 @@
+[
+  {
+    "no": 33301,
+    "age": 11,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/03/12"
+    ],
+    "onset_dates": [
+      "2022/03/12"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "コミナティ筋注５～11歳用",
+    "manufacturer": "",
+    "lot_no": "FN5988",
+    "PT_names": [
+      "失神寸前の状態"
+    ],
+    "causal_relationship": "",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "2022/03/12"
+    ],
+    "gross_results": [
+      "回復"
+    ],
+    "source": {
+      "name": "第79回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000938278.pdf"
+    }
+  },
+  {
+    "no": 33302,
+    "age": 8,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/03/19"
+    ],
+    "onset_dates": [
+      "2022/03/19"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "コミナティ筋注５～11歳用",
+    "manufacturer": "",
+    "lot_no": "FN5988",
+    "PT_names": [
+      "嘔吐"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "2022/03/19"
+    ],
+    "gross_results": [
+      "回復"
+    ],
+    "source": {
+      "name": "第79回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000938278.pdf"
+    }
+  },
+  {
+    "no": 33303,
+    "age": 10,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/03/06"
+    ],
+    "onset_dates": [
+      "2022/03/06"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "コミナティ筋注５～11歳用",
+    "manufacturer": "",
+    "lot_no": "FN5988",
+    "PT_names": [],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "2022/03/22"
+    ],
+    "gross_results": [
+      "回復"
+    ],
+    "source": {
+      "name": "第79回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000938278.pdf"
+    }
+  },
+  {
+    "no": 33304,
+    "age": 10,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/03/19"
+    ],
+    "onset_dates": [
+      "2022/03/19",
+      "2022/03/19"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "コミナティ筋注５～11歳用",
+    "manufacturer": "",
+    "lot_no": "FN5988",
+    "PT_names": [
+      "異常感",
+      "苦悶感"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "2022/03/19",
+      "2022/03/19"
+    ],
+    "gross_results": [
+      "回復",
+      "回復"
+    ],
+    "source": {
+      "name": "第79回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000938278.pdf"
+    }
+  },
+  {
+    "no": 33305,
+    "age": 7,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/03/13"
+    ],
+    "onset_dates": [
+      "2022/03/14",
+      "2022/03/14",
+      "2022/03/14",
+      "2022/03/14",
+      "2022/03/14",
+      "2022/03/14",
+      "2022/03/14"
+    ],
+    "days_to_onset": [
+      1
+    ],
+    "vaccine_name": "コミナティ筋注５～11歳用",
+    "manufacturer": "",
+    "lot_no": "FN5988",
+    "PT_names": [
+      "心筋炎",
+      "無力症",
+      "食欲減退",
+      "下痢",
+      "嘔吐",
+      "発熱",
+      "心膜炎"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "軽快"
+    ],
+    "source": {
+      "name": "第79回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000938278.pdf"
+    }
+  },
+  {
+    "no": 33306,
+    "age": 8,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/03/24"
+    ],
+    "onset_dates": [
+      "2022/03/24"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "コミナティ筋注５～11歳用",
+    "manufacturer": "",
+    "lot_no": "FN5988",
+    "PT_names": [
+      "失神寸前の状態"
+    ],
+    "causal_relationship": "関連なし",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "2022/03/24"
+    ],
+    "gross_results": [
+      "回復"
+    ],
+    "source": {
+      "name": "第79回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000938278.pdf"
+    }
+  },
+  {
+    "no": 33307,
+    "age": 11,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/03/30"
+    ],
+    "onset_dates": [
+      "2022/03/30",
+      "2022/03/30"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "コミナティ筋注５～11歳用",
+    "manufacturer": "",
+    "lot_no": "FN5988",
+    "PT_names": [
+      "痙攣発作",
+      "失神寸前の状態"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "2022/03/30",
+      "2022/03/30"
+    ],
+    "gross_results": [
+      "回復",
+      "回復"
+    ],
+    "source": {
+      "name": "第79回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000938278.pdf"
+    }
+  },
+  {
+    "no": 33308,
+    "age": 6,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/03/11"
+    ],
+    "onset_dates": [
+      "2022/03/11"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "コミナティ筋注５～11歳用",
+    "manufacturer": "",
+    "lot_no": "FN5988",
+    "PT_names": [
+      "喘息"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "2022/03/13"
+    ],
+    "gross_results": [
+      "回復"
+    ],
+    "source": {
+      "name": "第79回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000938278.pdf"
+    }
+  },
+  {
+    "no": 33309,
+    "age": 7,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/03/19"
+    ],
+    "onset_dates": [
+      "2022/03/22"
+    ],
+    "days_to_onset": [
+      3
+    ],
+    "vaccine_name": "コミナティ筋注５～11歳用",
+    "manufacturer": "",
+    "lot_no": "FN5988",
+    "PT_names": [
+      "痙攣発作"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "2022/04/01"
+    ],
+    "gross_results": [
+      "回復"
+    ],
+    "source": {
+      "name": "第79回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000938278.pdf"
+    }
+  },
+  {
+    "no": 33310,
+    "age": 9,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/04/03"
+    ],
+    "onset_dates": [
+      "2022/04/03"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "コミナティ筋注５～11歳用",
+    "manufacturer": "",
+    "lot_no": "FN5988",
+    "PT_names": [
+      "アナフィラキシー反応"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "2022/04/04"
+    ],
+    "gross_results": [
+      "回復"
+    ],
+    "source": {
+      "name": "第79回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000938278.pdf"
+    }
+  },
+  {
+    "no": 33311,
+    "age": 11,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/03/25"
+    ],
+    "onset_dates": [
+      "2022/03/25",
+      "2022/03/25",
+      "2022/03/25"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "コミナティ筋注５～11歳用",
+    "manufacturer": "",
+    "lot_no": "FN5988",
+    "PT_names": [
+      "意識レベルの低下",
+      "無力症",
+      "徐脈"
+    ],
+    "causal_relationship": "",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "2022/03/25",
+      "2022/03/25",
+      "2022/03/25"
+    ],
+    "gross_results": [
+      "回復",
+      "回復",
+      "回復"
+    ],
+    "source": {
+      "name": "第79回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000938278.pdf"
+    }
+  },
+  {
+    "no": 33312,
+    "age": 10,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/03/31"
+    ],
+    "onset_dates": [
+      "2022/03/31",
+      "2022/03/31"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "コミナティ筋注５～11歳用",
+    "manufacturer": "",
+    "lot_no": "FN5988",
+    "PT_names": [
+      "嘔吐",
+      "異常感"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "2022/03/31",
+      "2022/03/31"
+    ],
+    "gross_results": [
+      "回復",
+      "回復"
+    ],
+    "source": {
+      "name": "第79回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000938278.pdf"
+    }
+  },
+  {
+    "no": 33313,
+    "age": 7,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/04/02"
+    ],
+    "onset_dates": [
+      "2022/04/02"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "コミナティ筋注５～11歳用",
+    "manufacturer": "",
+    "lot_no": "FN5988",
+    "PT_names": [
+      "耳下腺腫大"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "source": {
+      "name": "第79回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000938278.pdf"
+    }
+  },
+  {
+    "no": 33314,
+    "age": 10,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/04/04"
+    ],
+    "onset_dates": [
+      "2022/04/04"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "コミナティ筋注５～11歳用",
+    "manufacturer": "",
+    "lot_no": "FN5988",
+    "PT_names": [
+      "口腔咽頭不快感"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "2022/04/04"
+    ],
+    "gross_results": [
+      "回復"
+    ],
+    "source": {
+      "name": "第79回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000938278.pdf"
+    }
+  },
+  {
+    "no": 33315,
+    "age": 11,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/04/05"
+    ],
+    "onset_dates": [
+      "2022/04/05"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "コミナティ筋注５～11歳用",
+    "manufacturer": "",
+    "lot_no": "FN5988",
+    "PT_names": [
+      "発熱"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "不明"
+    ],
+    "source": {
+      "name": "第79回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000938278.pdf"
+    }
+  },
+  {
+    "no": 33316,
+    "age": 9,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/04/03"
+    ],
+    "onset_dates": [
+      "2022/04/04"
+    ],
+    "days_to_onset": [
+      1
+    ],
+    "vaccine_name": "コミナティ筋注５～11歳用",
+    "manufacturer": "",
+    "lot_no": "FN5988",
+    "PT_names": [
+      "嘔吐"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "不明"
+    ],
+    "source": {
+      "name": "第79回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000938278.pdf"
+    }
+  },
+  {
+    "no": 33317,
+    "age": 10,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/03/27"
+    ],
+    "onset_dates": [
+      "2022/03/28",
+      "2022/03/28"
+    ],
+    "days_to_onset": [
+      1
+    ],
+    "vaccine_name": "コミナティ筋注５～11歳用",
+    "manufacturer": "",
+    "lot_no": "FN5988",
+    "PT_names": [
+      "全身性剥脱性皮膚炎",
+      "薬疹"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快",
+      "軽快"
+    ],
+    "source": {
+      "name": "第79回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000938278.pdf"
+    }
+  },
+  {
+    "no": 33318,
+    "age": 11,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/04/06"
+    ],
+    "onset_dates": [
+      "2022/04/06",
+      "2022/04/06",
+      "2022/04/06"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "コミナティ筋注５～11歳用",
+    "manufacturer": "",
+    "lot_no": "FN5988",
+    "PT_names": [
+      "アナフィラキシーショック",
+      "意識変容状態",
+      "血圧低下"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "不明",
+      "不明",
+      "不明"
+    ],
+    "source": {
+      "name": "第79回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000938278.pdf"
+    }
+  },
+  {
+    "no": 33319,
+    "age": 11,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/03/28"
+    ],
+    "onset_dates": [
+      "2022/03/29",
+      "2022/03/29",
+      "2022/03/29"
+    ],
+    "days_to_onset": [
+      1
+    ],
+    "vaccine_name": "コミナティ筋注５～11歳用",
+    "manufacturer": "",
+    "lot_no": "不明",
+    "PT_names": [
+      "心筋炎",
+      "胸痛"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "2022/04/07",
+      "2022/04/07",
+      "2022/04/07"
+    ],
+    "gross_results": [
+      "回復",
+      "回復",
+      "回復"
+    ],
+    "source": {
+      "name": "第79回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000938278.pdf"
+    }
+  },
+  {
+    "no": 33320,
+    "age": 9,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/04/04"
+    ],
+    "onset_dates": [
+      "2022/04/05"
+    ],
+    "days_to_onset": [
+      1
+    ],
+    "vaccine_name": "コミナティ筋注５～11歳用",
+    "manufacturer": "",
+    "lot_no": "FN5988",
+    "PT_names": [
+      "蕁麻疹"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "未回復"
+    ],
+    "source": {
+      "name": "第79回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000938278.pdf"
+    }
+  },
+  {
+    "no": 33321,
+    "age": 11,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/03/26"
+    ],
+    "onset_dates": [
+      "2022/04/01",
+      "2022/04/01"
+    ],
+    "days_to_onset": [
+      6
+    ],
+    "vaccine_name": "コミナティ筋注５～11歳用",
+    "manufacturer": "",
+    "lot_no": "不明",
+    "PT_names": [
+      "腋窩痛",
+      "リンパ節症"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "左腋窩リンパ節",
+      "炎：軽快、",
+      "左腋窩圧痛：回",
+      "復（5月10日時",
+      "点）"
+    ],
+    "source": {
+      "name": "第79回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000938278.pdf"
+    }
+  },
+  {
+    "no": 33322,
+    "age": 9,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/04/09"
+    ],
+    "onset_dates": [
+      "2022/04/09"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "コミナティ筋注５～11歳用",
+    "manufacturer": "",
+    "lot_no": "FN5988",
+    "PT_names": [
+      "発疹"
+    ],
+    "causal_relationship": "",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "2022/04/09"
+    ],
+    "gross_results": [
+      "回復"
+    ],
+    "source": {
+      "name": "第79回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000938278.pdf"
+    }
+  },
+  {
+    "no": 33323,
+    "age": 11,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/03/30"
+    ],
+    "onset_dates": [
+      "2022/04/04",
+      "2022/04/04",
+      "2022/04/04",
+      "2022/04/04",
+      "2022/04/04",
+      "2022/04/04",
+      "2022/04/04"
+    ],
+    "days_to_onset": [
+      5
+    ],
+    "vaccine_name": "コミナティ筋注５～11歳用",
+    "manufacturer": "",
+    "lot_no": "不明",
+    "PT_names": [
+      "肺動脈弁閉鎖不全症",
+      "頭痛",
+      "嘔吐",
+      "白血球数減少",
+      "浮動性めまい",
+      "発熱",
+      "心雑音"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快"
+    ],
+    "source": {
+      "name": "第79回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000938278.pdf"
+    }
+  }
+]

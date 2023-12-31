@@ -1,0 +1,35 @@
+[
+  {
+    "no": 36034,
+    "age": 2,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/12/21"
+    ],
+    "onset_dates": [
+      "2022/12/28"
+    ],
+    "days_to_onset": [
+      7
+    ],
+    "vaccine_name": "コミナティ筋注６ヵ月～４\n歳用",
+    "concurrent_vaccination": "",
+    "manufacturer": "ファイザー",
+    "lot_no": "GE0695",
+    "PT_names": [
+      "熱性痙攣"
+    ],
+    "causal_relationship": "関連なし",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "2023/01/11"
+    ],
+    "gross_results": [
+      "回復"
+    ],
+    "source": {
+      "name": "第92回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001068695.pdf"
+    }
+  }
+]

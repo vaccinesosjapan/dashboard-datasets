@@ -1,0 +1,76 @@
+[
+  {
+    "no": 36715,
+    "age": 3,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2023/05/19"
+    ],
+    "onset_dates": [
+      "2023/05/22"
+    ],
+    "days_to_onset": [
+      3
+    ],
+    "vaccine_name": "コミナティ筋注６ヵ月～４\n歳用",
+    "concurrent_vaccination": "",
+    "manufacturer": "ファイザー",
+    "lot_no": "GE0695",
+    "PT_names": [
+      "熱性痙攣"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "2023/05/24"
+    ],
+    "gross_results": [
+      "回復"
+    ],
+    "source": {
+      "name": "第98回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001161407.pdf"
+    }
+  },
+  {
+    "no": 36716,
+    "age": 1,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2023/06/13"
+    ],
+    "onset_dates": [
+      "2023/06/13 ",
+      "2023/06/13 ",
+      "2023/06/13"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "コミナティ筋注６ヵ月～４\n歳用",
+    "concurrent_vaccination": "",
+    "manufacturer": "ファイザー",
+    "lot_no": "GE0695",
+    "PT_names": [
+      "咳嗽",
+      "紅斑",
+      "発熱"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入 ",
+      "未記入 ",
+      "未記入"
+    ],
+    "gross_results": [
+      "不明 ",
+      "不明 ",
+      "不明"
+    ],
+    "source": {
+      "name": "第98回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001161407.pdf"
+    }
+  }
+]

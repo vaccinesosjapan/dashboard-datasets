@@ -1,0 +1,326 @@
+[
+  {
+    "no": 34489,
+    "age": 51,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/07/07"
+    ],
+    "onset_dates": [
+      "2022/07/08",
+      "2022/07/08"
+    ],
+    "days_to_onset": [
+      1
+    ],
+    "vaccine_name": "ヌバキソビッド筋注",
+    "manufacturer": "ノババックス\n／武田",
+    "lot_no": "NP001",
+    "PT_names": [
+      "下痢",
+      "悪心"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "2022/07/08",
+      "2022/07/08"
+    ],
+    "gross_results": [
+      "回復",
+      "回復"
+    ],
+    "source": {
+      "name": "第83回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000983575.pdf"
+    }
+  },
+  {
+    "no": 34490,
+    "age": 49,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/07/09"
+    ],
+    "onset_dates": [
+      "2022/07/09"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "ヌバキソビッド筋注",
+    "manufacturer": "ノババックス\n／武田",
+    "lot_no": "NP001",
+    "PT_names": [
+      "アナフィラキシー反応"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "未回復"
+    ],
+    "source": {
+      "name": "第83回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000983575.pdf"
+    }
+  },
+  {
+    "no": 34491,
+    "age": 25,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/07/19"
+    ],
+    "onset_dates": [
+      "2022/07/19"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "ヌバキソビッド筋注",
+    "manufacturer": "ノババックス\n／武田",
+    "lot_no": "NP001",
+    "PT_names": [
+      "アナフィラキシー反応"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "不明"
+    ],
+    "source": {
+      "name": "第83回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000983575.pdf"
+    }
+  },
+  {
+    "no": 34492,
+    "age": 38,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/07/19"
+    ],
+    "onset_dates": [
+      "2022/07/19"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "ヌバキソビッド筋注",
+    "manufacturer": "ノババックス\n／武田",
+    "lot_no": "NP001",
+    "PT_names": [
+      "アナフィラキシー反応"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "source": {
+      "name": "第83回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000983575.pdf"
+    }
+  },
+  {
+    "no": 34493,
+    "age": 51,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/07/14"
+    ],
+    "onset_dates": [
+      "2022/07/15",
+      "2022/07/15",
+      "2022/07/15"
+    ],
+    "days_to_onset": [
+      1
+    ],
+    "vaccine_name": "ヌバキソビッド筋注",
+    "manufacturer": "ノババックス\n／武田",
+    "lot_no": "NP001",
+    "PT_names": [
+      "リンパ節症",
+      "悪寒",
+      "発熱"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快",
+      "軽快",
+      "軽快"
+    ],
+    "source": {
+      "name": "第83回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000983575.pdf"
+    }
+  },
+  {
+    "no": 34494,
+    "age": 38,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/07/19"
+    ],
+    "onset_dates": [
+      "2022/07/19"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "ヌバキソビッド筋注",
+    "manufacturer": "ノババックス\n／武田",
+    "lot_no": "NP001",
+    "PT_names": [
+      "アナフィラキシー反応"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "2022/07/20"
+    ],
+    "gross_results": [
+      "回復"
+    ],
+    "source": {
+      "name": "第83回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000983575.pdf"
+    }
+  },
+  {
+    "no": 34495,
+    "age": 38,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/07/23"
+    ],
+    "onset_dates": [
+      "2022/07/23",
+      "2022/07/23",
+      "2022/07/23",
+      "2022/07/23"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "ヌバキソビッド筋注",
+    "manufacturer": "ノババックス\n／武田",
+    "lot_no": "NP001",
+    "PT_names": [
+      "アナフィラキシー反応",
+      "咳嗽",
+      "発疹",
+      "異常感"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "不明",
+      "不明",
+      "不明",
+      "不明"
+    ],
+    "source": {
+      "name": "第83回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000983575.pdf"
+    }
+  },
+  {
+    "no": 34496,
+    "age": 38,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/07/23"
+    ],
+    "onset_dates": [
+      "2022/07/23"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "ヌバキソビッド筋注",
+    "manufacturer": "ノババックス\n／武田",
+    "lot_no": "99999",
+    "PT_names": [
+      "アナフィラキシー反応"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "source": {
+      "name": "第83回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000983575.pdf"
+    }
+  },
+  {
+    "no": 34497,
+    "age": 34,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/07/23"
+    ],
+    "onset_dates": [
+      "2022/07/24",
+      "2022/07/24",
+      "2022/07/24",
+      "2022/07/24"
+    ],
+    "days_to_onset": [
+      1
+    ],
+    "vaccine_name": "ヌバキソビッド筋注",
+    "manufacturer": "ノババックス\n／武田",
+    "lot_no": "99999",
+    "PT_names": [
+      "薬疹",
+      "発疹",
+      "倦怠感",
+      "発熱"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "未回復",
+      "未回復",
+      "未回復",
+      "未回復"
+    ],
+    "source": {
+      "name": "第83回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000983575.pdf"
+    }
+  }
+]

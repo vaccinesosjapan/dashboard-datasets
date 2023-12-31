@@ -1,0 +1,113 @@
+settings: [
+  {
+    file: '98th/001161405.pdf',
+    output: '001161405-1.json',
+    pages: '2-6',
+    expected_count: 90,
+    source: {
+      name: 第98回,
+      url: https://www.mhlw.go.jp/content/10601000/001161405.pdf
+    },
+    script-version: v2
+  },
+  {
+    file: '98th/001161405.pdf',
+    output: '001161405-2.json',
+    pages: '7-8',
+    expected_count: 20,
+    source: {
+      name: 第98回,
+      url: https://www.mhlw.go.jp/content/10601000/001161405.pdf
+    },
+    script-version: v2
+  },
+  {
+    file: '98th/001161405.pdf',
+    output: '001161405-3.json',
+    pages: '9-end',
+    expected_count: 85,
+    source: {
+      name: 第98回,
+      url: https://www.mhlw.go.jp/content/10601000/001161405.pdf
+    },
+    script-version: v2
+  },
+  {
+    file: '98th/001161407.pdf',
+    output: '001161407.json',
+    pages: '2',
+    expected_count: 2,
+    source: {
+      name: 第98回,
+      url: https://www.mhlw.go.jp/content/10601000/001161407.pdf
+    },
+    script-version: v2
+  },
+  {
+    file: '98th/001161410.pdf',
+    output: '001161410-1.json',
+    pages: '2',
+    expected_count: 2,
+    source: {
+      name: 第98回,
+      url: https://www.mhlw.go.jp/content/10601000/001161410.pdf
+    },
+    script-version: v2
+  },
+  {
+    file: '98th/001161410.pdf',
+    output: '001161410-2.json',
+    pages: '3',
+    expected_count: 1,
+    source: {
+      name: 第98回,
+      url: https://www.mhlw.go.jp/content/10601000/001161410.pdf
+    },
+    script-version: v2
+  },
+  {
+    file: '98th/001161411.pdf',
+    output: '001161411-1.json',
+    pages: '2',
+    expected_count: 24,
+    source: {
+      name: 第98回,
+      url: https://www.mhlw.go.jp/content/10601000/001161411.pdf
+    },
+    script-version: v2
+  },
+  # page 3は抽出できないため、手作業で001161411-1a.jsonへと抽出する
+  {
+    file: '98th/001161411.pdf',
+    output: '001161411-2.json',
+    pages: '4',
+    expected_count: 1,
+    source: {
+      name: 第98回,
+      url: https://www.mhlw.go.jp/content/10601000/001161411.pdf
+    },
+    script-version: v2
+  },
+  {
+    file: '98th/001161411.pdf',
+    output: '001161411-3.json',
+    pages: '5-end',
+    expected_count: 34,
+    source: {
+      name: 第98回,
+      url: https://www.mhlw.go.jp/content/10601000/001161411.pdf
+    },
+    script-version: v2
+  },
+  {
+    file: '98th/001161412.pdf',
+    output: '001161412.json',
+    pages: '2',
+    expected_count: 1,
+    source: {
+      name: 第98回,
+      url: https://www.mhlw.go.jp/content/10601000/001161412.pdf
+    },
+    script-version: v2
+  },
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "no": 36311,
+    "age": 9,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/12/04"
+    ],
+    "onset_dates": [
+      "2022/12/04"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "コミナティ筋注５～11歳用\n（起源株）",
+    "concurrent_vaccination": "",
+    "manufacturer": "ファイザー",
+    "lot_no": "FW5101",
+    "PT_names": [
+      "アナフィラキシー反応"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "source": {
+      "name": "第93回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001091335.pdf"
+    }
+  },
+  {
+    "no": 36312,
+    "age": 11,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/04/16"
+    ],
+    "onset_dates": [
+      "2022/09/01"
+    ],
+    "days_to_onset": [
+      138
+    ],
+    "vaccine_name": "コミナティ筋注５～11歳用\n（起源株）",
+    "concurrent_vaccination": "",
+    "manufacturer": "ファイザー",
+    "lot_no": "FN5988",
+    "PT_names": [
+      "全頭脱毛症"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "未回復"
+    ],
+    "source": {
+      "name": "第93回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001091335.pdf"
+    }
+  }
+]

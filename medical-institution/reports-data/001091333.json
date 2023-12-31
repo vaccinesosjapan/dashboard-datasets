@@ -1,0 +1,109 @@
+[
+  {
+    "no": 36316,
+    "age": 2,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2023/01/10"
+    ],
+    "onset_dates": [
+      "2023/01/11",
+      "2023/01/11",
+      "2023/01/11"
+    ],
+    "days_to_onset": [
+      1
+    ],
+    "vaccine_name": "コミナティ筋注６ヵ月～４\n歳用",
+    "concurrent_vaccination": "",
+    "manufacturer": "ファイザー",
+    "lot_no": "GE0695",
+    "PT_names": [
+      "激越",
+      "異常行動",
+      "発熱"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "2023/01/12",
+      "2023/01/12",
+      "2023/01/12"
+    ],
+    "gross_results": [
+      "回復",
+      "回復",
+      "回復"
+    ],
+    "source": {
+      "name": "第93回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001091333.pdf"
+    }
+  },
+  {
+    "no": 36317,
+    "age": 4,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2023/01/13"
+    ],
+    "onset_dates": [
+      "2023/01/30"
+    ],
+    "days_to_onset": [
+      17
+    ],
+    "vaccine_name": "コミナティ筋注６ヵ月～４\n歳用",
+    "concurrent_vaccination": "",
+    "manufacturer": "ファイザー",
+    "lot_no": "GE0695",
+    "PT_names": [
+      "蜂巣炎"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "未回復"
+    ],
+    "source": {
+      "name": "第93回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001091333.pdf"
+    }
+  },
+  {
+    "no": 36318,
+    "age": 4,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2023/02/11"
+    ],
+    "onset_dates": [
+      "2023/02/11"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "コミナティ筋注６ヵ月～４\n歳用",
+    "concurrent_vaccination": "",
+    "manufacturer": "ファイザー",
+    "lot_no": "GE0695",
+    "PT_names": [
+      "蕁麻疹"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "source": {
+      "name": "第93回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001091333.pdf"
+    }
+  }
+]

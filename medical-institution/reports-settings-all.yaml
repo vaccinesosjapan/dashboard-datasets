@@ -1,0 +1,1040 @@
+settings: [
+  {
+    file: '74th/000872477.pdf',
+    output: '000872477.json',
+    pages: '2-end',
+    expected_count: 26160,
+    source: {
+      name: 第74回,
+      url: https://www.mhlw.go.jp/content/10601000/000872477.pdf
+    },
+    script-version: v1
+  },
+  {
+    file: '74th/000872479.pdf',
+    output: '000872479.json',
+    pages: '2-end',
+    expected_count: 4032,
+    source: {
+      name: 第74回,
+      url: https://www.mhlw.go.jp/content/10601000/000872479.pdf
+    },
+    script-version: v1
+  },
+  {
+    file: '74th/000872480.pdf',
+    output: '000872480.json',
+    pages: '2',
+    expected_count: 14,
+    source: {
+      name: 第74回,
+      url: https://www.mhlw.go.jp/content/10601000/000872480.pdf
+    },
+    script-version: v1
+  },
+  {
+    file: '75th/000884770.pdf',
+    output: '000884770.json',
+    pages: '2-end',
+    expected_count: 456,
+    source: {
+      name: 第75回,
+      url: https://www.mhlw.go.jp/content/10601000/000884770.pdf
+    },
+    script-version: v1
+  },
+  {
+    file: '75th/000884771.pdf',
+    output: '000884771.json',
+    pages: '2-end',
+    expected_count: 66,
+    source: {
+      name: 第75回,
+      url: https://www.mhlw.go.jp/content/10601000/000884771.pdf
+    },
+    script-version: v1
+  },
+  {
+    file: '75th/000884772.pdf',
+    output: '000884772.json',
+    pages: '2',
+    expected_count: 2,
+    source: {
+      name: 第75回,
+      url: https://www.mhlw.go.jp/content/10601000/000884772.pdf
+    },
+    script-version: v1
+  },
+  {
+    file: '76th/000898935.pdf',
+    output: '000898935.json',
+    pages: '2-end',
+    expected_count: 494,
+    source: {
+      name: 第76回,
+      url: https://www.mhlw.go.jp/content/10601000/000898935.pdf
+    },
+    script-version: v1
+  },
+  {
+    file: '76th/000898936.pdf',
+    output: '000898936.json',
+    pages: '2-end',
+    expected_count: 23,
+    source: {
+      name: 第76回,
+      url: https://www.mhlw.go.jp/content/10601000/000898936.pdf
+    },
+    script-version: v1
+  },
+  # 76th/000898937.pdf は報告無しのため処理しない
+  {
+    file: '77th/000914286.pdf',
+    output: '000914286.json',
+    pages: '2-end',
+    expected_count: 550,
+    source: {
+      name: 第77回,
+      url: https://www.mhlw.go.jp/content/10601000/000914286.pdf
+    },
+    script-version: v1
+  },
+  {
+    file: '77th/000914305.pdf',
+    output: '000914305.json',
+    pages: '2-end',
+    expected_count: 113,
+    source: {
+      name: 第77回,
+      url: https://www.mhlw.go.jp/content/10601000/000914305.pdf
+    },
+    script-version: v1
+  },
+  # 77th/000914305.pdf は報告無しのため処理しない
+  {
+    file: '78th/000928663.pdf',
+    output: '000928663.json',
+    pages: '2-end',
+    expected_count: 520,
+    source: {
+      name: 第78回,
+      url: https://www.mhlw.go.jp/content/10601000/000928663.pdf
+    },
+    script-version: v1
+  },
+  {
+    file: '78th/000928667.pdf',
+    output: '000928667.json',
+    pages: '2-end',
+    expected_count: 298,
+    source: {
+      name: 第78回,
+      url: https://www.mhlw.go.jp/content/10601000/000928667.pdf
+    },
+    script-version: v1
+  },
+  # 78th/000928668.pdf は抽出不可のため手作業で000928668.jsonを作る
+  {
+    file: '78th/000928669.pdf',
+    output: '000928669.json',
+    pages: '2',
+    expected_count: 6,
+    source: {
+      name: 第78回,
+      url: https://www.mhlw.go.jp/content/10601000/000928669.pdf
+    },
+    script-version: v1
+  },
+  {
+    file: '79th/000938134.pdf',
+    output: '000938134.json',
+    pages: '2-end',
+    expected_count: 348,
+    source: {
+      name: 第79回,
+      url: https://www.mhlw.go.jp/content/10601000/000938134.pdf
+    },
+    script-version: v1
+  },
+  {
+    file: '79th/000938135.pdf',
+    output: '000938135.json',
+    pages: '2-end',
+    expected_count: 275,
+    source: {
+      name: 第79回,
+      url: https://www.mhlw.go.jp/content/10601000/000938135.pdf
+    },
+    script-version: v1
+  },
+  # 79th/000938136.pdf は報告無しのため処理しない
+  {
+    file: '79th/000938278.pdf',
+    output: '000938278.json',
+    pages: '2-end',
+    expected_count: 23,
+    source: {
+      name: 第79回,
+      url: https://www.mhlw.go.jp/content/10601000/000938278.pdf
+    },
+    script-version: v1
+  },
+  {
+    file: '80th/000949343.pdf',
+    output: '000949343.json',
+    pages: '2-end',
+    expected_count: 289,
+    source: {
+      name: 第80回,
+      url: https://www.mhlw.go.jp/content/10601000/000949343.pdf
+    },
+    script-version: v1
+  },
+  {
+    file: '80th/000948864.pdf',
+    output: '000948864.json',
+    pages: '2-end',
+    expected_count: 134,
+    source: {
+      name: 第80回,
+      url: https://www.mhlw.go.jp/content/10601000/000948864.pdf
+    },
+    script-version: v1
+  },
+  # 80th/000948866.pdf は報告無しのため処理しない
+  {
+    file: '80th/000948888.pdf',
+    output: '000948888.json',
+    pages: '2-end',
+    expected_count: 47,
+    source: {
+      name: 第80回,
+      url: https://www.mhlw.go.jp/content/10601000/000948888.pdf
+    },
+    script-version: v1
+  },
+  {
+    file: '81st/000961480.pdf',
+    output: '000961480.json',
+    pages: '2-end',
+    expected_count: 220,
+    source: {
+      name: 第81回,
+      url: https://www.mhlw.go.jp/content/10601000/000961480.pdf
+    },
+    script-version: v1
+  },
+  {
+    file: '81st/000961481.pdf',
+    output: '000961481.json',
+    pages: '2-end',
+    expected_count: 94,
+    source: {
+      name: 第81回,
+      url: https://www.mhlw.go.jp/content/10601000/000961481.pdf
+    },
+    script-version: v1
+  },
+  # 81st/000961482.pdf は報告無しのため処理しない
+  {
+    file: '81st/000961483.pdf',
+    output: '000961483.json',
+    pages: '2-end',
+    expected_count: 24,
+    source: {
+      name: 第81回,
+      url: https://www.mhlw.go.jp/content/10601000/000961483.pdf
+    },
+    script-version: v1
+  },
+  {
+    file: '81st/000961484.pdf',
+    output: '000961484.json',
+    pages: '2-end',
+    expected_count: 2,
+    source: {
+      name: 第81回,
+      url: https://www.mhlw.go.jp/content/10601000/000961484.pdf
+    },
+    script-version: v1
+  },
+  {
+    file: '82th/000972952.pdf',
+    output: '000972952.json',
+    pages: '2-end',
+    expected_count: 155,
+    source: {
+      name: 第82回,
+      url: https://www.mhlw.go.jp/content/10601000/000972952.pdf
+    },
+    script-version: v1
+  },
+  {
+    file: '82th/000972953.pdf',
+    output: '000972953.json',
+    pages: '2-end',
+    expected_count: 61,
+    source: {
+      name: 第82回,
+      url: https://www.mhlw.go.jp/content/10601000/000972953.pdf
+    },
+    script-version: v1
+  },
+  # 82th/000972954.pdf は報告無しのため処理しない
+  {
+    file: '82th/000972955.pdf',
+    output: '000972955.json',
+    pages: '2-end',
+    expected_count: 10,
+    source: {
+      name: 第82回,
+      url: https://www.mhlw.go.jp/content/10601000/000972955.pdf
+    },
+    script-version: v1
+  },
+  {
+    file: '82th/000972956.pdf',
+    output: '000972956.json',
+    pages: '2-end',
+    expected_count: 5,
+    source: {
+      name: 第82回,
+      url: https://www.mhlw.go.jp/content/10601000/000972956.pdf
+    },
+    script-version: v1
+  },
+  {
+    file: '83th/000983364.pdf',
+    output: '000983364.json',
+    pages: '2-end',
+    expected_count: 171,
+    source: {
+      name: 第83回,
+      url: https://www.mhlw.go.jp/content/10601000/000983364.pdf
+    },
+    script-version: v1
+  },
+  {
+    file: '83th/000983365.pdf',
+    output: '000983365.json',
+    pages: '2-end',
+    expected_count: 83,
+    source: {
+      name: 第83回,
+      url: https://www.mhlw.go.jp/content/10601000/000983365.pdf
+    },
+    script-version: v1
+  },
+  # 83th/000983366.pdf は報告無しのため処理しない
+  {
+    file: '83th/000983367.pdf',
+    output: '000983367.json',
+    pages: '2-end',
+    expected_count: 5,
+    source: {
+      name: 第83回,
+      url: https://www.mhlw.go.jp/content/10601000/000983367.pdf
+    },
+    script-version: v1
+  },
+  {
+    file: '83th/000983575.pdf',
+    output: '000983575.json',
+    pages: '2-end',
+    expected_count: 9,
+    source: {
+      name: 第83回,
+      url: https://www.mhlw.go.jp/content/10601000/000983575.pdf
+    },
+    script-version: v1
+  },
+  {
+    file: '85th/000998158.pdf',
+    output: '000998158.json',
+    pages: '2-end',
+    expected_count: 129,
+    source: {
+      name: 第85回,
+      url: https://www.mhlw.go.jp/content/10601000/000998158.pdf
+    },
+    script-version: v1
+  },
+  {
+    file: '85th/000998159.pdf',
+    output: '000998159.json',
+    pages: '2-end',
+    expected_count: 76,
+    source: {
+      name: 第85回,
+      url: https://www.mhlw.go.jp/content/10601000/000998159.pdf
+    },
+    script-version: v1
+  },
+  # 85th/000998164.pdf は報告無しのため処理しない
+  {
+    file: '85th/000998682.pdf',
+    output: '000998682.json',
+    pages: '2-end',
+    expected_count: 4,
+    source: {
+      name: 第85回,
+      url: https://www.mhlw.go.jp/content/10601000/000998682.pdf
+    },
+    script-version: v1
+  },
+  {
+    file: '85th/000998169.pdf',
+    output: '000998169.json',
+    pages: '2-end',
+    expected_count: 11,
+    source: {
+      name: 第85回,
+      url: https://www.mhlw.go.jp/content/10601000/000998169.pdf
+    },
+    script-version: v1
+  },
+  {
+    file: '88th/001010912.pdf',
+    output: '001010912-1.json',
+    pages: '2-7',
+    expected_count: 164,
+    source: {
+      name: 第88回,
+      url: https://www.mhlw.go.jp/content/10601000/001010912.pdf
+    },
+    script-version: v2
+  },
+  {
+    file: '88th/001010912.pdf',
+    output: '001010912-2.json',
+    pages: '8',
+    expected_count: 7,
+    source: {
+      name: 第88回,
+      url: https://www.mhlw.go.jp/content/10601000/001010912.pdf
+    },
+    script-version: v2
+  },
+  {
+    file: '88th/001010913.pdf',
+    output: '001010913-1.json',
+    pages: '2-5',
+    expected_count: 83,
+    source: {
+      name: 第88回,
+      url: https://www.mhlw.go.jp/content/10601000/001010913.pdf
+    },
+    script-version: v2
+  },
+  {
+    file: '88th/001010913.pdf',
+    output: '001010913-2.json',
+    pages: '6',
+    expected_count: 1,
+    source: {
+      name: 第88回,
+      url: https://www.mhlw.go.jp/content/10601000/001010913.pdf
+    },
+    script-version: v2
+  },
+  # 88th/001010915.pdf は報告無しのため処理しない
+  {
+    file: '88th/001010916.pdf',
+    output: '001010916.json',
+    pages: '2',
+    expected_count: 9,
+    source: {
+      name: 第88回,
+      url: https://www.mhlw.go.jp/content/10601000/001010916.pdf
+    },
+    script-version: v2
+  },
+  {
+    file: '88th/001010917.pdf',
+    output: '001010917.json',
+    pages: '2',
+    expected_count: 4,
+    source: {
+      name: 第88回,
+      url: https://www.mhlw.go.jp/content/10601000/001010917.pdf
+    },
+    script-version: v2
+  },
+  {
+    file: '89th/001024107.pdf',
+    output: '001024107-1.json',
+    pages: '2-6',
+    expected_count: 96,
+    source: {
+      name: 第89回,
+      url: https://www.mhlw.go.jp/content/10601000/001024107.pdf
+    },
+    script-version: v2
+  },
+  {
+    file: '89th/001024107.pdf',
+    output: '001024107-2.json',
+    pages: '7-9',
+    expected_count: 42,
+    source: {
+      name: 第89回,
+      url: https://www.mhlw.go.jp/content/10601000/001024107.pdf
+    },
+    script-version: v2
+  },
+  {
+    file: '89th/001024107.pdf',
+    output: '001024107-3.json',
+    pages: '10',
+    expected_count: 17,
+    source: {
+      name: 第89回,
+      url: https://www.mhlw.go.jp/content/10601000/001024107.pdf
+    },
+    script-version: v2
+  },
+  # 89th/001024109.pdf は報告無しのため処理しない
+  {
+    file: '89th/001024111.pdf',
+    output: '001024111.json',
+    pages: '2',
+    expected_count: 4,
+    source: {
+      name: 第89回,
+      url: https://www.mhlw.go.jp/content/10601000/001024111.pdf
+    },
+    script-version: v2
+  },
+  {
+    file: '89th/001024118.pdf',
+    output: '001024118-1.json',
+    pages: '2-3',
+    expected_count: 46,
+    source: {
+      name: 第89回,
+      url: https://www.mhlw.go.jp/content/10601000/001024118.pdf
+    },
+    script-version: v2
+  },
+  {
+    file: '89th/001024118.pdf',
+    output: '001024118-2.json',
+    pages: '4',
+    expected_count: 13,
+    source: {
+      name: 第89回,
+      url: https://www.mhlw.go.jp/content/10601000/001024118.pdf
+    },
+    script-version: v2
+  },
+  # 89th/001024119.pdf は報告無しのため処理しない
+  {
+    file: '90th/001039672.pdf',
+    output: '001039672-1.json',
+    pages: '2-7',
+    expected_count: 106,
+    source: {
+      name: 第90回,
+      url: https://www.mhlw.go.jp/content/10601000/001039672.pdf
+    },
+    script-version: v2
+  },
+  {
+    file: '90th/001039672.pdf',
+    output: '001039672-2.json',
+    pages: '8-9',
+    expected_count: 28,
+    source: {
+      name: 第90回,
+      url: https://www.mhlw.go.jp/content/10601000/001039672.pdf
+    },
+    script-version: v2
+  },
+  {
+    file: '90th/001039672.pdf',
+    output: '001039672-3.json',
+    pages: '10-end',
+    expected_count: 203,
+    source: {
+      name: 第90回,
+      url: https://www.mhlw.go.jp/content/10601000/001039672.pdf
+    },
+    script-version: v2
+  },
+  {
+    file: '90th/001039673.pdf',
+    output: '001039673.json',
+    pages: '2',
+    expected_count: 2,
+    source: {
+      name: 第90回,
+      url: https://www.mhlw.go.jp/content/10601000/001039673.pdf
+    },
+    script-version: v2
+  },
+  {
+    file: '90th/001039674.pdf',
+    output: '001039674.json',
+    pages: '2',
+    expected_count: 7,
+    source: {
+      name: 第90回,
+      url: https://www.mhlw.go.jp/content/10601000/001039674.pdf
+    },
+    script-version: v2
+  },
+  {
+    file: '90th/001039675.pdf',
+    output: '001039675-1.json',
+    pages: '2-3',
+    expected_count: 33,
+    source: {
+      name: 第90回,
+      url: https://www.mhlw.go.jp/content/10601000/001039675.pdf
+    },
+    script-version: v2
+  },
+  {
+    file: '90th/001039675.pdf',
+    output: '001039675-2.json',
+    pages: '4',
+    expected_count: 25,
+    source: {
+      name: 第90回,
+      url: https://www.mhlw.go.jp/content/10601000/001039675.pdf
+    },
+    script-version: v2
+  },
+  # page 5の表が抽出できないため、手作業で001039675-2a.jsonに抽出する
+  {
+    file: '90th/001039675.pdf',
+    output: '001039675-3.json',
+    pages: '6',
+    expected_count: 2,
+    source: {
+      name: 第90回,
+      url: https://www.mhlw.go.jp/content/10601000/001039675.pdf
+    },
+    script-version: v2
+  },
+  {
+    file: '90th/001039676.pdf',
+    output: '001039676.json',
+    pages: '2',
+    expected_count: 3,
+    source: {
+      name: 第90回,
+      url: https://www.mhlw.go.jp/content/10601000/001039676.pdf
+    },
+    script-version: v2
+  },
+  {
+    file: '92nd/001068694.pdf',
+    output: '001068694-1.json',
+    pages: '2-7',
+    expected_count: 109,
+    source: {
+      name: 第92回,
+      url: https://www.mhlw.go.jp/content/10601000/001068694.pdf
+    },
+    script-version: v2
+  },
+  {
+    file: '92nd/001068694.pdf',
+    output: '001068694-2.json',
+    pages: '8',
+    expected_count: 10,
+    source: {
+      name: 第92回,
+      url: https://www.mhlw.go.jp/content/10601000/001068694.pdf
+    },
+    script-version: v2
+  },
+  {
+    file: '92nd/001068694.pdf',
+    output: '001068694-3.json',
+    pages: '9-end',
+    expected_count: 163,
+    source: {
+      name: 第92回,
+      url: https://www.mhlw.go.jp/content/10601000/001068694.pdf
+    },
+    script-version: v2
+  },
+  {
+    file: '92nd/001068695.pdf',
+    output: '001068695.json',
+    pages: '2',
+    expected_count: 1,
+    source: {
+      name: 第92回,
+      url: https://www.mhlw.go.jp/content/10601000/001068695.pdf
+    },
+    script-version: v2
+  },
+  {
+    file: '92nd/001068726.pdf',
+    output: '001068726.json',
+    pages: '2',
+    expected_count: 3,
+    source: {
+      name: 第92回,
+      url: https://www.mhlw.go.jp/content/10601000/001068726.pdf
+    },
+    script-version: v2
+  },
+  {
+    file: '92nd/001068730.pdf',
+    output: '001068730-1.json',
+    pages: '2-3',
+    expected_count: 26,
+    source: {
+      name: 第92回,
+      url: https://www.mhlw.go.jp/content/10601000/001068730.pdf
+    },
+    script-version: v2
+  },
+  {
+    file: '92nd/001068730.pdf',
+    output: '001068730-2.json',
+    pages: '4',
+    expected_count: 8,
+    source: {
+      name: 第92回,
+      url: https://www.mhlw.go.jp/content/10601000/001068730.pdf
+    },
+    script-version: v2
+  },
+  {
+    file: '92nd/001068730.pdf',
+    output: '001068730-3.json',
+    pages: '5',
+    expected_count: 20,
+    source: {
+      name: 第92回,
+      url: https://www.mhlw.go.jp/content/10601000/001068730.pdf
+    },
+    script-version: v2
+  },
+  {
+    file: '92nd/001068733.pdf',
+    output: '001068733.json',
+    pages: '2',
+    expected_count: 4,
+    source: {
+      name: 第92回,
+      url: https://www.mhlw.go.jp/content/10601000/001068733.pdf
+    },
+    script-version: v2
+  },
+  {
+    file: '93rd/001091327.pdf',
+    output: '001091327-1.json',
+    pages: '2-5',
+    expected_count: 81,
+    source: {
+      name: 第93回,
+      url: https://www.mhlw.go.jp/content/10601000/001091327.pdf
+    },
+    script-version: v2
+  },
+  {
+    file: '93rd/001091327.pdf',
+    output: '001091327-2.json',
+    pages: '6',
+    expected_count: 10,
+    source: {
+      name: 第93回,
+      url: https://www.mhlw.go.jp/content/10601000/001091327.pdf
+    },
+    script-version: v2
+  },
+  {
+    file: '93rd/001091327.pdf',
+    output: '001091327-3.json',
+    pages: '7-end',
+    expected_count: 148,
+    source: {
+      name: 第93回,
+      url: https://www.mhlw.go.jp/content/10601000/001091327.pdf
+    },
+    script-version: v2
+  },
+  {
+    file: '93rd/001091333.pdf',
+    output: '001091333.json',
+    pages: '2',
+    expected_count: 3,
+    source: {
+      name: 第93回,
+      url: https://www.mhlw.go.jp/content/10601000/001091333.pdf
+    },
+    script-version: v2
+  },
+  {
+    file: '93rd/001091335.pdf',
+    output: '001091335-1.json',
+    pages: '2', # page 3は処理不要
+    expected_count: 2,
+    source: {
+      name: 第93回,
+      url: https://www.mhlw.go.jp/content/10601000/001091335.pdf
+    },
+    script-version: v2
+  },
+  {
+    file: '93rd/001091336.pdf',
+    output: '001091336-1.json',
+    pages: '2-3',
+    expected_count: 32,
+    source: {
+      name: 第93回,
+      url: https://www.mhlw.go.jp/content/10601000/001091336.pdf
+    },
+    script-version: v2
+  },
+  {
+    file: '93rd/001091336.pdf',
+    output: '001091336-2.json',
+    pages: '4',
+    expected_count: 8,
+    source: {
+      name: 第93回,
+      url: https://www.mhlw.go.jp/content/10601000/001091336.pdf
+    },
+    script-version: v2
+  },
+  {
+    file: '93rd/001091336.pdf',
+    output: '001091336-3.json',
+    pages: '5',
+    expected_count: 1,
+    source: {
+      name: 第93回,
+      url: https://www.mhlw.go.jp/content/10601000/001091336.pdf
+    },
+    script-version: v2
+  },
+  {
+    file: '93rd/001091337.pdf',
+    output: '001091337.json',
+    pages: '2',
+    expected_count: 4,
+    source: {
+      name: 第93回,
+      url: https://www.mhlw.go.jp/content/10601000/001091337.pdf
+    },
+    script-version: v2
+  },
+  {
+    file: '94th/001125509.pdf',
+    output: '001125509-1.json',
+    pages: '2-4',
+    expected_count: 58,
+    source: {
+      name: 第94回,
+      url: https://www.mhlw.go.jp/content/10601000/001125509.pdf
+    },
+    script-version: v2
+  },
+  {
+    file: '94th/001125509.pdf',
+    output: '001125509-2.json',
+    pages: '5',
+    expected_count: 4,
+    source: {
+      name: 第94回,
+      url: https://www.mhlw.go.jp/content/10601000/001125509.pdf
+    },
+    script-version: v2
+  },
+  {
+    file: '94th/001125509.pdf',
+    output: '001125509-3.json',
+    pages: '6-end',
+    expected_count: 61,
+    source: {
+      name: 第94回,
+      url: https://www.mhlw.go.jp/content/10601000/001125509.pdf
+    },
+    script-version: v2
+  },
+  {
+    file: '94th/001125510.pdf',
+    output: '001125510.json',
+    pages: '2',
+    expected_count: 2,
+    source: {
+      name: 第94回,
+      url: https://www.mhlw.go.jp/content/10601000/001125510.pdf
+    },
+    script-version: v2
+  },
+  {
+    file: '94th/001125511.pdf',
+    output: '001125511-1.json',
+    pages: '2',
+    expected_count: 3,
+    source: {
+      name: 第94回,
+      url: https://www.mhlw.go.jp/content/10601000/001125511.pdf
+    },
+    script-version: v2
+  },
+  {
+    file: '94th/001125511.pdf',
+    output: '001125511-2.json',
+    pages: '3',
+    expected_count: 1,
+    source: {
+      name: 第94回,
+      url: https://www.mhlw.go.jp/content/10601000/001125511.pdf
+    },
+    script-version: v2
+  },
+  {
+    file: '94th/001125513.pdf',
+    output: '001125513-1.json',
+    pages: '2',
+    expected_count: 12,
+    source: {
+      name: 第94回,
+      url: https://www.mhlw.go.jp/content/10601000/001125513.pdf
+    },
+    script-version: v2
+  },
+  {
+    file: '94th/001125513.pdf',
+    output: '001125513-2.json',
+    pages: '3',
+    expected_count: 1,
+    source: {
+      name: 第94回,
+      url: https://www.mhlw.go.jp/content/10601000/001125513.pdf
+    },
+    script-version: v2
+  },
+  {
+    file: '94th/001125513.pdf',
+    output: '001125513-3.json',
+    pages: '4',
+    expected_count: 2,
+    source: {
+      name: 第94回,
+      url: https://www.mhlw.go.jp/content/10601000/001125513.pdf
+    },
+    script-version: v2
+  },
+  # 94th/001125515.pdf は報告無しのため処理しない
+  {
+    file: '98th/001161405.pdf',
+    output: '001161405-1.json',
+    pages: '2-6',
+    expected_count: 90,
+    source: {
+      name: 第98回,
+      url: https://www.mhlw.go.jp/content/10601000/001161405.pdf
+    },
+    script-version: v2
+  },
+  {
+    file: '98th/001161405.pdf',
+    output: '001161405-2.json',
+    pages: '7-8',
+    expected_count: 20,
+    source: {
+      name: 第98回,
+      url: https://www.mhlw.go.jp/content/10601000/001161405.pdf
+    },
+    script-version: v2
+  },
+  {
+    file: '98th/001161405.pdf',
+    output: '001161405-3.json',
+    pages: '9-end',
+    expected_count: 85,
+    source: {
+      name: 第98回,
+      url: https://www.mhlw.go.jp/content/10601000/001161405.pdf
+    },
+    script-version: v2
+  },
+  {
+    file: '98th/001161407.pdf',
+    output: '001161407.json',
+    pages: '2',
+    expected_count: 2,
+    source: {
+      name: 第98回,
+      url: https://www.mhlw.go.jp/content/10601000/001161407.pdf
+    },
+    script-version: v2
+  },
+  {
+    file: '98th/001161410.pdf',
+    output: '001161410-1.json',
+    pages: '2',
+    expected_count: 2,
+    source: {
+      name: 第98回,
+      url: https://www.mhlw.go.jp/content/10601000/001161410.pdf
+    },
+    script-version: v2
+  },
+  {
+    file: '98th/001161410.pdf',
+    output: '001161410-2.json',
+    pages: '3',
+    expected_count: 1,
+    source: {
+      name: 第98回,
+      url: https://www.mhlw.go.jp/content/10601000/001161410.pdf
+    },
+    script-version: v2
+  },
+  {
+    file: '98th/001161411.pdf',
+    output: '001161411-1.json',
+    pages: '2',
+    expected_count: 24,
+    source: {
+      name: 第98回,
+      url: https://www.mhlw.go.jp/content/10601000/001161411.pdf
+    },
+    script-version: v2
+  },
+  # page 3は抽出できないため、手作業で001161411-1a.jsonへと抽出する
+  {
+    file: '98th/001161411.pdf',
+    output: '001161411-2.json',
+    pages: '4',
+    expected_count: 1,
+    source: {
+      name: 第98回,
+      url: https://www.mhlw.go.jp/content/10601000/001161411.pdf
+    },
+    script-version: v2
+  },
+  {
+    file: '98th/001161411.pdf',
+    output: '001161411-3.json',
+    pages: '5-end',
+    expected_count: 34,
+    source: {
+      name: 第98回,
+      url: https://www.mhlw.go.jp/content/10601000/001161411.pdf
+    },
+    script-version: v2
+  },
+  {
+    file: '98th/001161412.pdf',
+    output: '001161412.json',
+    pages: '2',
+    expected_count: 1,
+    source: {
+      name: 第98回,
+      url: https://www.mhlw.go.jp/content/10601000/001161412.pdf
+    },
+    script-version: v2
+  },
+]

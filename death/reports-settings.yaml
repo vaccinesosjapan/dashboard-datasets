@@ -1,0 +1,42 @@
+settings: [
+  {
+    manufacturer: 'ファイザー株式会社',
+    name: 'コミナティRTU筋注（2価:起源株/オミクロン株BA.1）',
+    file: '001161432.pdf',
+    output: '001161432-6.json',
+    pages: '300-302',
+    script-version: v1
+  },
+  {
+    manufacturer: 'ファイザー株式会社',
+    name: 'コミナティRTU筋注（2価:起源株/オミクロン株BA.4-5）',
+    file: '001161432.pdf',
+    output: '001161432-7.json',
+    pages: '303-333',
+    script-version: v1
+  },
+  {
+    manufacturer: 'モデルナ・ジャパン株式会社',
+    name: 'スパイクバックス筋注',
+    file: '001161434.pdf',
+    output: '001161434-1.json',
+    pages: '4-49',
+    script-version: v1
+  },
+  {
+    manufacturer: 'モデルナ・ジャパン株式会社',
+    name: 'スパイクバックス筋注（2価:起源株/オミクロン株BA.1）',
+    file: '001161434.pdf',
+    output: '001161434-2.json',
+    pages: '50-51',
+    script-version: v1
+  },
+  {
+    manufacturer: 'モデルナ・ジャパン株式会社',
+    name: 'スパイクバックス筋注（2価:起源株/オミクロン株BA.4-5）',
+    file: '001161434.pdf',
+    output: '001161434-3.json',
+    pages: '52-53',
+    script-version: v1
+  },
+]

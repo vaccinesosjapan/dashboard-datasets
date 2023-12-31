@@ -1,0 +1,61 @@
+[
+  {
+    "certified_date": "2022/02/10",
+    "gender": "女",
+    "age": [
+      35
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "医療費・医療手当",
+    "symptoms": [
+      "嘔気",
+      "気分不良",
+      "食欲低下",
+      "四肢筋力低下",
+      "しびれ"
+    ],
+    "judgment_result": "認定",
+    "pre_existing_conditions": [],
+    "reasons_for_repudiation": [],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/000896495.pdf"
+  },
+  {
+    "certified_date": "2022/02/10",
+    "gender": "女",
+    "age": [
+      30
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "医療費・医療手当",
+    "symptoms": [
+      "発熱",
+      "倦怠感",
+      "食欲低下",
+      "口内炎",
+      "四肢丘疹"
+    ],
+    "judgment_result": "認定",
+    "pre_existing_conditions": [],
+    "reasons_for_repudiation": [],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/000896495.pdf"
+  },
+  {
+    "certified_date": "2022/02/10",
+    "gender": "女",
+    "age": [
+      22
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "医療費・医療手当",
+    "symptoms": [
+      "アナフィラキシー"
+    ],
+    "judgment_result": "認定",
+    "pre_existing_conditions": [],
+    "reasons_for_repudiation": [],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/000896495.pdf"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "no": 34019,
+    "age": 45,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/06/04"
+    ],
+    "onset_dates": [
+      "2022/06/04",
+      "2022/06/04",
+      "2022/06/04"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "ヌバキソビッド筋注",
+    "manufacturer": "ノババックス\n／武田",
+    "lot_no": "NP001",
+    "PT_names": [
+      "動悸",
+      "浮動性めまい",
+      "口腔咽頭不快感"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快",
+      "軽快",
+      "軽快"
+    ],
+    "source": {
+      "name": "第81回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000961484.pdf"
+    }
+  },
+  {
+    "no": 34020,
+    "age": 72,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/06/02"
+    ],
+    "onset_dates": [
+      "2022/06/02"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "ヌバキソビッド筋注",
+    "manufacturer": "ノババックス\n／武田",
+    "lot_no": "NP001",
+    "PT_names": [
+      "間代性痙攣"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "2022/06/02"
+    ],
+    "gross_results": [
+      "回復"
+    ],
+    "source": {
+      "name": "第81回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000961484.pdf"
+    }
+  }
+]

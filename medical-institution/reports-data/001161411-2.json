@@ -1,0 +1,55 @@
+[
+  {
+    "no": 36433,
+    "age": 78,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/12/06"
+    ],
+    "onset_dates": [
+      "2022/12/06 ",
+      "2022/12/06 ",
+      "2022/12/06 ",
+      "2022/12/06 ",
+      "2022/12/06 ",
+      "2022/12/06"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "スパイクバックス筋注（２価：起源\n株/オミクロン株BA.1）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "200041A",
+    "PT_names": [
+      "胃腸炎",
+      "腎障害",
+      "食欲減退",
+      "嘔吐",
+      "脱水",
+      "発熱"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入 ",
+      "未記入 ",
+      "未記入 ",
+      "未記入 ",
+      "未記入 ",
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快 ",
+      "軽快 ",
+      "軽快 ",
+      "軽快 ",
+      "軽快 ",
+      "軽快"
+    ],
+    "source": {
+      "name": "第98回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001161411.pdf"
+    }
+  }
+]

@@ -1,0 +1,17 @@
+settings: [
+  {
+    date: '2023/11/29',
+    file: '001173075.csv',
+    output: '001173075.json',
+    pages: '',
+    expected_count: {
+      certified: 185,
+      repudiation: 34
+    },
+    reason-type: 'TypeB',
+    script-version: v2,
+    source: {
+      url: https://www.mhlw.go.jp/content/10900000/001173075.pdf,
+    },
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "no": 36458,
+    "age": 4,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2023/01/18"
+    ],
+    "onset_dates": [
+      "2023/01/19"
+    ],
+    "days_to_onset": [
+      1
+    ],
+    "vaccine_name": "コミナティ筋注６ヵ月～４\n歳用",
+    "concurrent_vaccination": "",
+    "manufacturer": "ファイザー",
+    "lot_no": "GE0695",
+    "PT_names": [
+      "発疹"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "不明"
+    ],
+    "source": {
+      "name": "第94回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001125510.pdf"
+    }
+  },
+  {
+    "no": 36459,
+    "age": 1,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2023/02/16"
+    ],
+    "onset_dates": [
+      "2023/02/18"
+    ],
+    "days_to_onset": [
+      2
+    ],
+    "vaccine_name": "コミナティ筋注６ヵ月～４\n歳用",
+    "concurrent_vaccination": "",
+    "manufacturer": "ファイザー",
+    "lot_no": "GE0695",
+    "PT_names": [
+      "心肺停止"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "死亡"
+    ],
+    "source": {
+      "name": "第94回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001125510.pdf"
+    }
+  }
+]

@@ -1,0 +1,382 @@
+[
+  {
+    "no": 34699,
+    "age": 33,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/08/07"
+    ],
+    "onset_dates": [
+      "2022/08/07"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "ヌバキソビッド筋注",
+    "manufacturer": "ノババックス\n／武田",
+    "lot_no": "NP001",
+    "PT_names": [
+      "失神寸前の状態"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "2022/08/07"
+    ],
+    "gross_results": [
+      "回復"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998169.pdf"
+    }
+  },
+  {
+    "no": 34700,
+    "age": 25,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/08/17"
+    ],
+    "onset_dates": [
+      "2022/08/17"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "ヌバキソビッド筋注",
+    "manufacturer": "ノババックス\n／武田",
+    "lot_no": "NP001",
+    "PT_names": [
+      "失神寸前の状態"
+    ],
+    "causal_relationship": "関連なし",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "2022/08/17"
+    ],
+    "gross_results": [
+      "回復"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998169.pdf"
+    }
+  },
+  {
+    "no": 34701,
+    "age": 32,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/08/17"
+    ],
+    "onset_dates": [
+      "2022/08/17",
+      "2022/08/17",
+      "2022/08/17",
+      "2022/08/17"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "ヌバキソビッド筋注",
+    "manufacturer": "ノババックス\n／武田",
+    "lot_no": "NP001",
+    "PT_names": [
+      "体位性めまい",
+      "視力低下",
+      "冷汗",
+      "異常感"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998169.pdf"
+    }
+  },
+  {
+    "no": 34702,
+    "age": 29,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/08/17"
+    ],
+    "onset_dates": [
+      "2022/08/18",
+      "2022/08/18"
+    ],
+    "days_to_onset": [
+      1
+    ],
+    "vaccine_name": "ヌバキソビッド筋注",
+    "manufacturer": "ノババックス\n／武田",
+    "lot_no": "99999",
+    "PT_names": [
+      "突然死",
+      "心筋炎"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "死亡",
+      "死亡"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998169.pdf"
+    }
+  },
+  {
+    "no": 34703,
+    "age": 26,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/08/21"
+    ],
+    "onset_dates": [
+      "2022/08/21",
+      "2022/08/21"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "ヌバキソビッド筋注",
+    "manufacturer": "ノババックス\n／武田",
+    "lot_no": "NP001",
+    "PT_names": [
+      "意識レベルの低下",
+      "頻脈"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "2022/08/21",
+      "2022/08/21"
+    ],
+    "gross_results": [
+      "回復",
+      "回復"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998169.pdf"
+    }
+  },
+  {
+    "no": 34704,
+    "age": 53,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/08/21"
+    ],
+    "onset_dates": [
+      "2022/08/21",
+      "2022/08/21"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "ヌバキソビッド筋注",
+    "manufacturer": "ノババックス\n／武田",
+    "lot_no": "NP001",
+    "PT_names": [
+      "感覚鈍麻",
+      "口の感覚鈍麻"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "2022/08/21",
+      "2022/08/21"
+    ],
+    "gross_results": [
+      "回復",
+      "回復"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998169.pdf"
+    }
+  },
+  {
+    "no": 34705,
+    "age": 13,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/08/21"
+    ],
+    "onset_dates": [
+      "2022/08/21"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "ヌバキソビッド筋注",
+    "manufacturer": "ノババックス\n／武田",
+    "lot_no": "NP001",
+    "PT_names": [
+      "感覚鈍麻"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "2022/08/21"
+    ],
+    "gross_results": [
+      "回復"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998169.pdf"
+    }
+  },
+  {
+    "no": 34706,
+    "age": 33,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/08/21"
+    ],
+    "onset_dates": [
+      "2022/08/21",
+      "2022/08/21"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "ヌバキソビッド筋注",
+    "manufacturer": "ノババックス\n／武田",
+    "lot_no": "NP001",
+    "PT_names": [
+      "体位性めまい",
+      "悪寒"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "2022/08/21",
+      "2022/08/21"
+    ],
+    "gross_results": [
+      "回復",
+      "回復"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998169.pdf"
+    }
+  },
+  {
+    "no": 34707,
+    "age": 45,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/07/17"
+    ],
+    "onset_dates": [
+      "2022/07/17"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "ヌバキソビッド筋注",
+    "manufacturer": "ノババックス\n／武田",
+    "lot_no": "NP001",
+    "PT_names": [
+      "失神寸前の状態"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "2022/07/17"
+    ],
+    "gross_results": [
+      "回復"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998169.pdf"
+    }
+  },
+  {
+    "no": 34708,
+    "age": 62,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/08/23"
+    ],
+    "onset_dates": [
+      "2022/08/23"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "ヌバキソビッド筋注",
+    "manufacturer": "ノババックス\n／武田",
+    "lot_no": "NP003",
+    "PT_names": [
+      "そう痒症"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998169.pdf"
+    }
+  },
+  {
+    "no": 34709,
+    "age": 28,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/08/30"
+    ],
+    "onset_dates": [
+      "2022/08/30"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "ヌバキソビッド筋注",
+    "manufacturer": "ノババックス\n／武田",
+    "lot_no": "NP001",
+    "PT_names": [
+      "失神寸前の状態"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "2022/08/30"
+    ],
+    "gross_results": [
+      "回復"
+    ],
+    "source": {
+      "name": "第85回",
+      "url": "https://www.mhlw.go.jp/content/10601000/000998169.pdf"
+    }
+  }
+]

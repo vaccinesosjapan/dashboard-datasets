@@ -1,0 +1,134 @@
+[
+  {
+    "no": 35887,
+    "age": 48,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/06/19"
+    ],
+    "onset_dates": [
+      "2022/06/26"
+    ],
+    "days_to_onset": [
+      7
+    ],
+    "vaccine_name": "ヌバキソビッド筋注",
+    "concurrent_vaccination": "",
+    "manufacturer": "ノババックス\n／武田",
+    "lot_no": "99999",
+    "PT_names": [
+      "多形紅斑"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "source": {
+      "name": "第92回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001068733.pdf"
+    }
+  },
+  {
+    "no": 35888,
+    "age": 34,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/12/21"
+    ],
+    "onset_dates": [
+      "2022/12/21"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "ヌバキソビッド筋注",
+    "concurrent_vaccination": "",
+    "manufacturer": "ノババックス\n／武田",
+    "lot_no": "NP007",
+    "PT_names": [
+      "アナフィラキシー反応"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "2022/12/21"
+    ],
+    "gross_results": [
+      "回復"
+    ],
+    "source": {
+      "name": "第92回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001068733.pdf"
+    }
+  },
+  {
+    "no": 35889,
+    "age": 39,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/11/20"
+    ],
+    "onset_dates": [
+      "2022/11/20"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "ヌバキソビッド筋注",
+    "concurrent_vaccination": "",
+    "manufacturer": "ノババックス\n／武田",
+    "lot_no": "NP007",
+    "PT_names": [
+      "アナフィラキシー反応"
+    ],
+    "causal_relationship": "",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "不明"
+    ],
+    "source": {
+      "name": "第92回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001068733.pdf"
+    }
+  },
+  {
+    "no": 35890,
+    "age": 47,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/12/16"
+    ],
+    "onset_dates": [
+      "2022/12/17"
+    ],
+    "days_to_onset": [
+      1
+    ],
+    "vaccine_name": "ヌバキソビッド筋注",
+    "concurrent_vaccination": "",
+    "manufacturer": "ノババックス\n／武田",
+    "lot_no": "NP004",
+    "PT_names": [
+      "ワクチン接種部位疼痛"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "未回復"
+    ],
+    "source": {
+      "name": "第92回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001068733.pdf"
+    }
+  }
+]

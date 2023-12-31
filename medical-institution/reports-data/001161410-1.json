@@ -1,0 +1,96 @@
+[
+  {
+    "no": 36703,
+    "age": 8,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2023/03/25"
+    ],
+    "onset_dates": [
+      "2023/03/26 ",
+      "2023/03/26"
+    ],
+    "days_to_onset": [
+      1
+    ],
+    "vaccine_name": "コミナティ筋注５～11歳用\n（起源株）",
+    "concurrent_vaccination": "",
+    "manufacturer": "ファイザー",
+    "lot_no": "FP0362",
+    "PT_names": [
+      "熱性痙攣",
+      "発熱"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "2023/03/26 ",
+      "2023/03/26"
+    ],
+    "gross_results": [
+      "回復 ",
+      "回復"
+    ],
+    "source": {
+      "name": "第98回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001161410.pdf"
+    }
+  },
+  {
+    "no": 36704,
+    "age": 11,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/09/19"
+    ],
+    "onset_dates": [
+      "2022/09/20 ",
+      "2022/09/20 ",
+      "2022/09/20 ",
+      "2022/09/20 ",
+      "2022/09/20 ",
+      "2022/09/20 ",
+      "2022/09/20"
+    ],
+    "days_to_onset": [
+      1
+    ],
+    "vaccine_name": "コミナティ筋注５～11歳用\n（起源株）",
+    "concurrent_vaccination": "",
+    "manufacturer": "ファイザー",
+    "lot_no": "FR4267",
+    "PT_names": [
+      "脳症",
+      "多臓器機能不全症候群",
+      "肺水腫",
+      "ショック",
+      "脳浮腫",
+      "サイトカインストーム",
+      "中枢神経系壊死"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入 ",
+      "未記入 ",
+      "未記入 ",
+      "未記入 ",
+      "未記入 ",
+      "未記入 ",
+      "未記入"
+    ],
+    "gross_results": [
+      "死亡 ",
+      "死亡 ",
+      "死亡 ",
+      "死亡 ",
+      "死亡 ",
+      "死亡 ",
+      "死亡"
+    ],
+    "source": {
+      "name": "第98回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001161410.pdf"
+    }
+  }
+]
