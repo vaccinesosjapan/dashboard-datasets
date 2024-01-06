@@ -933,5 +933,65 @@ settings: [
     source: {
       url: https://www.mhlw.go.jp/content/10900000/001173075.pdf,
     },
+  },
+  {
+    date: '2023/12/08',
+    file: '001177107.csv',
+    output: '001177107.json',
+    pages: '',
+    expected_count: {
+      certified: 142,
+      repudiation: 21
+    },
+    reason-type: 'TypeB',
+    script-version: v2,
+    source: {
+      url: https://www.mhlw.go.jp/content/10900000/001177107.pdf,
+    },
+  },
+  {
+    date: '2023/12/18',
+    file: '001179956.csv',
+    output: '001179956.json',
+    pages: '',
+    expected_count: {
+      certified: 27,
+      repudiation: 12
+    },
+    reason-type: 'TypeB',
+    script-version: v2,
+    source: {
+      url: https://www.mhlw.go.jp/content/10900000/001179956.pdf,
+    },
+  },
+  {
+    date: '2023/12/25',
+    file: '001183565.csv',
+    output: '001183565.json',
+    pages: '',
+    expected_count: {
+      certified: 77,
+      repudiation: 30
+    },
+    reason-type: 'TypeB',
+    script-version: v2,
+    source: {
+      url: https://www.mhlw.go.jp/content/10900000/001183565.pdf,
+    },
+  },
+  {
+    date: '2023/12/27',
+    file: '001185105.csv',
+    output: '001185105.json',
+    pages: '',
+    expected_count: {
+      certified: 132,
+      repudiation: 29
+    },
+    reason-type: 'TypeB',
+    script-version: v2,
+    source: {
+      url: https://www.mhlw.go.jp/content/10900000/001185105.pdf,
+    },
   }
 ]

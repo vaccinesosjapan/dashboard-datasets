@@ -1,17 +1,31 @@
+# 各設定に何を記載すればよいかについて説明します。
+#
+#  date: PDF最初のページの左上に記載の日付を記載する
+#  file: intermediate-filesフォルダに保存したCSVのファイル名を記載する
+#  output: 出力ファイル名を記載する
+#  pages: PDFから直接抽出する場合の設定だが、認定一覧にはほとんど使わない
+#  expected_count: PDF最初のページの左上に記載の認定人数などをここに（件数チェックで使用）
+#    certified: 認定の件数
+#    repudiation: 否認の件数
+#  reason-type: 否認理由が4段階評価になった 2023年3月14日 以降のデータでは TypeB を指定する
+#  script-version: 特に必要がなければ v2 を指定する
+#  source
+#    url: 元資料として使ったPDFのURLを記載する
+#
 settings: [
   {
-    date: '2023/11/29',
-    file: '001173075.csv',
-    output: '001173075.json',
+    date: '2023/12/18',
+    file: '001179956.csv',
+    output: '001179956.json',
     pages: '',
     expected_count: {
-      certified: 185,
-      repudiation: 34
+      certified: 27,
+      repudiation: 12
     },
     reason-type: 'TypeB',
     script-version: v2,
     source: {
-      url: https://www.mhlw.go.jp/content/10900000/001173075.pdf,
+      url: https://www.mhlw.go.jp/content/10900000/001179956.pdf,
     },
   }
 ]

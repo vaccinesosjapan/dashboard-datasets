@@ -1,0 +1,702 @@
+[
+  {
+    "certified_date": "2023/12/18",
+    "gender": "女",
+    "age": [
+      40
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "医療費・医療手当認定",
+    "symptoms": [
+      "左半身しびれ",
+      "関節痛",
+      "下肢脱力感"
+    ],
+    "judgment_result": "認定",
+    "pre_existing_conditions": [],
+    "reasons_for_repudiation": [],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001179956.pdf"
+  },
+  {
+    "certified_date": "2023/12/18",
+    "gender": "男",
+    "age": [
+      47
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "医療費・医療手当",
+    "symptoms": [
+      "強直性脊椎炎の増悪",
+      "迷走神経反射"
+    ],
+    "judgment_result": "認定",
+    "pre_existing_conditions": [],
+    "reasons_for_repudiation": [],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001179956.pdf"
+  },
+  {
+    "certified_date": "2023/12/18",
+    "gender": "男",
+    "age": [
+      61
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "医療費・医療手当",
+    "symptoms": [
+      "両手指しびれ",
+      "全身倦怠感"
+    ],
+    "judgment_result": "認定",
+    "pre_existing_conditions": [],
+    "reasons_for_repudiation": [],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001179956.pdf"
+  },
+  {
+    "certified_date": "2023/12/18",
+    "gender": "男",
+    "age": [
+      12
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "医療費・医療手当",
+    "symptoms": [
+      "墜落外傷",
+      "全身打撲",
+      "夜驚症の発作"
+    ],
+    "judgment_result": "認定",
+    "pre_existing_conditions": [],
+    "reasons_for_repudiation": [],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001179956.pdf"
+  },
+  {
+    "certified_date": "2023/12/18",
+    "gender": "女",
+    "age": [
+      41
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "医療費・医療手当",
+    "symptoms": [
+      "統合失調症の増悪",
+      "高CK血症",
+      "肺炎",
+      "横紋筋融解症"
+    ],
+    "judgment_result": "認定",
+    "pre_existing_conditions": [],
+    "reasons_for_repudiation": [],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001179956.pdf"
+  },
+  {
+    "certified_date": "2023/12/18",
+    "gender": "男",
+    "age": [
+      57
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "医療費・医療手当",
+    "symptoms": [
+      "抗LGI-1受容体抗体陽性脳炎"
+    ],
+    "judgment_result": "認定",
+    "pre_existing_conditions": [],
+    "reasons_for_repudiation": [],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001179956.pdf"
+  },
+  {
+    "certified_date": "2023/12/18",
+    "gender": "男",
+    "age": [
+      55,
+      56
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "医療費・医療手当",
+    "symptoms": [
+      "左肩関節痛",
+      "左上肢のしびれ・疼痛"
+    ],
+    "judgment_result": "認定",
+    "pre_existing_conditions": [],
+    "reasons_for_repudiation": [],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001179956.pdf"
+  },
+  {
+    "certified_date": "2023/12/18",
+    "gender": "女",
+    "age": [
+      48
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "医療費・医療手当",
+    "symptoms": [
+      "成人スティル病"
+    ],
+    "judgment_result": "認定",
+    "pre_existing_conditions": [],
+    "reasons_for_repudiation": [],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001179956.pdf"
+  },
+  {
+    "certified_date": "2023/12/18",
+    "gender": "女",
+    "age": [
+      44
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "医療費・医療手当",
+    "symptoms": [
+      "全身性強皮症"
+    ],
+    "judgment_result": "認定",
+    "pre_existing_conditions": [],
+    "reasons_for_repudiation": [],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001179956.pdf"
+  },
+  {
+    "certified_date": "2023/12/18",
+    "gender": "女",
+    "age": [
+      75
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "死亡一時金・葬祭料",
+    "symptoms": [
+      "虚血性心疾患"
+    ],
+    "judgment_result": "認定",
+    "pre_existing_conditions": [
+      "高血圧症",
+      "脂質異常症",
+      "肥満"
+    ],
+    "reasons_for_repudiation": [],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001179956.pdf"
+  },
+  {
+    "certified_date": "2023/12/18",
+    "gender": "男",
+    "age": [
+      73
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "医療費・医療手当",
+    "symptoms": [
+      "視野障害",
+      "脳底動脈閉塞"
+    ],
+    "judgment_result": "認定",
+    "pre_existing_conditions": [],
+    "reasons_for_repudiation": [],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001179956.pdf"
+  },
+  {
+    "certified_date": "2023/12/18",
+    "gender": "男",
+    "age": [
+      73
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "死亡一時金・葬祭料",
+    "symptoms": [
+      "脳梗塞"
+    ],
+    "judgment_result": "認定",
+    "pre_existing_conditions": [
+      "両肩帯状疱疹",
+      "前立腺肥大"
+    ],
+    "reasons_for_repudiation": [],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001179956.pdf"
+  },
+  {
+    "certified_date": "2023/12/18",
+    "gender": "女",
+    "age": [
+      71
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "医療費・医療手当",
+    "symptoms": [
+      "血小板減少症を伴う血栓症",
+      "急性腎不全"
+    ],
+    "judgment_result": "認定",
+    "pre_existing_conditions": [],
+    "reasons_for_repudiation": [],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001179956.pdf"
+  },
+  {
+    "certified_date": "2023/12/18",
+    "gender": "女",
+    "age": [
+      71
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "死亡一時金・葬祭料",
+    "symptoms": [
+      "血小板減少症を伴う血栓症",
+      "急性腎不全"
+    ],
+    "judgment_result": "認定",
+    "pre_existing_conditions": [
+      "関節リウマチ",
+      "シェーグレン症候群",
+      "多発性骨髄腫もしくはMGUS"
+    ],
+    "reasons_for_repudiation": [],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001179956.pdf"
+  },
+  {
+    "certified_date": "2023/12/18",
+    "gender": "女",
+    "age": [
+      51
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "医療費・医療手当",
+    "symptoms": [
+      "冠攣縮性狭心症の増悪"
+    ],
+    "judgment_result": "認定",
+    "pre_existing_conditions": [],
+    "reasons_for_repudiation": [],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001179956.pdf"
+  },
+  {
+    "certified_date": "2023/12/18",
+    "gender": "女",
+    "age": [
+      68
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "医療費・医療手当",
+    "symptoms": [
+      "バセドウ病"
+    ],
+    "judgment_result": "認定",
+    "pre_existing_conditions": [],
+    "reasons_for_repudiation": [],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001179956.pdf"
+  },
+  {
+    "certified_date": "2023/12/18",
+    "gender": "女",
+    "age": [
+      82
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "医療費・医療手当",
+    "symptoms": [
+      "水疱性類天疱瘡"
+    ],
+    "judgment_result": "認定",
+    "pre_existing_conditions": [],
+    "reasons_for_repudiation": [],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001179956.pdf"
+  },
+  {
+    "certified_date": "2023/12/18",
+    "gender": "女",
+    "age": [
+      38
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "医療費・医療手当",
+    "symptoms": [
+      "反射性交感神経性ジストロフィー症"
+    ],
+    "judgment_result": "認定",
+    "pre_existing_conditions": [],
+    "reasons_for_repudiation": [],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001179956.pdf"
+  },
+  {
+    "certified_date": "2023/12/18",
+    "gender": "女",
+    "age": [
+      38
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "障害年金",
+    "symptoms": [
+      "反射性交感神経性ジストロフィー症による左手指(全指)の著しい機能障害"
+    ],
+    "judgment_result": "認定",
+    "pre_existing_conditions": [],
+    "reasons_for_repudiation": [],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001179956.pdf"
+  },
+  {
+    "certified_date": "2023/12/18",
+    "gender": "男",
+    "age": [
+      67
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "医療費・医療手当",
+    "symptoms": [
+      "末梢神経障害(左橈骨神経麻痺)"
+    ],
+    "judgment_result": "認定",
+    "pre_existing_conditions": [],
+    "reasons_for_repudiation": [],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001179956.pdf"
+  },
+  {
+    "certified_date": "2023/12/18",
+    "gender": "女",
+    "age": [
+      57
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "医療費・医療手当",
+    "symptoms": [
+      "腰椎硬膜外血腫",
+      "胸椎硬膜外血腫"
+    ],
+    "judgment_result": "認定",
+    "pre_existing_conditions": [],
+    "reasons_for_repudiation": [],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001179956.pdf"
+  },
+  {
+    "certified_date": "2023/12/18",
+    "gender": "女",
+    "age": [
+      57
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "障害年金",
+    "symptoms": [
+      "腰椎硬膜外血腫",
+      "胸椎硬膜外血腫",
+      "両下肢筋力低下"
+    ],
+    "judgment_result": "認定",
+    "pre_existing_conditions": [],
+    "reasons_for_repudiation": [],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001179956.pdf"
+  },
+  {
+    "certified_date": "2023/12/18",
+    "gender": "男",
+    "age": [
+      16
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "医療費・医療手当",
+    "symptoms": [
+      "右腓骨神経障害"
+    ],
+    "judgment_result": "認定",
+    "pre_existing_conditions": [],
+    "reasons_for_repudiation": [],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001179956.pdf"
+  },
+  {
+    "certified_date": "2023/12/18",
+    "gender": "男",
+    "age": [
+      10
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "医療費・医療手当",
+    "symptoms": [
+      "神経障害性疼痛"
+    ],
+    "judgment_result": "認定",
+    "pre_existing_conditions": [],
+    "reasons_for_repudiation": [],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001179956.pdf"
+  },
+  {
+    "certified_date": "2023/12/18",
+    "gender": "男",
+    "age": [
+      86
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "医療費・医療手当",
+    "symptoms": [
+      "敗血症",
+      "心不全",
+      "左下肢動脈閉塞",
+      "肺炎、肺塞栓症"
+    ],
+    "judgment_result": "認定",
+    "pre_existing_conditions": [],
+    "reasons_for_repudiation": [],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001179956.pdf"
+  },
+  {
+    "certified_date": "2023/12/18",
+    "gender": "男",
+    "age": [
+      86
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "死亡一時金・葬祭料",
+    "symptoms": [
+      "敗血症"
+    ],
+    "judgment_result": "認定",
+    "pre_existing_conditions": [
+      "心房細動",
+      "脳梗塞後遺症",
+      "右大腿骨転子部骨折術後"
+    ],
+    "reasons_for_repudiation": [],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001179956.pdf"
+  },
+  {
+    "certified_date": "2023/12/18",
+    "gender": "女",
+    "age": [
+      30
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "医療費・医療手当",
+    "symptoms": [
+      "手指こわばり",
+      "手首関節痛",
+      "ドライアイ"
+    ],
+    "judgment_result": "認定",
+    "pre_existing_conditions": [],
+    "reasons_for_repudiation": [],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001179956.pdf"
+  },
+  {
+    "certified_date": "2023/12/18",
+    "gender": "男",
+    "age": [
+      77
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "死亡一時金・葬祭料",
+    "symptoms": [],
+    "judgment_result": "否認",
+    "pre_existing_conditions": [],
+    "reasons_for_repudiation": [
+      "TypeB-1"
+    ],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001179956.pdf"
+  },
+  {
+    "certified_date": "2023/12/18",
+    "gender": "男",
+    "age": [
+      83
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "死亡一時金・葬祭料",
+    "symptoms": [],
+    "judgment_result": "否認",
+    "pre_existing_conditions": [],
+    "reasons_for_repudiation": [
+      "TypeB-1"
+    ],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001179956.pdf"
+  },
+  {
+    "certified_date": "2023/12/18",
+    "gender": "男",
+    "age": [
+      61
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "医療費・医療手当",
+    "symptoms": [],
+    "judgment_result": "否認",
+    "pre_existing_conditions": [],
+    "reasons_for_repudiation": [
+      "TypeB-1"
+    ],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001179956.pdf"
+  },
+  {
+    "certified_date": "2023/12/18",
+    "gender": "女",
+    "age": [
+      68
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "医療費・医療手当",
+    "symptoms": [],
+    "judgment_result": "否認",
+    "pre_existing_conditions": [],
+    "reasons_for_repudiation": [
+      "TypeB-1"
+    ],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001179956.pdf"
+  },
+  {
+    "certified_date": "2023/12/18",
+    "gender": "女",
+    "age": [
+      68
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "死亡一時金・葬祭料",
+    "symptoms": [],
+    "judgment_result": "否認",
+    "pre_existing_conditions": [],
+    "reasons_for_repudiation": [
+      "TypeB-1"
+    ],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001179956.pdf"
+  },
+  {
+    "certified_date": "2023/12/18",
+    "gender": "男",
+    "age": [
+      77
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "医療費・医療手当",
+    "symptoms": [],
+    "judgment_result": "否認",
+    "pre_existing_conditions": [],
+    "reasons_for_repudiation": [
+      "TypeB-1"
+    ],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001179956.pdf"
+  },
+  {
+    "certified_date": "2023/12/18",
+    "gender": "男",
+    "age": [
+      77
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "死亡一時金・葬祭料",
+    "symptoms": [],
+    "judgment_result": "否認",
+    "pre_existing_conditions": [],
+    "reasons_for_repudiation": [
+      "TypeB-1"
+    ],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001179956.pdf"
+  },
+  {
+    "certified_date": "2023/12/18",
+    "gender": "女",
+    "age": [
+      52
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "死亡一時金・葬祭料",
+    "symptoms": [],
+    "judgment_result": "否認",
+    "pre_existing_conditions": [],
+    "reasons_for_repudiation": [
+      "TypeB-1"
+    ],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001179956.pdf"
+  },
+  {
+    "certified_date": "2023/12/18",
+    "gender": "女",
+    "age": [
+      80
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "医療費・医療手当",
+    "symptoms": [],
+    "judgment_result": "否認",
+    "pre_existing_conditions": [],
+    "reasons_for_repudiation": [
+      "TypeB-1"
+    ],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001179956.pdf"
+  },
+  {
+    "certified_date": "2023/12/18",
+    "gender": "女",
+    "age": [
+      80
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "死亡一時金・葬祭料",
+    "symptoms": [],
+    "judgment_result": "否認",
+    "pre_existing_conditions": [],
+    "reasons_for_repudiation": [
+      "TypeB-1"
+    ],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001179956.pdf"
+  },
+  {
+    "certified_date": "2023/12/18",
+    "gender": "男",
+    "age": [
+      67
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "障害年金",
+    "symptoms": [],
+    "judgment_result": "否認",
+    "pre_existing_conditions": [],
+    "reasons_for_repudiation": [
+      "TypeB-3"
+    ],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001179956.pdf"
+  },
+  {
+    "certified_date": "2023/12/18",
+    "gender": "男",
+    "age": [
+      16
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "障害児養育年金",
+    "symptoms": [],
+    "judgment_result": "否認",
+    "pre_existing_conditions": [],
+    "reasons_for_repudiation": [
+      "TypeB-3"
+    ],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001179956.pdf"
+  }
+]
