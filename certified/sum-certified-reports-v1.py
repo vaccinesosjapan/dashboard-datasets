@@ -1,4 +1,5 @@
-import glob, json, os
+import glob, json, os, datetime
+import pandas as pd
 import yaml
 
 json_file_list = glob.glob('reports-data/*.json')
@@ -96,3 +97,88 @@ certified_summary_json = json.dumps(certified_summary, ensure_ascii=False, inden
 output_path = os.path.join(output_dir, 'certified-summary.json')
 with open( output_path, "w", encoding='utf-8') as f:
     f.write(certified_summary_json)
+
+
+# 過去のワクチン接種に関する認定一覧に、新型コロナワクチンの認定結果をマージして
+# グラフ表示可能にするためのデータを作る処理。
+medical_expenses_count = 0
+disability_pension_of_children_count = 0
+disability_pension_count = 0
+death_count = 0
+
+for item in sorted_reports:
+	if item['judgment_result'] == '否認':
+		continue
+	
+	claim = item['description_of_claim']
+	if claim == '医療費・医療手当':
+		medical_expenses_count += 1
+	elif claim == '障害児養育年金':
+		disability_pension_of_children_count += 1
+	elif claim == '障害年金':
+		disability_pension_count += 1
+	elif claim.find('死亡一時金') > -1 or claim == '遺族年金' or claim == '遺族一時金' or claim.find('葬祭料') > -1:
+		death_count += 1
+	else:
+		print('-'*10)
+		print(f'unknown claim: {claim}')
+		print('-'*10)
+
+df = pd.read_csv("other-vaccines/certified-issues-summary.csv", delimiter=',')
+
+new_row = {'vaccine_name': "新型コロナ",
+		'medical': medical_expenses_count,
+		'disability_of_children': disability_pension_of_children_count,
+		'disability': disability_pension_count,
+		'death': death_count}
+df_added = pd.concat([df, pd.DataFrame(new_row, index=[len(df)])], ignore_index=True)
+
+with open('reports-settings-all.yaml', "r", encoding='utf-8') as file:
+    settings_root = yaml.safe_load(file)
+settings = settings_root['settings']
+
+date_format = '%Y/%m/%d'
+first_date = datetime.datetime.today()
+last_date = datetime.datetime.strptime('2021/01/01', date_format)
+
+for setting in settings:
+    dt = datetime.datetime.strptime(setting['date'], date_format)
+    if dt > last_date:
+        last_date = dt
+    if dt < first_date:
+        first_date = dt
+
+with open('other-vaccines/metadata.yaml', "r", encoding='utf-8') as file:
+    metadata_root = yaml.safe_load(file)
+metadata = metadata_root['metadata']
+
+date_format2 = '%Y/%m'
+f_date = datetime.datetime.strptime(metadata['first_date'], date_format2)
+l_date = datetime.datetime.strptime(metadata['last_date'], date_format2)
+
+summary_with_other_vaccines = {
+	"meta_data": {
+		"covid19_vaccine": {
+			"first_date": first_date.strftime('%Y/%m/%d'),
+			"last_date": last_date.strftime('%Y/%m/%d'),
+			"period": f'{last_date.year - first_date.year}年{last_date.month - first_date.month}ヶ月',
+			"certified_count": certified_count,
+			"source_url": "https://www.mhlw.go.jp/stf/shingi/shingi-shippei_127696_00001.html"
+		},
+		"other_vaccines": {
+			"first_date": metadata['first_date'],
+			"last_date": metadata['last_date'],
+			"period": f'{l_date.year - f_date.year}年{l_date.month - f_date.month}ヶ月',
+			"certified_count": int(metadata['certified_count']),
+			"source_url": metadata['source_url']
+		}
+	},
+	"chart_data": {
+		"headers": ['ワクチン名', '医療費・医療手当', '障害児養育年金', '障害年金', '死亡一時金・遺族年金・遺族一時金・葬祭料'],
+		"data": json.loads(df_added.to_json(orient='records', force_ascii=False, indent=2))
+	}
+}
+json_string = json.dumps(summary_with_other_vaccines, ensure_ascii=False, indent=2)
+output_file_path = os.path.join(output_dir, 'certified-summary-with-other-vaccines.json')
+with open( output_file_path, "w", encoding='utf-8') as f:
+	f.write(json_string)
