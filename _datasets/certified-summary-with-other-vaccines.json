@@ -1,0 +1,204 @@
+{
+  "meta_data": {
+    "covid19_vaccine": {
+      "first_date": "2021/08/19",
+      "last_date": "2023/12/27",
+      "period": "2年4ヶ月",
+      "certified_count": 5735,
+      "source_url": "https://www.mhlw.go.jp/stf/shingi/shingi-shippei_127696_00001.html"
+    },
+    "other_vaccines": {
+      "first_date": "1977/02",
+      "last_date": "2021/12",
+      "period": "44年10ヶ月",
+      "certified_count": 3522,
+      "source_url": "https://www.mhlw.go.jp/topics/bcg/other/6.html"
+    }
+  },
+  "chart_data": {
+    "headers": [
+      "ワクチン名",
+      "医療費・医療手当",
+      "障害児養育年金",
+      "障害年金",
+      "死亡一時金・遺族年金・遺族一時金・葬祭料"
+    ],
+    "data": [
+      {
+        "vaccine_name": "痘そう",
+        "medical": 43,
+        "disability_of_children": 0,
+        "disability": 202,
+        "death": 42
+      },
+      {
+        "vaccine_name": "Ｄ",
+        "medical": 1,
+        "disability_of_children": 0,
+        "disability": 1,
+        "death": 0
+      },
+      {
+        "vaccine_name": "Ｐ",
+        "medical": 0,
+        "disability_of_children": 0,
+        "disability": 3,
+        "death": 1
+      },
+      {
+        "vaccine_name": "DT",
+        "medical": 46,
+        "disability_of_children": 0,
+        "disability": 0,
+        "death": 1
+      },
+      {
+        "vaccine_name": "DP",
+        "medical": 3,
+        "disability_of_children": 0,
+        "disability": 24,
+        "death": 7
+      },
+      {
+        "vaccine_name": "DPT",
+        "medical": 169,
+        "disability_of_children": 10,
+        "disability": 41,
+        "death": 20
+      },
+      {
+        "vaccine_name": "DPT-IPV",
+        "medical": 22,
+        "disability_of_children": 0,
+        "disability": 0,
+        "death": 1
+      },
+      {
+        "vaccine_name": "IPV（不活化ポリオ）",
+        "medical": 3,
+        "disability_of_children": 0,
+        "disability": 0,
+        "death": 0
+      },
+      {
+        "vaccine_name": "ポリオ（経口生ポリオ）",
+        "medical": 45,
+        "disability_of_children": 22,
+        "disability": 106,
+        "death": 12
+      },
+      {
+        "vaccine_name": "麻しん",
+        "medical": 104,
+        "disability_of_children": 5,
+        "disability": 20,
+        "death": 14
+      },
+      {
+        "vaccine_name": "MMR",
+        "medical": 1030,
+        "disability_of_children": 2,
+        "disability": 6,
+        "death": 3
+      },
+      {
+        "vaccine_name": "風しん",
+        "medical": 63,
+        "disability_of_children": 2,
+        "disability": 3,
+        "death": 3
+      },
+      {
+        "vaccine_name": "インフルエンザ（臨時）",
+        "medical": 95,
+        "disability_of_children": 0,
+        "disability": 20,
+        "death": 20
+      },
+      {
+        "vaccine_name": "インフルエンザ（定期）",
+        "medical": 44,
+        "disability_of_children": 0,
+        "disability": 7,
+        "death": 5
+      },
+      {
+        "vaccine_name": "肺炎球菌（小児）",
+        "medical": 31,
+        "disability_of_children": 1,
+        "disability": 0,
+        "death": 2
+      },
+      {
+        "vaccine_name": "肺炎球菌（高齢者）",
+        "medical": 70,
+        "disability_of_children": 0,
+        "disability": 0,
+        "death": 2
+      },
+      {
+        "vaccine_name": "日本脳炎",
+        "medical": 179,
+        "disability_of_children": 16,
+        "disability": 33,
+        "death": 11
+      },
+      {
+        "vaccine_name": "腸チフス・パラチフス",
+        "medical": 0,
+        "disability_of_children": 0,
+        "disability": 0,
+        "death": 1
+      },
+      {
+        "vaccine_name": "BCG",
+        "medical": 748,
+        "disability_of_children": 2,
+        "disability": 3,
+        "death": 2
+      },
+      {
+        "vaccine_name": "Hib",
+        "medical": 28,
+        "disability_of_children": 0,
+        "disability": 0,
+        "death": 1
+      },
+      {
+        "vaccine_name": "MR",
+        "medical": 63,
+        "disability_of_children": 7,
+        "disability": 2,
+        "death": 2
+      },
+      {
+        "vaccine_name": "HPV",
+        "medical": 28,
+        "disability_of_children": 0,
+        "disability": 2,
+        "death": 0
+      },
+      {
+        "vaccine_name": "水痘",
+        "medical": 8,
+        "disability_of_children": 1,
+        "disability": 0,
+        "death": 1
+      },
+      {
+        "vaccine_name": "B肝",
+        "medical": 7,
+        "disability_of_children": 0,
+        "disability": 0,
+        "death": 0
+      },
+      {
+        "vaccine_name": "新型コロナ",
+        "medical": 5283,
+        "disability_of_children": 0,
+        "disability": 32,
+        "death": 420
+      }
+    ]
+  }
+}

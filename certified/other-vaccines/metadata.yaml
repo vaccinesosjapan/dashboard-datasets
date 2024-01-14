@@ -1,0 +1,10 @@
+metadata: {
+  # その他ワクチン認定者数の集計開始月
+  first_date: '1977/02',
+  # その他ワクチン認定者数の集計終了月
+  last_date: '2021/12',
+  # その他ワクチン認定者数の合計数
+  certified_count: 3522,
+  # 元データのURL
+  source_url: 'https://www.mhlw.go.jp/topics/bcg/other/6.html'
+}
