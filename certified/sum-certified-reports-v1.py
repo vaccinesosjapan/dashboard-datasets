@@ -148,6 +148,15 @@ for setting in settings:
     if dt < first_date:
         first_date = dt
 
+span_year = 0
+span_month = 0
+if last_date.month - first_date.month < 0:
+	span_year = last_date.year - first_date.year - 1
+	span_month = 12 + last_date.month - first_date.month
+else:
+	span_year = last_date.year - first_date.year
+	span_month = last_date.month - first_date.month
+
 with open('other-vaccines/metadata.yaml', "r", encoding='utf-8') as file:
     metadata_root = yaml.safe_load(file)
 metadata = metadata_root['metadata']
@@ -155,20 +164,28 @@ metadata = metadata_root['metadata']
 date_format2 = '%Y/%m'
 f_date = datetime.datetime.strptime(metadata['first_date'], date_format2)
 l_date = datetime.datetime.strptime(metadata['last_date'], date_format2)
+s_year = 0
+s_month = 0
+if l_date.month - f_date.month < 0:
+	s_year = l_date.year - f_date.year - 1
+	s_month = 12 + l_date.month - f_date.month
+else:
+	s_year = l_date.year - f_date.year
+	s_month = l_date.month - f_date.month
 
 summary_with_other_vaccines = {
 	"meta_data": {
 		"covid19_vaccine": {
 			"first_date": first_date.strftime('%Y/%m/%d'),
 			"last_date": last_date.strftime('%Y/%m/%d'),
-			"period": f'{last_date.year - first_date.year}年{last_date.month - first_date.month}ヶ月',
+			"period": f'{span_year}年{span_month}ヶ月',
 			"certified_count": certified_count,
 			"source_url": "https://www.mhlw.go.jp/stf/shingi/shingi-shippei_127696_00001.html"
 		},
 		"other_vaccines": {
 			"first_date": metadata['first_date'],
 			"last_date": metadata['last_date'],
-			"period": f'{l_date.year - f_date.year}年{l_date.month - f_date.month}ヶ月',
+			"period": f'{s_year}年{s_month}ヶ月',
 			"certified_count": int(metadata['certified_count']),
 			"source_url": metadata['source_url']
 		}
