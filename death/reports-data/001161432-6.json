@@ -17,6 +17,8 @@
       "心不全",
       "(～1/20の情報に基づく。)"
     ],
+    "tests_used_for_determination": "検死",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -36,6 +38,8 @@
     "PT_names": [
       "脳幹部出血"
     ],
+    "tests_used_for_determination": "頭部CT",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -59,6 +63,8 @@
       "心不全",
       "肺高血圧症"
     ],
+    "tests_used_for_determination": "死亡時画像診断",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "家族が見ていない間にアナフィラキシー反応があった\n可能性は否定出来ないと記載があるがアナフィラキ\nシーの可能性を示唆する自他覚所見の記載が無い．\n※～7/28から変更なし。"
   },
@@ -80,6 +86,8 @@
       "心筋炎",
       "心筋症"
     ],
+    "tests_used_for_determination": "心電図",
+    "causal_relationship": "関連あり",
     "causal_relationship_by_expert": "",
     "comments_by_expert": ""
   },
@@ -100,6 +108,8 @@
       "急性心不全",
       "ショック"
     ],
+    "tests_used_for_determination": "検案",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "ヒートショックで説明可能\n※～7/28から変更なし。"
   },
@@ -119,6 +129,8 @@
     "PT_names": [
       "不明"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "不明",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -138,6 +150,8 @@
     "PT_names": [
       "間質性肺炎"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "関連あり",
     "causal_relationship_by_expert": "",
     "comments_by_expert": ""
   },
@@ -157,6 +171,8 @@
     "PT_names": [
       "不明"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "老衰寝たきりで、医療情報がないため判断不能\n※～7/28から変更なし。"
   },
@@ -177,6 +193,8 @@
       "心膜炎",
       "胸膜炎"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "関連あり",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）"
   },
@@ -196,6 +214,8 @@
     "PT_names": [
       "不明"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）"
   },
@@ -215,6 +235,8 @@
     "PT_names": [
       "不明"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "不明",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）"
   }

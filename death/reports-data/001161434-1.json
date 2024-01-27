@@ -17,6 +17,8 @@
       "硬膜下血腫",
       "脳血腫"
     ],
+    "tests_used_for_determination": "不明※→頭部CT（～8/25の情報に基づく）",
+    "causal_relationship": "不明※",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -36,6 +38,8 @@
     "PT_names": [
       "大動脈解離"
     ],
+    "tests_used_for_determination": "死亡時画像診断 関連なし",
+    "causal_relationship": "",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -56,6 +60,8 @@
       "冠動脈硬化症",
       "心筋虚血"
     ],
+    "tests_used_for_determination": "死亡時画像診断（全身CT）",
+    "causal_relationship": "関連なし",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -76,6 +82,8 @@
       "誤嚥性肺炎",
       "敗血症"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -95,6 +103,8 @@
     "PT_names": [
       "くも膜下出血"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "情報不足、評価不可\n※～7/28から変更なし。"
   },
@@ -114,6 +124,8 @@
     "PT_names": [
       "不明"
     ],
+    "tests_used_for_determination": "死亡時画像診断（全身CT）、解剖",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -133,6 +145,8 @@
     "PT_names": [
       "心障害"
     ],
+    "tests_used_for_determination": "死亡時画像診断（CT）",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "患者背景や経過の詳細は得られておらず、ワクチン接種\nと死亡の因果関係は評価できない。\n※～7/28から変更なし。"
   },
@@ -152,6 +166,8 @@
     "PT_names": [
       "心臓死"
     ],
+    "tests_used_for_determination": "死亡時画像診断（CT)",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -172,6 +188,8 @@
       "うっ血性心不全",
       "状態悪化"
     ],
+    "tests_used_for_determination": "検案",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "β",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -191,6 +209,8 @@
     "PT_names": [
       "不明"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "不明",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -211,6 +231,8 @@
       "循環虚脱",
       "心臓死"
     ],
+    "tests_used_for_determination": "血液ガス分析、死亡時画像診断（全身CTで心拡大（特に右心系）あり)、解剖（急性循環不全/急性心臓死の疑い。喉頭粘膜にアレルギー所見あり。）（～9/10の情報に基づく）",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "血液検査、画像所見などが必要\n※～7/28から変更なし。"
   },
@@ -233,6 +255,8 @@
       "血小板減少症を伴う血栓症",
       "脳症"
     ],
+    "tests_used_for_determination": "髄液検査（細胞数増多なし）、血液検査→解剖（体幹部、四肢の出血斑、ワクチン部や注射部の著名な出血、血清髄液）、血液検査（血小板第4因子抗体陽性（EIA法））、CT、頭部MRI（～12/24の情報に基づく）",
+    "causal_relationship": "評価不能→関連あり（～10/22の情報に基づく）",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "血小板減少を認めます。\n血栓症を示唆するが確定的ではない画像所見又は検査\n値異常（D ダイマー上昇）を認めます。\n抗PF4抗体（EIA法）が陽性であり、事象はワクチン投与に\n関連する可能性が大きいと考えます。\n※～7/28から変更なし。"
   },
@@ -252,6 +276,8 @@
     "PT_names": [
       "状態悪化"
     ],
+    "tests_used_for_determination": "血液検査",
+    "causal_relationship": "評価不能→関連あり（～9/10の情報に基づく）",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -271,6 +297,8 @@
     "PT_names": [
       "くも膜下出血"
     ],
+    "tests_used_for_determination": "不明※",
+    "causal_relationship": "関連なし※",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "ワクチン接種後22日後のくも膜下出血であり、因果関係の\n判断は難しい。くも膜下出血の診断の根拠も乏しい。\n※～7/28から変更なし。"
   },
@@ -290,6 +318,8 @@
     "PT_names": [
       "急性心不全"
     ],
+    "tests_used_for_determination": "検視",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -309,6 +339,8 @@
     "PT_names": [
       "くも膜下出血"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "注射後5日目SAH,それ以前の情報不足\n※～7/28から変更なし。"
   },
@@ -328,6 +360,8 @@
     "PT_names": [
       "不整脈"
     ],
+    "tests_used_for_determination": "解剖、血液検査、病理組織学的検査",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "本症例の2回目の接種に使用されたワクチンは、異物混\n入が確認されたロットと同時期に同設備で製造されたこと\nにより使用を見合わせられたロットである。剖検の結果、\n急性死が示唆されること、死因に影響を及ぼす損傷を認\nめず中毒学的にも異常を認めないことから死因は致死性\n不整脈と考えると報告されており、ワクチンの影響は不明\nとされている。致死性不整脈は確認されたものではなく除\n外診断であり、ワクチンと死亡との因果関係については評\n価不能である。使用ロットに異物混入があったとした場合\nに異物が本症例の死亡に与えた影響についても同様に\n評価不能である。\n※～7/28から変更なし。"
   },
@@ -347,6 +381,8 @@
     "PT_names": [
       "不明"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "",
     "comments_by_expert": ""
   },
@@ -366,6 +402,8 @@
     "PT_names": [
       "心筋虚血"
     ],
+    "tests_used_for_determination": "検案",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "死亡時の情報がなく死因が不明である。\n※～7/28から変更なし。"
   },
@@ -387,6 +425,8 @@
       "多臓器機能不全症候群",
       "低酸素性虚血性脳症"
     ],
+    "tests_used_for_determination": "解剖、心エコー",
+    "causal_relationship": "関連あり（心筋炎、心室細動、低酸素脳症）（～10/27の情報に基づく）",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）"
   },
@@ -407,6 +447,8 @@
       "アナフィラキシーショック",
       "肝機能異常"
     ],
+    "tests_used_for_determination": "解剖、血液検査（～5/13の情報に基づく）",
+    "causal_relationship": "評価不能→関連あり（～5/13の情報に基づく）",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "遅発性アナフィラキシーショックに関連した死亡と考えられ\nる。「肝機能異常」を示す様なデータは提示されておらず、\n剖検で指摘された肝硬変との関連性は不明である。一般\n論ではあるが、３週間未満の短期間で「肝硬変」が形成さ\nれることはなくワクチンとの関連性はremote。ベースに存\n在した肝硬変がアナフィラキシーの経過に影響を与えた\n可能性はある。\n※～7/28から変更なし。"
   },
@@ -426,6 +468,8 @@
     "PT_names": [
       "急性肺水腫"
     ],
+    "tests_used_for_determination": "死亡時画像診断（CT）",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -445,6 +489,8 @@
     "PT_names": [
       "不明"
     ],
+    "tests_used_for_determination": "解剖",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "本症例の2回目の接種に使用されたワクチンは、異物混\n入が確認されたロットと同時期に同設備で製造されたこと\nにより使用を見合わせられたロットである。剖検の結果死\n因は不明とされており、情報不足のため死亡とワクチン接\n種との因果関係は評価不能である。使用ロットに異物混\n入があったとした場合に異物が本症例の死亡に与えた影\n響についても同様に評価不能である。\n※～7/28から変更なし。"
   },
@@ -464,6 +510,8 @@
     "PT_names": [
       "くも膜下出血"
     ],
+    "tests_used_for_determination": "CT",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "投与された薬剤の情報が中心であり、患者背景や所見、\n経過などに関する詳細な情報は得られていない。情報不\n足のため、ワクチン接種と死亡の因果関係は評価できな\nい。\n※～7/28から変更なし。"
   },
@@ -484,6 +532,8 @@
       "くも膜下出血",
       "血小板減少症を伴う血栓症"
     ],
+    "tests_used_for_determination": "血液検査",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "血小板減少を評価するための情報が不足しています。\n情報不足により他の明らかな原因の有無等が評価できま\nせん。\n※～7/28から変更なし。"
   },
@@ -503,6 +553,8 @@
     "PT_names": [
       "急性心筋梗塞"
     ],
+    "tests_used_for_determination": "心電図、心臓カテーテル検査",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -522,6 +574,8 @@
     "PT_names": [
       "敗血症"
     ],
+    "tests_used_for_determination": "不明→ 死亡時画像診断（死因推定所見なし）(～1/21の情報に基づく（集計・専門家評価対象期間（～1/2）後に報告された内容）)",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -542,6 +596,8 @@
       "冠動脈硬化症",
       "急性心筋梗塞"
     ],
+    "tests_used_for_determination": "解剖",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "ワクチン接種前の本症例の既往歴を含む背景や死亡日\n時が不明である。\n※～7/28から変更なし。"
   },
@@ -562,6 +618,8 @@
       "肺炎",
       "急性呼吸窮迫症候群"
     ],
+    "tests_used_for_determination": "解剖（びまん性肺胞障害の所見）、Covid-19検査（陰性）、血液検査、CT、喀痰培養（～7/8の情報に基づく）",
+    "causal_relationship": "関連あり",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -588,6 +646,8 @@
       "多臓器機能不全症候群",
       "播種性血管内凝固"
     ],
+    "tests_used_for_determination": "不明→血液検査（～2/18の情報に基づく（集計・専門家評価期間（～1/23）後に報告された内容））",
+    "causal_relationship": "評価不能（接種医療機関、搬送先医療機関ともに）関連あり（搬送先医療機関）（～10/22の情報に基づく）",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "21歳、男性で、COVID19ワクチンモデルナを投与後8日目\nに死亡。本剤投与前から微熱があり、医療機関受診した\n際に単球性白血病、多臓器不全、DICの状態であった。詳\n細な情報がなく、評価が困難と判断する。\n※～7/28から変更なし。"
   },
@@ -607,6 +667,8 @@
     "PT_names": [
       "不整脈"
     ],
+    "tests_used_for_determination": "死亡時画像診断（CT）、解剖（急死を示唆する高度な溢血点・諸臓器のうっ血・暗赤色流動心血あり。心房中隔欠損、胸腺の残存あり、その他特記所見なし。）（～10/22の情報に基づく）",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "本症例の2回目の接種に使用されたワクチンは、異物混\n入が確認されたロットと同時期に同設備で製造されたこと\nにより使用を見合わせられたロットである。剖検の結果、\n急死を示唆する所見の他に死因となりうる明らかな疾病、\n外傷は認めないことから、致死性不整脈などの心機能異\n常により心臓性急死したと考えられると報告されている。\n死因を特定することはできず、ワクチンと死亡との因果関\n係については評価不能である。使用ロットに異物混入が\nあったとした場合に異物が本症例の死亡に与えた影響に\nついても同様に評価不能である。\n※～7/28から変更なし。"
   },
@@ -626,6 +688,8 @@
     "PT_names": [
       "動脈瘤破裂"
     ],
+    "tests_used_for_determination": "頭部CT(急性水頭症とくも膜下出血)、脳血管撮影（両側椎骨動脈解離瘤）（～10/22の情報に基づく）",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "両側椎骨動脈瘤であるが、報告の情報では判断できない\n※～7/28から変更なし。"
   },
@@ -645,6 +709,8 @@
     "PT_names": [
       "急性心筋梗塞"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "不明",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "臨床症状として意識障害のみで、急性心筋梗塞と診断す\nるための情報がない。\n※～7/28から変更なし。"
   },
@@ -665,6 +731,8 @@
       "脳出血",
       "脳梗塞"
     ],
+    "tests_used_for_determination": "頭部CT、血液検査（白血球数11150、血小板数3.4万、CRP19.39、D-ダイマー2.4）（～10/22の情報に基づく）",
+    "causal_relationship": "関連あり",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "血小板減少を認めます。\n頭部CTによる画像所見において血栓症が確認されていま\nす。\n脳出血の既往がある55歳の男性。ワクチン接種後に発熱\n及び意識障害を認め、緊急搬送された際に、血小板減少\n（2.7万/uL）を認め、頭部CTにおいて、右前頭葉皮質下出\n血及び多発性脳梗塞（右後頭葉、左放線冠、左小脳）を\n認めていることから、ブライトン分類を「2」と評価します。\nワクチン接種と死亡との因果関係については、TTSを含め\nた血小板減少をきたす血液疾患を鑑別するための情報が\n不足しているため困難です。\n※～7/28から変更なし。"
   },
@@ -685,6 +753,8 @@
       "心筋虚血",
       "心不全"
     ],
+    "tests_used_for_determination": "解剖（心肥大、左前下行枝に最大75-90%狭窄を伴う冠状動脈硬化症、肺うっ血水腫所見より診断）",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "時系列的には因果関係があるようにみえる。積極的な肯\n定はできないが否定もできない。\n※～7/28から変更なし。"
   },
@@ -706,6 +776,8 @@
       "脳室穿破",
       "状態悪化"
     ],
+    "tests_used_for_determination": "CT（脳動静脈奇形からの脳出血・脳室穿破）（～10/22の情報に基づく）",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -725,6 +797,8 @@
     "PT_names": [
       "急性心筋梗塞"
     ],
+    "tests_used_for_determination": "解剖（新旧混合の心筋梗塞巣）",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -744,6 +818,8 @@
     "PT_names": [
       "心血管障害"
     ],
+    "tests_used_for_determination": "血液検査（トロポニンT陽性）",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "血液検査、画像所見などが必要\n※～7/28から変更なし。"
   },
@@ -765,6 +841,8 @@
       "心嚢内出血",
       "急性心筋梗塞"
     ],
+    "tests_used_for_determination": "不明→解剖（左室の破裂部に出血及び好中球浸潤を認める。左室後壁に陳旧性心筋梗塞を認め、周囲に高度の収縮帯壊死及び好中球浸潤を認める。本屍には死因に影響を及ぼす損傷を認めず、中毒学的にも異常を認めない。したがって、本屍の死因は急性心筋梗塞に起因した左室破裂による心嚢血腫と考える。）、血液検査（～2/18の情報に基づく（集計・専門家評価期間（～1/23）後に報告された内容））",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -784,6 +862,8 @@
     "PT_names": [
       "不整脈"
     ],
+    "tests_used_for_determination": "解剖（明らかな死因の特定ができず）、心電図（VF/VTとPEA波形を繰り返す）、心エコー（左室後壁がわずかに動くのみ）",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "解剖所見として認められた「心筋症」すなわち心臓障害の\n発症時期が不明のため、ワクチンとの因果関係の判定は\n困難である。ただし、mRNAワクチン接種後の副反応とし\nて心筋炎/心膜炎は認知されており、同様の症例が集積\nしないかの継続観察が必要である。\n※～7/28から変更なし。"
   },
@@ -803,6 +883,8 @@
     "PT_names": [
       "甲状腺中毒クリーゼ"
     ],
+    "tests_used_for_determination": "心電図（V4・V5・V6にてST低下）、心エコー（びまん性に壁運動低下）、冠動脈造影（LMT70%から90%狭窄、LAD#6から7 99%狭窄を認めた。）",
+    "causal_relationship": "不明",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -822,6 +904,8 @@
     "PT_names": [
       "肥大型心筋症"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "本症例の2回目の接種に使用されたワクチンは、異物の\n混入が確認されたロットである。接種後の経過や剖検に\n関する情報がないため死因を推定することができず、ワク\nチン接種と死亡との因果関係については評価不能であ\nる。また、異物が本症例の死亡に与えた影響についても\n同様に評価不能である。\n※～7/28から変更なし。"
   },
@@ -841,6 +925,8 @@
     "PT_names": [
       "心筋炎"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "不明",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -860,6 +946,8 @@
     "PT_names": [
       "心筋炎"
     ],
+    "tests_used_for_determination": "解剖（心筋細動脈周囲にリンパ球主体の炎症細胞浸潤。心筋の壊死、線維化散在。冠動脈周囲脂肪組織の軽度リンパ球浸潤あり、他に致死的な内因性病変の損傷を認めないことにより死因を急性心筋炎と診断。）",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -879,6 +967,8 @@
     "PT_names": [
       "心筋炎"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -898,6 +988,8 @@
     "PT_names": [
       "アナフィラキシーショック"
     ],
+    "tests_used_for_determination": "解剖（トリプターゼ高値、IL-6高値、ネオプテリン高値、CRP高値、肺胞障害、多発性肺胞内出血）（～4/13の情報に基づく）",
+    "causal_relationship": "評価不能→関連あり（～4/13の情報に基づく）",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "情報が不十分であり，評価が困難．アナフィラキシーの症\n状および，接種から死亡に至るまでの詳細な経過につい\nての追加情報が望まれる\n※～7/28から変更なし。"
   },
@@ -919,6 +1011,8 @@
       "後腹膜出血",
       "腹腔内出血"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -938,6 +1032,8 @@
     "PT_names": [
       "不整脈"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -958,6 +1054,8 @@
       "血球貪食性リンパ組織球症",
       "急性呼吸窮迫症候群"
     ],
+    "tests_used_for_determination": "骨髄検査（著明なマクロファージの増加と血球貪食像を確認）、血液検査（高フェリチン血症、低フィブリノーゲン血症、低Na血症）",
+    "causal_relationship": "関連あり",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "ヘルペスウイルスの再活性化への懸念がある。因果関係\nの肯定は難しい。\n※～7/28から変更なし。"
   },
@@ -977,6 +1075,8 @@
     "PT_names": [
       "不明"
     ],
+    "tests_used_for_determination": "心電図、頭部CT、脳波、COVID-19抗原定量検査（陰性）",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -996,6 +1096,8 @@
     "PT_names": [
       "不明"
     ],
+    "tests_used_for_determination": "死亡時画像診断（CT)",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -1016,6 +1118,8 @@
       "循環虚脱",
       "アナフィラキシーショック"
     ],
+    "tests_used_for_determination": "不明→解剖（死因：急性循環不全、アナフィラキシーショックの可能性も疑われた。病理組織学的検査の結果待ち。明らかな外傷や致死的疾患を認めず、気道内の粘液、末梢気管支の粘液線、トリプターゼ高値、ヒスタミン高値、IGE高値を認めたことから、アナフィラキシーによる急性循環不全が考えられる。）（～2/18の情報に基づく（集計・専門家評価対象期間（～1/23）後に報告された内容））",
+    "causal_relationship": "不明→評価不能（接種医療機関）関連あり（解剖医療機関）（～2/18の情報に基づく（集計・専門家評価対象期間（～1/23）後に報告された内容））",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "ワクチン接種翌日に死亡しているところを発見され、剖検\n所見よりアナフィラキシーによる急性循環不全によるもの\nと考えられると報告された症例である。ワクチン接種後の\n状況が不明であるため、ワクチン以外の可能性も考えら\nれることや、アレルギー症状の程度ついては明らかでない\nことから、得られている情報のみから因果関係を評価する\nことは困難である。\n※～7/28から変更なし。"
   },
@@ -1035,6 +1139,8 @@
     "PT_names": [
       "不明"
     ],
+    "tests_used_for_determination": "解剖（組織学的検査の結果待ち）",
+    "causal_relationship": "関連あり",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "既往歴の報告のない一人暮らしの28歳男性。ワクチン1回\n目接種は特に問題の報告なし。ワクチン2回目接種翌日\nに高熱があり仕事病欠、接種後2日目に会社へ連絡なく\n欠勤、接種後3日目に自宅で死亡しているところを発見さ\nれた。剖検がされたが結果に関しては詳細記載なし、死\n亡推定は接種後2日目とのこと。死亡推定は接種後2日目\nであるものの、剖検の情報も不明であり、因果関係を判断\nする上で十分な情報があるとは言えないと考える。\n※～7/28から変更なし。"
   },
@@ -1054,6 +1160,8 @@
     "PT_names": [
       "不明"
     ],
+    "tests_used_for_determination": "死亡時画像診断（明らかな死因を認めず）",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "臨床情報が十分でないが、突然死をきたした原因は不明\nであり、同様の経過をたどる症例が集積しないかの継続\n観察は必要である。\n※～7/28から変更なし。"
   },
@@ -1073,6 +1181,8 @@
     "PT_names": [
       "循環虚脱"
     ],
+    "tests_used_for_determination": "解剖（途中結果では急性循環器不全が疑われる。）",
+    "causal_relationship": "不明",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -1092,6 +1202,8 @@
     "PT_names": [
       "脳室内出血"
     ],
+    "tests_used_for_determination": "死亡時画像診断（頭部CT（脳室内出血））",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -1111,6 +1223,8 @@
     "PT_names": [
       "不明"
     ],
+    "tests_used_for_determination": "解剖",
+    "causal_relationship": "不明",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "本症例の2回目の接種に使用されたワクチンは、異物の\n混入が確認されたロットではなく、同じ時期に同じ設備で\n製造されたことにより使用を見合わせられたロットであっ\nた。本症例は接種後の経過に関する情報がなく、剖検で\nは死因不明とのことである。情報不足のためワクチン接種\nと死亡との因果関係については評価不能である。また、仮\nに使用ロットに異物の混入があった場合に異物が本症例\nの死亡に与えた影響についても同様に評価不能である。\n※～7/28から変更なし。"
   },
@@ -1131,6 +1245,8 @@
       "急性肝不全",
       "上部消化管出血"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -1150,6 +1266,8 @@
     "PT_names": [
       "心突然死"
     ],
+    "tests_used_for_determination": "解剖（冠動脈が細い指摘はあったが、マクロの所見なし。その他の外的所見を認めないことから心突然死と診断）（～3/18の情報に基づく）",
+    "causal_relationship": "関連あり",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "既往歴にてんかんあり。ワクチン後、1か月以上が経過し\nて事象が発生している。情報不足によりワクチンとの因果\n関係は、評価できない。\n※～7/28から変更なし。"
   },
@@ -1169,6 +1287,8 @@
     "PT_names": [
       "腹膜転移"
     ],
+    "tests_used_for_determination": "血髄生検、血液検査、ADAMTS-13陰性、PNH陰性、クームス試験陰性、HPT陰性、寒冷凝集反応なし",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -1188,6 +1308,8 @@
     "PT_names": [
       "心筋虚血"
     ],
+    "tests_used_for_determination": "解剖（左右冠状動脈に高度狭窄、心肥大あり）",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -1215,6 +1337,8 @@
       "多臓器機能不全症候群",
       "動脈血栓症"
     ],
+    "tests_used_for_determination": "血液検査、骨髄検査、皮膚生検、大腿筋生検、PET-CT、腹水検査、抗PF4抗体（ELISA）（OD0.365（cutoff:0.400）で陰性）、心エコー、全身CT、MRI、死亡時画像診断、解剖（血栓性微小血管障害症）（～3/18の情報に基づく）",
+    "causal_relationship": "関連あり",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "既往歴として「血液透析などがある」と記載されているの\nみであり、患者背景の情報が不十分であり、生じた有害\n事象のメカニズムも明らかにはなっておらず、因果関係評\n価は困難である。同様の症例の集積を注視する必要があ\nる。\n※～7/28から変更なし。"
   },
@@ -1236,6 +1360,8 @@
       "心筋炎",
       "心タンポナーデ"
     ],
+    "tests_used_for_determination": "心電図、心エコー（大量の心嚢液貯留）、心筋生検、血液検査（トロポニンTやCKMBの上昇）、解剖（心筋炎）（～3/18の情報に基づく）",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -1255,6 +1381,8 @@
     "PT_names": [
       "腺筋症"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "不明",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -1274,6 +1402,8 @@
     "PT_names": [
       "不明"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "不明",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -1293,6 +1423,8 @@
     "PT_names": [
       "不明"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "不明",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -1313,6 +1445,8 @@
       "突然死",
       "心筋虚血"
     ],
+    "tests_used_for_determination": "死亡時画像診断（頭蓋内病変なし、解離を疑う所見なし、死因につながる器質的異常は指摘されず)、エコー検査（心嚢液、腹膜水なし）、血液ガス検査、除外診断：心原性心肺停止、解剖（心臓360g。右冠動脈に75%程度の高度狭窄。心筋に瘢痕などの異常なし。組織学的に、左心室内膜側間質に軽度の線維増生。炎症細胞浸潤や出血なし。その他諸臓器に著変なし。血中からアルコール検出されず）（～2/18の情報に基づく（集計・専門家評価対象期間（～1/23）後に報告された内容））",
+    "causal_relationship": "評価不能（搬送先医療機関、解剖医療機関ともに）（～2/18の情報に基づく（集計・専門家評価対象期間（～1/23）後に報告された内容））",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "ワクチン接種後８日目に自宅にて死亡しているところを発\n見された。詳細が不明のため、判定は情報不足とする。\n※～7/28から変更なし。"
   },
@@ -1332,6 +1466,8 @@
     "PT_names": [
       "心筋炎"
     ],
+    "tests_used_for_determination": "解剖（心筋間質の巣状炎症細胞浸潤、浮腫。心筋の好酸性･波状変性。冠動脈周囲炎。主要3枝とも最大75%狭窄あり。）、死亡時画像診断",
+    "causal_relationship": "関連あり",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -1351,6 +1487,8 @@
     "PT_names": [
       "状態悪化"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "関連なし",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -1370,6 +1508,8 @@
     "PT_names": [
       "急性心筋梗塞"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -1389,6 +1529,8 @@
     "PT_names": [
       "大動脈解離"
     ],
+    "tests_used_for_determination": "CT（急性大動脈解離）",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -1408,6 +1550,8 @@
     "PT_names": [
       "溺死"
     ],
+    "tests_used_for_determination": "不明→解剖、血液検査（～8/5の情報に基づく）",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -1427,6 +1571,8 @@
     "PT_names": [
       "不明"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "不明",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -1446,6 +1592,8 @@
     "PT_names": [
       "不明"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -1465,6 +1613,8 @@
     "PT_names": [
       "心膜炎"
     ],
+    "tests_used_for_determination": "不明（肺うっ血の所見）",
+    "causal_relationship": "関連あり",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "慢性気管支炎、慢性腎臓病、慢性心不全を基礎疾患に持\nつ高齢女性。急性心膜炎と診断するには、情報が乏しく\n困難である。また、基礎疾患の心不全の増悪の可能性が\nあることや、心膜炎は市中感染症などを契機として自然発\n生することが知られている疾患であることから、因果関係\nを有と判断することはできないと考えた。\n※～7/28から変更なし。"
   },
@@ -1484,6 +1634,8 @@
     "PT_names": [
       "不明"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -1504,6 +1656,8 @@
       "脳梗塞",
       "熱中症"
     ],
+    "tests_used_for_determination": "CT",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "患者背景や死因の詳細は得られておらず、ワクチン接種\nと死亡の因果関係は評価できない。\n※～7/28から変更なし。"
   },
@@ -1524,6 +1678,8 @@
       "脱水",
       "誤嚥性肺炎"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "脱水で死亡したわけではないと思います。\n下痢で死亡したわけではないと思います。\n死因は誤嚥性肺炎のようですので、この事象を挙げるの\nが適切と思います。\n※～7/28から変更なし。"
   },
@@ -1543,6 +1699,8 @@
     "PT_names": [
       "不整脈"
     ],
+    "tests_used_for_determination": "解剖（腎の萎縮、全身動脈硬化症を認め急性死の所見が確認された。）",
+    "causal_relationship": "関連あり",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "接種翌日の事象であり、時間的関連性から当該ワクチン\nとの因果関係が疑われる一方、現時点でワクチンの接種\nと致死性不整脈の発現とを合理的に直接結び付けて説明\nすることは困難と思われる。被接種者の不整脈既往の有\n無や救急隊到着から死亡診断までの心電図波形の推移\n等の情報も踏まえて判断したいが、仮にそれらの情報を\n揃えたとしても因果関係を結論付けられるかは不明と思\nわれた。\n※～7/28から変更なし。"
   },
@@ -1562,6 +1720,8 @@
     "PT_names": [
       "不整脈"
     ],
+    "tests_used_for_determination": "解剖（器質的疾患を認めず、急性死の所見。病理組織的検査待ちの状態。）",
+    "causal_relationship": "関連あり",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "接種翌日の事象であり、時間的関連性から当該ワクチン\nとの因果関係が疑われる一方、現時点でワクチンの接種\nと致死性不整脈の発現とを合理的に直接結び付けて説明\nすることは困難と思われる。被接種者の不整脈既往の有\n無（又は平時の心電図所見の有無）や救急隊到着から死\n亡診断までの心電図波形の推移等の情報も踏まえて判\n断したいが、仮にそれらの情報を揃えたとしても因果関係\nを結論付けられるかは不明と思われた。\n※～7/28から変更なし。"
   },
@@ -1581,6 +1741,8 @@
     "PT_names": [
       "溺死"
     ],
+    "tests_used_for_determination": "死亡時画像診断（CT）（外傷性死因や出血性死因なし。風呂溺で説明可能であり、原因としてはヒートショック→意識低下→浴槽内へ溺没、風呂水の気管内への受動的流入と窒息性肺水腫や、浴槽内での急性左心不全→ポンプ機能不全による肺水腫が考えられる。右中大脳動脈分岐部動脈瘤クリッピング術後。右側頭葉は陳旧性梗塞。右側脳室は牽引性拡張。脳出血、くも膜下出血無し。胃内食物残渣充満し、食道内で残渣逆流（蘇生術後変化）。）",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -1600,6 +1762,8 @@
     "PT_names": [
       "不明"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "不明",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -1619,6 +1783,8 @@
     "PT_names": [
       "不明"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "不明",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -1638,6 +1804,8 @@
     "PT_names": [
       "うっ血性心不全"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "関連なし",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "2/10から2/18の経過を知りたいところです。\n※～7/28から変更なし。"
   },
@@ -1657,6 +1825,8 @@
     "PT_names": [
       "急性心筋梗塞"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "不明",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "患者背景や死因の詳細は得られておらず、ワクチン接種\nと死亡の因果関係は評価できない。\n※～7/28から変更なし。"
   },
@@ -1676,6 +1846,8 @@
     "PT_names": [
       "不明"
     ],
+    "tests_used_for_determination": "死亡時画像診断（脳出血や新規の脳梗塞は認めず、心肺蘇生術後変化とも判断できることができる所見以外、特記所見はなかった。）、血液検査",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "血小板減少が新たに発症していることを評価するための\n所見が得られていないことから、ブライトン分類を「4」と評\n価します。\n※～7/28から変更なし。"
   },
@@ -1695,6 +1867,8 @@
     "PT_names": [
       "不明"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -1714,6 +1888,8 @@
     "PT_names": [
       "不明"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -1733,6 +1909,8 @@
     "PT_names": [
       "不明"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -1752,6 +1930,8 @@
     "PT_names": [
       "溺水"
     ],
+    "tests_used_for_determination": "解剖（左右肺の膨隆と胸腔内液貯留、胃内に多量の水があり、溺水と矛盾の無い所見。一方で、溺水に至るような器質的疾患を認めなかった。）",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -1775,6 +1955,8 @@
       "肺水腫",
       "肺胞出血"
     ],
+    "tests_used_for_determination": "剖検（左心室の広範囲に心筋炎の所見、両肺には高度のうっ血・水腫に加え、肺胞出血を認めた）、血液検査、血管造影検査、心臓超音波検査、ＣＴ、脳波検査、心電図",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "ワクチン接種3日後に劇症型心筋炎を発症し、死亡となっ\nた症例であり、剖検にて左心室に広範な心筋炎の所見を\n認めている。心筋炎の診断は確定しているが、ウイルス\n感染に起因する心筋炎の可能性もあり、ワクチンとの因\n果関係は肯定も否定もできないと考えた。\n※～7/28から変更なし。"
   },
@@ -1794,6 +1976,8 @@
     "PT_names": [
       "不明"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -1813,6 +1997,8 @@
     "PT_names": [
       "心筋炎"
     ],
+    "tests_used_for_determination": "血液検査、心エコー、血液検査、心電図（～4/13の情報に基づく（集計・専門家評価対象期間（～3/20）後に報告された内容））",
+    "causal_relationship": "関連あり",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "心筋逸脱酵素の上昇、およびびまん性の心収縮能低下を\n認めたものの、心筋炎と診断するのに特異的な検査につ\nいての情報（心臓MRIや心筋生検など）がない。\n※～7/28から変更なし。"
   },
@@ -1832,6 +2018,8 @@
     "PT_names": [
       "不整脈"
     ],
+    "tests_used_for_determination": "死亡時画像診断（CT）（明らかな死因を指摘し得ず）",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -1851,6 +2039,8 @@
     "PT_names": [
       "心臓死"
     ],
+    "tests_used_for_determination": "死亡時画像診断（CT）及び血液検査（死因の特定に至らず、外因要因なしの判断となり、内因性心臓死とした）",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -1870,6 +2060,8 @@
     "PT_names": [
       "急性心不全"
     ],
+    "tests_used_for_determination": "解剖",
+    "causal_relationship": "関連あり",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "接種後の経時的変化から、必ずしもワクチン接種との因\n果関係を否定できないが、他要因の影響も否定できず評\n価は困難である。\n※～7/28から変更なし。"
   },
@@ -1889,6 +2081,8 @@
     "PT_names": [
       "不明"
     ],
+    "tests_used_for_determination": "死亡時画像診断（頭部：死後変化のみ、胸部：冠動脈に石灰化あり、明らかな動脈解離や瘤なし、腹部：特記事項なしの所見で死因不詳の診断であった。）",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -1908,6 +2102,8 @@
     "PT_names": [
       "突然死"
     ],
+    "tests_used_for_determination": "解剖（急性死の所見を認め、器質的異常なし。冠動脈の硬化は軽度）",
+    "causal_relationship": "関連あり",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "3回目のワクチン接種後、約6時間後の入浴中に致死的不\n整脈にて死亡した69歳女性。接種から時間的に近いが、\n糖尿病、パーキンソン病、てんかん、高血圧など多数の基\n礎疾患を有しており、因果関係を明確化するには情報が\n不足している。\n※～7/28から変更なし。"
   },
@@ -1927,6 +2123,8 @@
     "PT_names": [
       "不明"
     ],
+    "tests_used_for_determination": "検視",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "心臓弁膜症の内容が知りたかった。大動脈弁狭窄症であ\nれば基礎疾患による突然死の可能性が高い。\n※～7/28から変更なし。"
   },
@@ -1946,6 +2144,8 @@
     "PT_names": [
       "不整脈"
     ],
+    "tests_used_for_determination": "冠動脈造影検査、心筋生検",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -1965,6 +2165,8 @@
     "PT_names": [
       "不明"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "不明",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -1984,6 +2186,8 @@
     "PT_names": [
       "血栓性血小板減少性紫斑病"
     ],
+    "tests_used_for_determination": "血液検査（血小板数は9000/µLと著明に低下。ADAMTS13活性の著明な低下。直接クームス試験、抗核抗体、抗カルジオリピン抗体などは有意な異常を認めず）",
+    "causal_relationship": "関連あり",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "骨髄所見等を総合して考えると急性骨髄性白血病による\n病像と考えるのが妥当ではないか。敢えてTTPの合併を\n考える必要があるとは思えない。白血病は遺伝子変異の\n蓄積を経て発病するものであり、短期事象であるワクチン\nとの関連性はremoteと考える。\n※～7/28から変更なし。"
   },
@@ -2005,6 +2209,8 @@
       "胃腸出血",
       "高カリウム血症"
     ],
+    "tests_used_for_determination": "血液検査（Cre6.86mg/dL、K8.3mEq/Lで腎不全、高K血症）、CT（両側腎サイズは保たれている）",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -2024,6 +2230,8 @@
     "PT_names": [
       "急性心筋梗塞"
     ],
+    "tests_used_for_determination": "死亡時画像診断（CT）（体腔内には腐敗ガスが充満しており詳細不明であったが、明らかな頭蓋内出血や溺死所見は認められなかった）",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -2043,6 +2251,8 @@
     "PT_names": [
       "大動脈解離"
     ],
+    "tests_used_for_determination": "死亡時画像診断（大動脈解離の所見あり）",
+    "causal_relationship": "関連なし",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -2062,6 +2272,8 @@
     "PT_names": [
       "心障害"
     ],
+    "tests_used_for_determination": "検案",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -2081,6 +2293,8 @@
     "PT_names": [
       "不明"
     ],
+    "tests_used_for_determination": "血液検査（低血糖、肝機能障害、脱水所見あり）",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -2100,6 +2314,8 @@
     "PT_names": [
       "心突然死"
     ],
+    "tests_used_for_determination": "髄液検査（血性のものはなく、脳が原因ではないと判断）",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -2119,6 +2335,8 @@
     "PT_names": [
       "不明"
     ],
+    "tests_used_for_determination": "血液検査（AST754、LDR1665、CK1112（CK-MB25）、K12.6）",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "3/7に近医を受診した理由は何でしょうか？\n死後の採血データは参考になりません。\n内出血、末梢腫脹、疼痛は死亡とは関連しないと思いま\nす。\n※～7/28から変更なし。"
   },
@@ -2142,6 +2360,8 @@
       "高カリウム血症",
       "不整脈"
     ],
+    "tests_used_for_determination": "血液検査",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -2161,6 +2381,8 @@
     "PT_names": [
       "心筋梗塞"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -2180,6 +2402,8 @@
     "PT_names": [
       "不明"
     ],
+    "tests_used_for_determination": "CT",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "発熱、脱水に引き続いて発症した脳梗塞による死亡が最\nも考えられます。\n※～7/28から変更なし。"
   },
@@ -2201,6 +2425,8 @@
       "肝機能異常",
       "心筋炎"
     ],
+    "tests_used_for_determination": "解剖（肝臓に劇症肝炎を疑わせる所見あり、軽度の心筋炎の所見を認めた）",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "剖検結果の情報は得られているものの、ウイルス性等を\n含めたワクチンとは関連のない心筋炎との判別は困難で\nある。\n※～7/28から変更なし。"
   },
@@ -2220,6 +2446,8 @@
     "PT_names": [
       "急性心不全"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -2239,6 +2467,8 @@
     "PT_names": [
       "不明"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "関連なし",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -2258,6 +2488,8 @@
     "PT_names": [
       "不明"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "不明",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -2278,6 +2510,8 @@
       "誤嚥性肺炎",
       "状態悪化"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "不明",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -2298,6 +2532,8 @@
       "うっ血性心不全",
       "高血圧"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "不明",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "心不全と判断した根拠等の情報が不足しており、評価不\n能と判断した。\n高血圧が副作用と判断した根拠等の情報が不足してお\nり、評価不能と判断した。\n※～7/28から変更なし。"
   },
@@ -2317,6 +2553,8 @@
     "PT_names": [
       "溺死"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "関連なし",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -2336,6 +2574,8 @@
     "PT_names": [
       "肺塞栓症"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "不明",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -2356,6 +2596,8 @@
       "肺炎",
       "敗血症"
     ],
+    "tests_used_for_determination": "死亡時画像診断（CT）",
+    "causal_relationship": "不明",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -2377,6 +2619,8 @@
       "心筋梗塞",
       "不整脈"
     ],
+    "tests_used_for_determination": "ＣＴ（肺に水を飲み込んだ所見あり）",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "二次的に起こった事象と考えます。\n※～7/28から変更なし。"
   },
@@ -2396,6 +2640,8 @@
     "PT_names": [
       "くも膜下出血"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "関連あり",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -2415,6 +2661,8 @@
     "PT_names": [
       "不明"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -2434,6 +2682,8 @@
     "PT_names": [
       "不明"
     ],
+    "tests_used_for_determination": "大腸内視鏡検査 評価不能",
+    "causal_relationship": "",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -2453,6 +2703,8 @@
     "PT_names": [
       "不明"
     ],
+    "tests_used_for_determination": "検案",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "自宅での死亡で詳細不明"
   },
@@ -2473,6 +2725,8 @@
       "肺水腫",
       "心不全"
     ],
+    "tests_used_for_determination": "心電図、死亡時画像診断（ＣＴ）（頭～胸腹部所見：頭部異常なし、両肺にすりガラス状陰影・小葉間隔壁の肥厚、肺水腫、心不全が疑われる）",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -2492,6 +2746,8 @@
     "PT_names": [
       "不明"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "関連あり",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "接種後に意識消失を発症して死亡に至った症例である\nが、器質的疾患の有無など既情報では全く不明であり、\nワクチン接種との因果関係は判断できない。\n※～7/28から変更なし。"
   },
@@ -2513,6 +2769,8 @@
       "冠動脈狭窄",
       "心不全"
     ],
+    "tests_used_for_determination": "死亡時画像診断（CT）（StanfordAの大動脈解離の所見あり）、解剖（急性大動脈解離による冠動脈狭窄での虚血性新機能不全と判断）",
+    "causal_relationship": "関連あり（搬送医療機関）関連なし（解剖医療機関）",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "剖検にて直接の死因は急性大動脈解離と判断されるが、\n他要因の影響も否定できず評価は困難である。\n※～7/28から変更なし。"
   },
@@ -2532,6 +2790,8 @@
     "PT_names": [
       "急性心筋梗塞"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "不明",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -2551,6 +2811,8 @@
     "PT_names": [
       "間質性肺疾患"
     ],
+    "tests_used_for_determination": "CT、COVID-19PCR（検査）（～6/10の情報に基づく）",
+    "causal_relationship": "関連あり",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "2/26にIP診断とされているが、ステロイド治療開始は3/11\nで、時間的なギャップがある。当初は誤嚥性肺炎として治\n療されており、情報不足を考える。\n※～7/28から変更なし。"
   },
@@ -2570,6 +2832,8 @@
     "PT_names": [
       "心筋炎"
     ],
+    "tests_used_for_determination": "解剖（肉眼的所見においても心筋の壊死などあり、心筋炎の所見）、冠動脈造影検査、心臓超音波検査、造影CT、心電図、血液検査",
+    "causal_relationship": "関連あり",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "経過は劇症型心筋炎として矛盾なく、時系列からするとワ\nクチン接種との因果関係を完全には否定できない。心筋\n炎発症前の心機能やアレルギーに関する情報も必要。\n※～7/28から変更なし。"
   },
@@ -2589,6 +2853,8 @@
     "PT_names": [
       "大動脈解離"
     ],
+    "tests_used_for_determination": "死亡時画像診断（CT）（上行大動脈急性解離）",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "既往歴を含む症例の背景に関する情報がない\n※～7/28から変更なし。"
   },
@@ -2608,6 +2874,8 @@
     "PT_names": [
       "大動脈解離破裂"
     ],
+    "tests_used_for_determination": "死亡時画像診断（CT）（大動脈解離の疑い）",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -2629,6 +2897,8 @@
       "肺うっ血",
       "急性心筋梗塞"
     ],
+    "tests_used_for_determination": "死亡時画像診断（CT）",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -2648,6 +2918,8 @@
     "PT_names": [
       "循環虚脱"
     ],
+    "tests_used_for_determination": "不明→解剖、死亡時画像診断（CT）（～6/15の情報に基づく（集計・専門家評価対象期間（～5/15）後に報告された内容））",
+    "causal_relationship": "関連あり",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "剖検時の肺うっ血所見から急死が示唆されるものの、既\n往症、内服薬等の背景情報が不足しておりワクチン接種\nとの因果関係評価は困難である。\n※～7/28から変更なし。"
   },
@@ -2668,6 +2940,8 @@
       "心室細動",
       "大動脈解離"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -2687,6 +2961,8 @@
     "PT_names": [
       "肺炎"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "不明",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "あまりに情報が少なすぎます。\n※～7/28から変更なし。"
   },
@@ -2706,6 +2982,8 @@
     "PT_names": [
       "不明"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "関連なし",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -2725,6 +3003,8 @@
     "PT_names": [
       "血栓症"
     ],
+    "tests_used_for_determination": "血液検査、MRI血管造影術、CT、脳MRI",
+    "causal_relationship": "不明",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "広範囲に血栓が発現しているが、接種前の症例の背景と\n死亡時の情報が不明である。\n※～7/28から変更なし。"
   },
@@ -2744,6 +3024,8 @@
     "PT_names": [
       "不明"
     ],
+    "tests_used_for_determination": "不明→検案（～5/13の情報に基づく（集計・専門家評価対象期間（～4/17）後に報告された内容））",
+    "causal_relationship": "不明→関連なし（～5/13の情報に基づく（集計・専門家評価対象期間（～4/17）後に報告された内容））",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -2763,6 +3045,8 @@
     "PT_names": [
       "急性呼吸窮迫症候群"
     ],
+    "tests_used_for_determination": "インフルエンザ及びCOVID19抗原検査（陰性）",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -2782,6 +3066,8 @@
     "PT_names": [
       "不整脈"
     ],
+    "tests_used_for_determination": "不明→死亡時画像診断（CT）（～6/10の情報に基づく（集計・専門家評価対象期間（～5/15）後に報告された内容））",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "時間的経過から因果関係は否定できないが、他要因の影\n響も否定できず評価は困難である。\n※～7/28から変更なし。"
   },
@@ -2801,6 +3087,8 @@
     "PT_names": [
       "アルコール性ケトアシドーシス"
     ],
+    "tests_used_for_determination": "解剖、血液検査（（死後採血中及び尿中の3-ヒドロキシ酪酸濃度の著増、HbA1cの上昇や血糖、尿糖の著増は認めず糖尿病性ケトアシドーシスの可能性は低いと考えられた。大腿血中エタノール濃度が軽度酩酊相当であった）",
+    "causal_relationship": "評価不能→関連無し（～9/2の情報に基づく（集計・専門家評価対象期間（～8/7）後に報告された内容））",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -2820,6 +3108,8 @@
     "PT_names": [
       "循環虚脱"
     ],
+    "tests_used_for_determination": "解剖、血液検査（死後血、IgE56IU/mL、トリプターゼ9.3µg/L）",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "時間的経過から因果関係は否定できないが、他要因の影\n響も否定できず評価は困難である。\n※～7/28から変更なし。"
   },
@@ -2841,6 +3131,8 @@
       "肺水腫",
       "肺胞出血"
     ],
+    "tests_used_for_determination": "CT（両肺に著明な肺水腫を認めた）、解剖（急性心機能不全）（～6/10の情報に基づく（集計・専門家評価対象期間（～5/15）後に報告された内容））",
+    "causal_relationship": "関連あり",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "特に既往歴のない若年男性の死亡であり、事象発現と本\n剤投与との時間的関連も認めることから、本剤投与による\n影響を否定できない。ただし、致死性不整脈の経過等とも\n合致するように思われ、可能であれば検診受診歴や経過\n中（搬送中等）の心電図所見等の情報が望まれる。\n※～7/28から変更なし。"
   },
@@ -2860,6 +3152,8 @@
     "PT_names": [
       "心肥大"
     ],
+    "tests_used_for_determination": "不明→解剖（血栓は否定、致死的な心肥大を認めた。脂肪肝、僧帽弁置換術後、本剤投与部に出血と好中球を認める。）（～8/5の情報に基づく）",
+    "causal_relationship": "評価不能（接種医療機関、解剖医療機関ともに）（～6/10の情報に基づく）",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "死亡原因の記載がない。僧帽弁置換術後、心肥大の記\n載があるが、PT-INR値・心肥大の程度・服薬情報がな\nい。\n※～7/28から変更なし。"
   },
@@ -2881,6 +3175,8 @@
       "心突然死",
       "血圧低下"
     ],
+    "tests_used_for_determination": "CT",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "ワクチン接種前の病状不明\n※～7/28から変更なし。"
   },
@@ -2903,6 +3199,8 @@
       "脱水",
       "循環虚脱"
     ],
+    "tests_used_for_determination": "解剖（心筋炎（心筋小静脈周囲間質に多中心性巣状炎症系細胞浸潤（マクロファージ主体））、LMT:25%、LAD:25%、CX:25%、RCA:25%であり、冠動脈狭窄を認めた、冠状動脈外膜小血管炎あり）、血液検査（NT-proBNP 15,900pg/mL。）、CoV-2 S-IgG抗体陽性、CT（～7/8の情報に基づく）",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -2923,6 +3221,8 @@
       "くも膜下出血",
       "血腫"
     ],
+    "tests_used_for_determination": "CT、血液検査",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -2942,6 +3242,8 @@
     "PT_names": [
       "急性心不全"
     ],
+    "tests_used_for_determination": "CT、血液検査、血液ガス分析、心電図（～7/8の情報に基づく（集計・専門家評価対象期間（～6/12）後に報告された内容））",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -2961,6 +3263,8 @@
     "PT_names": [
       "心筋炎"
     ],
+    "tests_used_for_determination": "不明→解剖（～7/8の情報に基づく（集計・専門家評価対象期間（～6/12）後に報告された内容））",
+    "causal_relationship": "関連あり",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -2980,6 +3284,8 @@
     "PT_names": [
       "心臓死"
     ],
+    "tests_used_for_determination": "不明→検視、骨髄生検、血液検査（トロポニンT（検出））（～7/8の情報に基づく（集計・専門家評価対象期間（～6/12）後に報告された内容））",
+    "causal_relationship": "評価不能→関連あり（～7/8の情報に基づく（集計・専門家評価対象期間（～6/12）後に報告された内容））",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -3002,6 +3308,8 @@
       "細菌感染",
       "多臓器機能不全症候群"
     ],
+    "tests_used_for_determination": "ＣＴ、培養検査",
+    "causal_relationship": "関連あり",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -3022,6 +3330,8 @@
       "肺胞出血",
       "呼吸不全"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "関連あり",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "肺胞出血の例は気になります。\n※～7/28から変更なし。"
   },
@@ -3042,6 +3352,8 @@
       "発熱",
       "痙攣発作"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "関連あり",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "病理解剖がなされていない中で因果関係を証明すること\nは困難と判断。ただし接種翌日の病状であり、心筋炎を発\n症して急死した可能性があるものの、心筋逸脱酵素や心\n電図の情報がないため判断不可能。もしその情報があれ\nば心筋炎としての因果関係評価は可能かもしれない。\n※～7/28から変更なし。"
   },
@@ -3064,6 +3376,8 @@
       "脳梗塞",
       "単純ヘルペス"
     ],
+    "tests_used_for_determination": "CT、解剖",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "ワクチンによって急な肺炎を起こすことは考えづらい\n※～7/28から変更なし。"
   },
@@ -3083,6 +3397,8 @@
     "PT_names": [
       "不明"
     ],
+    "tests_used_for_determination": "検案",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "病理解剖がなされていない中で因果関係を証明すること\nは困難と判断。ただしトロポニン陽性例であり心筋炎の可\n能性が残存するため病理解剖があれば更なる議論が可\n能である。\n※～7/28から変更なし。"
   },
@@ -3105,6 +3421,8 @@
       "敗血症",
       "多臓器機能不全症候群"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "症候性てんかんの既往がある方の痙攣重積発作なので、\nワクチン接種が関与している可能性は低いとは考える。し\nかし、最終痙攣発作がいつだったのかは判断に必要であ\nる。たとえば最終発作が接種直近であればワクチンの可\n能性は極めて低いが、数年あるいは数十年単位で発作が\n起きていないにも関わらず、今回明らかになった接種後の\n発作が起きていれば、ワクチンが関連している可能性は\n高くなる。また敗血症については先行する感染兆候の有\n無や、その他の身体所見の結果がない以上、ワクチンと\nの関連の有無は評価できない。\n※～7/28から変更なし。"
   },
@@ -3126,6 +3444,8 @@
       "大動脈瘤破裂",
       "（～9/2の情報に基づく）"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "心肺停止時の情報がない。\n※～7/28から変更なし。"
   },
@@ -3145,6 +3465,8 @@
     "PT_names": [
       "大動脈瘤破裂"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "不明",
     "causal_relationship_by_expert": "",
     "comments_by_expert": ""
   },
@@ -3164,6 +3486,8 @@
     "PT_names": [
       "無菌性髄膜炎"
     ],
+    "tests_used_for_determination": "解剖",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -3184,6 +3508,8 @@
       "胃腸出血",
       "間質性肺疾患"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "関連あり",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -3203,6 +3529,8 @@
     "PT_names": [
       "播種性血管内凝固"
     ],
+    "tests_used_for_determination": "心電図、頭部CT、胸腹部CT",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -3222,6 +3550,8 @@
     "PT_names": [
       "不明"
     ],
+    "tests_used_for_determination": "解剖",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -3241,6 +3571,8 @@
     "PT_names": [
       "不明"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "関連あり",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -3263,6 +3595,8 @@
       "誤嚥",
       "肺炎"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "",
     "comments_by_expert": ""
   },
@@ -3283,6 +3617,8 @@
       "状態悪化",
       "間質性肺疾患"
     ],
+    "tests_used_for_determination": "CT（両肺にびまん性のすりガラス影あり）",
+    "causal_relationship": "関連あり",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -3302,6 +3638,8 @@
     "PT_names": [
       "急性心筋梗塞"
     ],
+    "tests_used_for_determination": "血液検査",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -3321,6 +3659,8 @@
     "PT_names": [
       "不明"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "関連あり",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -3344,6 +3684,8 @@
       "血小板減少症",
       "心筋炎"
     ],
+    "tests_used_for_determination": "不明解剖（～9/2の情報に基づく（集計・専門家評価対象期間（～8/7）後に報告された内容））",
+    "causal_relationship": "評価不能不明（～9/2の情報に基づく（集計・専門家評価対象期間（～8/7）後に報告された内容））",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -3367,6 +3709,8 @@
       "血小板減少症",
       "アシドーシス"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -3388,6 +3732,8 @@
       "不整脈",
       "心筋炎"
     ],
+    "tests_used_for_determination": "CT",
+    "causal_relationship": "不明関連あり（～11/11の情報に基づく（集計・専門家評価対象期間（～10/9）後に報告された内容））",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -3413,6 +3759,8 @@
       "播腫性血管内凝固",
       "塞栓症"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "不明関連あり（～10/7の情報に基づく）",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -3433,6 +3781,8 @@
       "不明 急性心不全",
       "全身性浮腫"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -3452,6 +3802,8 @@
     "PT_names": [
       "不明　　血栓症"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "関連あり",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -3471,6 +3823,8 @@
     "PT_names": [
       "心不全"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "関連あり",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -3490,6 +3844,8 @@
     "PT_names": [
       "心筋炎"
     ],
+    "tests_used_for_determination": "解剖",
+    "causal_relationship": "関連あり",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -3509,6 +3865,8 @@
     "PT_names": [
       "急性冠動脈症候群"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "関連なし",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -3528,6 +3886,8 @@
     "PT_names": [
       "心筋症"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "不明",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -3551,6 +3911,8 @@
       "急速進行性糸球体腎炎",
       "ヘノッホ・ショーンライン紫斑病"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "関連あり",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -3571,6 +3933,8 @@
       "嘔吐",
       "低血圧"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "不明",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -3593,6 +3957,8 @@
       "頻呼吸",
       "チアノーゼ"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -3613,6 +3979,8 @@
       "不明",
       "急性心不全"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -3633,6 +4001,8 @@
       "不明",
       "悪性新生物"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "不明評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -3653,6 +4023,8 @@
       "不明",
       "悪性新生物"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "関連あり評価不能（～3/10の情報に基づく。）",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "脊髄新生物に関する記載がない。\n※～7/28から変更なし。"
   },
@@ -3672,6 +4044,8 @@
     "PT_names": [
       "不明"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "不明",
     "causal_relationship_by_expert": "",
     "comments_by_expert": ""
   },
@@ -3691,6 +4065,8 @@
     "PT_names": [
       "急性冠動脈症候群"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "路上で心停止状態で発見され，心肺停止に関する既往や\n併存疾患の情報がない\n※～7/28から変更なし。"
   },
@@ -3710,6 +4086,8 @@
     "PT_names": [
       "急性心筋梗塞"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "不明",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -3730,6 +4108,8 @@
       "不明",
       "肺水腫"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -3749,6 +4129,8 @@
     "PT_names": [
       "急性心不全"
     ],
+    "tests_used_for_determination": "血液検査、CT",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -3768,6 +4150,8 @@
     "PT_names": [
       "心筋炎"
     ],
+    "tests_used_for_determination": "解剖",
+    "causal_relationship": "関連あり",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -3788,6 +4172,8 @@
       "心筋炎",
       "虚血性心疾患"
     ],
+    "tests_used_for_determination": "解剖",
+    "causal_relationship": "関連あり",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -3807,6 +4193,8 @@
     "PT_names": [
       "心筋虚血"
     ],
+    "tests_used_for_determination": "解剖",
+    "causal_relationship": "不明",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "臨床症状、経過、検査データ、治療薬等の情報が不足し\nており、評価は困難である。\n※～7/28から変更なし。"
   },
@@ -3826,6 +4214,8 @@
     "PT_names": [
       "心筋炎"
     ],
+    "tests_used_for_determination": "解剖",
+    "causal_relationship": "関連あり",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -3845,6 +4235,8 @@
     "PT_names": [
       "心筋虚血"
     ],
+    "tests_used_for_determination": "解剖",
+    "causal_relationship": "不明",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "臨床症状、経過、検査データ、治療薬等の情報が不足し\nており、評価は困難である。\n※～7/28から変更なし。"
   },
@@ -3864,6 +4256,8 @@
     "PT_names": [
       "糖尿病性ケトアシドーシス"
     ],
+    "tests_used_for_determination": "解剖",
+    "causal_relationship": "不明",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "糖尿病性ケトアシドーシスの発症前のリスク因子、合併\n症、併用薬、発症後の詳細な臨床経過、検査データ、治\n療に関する情報が不足しており、評価は困難である。\n※～7/28から変更なし。"
   },
@@ -3883,6 +4277,8 @@
     "PT_names": [
       "不明"
     ],
+    "tests_used_for_determination": "解剖",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -3902,6 +4298,8 @@
     "PT_names": [
       "不明"
     ],
+    "tests_used_for_determination": "検案",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "患者背景や死亡に至った経緯などの詳細な情報が全くな\nく、ワクチン接種と死亡の因果関係は評価できない。\n※～7/28から変更なし。"
   },
@@ -3923,6 +4321,8 @@
       "低酸素症",
       "多臓器機能不全症候群"
     ],
+    "tests_used_for_determination": "CT",
+    "causal_relationship": "関連あり",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "基礎疾患の治療内容やコントロール状況、および報告さ\nれた事象の診断根拠となる検査所見や治療内容の詳細\n情報は得られておらず、ワクチン接種との因果関係を評\n価するのは困難である。\n※～7/28から変更なし。"
   },
@@ -3942,6 +4342,8 @@
     "PT_names": [
       "不明"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "関連あり",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "サイトカインストームに関する遺伝子の発現がワクチン接\n種後による可能性は一般的にありうるが、当該死亡症例\nとの因果関係を裏付ける情報としては不十分である。\n※～7/28から変更なし。"
   },
@@ -3966,6 +4368,8 @@
       "頸動脈閉塞",
       "脳浮腫"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "ワクチン接種直後のため強い関与を疑わせますが、因果\n関係有無の判定は困難です。\nワクチン接種時の既往歴などの情報がないため基礎疾患\nがあったかどうかは分かりませんが、少なくとも接種時に\nは脳梗塞所見はなかったと推測されますので、そのような\n方が1日経たないうちに内頸動脈が血栓で閉塞すること\nは、一般的な動脈硬化症などでは考え難く、急な血栓症\nに至る理由が他に必要です。\nワクチンは血栓ができやすくなる傾向が指摘されています\nので、可能性を否定はできませんが、既往歴が未記載の\nため、ワクチンよるもの以外も否定できません。\n※～7/28から変更なし。"
   },
@@ -3989,6 +4393,8 @@
       "心筋梗塞",
       "(～12/16の情報に基づく。)"
     ],
+    "tests_used_for_determination": "不明司法解剖(～12/16の情報に基づく。)",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "てんかんで内服治療で観察されていたようですが、コント\nロールされているのか記載がない。今回はたまたま痙攣\nが起こってジアゼパムの筋注で痙攣は軽快しているがそ\nの約1時間後に呼吸停止になっている。剖検で心筋梗塞\nが見つかっている。\n※～7/28から変更なし。"
   },
@@ -4010,6 +4416,8 @@
       "多臓器機能不全症候群",
       "低酸素性虚血性脳症"
     ],
+    "tests_used_for_determination": "剖検",
+    "causal_relationship": "関連あり",
     "causal_relationship_by_expert": "",
     "comments_by_expert": ""
   },
@@ -4029,6 +4437,8 @@
     "PT_names": [
       "不明"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "患者背景や死亡に至った経緯などの詳細な情報が得られ\nておらず、ワクチン接種と死亡の因果関係は評価できな\nい。\n※～7/28から変更なし。"
   },
@@ -4048,6 +4458,8 @@
     "PT_names": [
       "心筋炎"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "関連あり",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -4067,6 +4479,8 @@
     "PT_names": [
       "心筋炎"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "関連あり",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -4086,6 +4500,8 @@
     "PT_names": [
       "心筋炎"
     ],
+    "tests_used_for_determination": "剖検",
+    "causal_relationship": "不明",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -4105,6 +4521,8 @@
     "PT_names": [
       "多臓器機能不全症候群"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "症状の経過や検査結果、治療内容などの詳細な情報が\nなく、ワクチン接種と死亡の因果関係は評価できない。\n※～7/28から変更なし。"
   },
@@ -4124,6 +4542,8 @@
     "PT_names": [
       "血栓性血小板減少性紫斑病"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "不明関連あり(～1/20の情報に基づく。)",
     "causal_relationship_by_expert": "",
     "comments_by_expert": ""
   },
@@ -4143,6 +4563,8 @@
     "PT_names": [
       "不明"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "関連なし評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "基礎疾患の程度、8/23の採血結果、その他の検査の有\n無等について情報不足であり、因果関係を判断すること\nは困難である。\n※～7/28から変更なし。"
   },
@@ -4162,6 +4584,8 @@
     "PT_names": [
       "胃静脈瘤破裂"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -4179,6 +4603,8 @@
     "PT_names": [
       "不明"
     ],
+    "tests_used_for_determination": "剖検",
+    "causal_relationship": "不明",
     "causal_relationship_by_expert": "",
     "comments_by_expert": ""
   },
@@ -4198,6 +4624,8 @@
     "PT_names": [
       "脳幹梗塞"
     ],
+    "tests_used_for_determination": "病理解剖",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "TTSとして報告されていますが、血小板減少が新たに発\n症していないことから、ブライトン分類を「5」と評価します。\n※～7/28から変更なし。"
   },
@@ -4218,6 +4646,8 @@
       "心不全",
       "溺死"
     ],
+    "tests_used_for_determination": "剖検",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -4237,6 +4667,8 @@
     "PT_names": [
       "不明"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "関連あり",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -4256,6 +4688,8 @@
     "PT_names": [
       "不明"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "",
     "comments_by_expert": ""
   },
@@ -4275,6 +4709,8 @@
     "PT_names": [
       "脳幹出血"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "不明",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -4295,6 +4731,8 @@
       "ワクチンの互換",
       "間質性肺疾患"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "不明",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -4314,6 +4752,8 @@
     "PT_names": [
       "不明"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -4338,6 +4778,8 @@
       "ARDS",
       "肺腫瘤"
     ],
+    "tests_used_for_determination": "剖検",
+    "causal_relationship": "不明",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "溺水にたる何らかの疾患があると思われるが不明であ\nる。ここに挙げる４項目は溺水に関連するものと思われ、\nワクチン接種との関連性は判定が困難である。\n※～7/28から変更なし。"
   },
@@ -4357,6 +4799,8 @@
     "PT_names": [
       "不明"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "関連あり",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -4379,6 +4823,8 @@
       "血栓症",
       "消化管壊死"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -4398,6 +4844,8 @@
     "PT_names": [
       "不明"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "関連あり",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "死因の解明が必要。不足している情報としては、一番良\nいのは病理解剖ですが、少なくとも死亡前にどのような症\n状があったのか、急激な経過であったのか、慢性の経過\nであったのか、当初認めた「頭痛、倦怠感、痙攣発作、振\n戦、筋攣縮、腫脹、起立障害、摂食障害」などが軽快した\nのかどうかは、必要な情報と考えます。死亡前の血液検\n査の結果、心電図、画像診断があればある程度の死因の\n推測はできると思います。\n※～7/28から変更なし。"
   },
@@ -4417,6 +4865,8 @@
     "PT_names": [
       "心突然死"
     ],
+    "tests_used_for_determination": "剖検",
+    "causal_relationship": "不明",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "接種から1年経過していること、司法解剖の結果が全くわ\nからないことから評価不能。\n※～7/28から変更なし。"
   },
@@ -4438,6 +4888,8 @@
       "間質性肺炎",
       "敗血症"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "関連あり",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）\n※～7/28から変更なし。"
   },
@@ -4457,6 +4909,8 @@
     "PT_names": [
       "腎不全"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "不明",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "情報が少なく、肯定も否定もできません。"
   },
@@ -4479,6 +4933,8 @@
       "代謝障害",
       "血中免疫グロブリンE増加"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）"
   },
@@ -4499,6 +4955,8 @@
       "免疫抑制",
       "サイトカインストーム"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "関連あり",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）"
   },
@@ -4518,6 +4976,8 @@
     "PT_names": [
       "不明"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）"
   },
@@ -4537,6 +4997,8 @@
     "PT_names": [
       "不明"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "不明",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）"
   },
@@ -4556,6 +5018,8 @@
     "PT_names": [
       "不明"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "不明",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）"
   },
@@ -4575,6 +5039,8 @@
     "PT_names": [
       "サイトカイン放出症候群"
     ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "不明",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）"
   }
