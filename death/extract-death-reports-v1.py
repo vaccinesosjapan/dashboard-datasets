@@ -40,6 +40,8 @@ try:
 				"vaccinated_times": row[6],
 				"pre_existing_conditions": row[7].replace('\n',''),
 				"PT_names": row[9].split('\n'),
+				"tests_used_for_determination": row[10].replace('\n',''),
+				"causal_relationship": row[11].replace('\n',''),
 				"causal_relationship_by_expert": row[15],
 				"comments_by_expert": row[16]
 			}
