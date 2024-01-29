@@ -11,59 +11,59 @@ settings: [
   {
     manufacturer: 'ファイザー株式会社',
     name: 'コミナティ筋注',
-    file: '001161432.pdf',
-    output: '001161432-1.json',
+    file: '001197737.pdf',
+    output: '001197737-1.json',
     pages: '4-64',
     script-version: v1
   },
   {
     manufacturer: 'ファイザー株式会社',
     name: 'コミナティ筋注',
-    file: '001161432.pdf',
-    output: '001161432-2.json',
+    file: '001197737.pdf',
+    output: '001197737-2.json',
     pages: '65-130',
     script-version: v1
   },
   {
     manufacturer: 'ファイザー株式会社',
     name: 'コミナティ筋注',
-    file: '001161432.pdf',
-    output: '001161432-3.json',
+    file: '001197737.pdf',
+    output: '001197737-3.json',
     pages: '131-200',
     script-version: v1
   },
   {
     manufacturer: 'ファイザー株式会社',
     name: 'コミナティ筋注',
-    file: '001161432.pdf',
-    output: '001161432-4.json',
+    file: '001197737.pdf',
+    output: '001197737-4.json',
     pages: '201-260',
     script-version: v1
   },
   {
     manufacturer: 'ファイザー株式会社',
     name: 'コミナティ筋注',
-    file: '001161432.pdf',
-    output: '001161432-5.json',
+    file: '001197737.pdf',
+    output: '001197737-5.json',
     # No. 1684, 1810の年齢は取り消し線で消している箇所があり、手動で修正が必要
-    pages: '261-299',
+    pages: '261-314',
     script-version: v1
   },
   {
     manufacturer: 'ファイザー株式会社',
     name: 'コミナティRTU筋注（2価:起源株/オミクロン株BA.1）',
-    file: '001161432.pdf',
-    output: '001161432-6.json',
-    pages: '300-302',
+    file: '001197737.pdf',
+    output: '001197737-6.json',
+    pages: '315-317',
     script-version: v1
   },
   {
     manufacturer: 'ファイザー株式会社',
     name: 'コミナティRTU筋注（2価:起源株/オミクロン株BA.4-5）',
-    file: '001161432.pdf',
-    output: '001161432-7.json',
+    file: '001197737.pdf',
+    output: '001197737-7.json',
     # No. 41の年齢は取り消し線で消している箇所があり、手動で修正が必要
-    pages: '303-333',
+    pages: '318-347',
     script-version: v1
   },
   {

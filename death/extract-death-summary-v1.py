@@ -1,14 +1,14 @@
-import sys
+import sys, json, os
 import camelot
-import json
-import os
 
-pdf_path = sys.argv[1]
+pdf_file_name = sys.argv[1]
 pages = sys.argv[2]
 vaccine_name = sys.argv[3]
-tables = camelot.read_pdf(pdf_path, pages=pages, encoding='utf-8')
-
+source_dir = 'pdf-files'
 output_dir = 'summary-data'
+
+pdf_file_path = os.path.join(source_dir, pdf_file_name)
+tables = camelot.read_pdf(pdf_file_path, pages=pages, encoding='utf-8')
 
 numbers = {}
 for index, table in enumerate(tables):
@@ -23,7 +23,7 @@ for index, table in enumerate(tables):
 
 json_string = json.dumps(numbers, ensure_ascii=False, indent=2)
 
-file_name = pdf_path.rsplit('/', 1)[1]
+file_name = pdf_file_name.rsplit('.', 1)[0]
 output_path = os.path.join(output_dir, file_name + '.json')
 with open( output_path, "w", encoding='utf-8') as f:
     f.write(json_string)
