@@ -113,5 +113,21 @@ settings: [
     output: '001161440.json',
     pages: '3',
     script-version: v1
-  }
+  },
+  {
+    manufacturer: 'ファイザー株式会社',
+    name: 'コミナティRTU筋注（1価:オミクロン株XBB.1.5）',
+    file: '001197005.pdf',
+    output: '001197005.json',
+    pages: '2-4',
+    script-version: v0
+  },
+  {
+    manufacturer: 'モデルナ・ジャパン株式会社',
+    name: 'スパイクバックス筋注（1価:オミクロン株XBB.1.5）',
+    file: '001197006.pdf',
+    output: '001197006.json',
+    pages: '2',
+    script-version: v0
+  },
 ]

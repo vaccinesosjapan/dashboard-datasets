@@ -1,0 +1,42 @@
+[
+  {
+    "no": "1",
+    "manufacturer": "モデルナ・ジャパン株式会社",
+    "vaccine_name": "スパイクバックス筋注（1価:オミクロン株XBB.1.5）",
+    "age": "98歳",
+    "gender": "女",
+    "vaccinated_dates": "2023年10月17日",
+    "onset_dates": [
+      "2023年10月21日"
+    ],
+    "lot_no": "710011A",
+    "pre_existing_conditions": "基礎疾患等：高血圧、S状結腸癌術後ストーマ併用薬：オルメサルタン、アムロジン、トリクロルメチアジド要介護4接種翌日より食欲不振となり10/18食事摂取量1割10/19からは食事は摂取せず水分摂取のみ（1日500mL程）他は症状認められず10/21に死亡を確認",
+    "PT_names": [
+      "不明"
+    ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "報告者の見解も因果関係不明。"
+  },
+  {
+    "no": "2",
+    "manufacturer": "モデルナ・ジャパン株式会社",
+    "vaccine_name": "スパイクバックス筋注（1価:オミクロン株XBB.1.5）",
+    "age": "90歳",
+    "gender": "男",
+    "vaccinated_dates": "2023年10月23日",
+    "onset_dates": [
+      "2023年10月25日"
+    ],
+    "lot_no": "710005A",
+    "pre_existing_conditions": "基礎疾患等：脳梗塞、前立腺肥大、心房細動、喘息併用薬：タケルダ、アンブロキソール、ゾルピデム、リスペリドン、マグミット10月24日朝8時、施設職員が苦しがっている患者を発見、救急車で搬送。医療機関到着時、JCS-Ⅲ-300努力様呼吸、4Lリザーバーマスク、SpO2 97～98%、尿中肺炎球菌莢膜抗原陽性にて抗生剤治療開始。胸部XPでは、左肺に肺炎像あり。普段は車椅子自走できているがワクチン接種当日まで全く様子は変わらなかったと施設職員は語っていた。入院後補液、酸素、抗生剤投与続けるも10月25日死亡。",
+    "PT_names": [
+      "不明"
+    ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "心房細動ありの90歳男性。肺炎像とワクチン接種、死亡との因\n果関係は不明。"
+  }
+]
