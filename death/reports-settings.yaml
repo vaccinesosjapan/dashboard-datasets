@@ -1,26 +1,26 @@
 settings: [
   {
-    manufacturer: 'モデルナ・ジャパン株式会社',
-    name: 'スパイクバックス筋注',
-    file: '001197738.pdf',
-    output: '001197738-1.json',
-    pages: '4-51',
+    manufacturer: '武田薬品工業株式会社',
+    name: 'ヌバキソビッド筋注',
+    file: '001197905.pdf',
+    output: '001197905.json',
+    pages: '6-7',
     script-version: v1
   },
   {
-    manufacturer: 'モデルナ・ジャパン株式会社',
-    name: 'スパイクバックス筋注（2価:起源株/オミクロン株BA.1）',
-    file: '001197738.pdf',
-    output: '001197738-2.json',
-    pages: '52-53',
-    script-version: v1
+    manufacturer: 'ファイザー株式会社',
+    name: 'コミナティRTU筋注（1価:オミクロン株XBB.1.5）',
+    file: '001197005.pdf',
+    output: '001197005.json',
+    pages: '2-4',
+    script-version: v0
   },
   {
     manufacturer: 'モデルナ・ジャパン株式会社',
-    name: 'スパイクバックス筋注（2価:起源株/オミクロン株BA.4-5）',
-    file: '001197738.pdf',
-    output: '001197738-3.json',
-    pages: '54-56',
-    script-version: v1
+    name: 'スパイクバックス筋注（1価:オミクロン株XBB.1.5）',
+    file: '001197006.pdf',
+    output: '001197006.json',
+    pages: '2',
+    script-version: v0
   },
 ]
