@@ -41,6 +41,7 @@ try:
 				"vaccinated_dates": vaccinated_dates,
 				"onset_dates": onset_dates,
 				"lot_no": lot_no,
+				"vaccinated_times": "1回目",
 				"pre_existing_conditions": row[6].replace('\n',''),
 				"PT_names": row[8].split('\n'),
 				"tests_used_for_determination": row[9].replace('\n',''),
