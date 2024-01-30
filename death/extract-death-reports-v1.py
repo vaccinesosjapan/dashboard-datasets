@@ -1,10 +1,13 @@
+import json, traceback, os, sys
 import camelot
-import json, traceback, os, sys, copy
 sys.path.append("../libraries")
 from exdeath import (
 	extract_lot_no_etc
 )
 
+'''
+亡くなった方々の症例一覧から情報を抽出するスクリプト。
+'''
 pdf_file_name = sys.argv[1]
 output_file_name = sys.argv[2]
 pages = sys.argv[3]
@@ -43,7 +46,7 @@ try:
 				"tests_used_for_determination": row[10].replace('\n',''),
 				"causal_relationship": row[11].replace('\n',''),
 				"causal_relationship_by_expert": row[15],
-				"comments_by_expert": row[16]
+				"comments_by_expert": row[16].replace('\n','')
 			}
 
 			if rowData['no'] == '':
