@@ -1,9 +1,9 @@
 settings: {
   # 使用したPDFのうち一番最新のものの日付をここに
-  date: '2024/01/26',
+  date: '2024/01/31',
   #「（参考１） 実績（累積）」の情報をここに転記します。
   # 「進達受理件数」の数
-  total_entries: 10090,
+  total_entries: 10135,
   # 「保留」の数
-  pending_count: 63
+  pending_count: 56
 }
