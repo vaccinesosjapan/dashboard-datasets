@@ -1,6 +1,4 @@
-import glob
-import json
-import os
+import glob, json, os
 
 jsonFileList = glob.glob('reports-data/*.json')
 output_dir = '../_datasets'
