@@ -5235,18 +5235,18 @@
     "no": 17875,
     "age": "29",
     "gender": "男性",
-    "vaccinated_date": "不明\n2022/02/06",
+    "vaccinated_date": "2022/02/06\n不明",
     "onset_dates": [
       "2022/02/09",
       "2022/02/08",
       "未記入",
       "2022/02/06"
     ],
-    "days_to_onset": "不明\n0",
-    "vaccine_name": "コミナティ筋注\nスパイクバックス筋注",
-    "manufacturer": "ファイザー\nモデルナ",
+    "days_to_onset": "0\n不明",
+    "vaccine_name": "スパイクバックス筋注\nコミナティ筋注",
+    "manufacturer": "モデルナ\nファイザー",
     "lot_no": "不明\n不明",
-    "vaccinated_times": "2回目\n3回目",
+    "vaccinated_times": "3回目\n2回目",
     "pre_existing_disease_names": [
       "脂肪肝"
     ],
@@ -5278,8 +5278,8 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
@@ -16883,6 +16883,113 @@
     }
   },
   {
+    "no": 22869,
+    "age": "",
+    "gender": "男性",
+    "vaccinated_date": "不明\n不明\n不明\n不明\n不明\n2022/12",
+    "onset_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "days_to_onset": "不明\n不明\n不明\n不明\n不明\n不明",
+    "vaccine_name": "スパイクバックス筋注\nコミナティ筋注\nコミナティ筋注\nコミナティ筋注\nコミナティ筋注\nヌバキソビッド筋注",
+    "manufacturer": "モデルナ\nファイザー\nファイザー\nファイザー\nファイザー\nノババックス/武田",
+    "lot_no": "不明\n不明\n不明\n不明\n不明\n不明",
+    "vaccinated_times": "\n6回目\n5回目\n4回目\n3回目\n2回目\n1回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "アナフィラキシー(アナフィラキシー反応)",
+      "心筋炎(心筋炎)",
+      "アナフィラキシー(アナフィラキシー反応)",
+      "心筋炎(心筋炎)",
+      "アナフィラキシー(アナフィラキシー反応)",
+      "心筋炎(心筋炎)",
+      "アナフィラキシー(アナフィラキシー反応)",
+      "心筋炎(心筋炎)",
+      "アナフィラキシー(アナフィラキシー反応)",
+      "心筋炎(心筋炎)",
+      "アナフィラキシー(アナフィラキシー反応)",
+      "心筋炎(心筋炎)"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "不明",
+      "不明"
+    ],
+    "evaluated_PT": "心筋炎",
+    "evaluated_result": "γ",
+    "brighton_classification": 4,
+    "expert_opinion": "年齢、既往歴、発症日等の情報及び経過の詳細な情報もないため、因果関係の評価は困難である。",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
+    }
+  },
+  {
+    "no": 22889,
+    "age": "",
+    "gender": "男性",
+    "vaccinated_date": "不明\n不明\n不明\n不明\n不明\n2022/12",
+    "onset_dates": [
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "days_to_onset": "不明\n不明\n不明\n不明\n不明\n不明",
+    "vaccine_name": "スパイクバックス筋注（２価：起源株/オミクロン株BA.4-5）\nコミナティ筋注\nコミナティ筋注\nコミナティ筋注\nコミナティ筋注\nヌバキソビッド筋注",
+    "manufacturer": "モデルナ\nファイザー\nファイザー\nファイザー\nファイザー\nノババックス/武田",
+    "lot_no": "不明\n不明\n不明\n不明\n不明\n不明",
+    "vaccinated_times": "6回目\n5回目\n4回目\n3回目\n2回目\n1回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "アナフィラキシー(アナフィラキシー反応)",
+      "心筋炎(心筋炎)",
+      "脳出血(脳出血)",
+      "アナフィラキシー(アナフィラキシー反応)",
+      "心筋炎(心筋炎)",
+      "脳出血(脳出血)",
+      "アナフィラキシー(アナフィラキシー反応)",
+      "心筋炎(心筋炎)",
+      "脳出血(脳出血)",
+      "アナフィラキシー(アナフィラキシー反応)",
+      "心筋炎(心筋炎)",
+      "脳出血(脳出血)",
+      "アナフィラキシー(アナフィラキシー反応)",
+      "心筋炎(心筋炎)",
+      "脳出血(脳出血)",
+      "アナフィラキシー(アナフィラキシー反応)",
+      "心筋炎(心筋炎)",
+      "脳出血(脳出血)"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "不明",
+      "不明",
+      "不明"
+    ],
+    "evaluated_PT": "心筋炎",
+    "evaluated_result": "γ",
+    "brighton_classification": 4,
+    "expert_opinion": "心筋炎と診断するには情報が少なく、困難である。また、心筋炎は市中感染症などを契機として自然発生することが知られている疾患であり、ワクチンによる心筋炎なのか、ワクチンとは関係の無い自然発生した心筋炎なのかを判別することは困難である。以上から、ワクチンとの因果関係を有と判断することはできないと考えた。",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
+    }
+  },
+  {
     "no": 22892,
     "age": "77歳",
     "gender": "男性",
@@ -18564,7 +18671,7 @@
     }
   },
   {
-    "no": 25979,
+    "no": 26336,
     "age": "31",
     "gender": "男性",
     "vaccinated_date": "2021/07/03\n2021/07/31",
@@ -18595,12 +18702,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 25983,
+    "no": 26340,
     "age": "50",
     "gender": "女性",
     "vaccinated_date": "2021/08/18\n不明",
@@ -18631,12 +18738,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 25985,
+    "no": 26342,
     "age": "29",
     "gender": "男性",
     "vaccinated_date": "2021/11/21\n不明",
@@ -18667,12 +18774,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 25988,
+    "no": 26345,
     "age": "24",
     "gender": "男性",
     "vaccinated_date": "2021/11/20\n不明",
@@ -18703,12 +18810,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26011,
+    "no": 26368,
     "age": "25",
     "gender": "男性",
     "vaccinated_date": "2021/11/26\n不明",
@@ -18739,12 +18846,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26018,
+    "no": 26375,
     "age": "38",
     "gender": "男性",
     "vaccinated_date": "2021/09/02",
@@ -18798,12 +18905,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26018,
+    "no": 26375,
     "age": "38",
     "gender": "男性",
     "vaccinated_date": "2021/09/02",
@@ -18853,12 +18960,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26019,
+    "no": 26376,
     "age": "19",
     "gender": "男性",
     "vaccinated_date": "2021/08/28",
@@ -18888,12 +18995,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26020,
+    "no": 26377,
     "age": "28",
     "gender": "男性",
     "vaccinated_date": "2021/11/07\n不明",
@@ -18924,12 +19031,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26030,
+    "no": 26387,
     "age": "16",
     "gender": "女性",
     "vaccinated_date": "2021/09/20\n2021/10/31",
@@ -18960,12 +19067,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26032,
+    "no": 26389,
     "age": "35",
     "gender": "女性",
     "vaccinated_date": "2021/09/07\n2021/10/05",
@@ -19006,12 +19113,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26033,
+    "no": 26390,
     "age": "16",
     "gender": "男性",
     "vaccinated_date": "2021/10/17\n2021/11/14",
@@ -19042,12 +19149,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26040,
+    "no": 26397,
     "age": "18",
     "gender": "男性",
     "vaccinated_date": "2021/10/30\n不明",
@@ -19078,12 +19185,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26043,
+    "no": 26400,
     "age": "21",
     "gender": "男性",
     "vaccinated_date": "2021/11/22\n不明",
@@ -19114,12 +19221,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26044,
+    "no": 26401,
     "age": "17",
     "gender": "",
     "vaccinated_date": "2021/10/16\n不明",
@@ -19150,12 +19257,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26052,
+    "no": 26409,
     "age": "22",
     "gender": "男性",
     "vaccinated_date": "2021/10/16\n2021/11/13",
@@ -19186,12 +19293,12 @@
     "expert_opinion": "心筋炎は市中感染症などを契機として発生することもあるため、ワクチンによる心筋炎なのか、ウイルス性心筋炎含め、ワクチンとは無関係に発生したのかを鑑別することは困難である。",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26055,
+    "no": 26412,
     "age": "14",
     "gender": "男性",
     "vaccinated_date": "2021/10/01\n不明",
@@ -19222,12 +19329,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26059,
+    "no": 26416,
     "age": "17",
     "gender": "男性",
     "vaccinated_date": "2021/11/13\n不明",
@@ -19258,12 +19365,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26060,
+    "no": 26417,
     "age": "21",
     "gender": "男性",
     "vaccinated_date": "2021/09/08\n2021/10/21",
@@ -19296,12 +19403,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26063,
+    "no": 26420,
     "age": "16",
     "gender": "男性",
     "vaccinated_date": "2021/10/22\n不明",
@@ -19332,12 +19439,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26069,
+    "no": 26426,
     "age": "17",
     "gender": "男性",
     "vaccinated_date": "2021/10/03\n2021/10/31",
@@ -19368,12 +19475,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26072,
+    "no": 26429,
     "age": "29",
     "gender": "男性",
     "vaccinated_date": "不明",
@@ -19403,12 +19510,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26073,
+    "no": 26430,
     "age": "",
     "gender": "",
     "vaccinated_date": "不明",
@@ -19438,12 +19545,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26080,
+    "no": 26437,
     "age": "20",
     "gender": "男性",
     "vaccinated_date": "不明\n不明",
@@ -19479,12 +19586,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26080,
+    "no": 26437,
     "age": "20",
     "gender": "男性",
     "vaccinated_date": "不明\n不明",
@@ -19520,12 +19627,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26082,
+    "no": 26439,
     "age": "39",
     "gender": "男性",
     "vaccinated_date": "2021/11/13\n不明",
@@ -19557,12 +19664,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26085,
+    "no": 26442,
     "age": "37",
     "gender": "男性",
     "vaccinated_date": "不明",
@@ -19592,12 +19699,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26087,
+    "no": 26444,
     "age": "29",
     "gender": "男性",
     "vaccinated_date": "2022/01/09",
@@ -19630,12 +19737,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26089,
+    "no": 26446,
     "age": "25",
     "gender": "男性",
     "vaccinated_date": "不明\n不明",
@@ -19666,12 +19773,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26091,
+    "no": 26448,
     "age": "34",
     "gender": "男性",
     "vaccinated_date": "2022/01/21",
@@ -19701,12 +19808,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26092,
+    "no": 26449,
     "age": "20",
     "gender": "女性",
     "vaccinated_date": "不明\n不明",
@@ -19747,12 +19854,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26092,
+    "no": 26449,
     "age": "20",
     "gender": "女性",
     "vaccinated_date": "不明\n不明",
@@ -19793,12 +19900,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26093,
+    "no": 26450,
     "age": "27",
     "gender": "男性",
     "vaccinated_date": "不明\n不明",
@@ -19834,12 +19941,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26103,
+    "no": 26460,
     "age": "22",
     "gender": "男性",
     "vaccinated_date": "不明\n不明",
@@ -19870,12 +19977,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26114,
+    "no": 26471,
     "age": "94",
     "gender": "女性",
     "vaccinated_date": "2021/06/09\n2021/06/30\n2022/01/07",
@@ -19941,12 +20048,12 @@
     "expert_opinion": "慢性気管支炎、慢性腎臓病、慢性心不全を基礎疾患に持つ高齢女性。急性心膜炎と診断するには、情報が乏しく困難である。また、基礎疾患の心不全の増悪の可能性があることや、心膜炎は市中感染症などを契機として自然発生することが知られている疾患であることから、因果関係を有と判断することはできないと考えた。",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26129,
+    "no": 26486,
     "age": "18",
     "gender": "男性",
     "vaccinated_date": "2021/09/03\n不明",
@@ -19977,12 +20084,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26141,
+    "no": 26498,
     "age": "20",
     "gender": "男性",
     "vaccinated_date": "不明\n不明",
@@ -20018,12 +20125,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26146,
+    "no": 26503,
     "age": "59",
     "gender": "男性",
     "vaccinated_date": "不明",
@@ -20061,12 +20168,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26147,
+    "no": 26504,
     "age": "22",
     "gender": "男性",
     "vaccinated_date": "2022/01/24",
@@ -20096,12 +20203,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26148,
+    "no": 26505,
     "age": "24",
     "gender": "男性",
     "vaccinated_date": "2021/10/06",
@@ -20131,12 +20238,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26159,
+    "no": 26516,
     "age": "39",
     "gender": "男性",
     "vaccinated_date": "2021/07/17\n2021/08/14",
@@ -20172,12 +20279,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26165,
+    "no": 26522,
     "age": "24",
     "gender": "男性",
     "vaccinated_date": "2021/10/24\n不明",
@@ -20208,12 +20315,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26175,
+    "no": 26532,
     "age": "40歳代",
     "gender": "女性",
     "vaccinated_date": "不明",
@@ -20243,12 +20350,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26179,
+    "no": 26536,
     "age": "31",
     "gender": "男性",
     "vaccinated_date": "2021/08/30",
@@ -20278,12 +20385,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26181,
+    "no": 26538,
     "age": "66",
     "gender": "女性",
     "vaccinated_date": "2021/09/18\n不明",
@@ -20314,12 +20421,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26186,
+    "no": 26543,
     "age": "48",
     "gender": "男性",
     "vaccinated_date": "不明",
@@ -20361,12 +20468,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26192,
+    "no": 26549,
     "age": "20",
     "gender": "男性",
     "vaccinated_date": "2021/10/08\n2021/11/05",
@@ -20399,12 +20506,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26199,
+    "no": 26556,
     "age": "27",
     "gender": "男性",
     "vaccinated_date": "不明\n不明",
@@ -20435,12 +20542,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26204,
+    "no": 26561,
     "age": "81",
     "gender": "男性",
     "vaccinated_date": "2022/02/07",
@@ -20474,12 +20581,12 @@
     "expert_opinion": "心筋逸脱酵素の上昇、およびびまん性の心収縮能低下を認めたものの、心筋炎と診断するのに特異的な検査についての情報（心臓MRIや心筋生検など）がない。",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26205,
+    "no": 26562,
     "age": "27",
     "gender": "男性",
     "vaccinated_date": "2021/10/19\n不明",
@@ -20510,12 +20617,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26227,
+    "no": 26584,
     "age": "30",
     "gender": "女性",
     "vaccinated_date": "2022/02/11",
@@ -20545,12 +20652,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26231,
+    "no": 26588,
     "age": "24",
     "gender": "男性",
     "vaccinated_date": "2021/10/24\n不明",
@@ -20581,12 +20688,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26232,
+    "no": 26589,
     "age": "72",
     "gender": "女性",
     "vaccinated_date": "2021/06/24",
@@ -20620,12 +20727,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26238,
+    "no": 26595,
     "age": "25",
     "gender": "男性",
     "vaccinated_date": "2022/02/26",
@@ -20655,12 +20762,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26239,
+    "no": 26596,
     "age": "24",
     "gender": "男性",
     "vaccinated_date": "2022/02/06\n不明",
@@ -20696,12 +20803,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26239,
+    "no": 26596,
     "age": "24",
     "gender": "男性",
     "vaccinated_date": "2022/02/06\n不明",
@@ -20737,12 +20844,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26250,
+    "no": 26607,
     "age": "72",
     "gender": "男性",
     "vaccinated_date": "2022/02/19",
@@ -20774,12 +20881,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26283,
+    "no": 26640,
     "age": "21",
     "gender": "男性",
     "vaccinated_date": "2022/03/01",
@@ -20821,12 +20928,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26295,
+    "no": 26652,
     "age": "25",
     "gender": "男性",
     "vaccinated_date": "2022/02/26",
@@ -20856,12 +20963,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26303,
+    "no": 26660,
     "age": "72",
     "gender": "男性",
     "vaccinated_date": "2022/02/23",
@@ -20896,12 +21003,48 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26309,
+    "no": 26661,
+    "age": "29歳",
+    "gender": "男性",
+    "vaccinated_date": "2021/09/23\n不明",
+    "onset_dates": [
+      "2021/10/20"
+    ],
+    "days_to_onset": "27\n不明",
+    "vaccine_name": "スパイクバックス筋注\nスパイクバックス筋注",
+    "manufacturer": "モデルナ\nモデルナ",
+    "lot_no": "不明\n不明",
+    "vaccinated_times": "2回目\n1回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心筋炎(心筋炎)",
+      "心筋炎(心筋炎)"
+    ],
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "evaluated_PT": "心筋炎",
+    "evaluated_result": "γ",
+    "brighton_classification": 4,
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
+    }
+  },
+  {
+    "no": 26666,
     "age": "52",
     "gender": "男性",
     "vaccinated_date": "2022/02/28\n不明\n不明",
@@ -20933,12 +21076,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26315,
+    "no": 26672,
     "age": "51",
     "gender": "男性",
     "vaccinated_date": "2021/08/29\n不明",
@@ -20970,12 +21113,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26317,
+    "no": 26674,
     "age": "33",
     "gender": "男性",
     "vaccinated_date": "2022/02/25",
@@ -21005,12 +21148,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26325,
+    "no": 26682,
     "age": "31",
     "gender": "女性",
     "vaccinated_date": "2022/03/05",
@@ -21048,12 +21191,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26343,
+    "no": 26700,
     "age": "22",
     "gender": "男性",
     "vaccinated_date": "2022/03/06\n不明\n不明",
@@ -21085,12 +21228,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26344,
+    "no": 26701,
     "age": "19",
     "gender": "男性",
     "vaccinated_date": "2022/03/07",
@@ -21129,12 +21272,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26344,
+    "no": 26701,
     "age": "19",
     "gender": "男性",
     "vaccinated_date": "2022/03/07",
@@ -21173,12 +21316,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26364,
+    "no": 26721,
     "age": "35",
     "gender": "男性",
     "vaccinated_date": "2022/02/26",
@@ -21208,12 +21351,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26372,
+    "no": 26729,
     "age": "26",
     "gender": "女性",
     "vaccinated_date": "2022/02/10",
@@ -21251,12 +21394,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26379,
+    "no": 26736,
     "age": "18",
     "gender": "男性",
     "vaccinated_date": "2022/03/02",
@@ -21296,12 +21439,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26384,
+    "no": 26741,
     "age": "21",
     "gender": "女性",
     "vaccinated_date": "2022/03/13",
@@ -21336,12 +21479,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26401,
+    "no": 26758,
     "age": "63",
     "gender": "男性",
     "vaccinated_date": "2021/08/11",
@@ -21403,12 +21546,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26429,
+    "no": 26786,
     "age": "25",
     "gender": "男性",
     "vaccinated_date": "2022/03/10",
@@ -21438,12 +21581,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26433,
+    "no": 26790,
     "age": "23",
     "gender": "男性",
     "vaccinated_date": "2022/03/07",
@@ -21473,12 +21616,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26434,
+    "no": 26791,
     "age": "19",
     "gender": "男性",
     "vaccinated_date": "2022/03/09\n不明",
@@ -21510,12 +21653,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26436,
+    "no": 26793,
     "age": "19",
     "gender": "男性",
     "vaccinated_date": "2021/07/14\n2021/08/11\n2022/03/03",
@@ -21548,12 +21691,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26439,
+    "no": 26796,
     "age": "19",
     "gender": "男性",
     "vaccinated_date": "2022/02/16",
@@ -21584,12 +21727,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26441,
+    "no": 26798,
     "age": "18",
     "gender": "男性",
     "vaccinated_date": "不明\n不明",
@@ -21620,12 +21763,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26442,
+    "no": 26799,
     "age": "38",
     "gender": "女性",
     "vaccinated_date": "2021/07/29\n2021/08/31",
@@ -21671,12 +21814,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26474,
+    "no": 26831,
     "age": "20",
     "gender": "男性",
     "vaccinated_date": "2022/03/12",
@@ -21710,12 +21853,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26474,
+    "no": 26831,
     "age": "20",
     "gender": "男性",
     "vaccinated_date": "2022/03/12",
@@ -21749,12 +21892,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26480,
+    "no": 26837,
     "age": "57",
     "gender": "男性",
     "vaccinated_date": "2022/03/17",
@@ -21799,12 +21942,12 @@
     "expert_opinion": "経過は劇症型心筋炎として矛盾なく、時系列からするとワクチン接種との因果関係を完全には否定できない。心筋炎発症前の心機能やアレルギーに関する情報も必要。",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26490,
+    "no": 26847,
     "age": "20",
     "gender": "男性",
     "vaccinated_date": "2022/03/19",
@@ -21834,12 +21977,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26492,
+    "no": 26849,
     "age": "45",
     "gender": "女性",
     "vaccinated_date": "不明\n不明",
@@ -21870,12 +22013,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26498,
+    "no": 26855,
     "age": "44",
     "gender": "男性",
     "vaccinated_date": "2022/02/26",
@@ -21905,12 +22048,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26501,
+    "no": 26858,
     "age": "26",
     "gender": "男性",
     "vaccinated_date": "2021/07\n2021/08\n2022/02/20",
@@ -21943,12 +22086,12 @@
     "expert_opinion": "心筋炎は市中感染症などを契機として自然発生することも知られている疾患であり、ワクチン接種による心筋炎なのか、ワクチン接種とは関係なく自然発生した心筋炎なのかを判別することは困難である。",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26505,
+    "no": 26862,
     "age": "24",
     "gender": "男性",
     "vaccinated_date": "2022/03/18",
@@ -21982,12 +22125,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26505,
+    "no": 26862,
     "age": "24",
     "gender": "男性",
     "vaccinated_date": "2022/03/18",
@@ -22021,12 +22164,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26508,
+    "no": 26865,
     "age": "30",
     "gender": "男性",
     "vaccinated_date": "2022/03/18",
@@ -22056,12 +22199,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26517,
+    "no": 26874,
     "age": "23",
     "gender": "男性",
     "vaccinated_date": "2022/04/01\n不明",
@@ -22092,12 +22235,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26521,
+    "no": 26878,
     "age": "18",
     "gender": "男性",
     "vaccinated_date": "2022/03/26",
@@ -22131,12 +22274,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26525,
+    "no": 26882,
     "age": "60",
     "gender": "女性",
     "vaccinated_date": "不明\n不明",
@@ -22177,12 +22320,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26531,
+    "no": 26888,
     "age": "24",
     "gender": "女性",
     "vaccinated_date": "2022/02/24",
@@ -22212,12 +22355,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26545,
+    "no": 26902,
     "age": "30",
     "gender": "男性",
     "vaccinated_date": "2022/03/26",
@@ -22247,14 +22390,14 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26548,
+    "no": 26905,
     "age": "",
-    "gender": "",
+    "gender": "男性",
     "vaccinated_date": "不明",
     "onset_dates": [
       "未記入"
@@ -22282,12 +22425,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26557,
+    "no": 26914,
     "age": "24",
     "gender": "男性",
     "vaccinated_date": "2022/04/07",
@@ -22317,12 +22460,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26563,
+    "no": 26920,
     "age": "21",
     "gender": "男性",
     "vaccinated_date": "2022/04/10",
@@ -22352,12 +22495,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26579,
+    "no": 26936,
     "age": "28",
     "gender": "男性",
     "vaccinated_date": "2022/04/08",
@@ -22387,12 +22530,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26583,
+    "no": 26940,
     "age": "56",
     "gender": "男性",
     "vaccinated_date": "2021/08/02\n2021/08/30",
@@ -22468,12 +22611,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26589,
+    "no": 26946,
     "age": "60歳代",
     "gender": "女性",
     "vaccinated_date": "不明\n不明",
@@ -22504,12 +22647,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26605,
+    "no": 26962,
     "age": "19",
     "gender": "男性",
     "vaccinated_date": "2022/04/02",
@@ -22539,12 +22682,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26610,
+    "no": 26967,
     "age": "20",
     "gender": "男性",
     "vaccinated_date": "2021/08/30\n2022/03/26\n不明",
@@ -22576,12 +22719,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26626,
+    "no": 26983,
     "age": "21",
     "gender": "男性",
     "vaccinated_date": "2022/04/22",
@@ -22619,12 +22762,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26626,
+    "no": 26983,
     "age": "21",
     "gender": "男性",
     "vaccinated_date": "2022/04/22",
@@ -22662,12 +22805,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26628,
+    "no": 26985,
     "age": "19",
     "gender": "男性",
     "vaccinated_date": "2022/04/23",
@@ -22698,12 +22841,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26638,
+    "no": 26995,
     "age": "22",
     "gender": "男性",
     "vaccinated_date": "2022/04/23",
@@ -22733,12 +22876,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26643,
+    "no": 27000,
     "age": "51",
     "gender": "男性",
     "vaccinated_date": "2022/03/24",
@@ -22768,12 +22911,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26647,
+    "no": 27004,
     "age": "45",
     "gender": "女性",
     "vaccinated_date": "2022/03/31",
@@ -22813,12 +22956,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26654,
+    "no": 27011,
     "age": "31",
     "gender": "男性",
     "vaccinated_date": "2022/03/12",
@@ -22849,12 +22992,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26661,
+    "no": 27018,
     "age": "39",
     "gender": "男性",
     "vaccinated_date": "不明",
@@ -22936,12 +23079,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26663,
+    "no": 27020,
     "age": "20",
     "gender": "男性",
     "vaccinated_date": "2022/04/09",
@@ -22972,12 +23115,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26664,
+    "no": 27021,
     "age": "21",
     "gender": "男性",
     "vaccinated_date": "2022/04/30",
@@ -23007,12 +23150,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26673,
+    "no": 27030,
     "age": "27",
     "gender": "男性",
     "vaccinated_date": "2022/04/22",
@@ -23042,12 +23185,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26674,
+    "no": 27031,
     "age": "64",
     "gender": "男性",
     "vaccinated_date": "2022/03/25",
@@ -23095,12 +23238,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26675,
+    "no": 27032,
     "age": "21",
     "gender": "男性",
     "vaccinated_date": "2022/04/30",
@@ -23130,12 +23273,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26681,
+    "no": 27038,
     "age": "37",
     "gender": "男性",
     "vaccinated_date": "2022/04/06",
@@ -23165,12 +23308,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26683,
+    "no": 27040,
     "age": "19",
     "gender": "男性",
     "vaccinated_date": "2022/05/07",
@@ -23204,12 +23347,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26683,
+    "no": 27040,
     "age": "19",
     "gender": "男性",
     "vaccinated_date": "2022/05/07",
@@ -23243,12 +23386,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26685,
+    "no": 27042,
     "age": "18",
     "gender": "男性",
     "vaccinated_date": "2022/04/10",
@@ -23278,12 +23421,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26693,
+    "no": 27050,
     "age": "30歳代",
     "gender": "女性",
     "vaccinated_date": "不明",
@@ -23313,12 +23456,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26724,
+    "no": 27081,
     "age": "44",
     "gender": "男性",
     "vaccinated_date": "2022/05/20",
@@ -23348,12 +23491,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26731,
+    "no": 27088,
     "age": "14",
     "gender": "男性",
     "vaccinated_date": "不明\n不明",
@@ -23386,12 +23529,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26739,
+    "no": 27096,
     "age": "17",
     "gender": "男性",
     "vaccinated_date": "不明\n不明",
@@ -23422,12 +23565,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26756,
+    "no": 27113,
     "age": "20歳代",
     "gender": "女性",
     "vaccinated_date": "不明",
@@ -23461,12 +23604,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26756,
+    "no": 27113,
     "age": "20歳代",
     "gender": "女性",
     "vaccinated_date": "不明",
@@ -23500,12 +23643,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26757,
+    "no": 27114,
     "age": "10歳代",
     "gender": "男性",
     "vaccinated_date": "不明",
@@ -23539,12 +23682,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26757,
+    "no": 27114,
     "age": "10歳代",
     "gender": "男性",
     "vaccinated_date": "不明",
@@ -23578,12 +23721,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26758,
+    "no": 27115,
     "age": "30歳代",
     "gender": "男性",
     "vaccinated_date": "不明",
@@ -23613,12 +23756,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26759,
+    "no": 27116,
     "age": "22",
     "gender": "男性",
     "vaccinated_date": "2022/05/28",
@@ -23656,12 +23799,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26762,
+    "no": 27119,
     "age": "61",
     "gender": "男性",
     "vaccinated_date": "2022/03/07",
@@ -23691,12 +23834,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26766,
+    "no": 27123,
     "age": "21",
     "gender": "男性",
     "vaccinated_date": "2022/02/28\n不明\n不明",
@@ -23728,12 +23871,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26775,
+    "no": 27132,
     "age": "18",
     "gender": "男性",
     "vaccinated_date": "2022/06/04",
@@ -23763,14 +23906,14 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26777,
+    "no": 27134,
     "age": "",
-    "gender": "",
+    "gender": "男性",
     "vaccinated_date": "不明",
     "onset_dates": [
       "未記入"
@@ -23798,14 +23941,14 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26778,
+    "no": 27135,
     "age": "",
-    "gender": "",
+    "gender": "男性",
     "vaccinated_date": "不明",
     "onset_dates": [
       "未記入"
@@ -23833,14 +23976,14 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26779,
+    "no": 27136,
     "age": "",
-    "gender": "",
+    "gender": "男性",
     "vaccinated_date": "不明",
     "onset_dates": [
       "未記入"
@@ -23868,14 +24011,14 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26780,
+    "no": 27137,
     "age": "",
-    "gender": "",
+    "gender": "男性",
     "vaccinated_date": "不明",
     "onset_dates": [
       "未記入"
@@ -23903,12 +24046,47 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26783,
+    "no": 27138,
+    "age": "",
+    "gender": "男性",
+    "vaccinated_date": "不明",
+    "onset_dates": [
+      "未記入"
+    ],
+    "days_to_onset": "不明",
+    "vaccine_name": "スパイクバックス筋注",
+    "manufacturer": "モデルナ",
+    "lot_no": "不明",
+    "vaccinated_times": "1回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心筋炎(心筋炎)"
+    ],
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "回復"
+    ],
+    "evaluated_PT": "心筋炎",
+    "evaluated_result": "γ",
+    "brighton_classification": 4,
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
+    }
+  },
+  {
+    "no": 27140,
     "age": "64",
     "gender": "男性",
     "vaccinated_date": "不明\n不明",
@@ -23939,12 +24117,12 @@
     "expert_opinion": "心膜炎を示唆する最低限の記載はあるものの、ワクチン接種と各種検査の施行時期についての時系列の詳細や、心膜炎の原因となりうるウイルスの抗体価検査の結果等の情報が不足している。",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26784,
+    "no": 27141,
     "age": "22",
     "gender": "男性",
     "vaccinated_date": "不明\n不明",
@@ -23975,12 +24153,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26785,
+    "no": 27142,
     "age": "27",
     "gender": "男性",
     "vaccinated_date": "不明\n不明",
@@ -24011,12 +24189,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26786,
+    "no": 27143,
     "age": "21",
     "gender": "男性",
     "vaccinated_date": "不明\n不明",
@@ -24047,14 +24225,14 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26787,
+    "no": 27144,
     "age": "",
-    "gender": "",
+    "gender": "男性",
     "vaccinated_date": "不明",
     "onset_dates": [
       "未記入"
@@ -24082,12 +24260,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26791,
+    "no": 27148,
     "age": "29",
     "gender": "男性",
     "vaccinated_date": "不明\n不明",
@@ -24118,12 +24296,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26793,
+    "no": 27150,
     "age": "19",
     "gender": "男性",
     "vaccinated_date": "2021\n不明",
@@ -24154,12 +24332,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26794,
+    "no": 27151,
     "age": "24",
     "gender": "男性",
     "vaccinated_date": "不明\n不明",
@@ -24190,12 +24368,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26795,
+    "no": 27152,
     "age": "20",
     "gender": "男性",
     "vaccinated_date": "不明\n不明",
@@ -24226,12 +24404,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26796,
+    "no": 27153,
     "age": "24",
     "gender": "男性",
     "vaccinated_date": "2021\n不明",
@@ -24262,12 +24440,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26797,
+    "no": 27154,
     "age": "19",
     "gender": "男性",
     "vaccinated_date": "不明\n不明",
@@ -24298,12 +24476,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26801,
+    "no": 27158,
     "age": "18",
     "gender": "男性",
     "vaccinated_date": "2022/05/28",
@@ -24333,12 +24511,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26804,
+    "no": 27161,
     "age": "27",
     "gender": "男性",
     "vaccinated_date": "2022/05/21\n不明\n不明",
@@ -24370,12 +24548,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26806,
+    "no": 27163,
     "age": "20",
     "gender": "男性",
     "vaccinated_date": "2022/04/09",
@@ -24405,12 +24583,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26808,
+    "no": 27165,
     "age": "41",
     "gender": "男性",
     "vaccinated_date": "2022/04/24",
@@ -24440,12 +24618,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26839,
+    "no": 27196,
     "age": "19",
     "gender": "男性",
     "vaccinated_date": "不明\n不明",
@@ -24476,12 +24654,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26841,
+    "no": 27198,
     "age": "21",
     "gender": "男性",
     "vaccinated_date": "不明",
@@ -24511,12 +24689,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26842,
+    "no": 27199,
     "age": "21",
     "gender": "男性",
     "vaccinated_date": "2021\n不明",
@@ -24552,12 +24730,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26858,
+    "no": 27215,
     "age": "26",
     "gender": "男性",
     "vaccinated_date": "2022/06/20",
@@ -24587,12 +24765,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26867,
+    "no": 27224,
     "age": "28",
     "gender": "女性",
     "vaccinated_date": "2022/03/19",
@@ -24622,12 +24800,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26880,
+    "no": 27237,
     "age": "18",
     "gender": "男性",
     "vaccinated_date": "2022/06/18",
@@ -24661,12 +24839,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26882,
+    "no": 27239,
     "age": "27",
     "gender": "男性",
     "vaccinated_date": "不明\n不明",
@@ -24697,12 +24875,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26893,
+    "no": 27250,
     "age": "29",
     "gender": "男性",
     "vaccinated_date": "2021/08/20\n不明",
@@ -24733,12 +24911,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26901,
+    "no": 27258,
     "age": "27",
     "gender": "男性",
     "vaccinated_date": "2022/07/02",
@@ -24772,12 +24950,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26901,
+    "no": 27258,
     "age": "27",
     "gender": "男性",
     "vaccinated_date": "2022/07/02",
@@ -24811,12 +24989,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26902,
+    "no": 27259,
     "age": "25",
     "gender": "男性",
     "vaccinated_date": "2022/05/16",
@@ -24855,12 +25033,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26902,
+    "no": 27259,
     "age": "25",
     "gender": "男性",
     "vaccinated_date": "2022/05/16",
@@ -24899,12 +25077,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26915,
+    "no": 27272,
     "age": "18",
     "gender": "男性",
     "vaccinated_date": "不明\n不明",
@@ -24940,12 +25118,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26915,
+    "no": 27272,
     "age": "18",
     "gender": "男性",
     "vaccinated_date": "不明\n不明",
@@ -24981,12 +25159,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26916,
+    "no": 27273,
     "age": "18",
     "gender": "男性",
     "vaccinated_date": "不明\n不明",
@@ -25022,12 +25200,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26916,
+    "no": 27273,
     "age": "18",
     "gender": "男性",
     "vaccinated_date": "不明\n不明",
@@ -25063,12 +25241,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26917,
+    "no": 27274,
     "age": "41",
     "gender": "男性",
     "vaccinated_date": "不明\n不明",
@@ -25104,12 +25282,12 @@
     "expert_opinion": "心筋炎は自然発生することも知られている疾患であるため、ワクチンによる心筋炎なのか、ワクチンとは無関係に発生した心筋炎なのかを鑑別することは困難である。",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26918,
+    "no": 27275,
     "age": "19",
     "gender": "女性",
     "vaccinated_date": "不明\n不明",
@@ -25140,12 +25318,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26921,
+    "no": 27278,
     "age": "17",
     "gender": "男性",
     "vaccinated_date": "不明",
@@ -25175,12 +25353,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26927,
+    "no": 27284,
     "age": "41",
     "gender": "男性",
     "vaccinated_date": "2022/04/16",
@@ -25227,12 +25405,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26934,
+    "no": 27291,
     "age": "10歳代",
     "gender": "男性",
     "vaccinated_date": "不明",
@@ -25266,12 +25444,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26934,
+    "no": 27291,
     "age": "10歳代",
     "gender": "男性",
     "vaccinated_date": "不明",
@@ -25305,12 +25483,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26936,
+    "no": 27293,
     "age": "20歳代",
     "gender": "女性",
     "vaccinated_date": "不明",
@@ -25340,12 +25518,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26953,
+    "no": 27310,
     "age": "18",
     "gender": "男性",
     "vaccinated_date": "2022/05/21",
@@ -25375,12 +25553,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26961,
+    "no": 27318,
     "age": "76",
     "gender": "女性",
     "vaccinated_date": "2022/07/22",
@@ -25422,12 +25600,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26967,
+    "no": 27324,
     "age": "19",
     "gender": "女性",
     "vaccinated_date": "不明",
@@ -25457,12 +25635,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26968,
+    "no": 27325,
     "age": "20",
     "gender": "男性",
     "vaccinated_date": "2022/07/21",
@@ -25493,12 +25671,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26972,
+    "no": 27329,
     "age": "16",
     "gender": "不明",
     "vaccinated_date": "不明",
@@ -25528,14 +25706,14 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26976,
+    "no": 27333,
     "age": "",
-    "gender": "",
+    "gender": "女性",
     "vaccinated_date": "不明",
     "onset_dates": [
       "未記入",
@@ -25567,12 +25745,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26986,
+    "no": 27343,
     "age": "80",
     "gender": "女性",
     "vaccinated_date": "2022/07/21",
@@ -25618,12 +25796,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 26989,
+    "no": 27346,
     "age": "42",
     "gender": "男性",
     "vaccinated_date": "2022/03/26",
@@ -25653,12 +25831,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 27003,
+    "no": 27360,
     "age": "29",
     "gender": "男性",
     "vaccinated_date": "不明",
@@ -25688,12 +25866,12 @@
     "expert_opinion": "心筋炎は自然発生することも知られている疾患であるため、ワクチンによる心筋炎なのか、ワクチンとは無関係に発生した心筋炎なのかを鑑別することは困難である。",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 27004,
+    "no": 27361,
     "age": "20",
     "gender": "男性",
     "vaccinated_date": "2022/07/23",
@@ -25735,12 +25913,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 27020,
+    "no": 27377,
     "age": "26",
     "gender": "男性",
     "vaccinated_date": "2022/05/01\n不明\n不明",
@@ -25772,12 +25950,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 27021,
+    "no": 27378,
     "age": "38",
     "gender": "男性",
     "vaccinated_date": "2022/04/20",
@@ -25812,12 +25990,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 27032,
+    "no": 27389,
     "age": "26",
     "gender": "女性",
     "vaccinated_date": "2022/05/21",
@@ -25847,12 +26025,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 27072,
+    "no": 27429,
     "age": "78",
     "gender": "男性",
     "vaccinated_date": "2022/08/22",
@@ -25890,12 +26068,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 27088,
+    "no": 27445,
     "age": "61",
     "gender": "女性",
     "vaccinated_date": "2022/08/17",
@@ -25925,12 +26103,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 27089,
+    "no": 27446,
     "age": "39",
     "gender": "男性",
     "vaccinated_date": "不明",
@@ -25968,12 +26146,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 27091,
+    "no": 27448,
     "age": "91",
     "gender": "男性",
     "vaccinated_date": "不明",
@@ -26013,12 +26191,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 27094,
+    "no": 27451,
     "age": "24",
     "gender": "男性",
     "vaccinated_date": "不明\n不明",
@@ -26049,12 +26227,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 27099,
+    "no": 27456,
     "age": "22",
     "gender": "男性",
     "vaccinated_date": "不明\n不明\n不明",
@@ -26086,12 +26264,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 27118,
+    "no": 27475,
     "age": "74",
     "gender": "男性",
     "vaccinated_date": "2022/08/19",
@@ -26147,12 +26325,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 27130,
+    "no": 27487,
     "age": "26",
     "gender": "男性",
     "vaccinated_date": "2022/09/10",
@@ -26210,12 +26388,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 27142,
+    "no": 27499,
     "age": "18",
     "gender": "男性",
     "vaccinated_date": "2022/04/03",
@@ -26249,12 +26427,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 27271,
+    "no": 27628,
     "age": "21",
     "gender": "男性",
     "vaccinated_date": "不明\n不明\n不明",
@@ -26286,12 +26464,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 27272,
+    "no": 27629,
     "age": "19",
     "gender": "男性",
     "vaccinated_date": "不明\n不明\n不明",
@@ -26323,12 +26501,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 27280,
+    "no": 27637,
     "age": "18",
     "gender": "男性",
     "vaccinated_date": "2022/04/06\n不明",
@@ -26379,12 +26557,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 27282,
+    "no": 27639,
     "age": "18",
     "gender": "男性",
     "vaccinated_date": "2022/04/06",
@@ -26414,12 +26592,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 27285,
+    "no": 27642,
     "age": "22",
     "gender": "男性",
     "vaccinated_date": "2022/09/24",
@@ -26461,12 +26639,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 27296,
+    "no": 27653,
     "age": "83",
     "gender": "女性",
     "vaccinated_date": "2022/09/09",
@@ -26513,12 +26691,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 27303,
+    "no": 27660,
     "age": "80",
     "gender": "女性",
     "vaccinated_date": "2021/06/21",
@@ -26549,12 +26727,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 27308,
+    "no": 27665,
     "age": "77",
     "gender": "女性",
     "vaccinated_date": "2022/09/06",
@@ -26592,12 +26770,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 27318,
+    "no": 27675,
     "age": "18",
     "gender": "男性",
     "vaccinated_date": "2022/04/03",
@@ -26627,12 +26805,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 27326,
+    "no": 27683,
     "age": "69",
     "gender": "女性",
     "vaccinated_date": "2022/08/22",
@@ -26663,12 +26841,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 27338,
+    "no": 27695,
     "age": "14",
     "gender": "男性",
     "vaccinated_date": "不明",
@@ -26698,12 +26876,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 27344,
+    "no": 27701,
     "age": "16",
     "gender": "男性",
     "vaccinated_date": "不明",
@@ -26733,12 +26911,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 27351,
+    "no": 27708,
     "age": "34",
     "gender": "男性",
     "vaccinated_date": "2022",
@@ -26768,12 +26946,12 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 27358,
+    "no": 27715,
     "age": "85",
     "gender": "女性",
     "vaccinated_date": "2022/09/04",
@@ -26823,12 +27001,309 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
-    "no": 27416,
+    "no": 27740,
+    "age": "",
+    "gender": "男性",
+    "vaccinated_date": "不明",
+    "onset_dates": [
+      "未記入"
+    ],
+    "days_to_onset": "不明",
+    "vaccine_name": "スパイクバックス筋注",
+    "manufacturer": "モデルナ",
+    "lot_no": "不明",
+    "vaccinated_times": "1回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心筋炎(心筋炎)"
+    ],
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "evaluated_PT": "心筋炎",
+    "evaluated_result": "γ",
+    "brighton_classification": 4,
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
+    }
+  },
+  {
+    "no": 27756,
+    "age": "7",
+    "gender": "",
+    "vaccinated_date": "2022/03/13",
+    "onset_dates": [
+      "未記入",
+      "2022/03/14",
+      "2022/03/14",
+      "2022/03/14",
+      "2022/03",
+      "2022/03/16",
+      "2022/03",
+      "2022/03/18",
+      "2022/03/18",
+      "2022/03/18",
+      "2022/03/18",
+      "未記入",
+      "2022/03/18",
+      "2022/03/14",
+      "2022/03/18",
+      "2022/03/18",
+      "2022/03/18",
+      "2022/03/17",
+      "2022/03/14",
+      "2022/03/14",
+      "2022/03/18",
+      "2022/03/14",
+      "2022/03/14",
+      "2022/03/14",
+      "2022/03/14"
+    ],
+    "days_to_onset": "不明",
+    "vaccine_name": "コミナティ筋注５～11歳用",
+    "manufacturer": "ファイザー",
+    "lot_no": "FN5988",
+    "vaccinated_times": "1回目",
+    "pre_existing_disease_names": [
+      "ＣＯＶＩＤ－１９"
+    ],
+    "PT_names": [
+      "ウイルス性咽頭炎",
+      "無力症",
+      "腹痛",
+      "胸痛",
+      "口腔咽頭痛",
+      "咽頭紅斑",
+      "咽頭腫脹",
+      "トロポニンＴ増加",
+      "心電図ＳＴ部分上昇",
+      "トロポニンＩ増加",
+      "フィブリンＤダイマー増加",
+      "栄養状態異常",
+      "心筋症",
+      "咳嗽",
+      "心拡大",
+      "心電図異常",
+      "トロポニン増加",
+      "食欲減退",
+      "下痢",
+      "嘔吐",
+      "血中クレアチンホスホキナーゼ増加",
+      "倦怠感",
+      "発熱",
+      "心筋炎",
+      "心膜炎"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "2022",
+      "2022"
+    ],
+    "gross_results": [
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快",
+      "回復",
+      "回復"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "1 2",
+    "expert_opinion": "新型コロナウイルスワクチン接種後に急性心筋炎を発症した7歳男児の症例。時間的経過からはワクチン接種後の心膜炎の可能性が高いが、自然発生した心膜炎も完全には否定はできない。",
+    "remarks": "",
+    "source": {
+      "name": "第98回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001161445.pdf"
+    }
+  },
+  {
+    "no": 27756,
+    "age": "7",
+    "gender": "",
+    "vaccinated_date": "2022/03/13",
+    "onset_dates": [
+      "未記入",
+      "2022/03/14",
+      "2022/03/14",
+      "2022/03/14",
+      "2022/03",
+      "2022/03/16",
+      "2022/03",
+      "2022/03/18",
+      "2022/03/18",
+      "2022/03/18",
+      "2022/03/18",
+      "未記入",
+      "2022/03/18",
+      "2022/03/14",
+      "2022/03/18",
+      "2022/03/18",
+      "2022/03/18",
+      "2022/03/17",
+      "2022/03/14",
+      "2022/03/14",
+      "2022/03/18",
+      "2022/03/14",
+      "2022/03/14",
+      "2022/03/14",
+      "2022/03/14"
+    ],
+    "days_to_onset": "不明",
+    "vaccine_name": "コミナティ筋注５～11歳用",
+    "manufacturer": "ファイザー",
+    "lot_no": "FN5988",
+    "vaccinated_times": "1回目",
+    "pre_existing_disease_names": [
+      "ＣＯＶＩＤ－１９"
+    ],
+    "PT_names": [
+      "ウイルス性咽頭炎",
+      "無力症",
+      "腹痛",
+      "胸痛",
+      "口腔咽頭痛",
+      "咽頭紅斑",
+      "咽頭腫脹",
+      "トロポニンＴ増加",
+      "心電図ＳＴ部分上昇",
+      "トロポニンＩ増加",
+      "フィブリンＤダイマー増加",
+      "栄養状態異常",
+      "心筋症",
+      "咳嗽",
+      "心拡大",
+      "心電図異常",
+      "トロポニン増加",
+      "食欲減退",
+      "下痢",
+      "嘔吐",
+      "血中クレアチンホスホキナーゼ増加",
+      "倦怠感",
+      "発熱",
+      "心筋炎",
+      "心膜炎"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "2022",
+      "2022"
+    ],
+    "gross_results": [
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快",
+      "回復",
+      "回復"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "1 2",
+    "expert_opinion": "新型コロナウイルスワクチン接種後に急性心筋炎を発症した7歳男児の症例。時間的経過からはワクチン接種後の心膜炎の可能性が高いが、自然発生した心膜炎も完全には否定はできない。",
+    "remarks": "",
+    "source": {
+      "name": "第98回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001161445.pdf"
+    }
+  },
+  {
+    "no": 27773,
     "age": "19",
     "gender": "男性",
     "vaccinated_date": "不明",
@@ -26865,893 +27340,8 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
-    }
-  },
-  {
-    "no": 27420,
-    "age": "23",
-    "gender": "男性",
-    "vaccinated_date": "不明\n不明",
-    "onset_dates": [
-      "未記入"
-    ],
-    "days_to_onset": "不明\n不明",
-    "vaccine_name": "スパイクバックス筋注\nスパイクバックス筋注",
-    "manufacturer": "モデルナ\nモデルナ",
-    "lot_no": "不明\n不明",
-    "vaccinated_times": "2回目\n1回目",
-    "pre_existing_disease_names": [
-      "心筋心膜炎"
-    ],
-    "PT_names": [
-      "心筋心膜炎",
-      "心筋心膜炎"
-    ],
-    "gross_result_dates": [
-      "未記入"
-    ],
-    "gross_results": [
-      "回復"
-    ],
-    "evaluated_PT": "心筋心膜炎",
-    "evaluated_result": "γ",
-    "brighton_classification": "1",
-    "expert_opinion": "",
-    "remarks": "",
-    "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
-    }
-  },
-  {
-    "no": 27461,
-    "age": "36",
-    "gender": "男性",
-    "vaccinated_date": "2022/04/26",
-    "onset_dates": [
-      "2022/05/01"
-    ],
-    "days_to_onset": "5",
-    "vaccine_name": "スパイクバックス筋注",
-    "manufacturer": "モデルナ",
-    "lot_no": "不明",
-    "vaccinated_times": "3回目",
-    "pre_existing_disease_names": [
-      "報告なし"
-    ],
-    "PT_names": [
-      "心膜炎"
-    ],
-    "gross_result_dates": [
-      "未記入"
-    ],
-    "gross_results": [
-      "軽快"
-    ],
-    "evaluated_PT": "心膜炎",
-    "evaluated_result": "γ",
-    "brighton_classification": "4",
-    "expert_opinion": "",
-    "remarks": "",
-    "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
-    }
-  },
-  {
-    "no": 27463,
-    "age": "32",
-    "gender": "男性",
-    "vaccinated_date": "不明",
-    "onset_dates": [
-      "未記入"
-    ],
-    "days_to_onset": "不明",
-    "vaccine_name": "スパイクバックス筋注",
-    "manufacturer": "モデルナ",
-    "lot_no": "不明",
-    "vaccinated_times": "2回目",
-    "pre_existing_disease_names": [
-      "報告なし"
-    ],
-    "PT_names": [
-      "心筋炎"
-    ],
-    "gross_result_dates": [
-      "未記入"
-    ],
-    "gross_results": [
-      "回復"
-    ],
-    "evaluated_PT": "心筋炎",
-    "evaluated_result": "γ",
-    "brighton_classification": "1",
-    "expert_opinion": "",
-    "remarks": "",
-    "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
-    }
-  },
-  {
-    "no": 27464,
-    "age": "25",
-    "gender": "男性",
-    "vaccinated_date": "不明",
-    "onset_dates": [
-      "未記入"
-    ],
-    "days_to_onset": "不明",
-    "vaccine_name": "スパイクバックス筋注",
-    "manufacturer": "モデルナ",
-    "lot_no": "不明",
-    "vaccinated_times": "2回目",
-    "pre_existing_disease_names": [
-      "報告なし"
-    ],
-    "PT_names": [
-      "心筋炎"
-    ],
-    "gross_result_dates": [
-      "未記入"
-    ],
-    "gross_results": [
-      "回復"
-    ],
-    "evaluated_PT": "心筋炎",
-    "evaluated_result": "γ",
-    "brighton_classification": "1",
-    "expert_opinion": "",
-    "remarks": "",
-    "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
-    }
-  },
-  {
-    "no": 27473,
-    "age": "35",
-    "gender": "男性",
-    "vaccinated_date": "2022/10/07",
-    "onset_dates": [
-      "2022/10/10"
-    ],
-    "days_to_onset": "3",
-    "vaccine_name": "スパイクバックス筋注",
-    "manufacturer": "モデルナ",
-    "lot_no": "000241A",
-    "vaccinated_times": "4回目",
-    "pre_existing_disease_names": [
-      "報告なし"
-    ],
-    "PT_names": [
-      "心筋炎"
-    ],
-    "gross_result_dates": [
-      "2022/11/10"
-    ],
-    "gross_results": [
-      "後遺症あり"
-    ],
-    "evaluated_PT": "心筋炎",
-    "evaluated_result": "γ",
-    "brighton_classification": "1",
-    "expert_opinion": "",
-    "remarks": "",
-    "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
-    }
-  },
-  {
-    "no": 27506,
-    "age": "23",
-    "gender": "男性",
-    "vaccinated_date": "2022/05/24",
-    "onset_dates": [
-      "2022/05/27",
-      "2022/05/27",
-      "2022/05/27",
-      "2022/05/27"
-    ],
-    "days_to_onset": "3",
-    "vaccine_name": "スパイクバックス筋注",
-    "manufacturer": "モデルナ",
-    "lot_no": "不明",
-    "vaccinated_times": "3回目",
-    "pre_existing_disease_names": [
-      "報告なし"
-    ],
-    "PT_names": [
-      "心筋炎",
-      "心膜炎",
-      "狭心症",
-      "心筋梗塞"
-    ],
-    "gross_result_dates": [
-      "未記入",
-      "未記入",
-      "未記入",
-      "未記入"
-    ],
-    "gross_results": [
-      "不明",
-      "不明",
-      "不明",
-      "不明"
-    ],
-    "evaluated_PT": "心筋炎\n心膜炎",
-    "evaluated_result": "γ γ",
-    "brighton_classification": "1 4",
-    "expert_opinion": "",
-    "remarks": "",
-    "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
-    }
-  },
-  {
-    "no": 27506,
-    "age": "23",
-    "gender": "男性",
-    "vaccinated_date": "2022/05/24",
-    "onset_dates": [
-      "2022/05/27",
-      "2022/05/27",
-      "2022/05/27",
-      "2022/05/27"
-    ],
-    "days_to_onset": "3",
-    "vaccine_name": "スパイクバックス筋注",
-    "manufacturer": "モデルナ",
-    "lot_no": "不明",
-    "vaccinated_times": "3回目",
-    "pre_existing_disease_names": [
-      "報告なし"
-    ],
-    "PT_names": [
-      "心筋炎",
-      "心膜炎",
-      "狭心症",
-      "心筋梗塞"
-    ],
-    "gross_result_dates": [
-      "未記入",
-      "未記入",
-      "未記入",
-      "未記入"
-    ],
-    "gross_results": [
-      "不明",
-      "不明",
-      "不明",
-      "不明"
-    ],
-    "evaluated_PT": "心筋炎\n心膜炎",
-    "evaluated_result": "γ γ",
-    "brighton_classification": "1 4",
-    "expert_opinion": "",
-    "remarks": "",
-    "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
-    }
-  },
-  {
-    "no": 27526,
-    "age": "",
-    "gender": "",
-    "vaccinated_date": "不明",
-    "onset_dates": [
-      "未記入"
-    ],
-    "days_to_onset": "不明",
-    "vaccine_name": "スパイクバックス筋注",
-    "manufacturer": "モデルナ",
-    "lot_no": "不明",
-    "vaccinated_times": "2回目",
-    "pre_existing_disease_names": [
-      "報告なし"
-    ],
-    "PT_names": [
-      "心筋炎"
-    ],
-    "gross_result_dates": [
-      "未記入"
-    ],
-    "gross_results": [
-      "不明"
-    ],
-    "evaluated_PT": "心筋炎",
-    "evaluated_result": "γ",
-    "brighton_classification": "4",
-    "expert_opinion": "",
-    "remarks": "",
-    "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
-    }
-  },
-  {
-    "no": 27533,
-    "age": "19",
-    "gender": "男性",
-    "vaccinated_date": "不明",
-    "onset_dates": [
-      "未記入"
-    ],
-    "days_to_onset": "不明",
-    "vaccine_name": "スパイクバックス筋注",
-    "manufacturer": "モデルナ",
-    "lot_no": "不明",
-    "vaccinated_times": "1回目",
-    "pre_existing_disease_names": [
-      "報告なし"
-    ],
-    "PT_names": [
-      "心筋炎"
-    ],
-    "gross_result_dates": [
-      "未記入"
-    ],
-    "gross_results": [
-      "回復"
-    ],
-    "evaluated_PT": "心筋炎",
-    "evaluated_result": "γ",
-    "brighton_classification": "4",
-    "expert_opinion": "",
-    "remarks": "",
-    "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
-    }
-  },
-  {
-    "no": 27535,
-    "age": "20",
-    "gender": "男性",
-    "vaccinated_date": "不明",
-    "onset_dates": [
-      "未記入"
-    ],
-    "days_to_onset": "不明",
-    "vaccine_name": "スパイクバックス筋注",
-    "manufacturer": "モデルナ",
-    "lot_no": "不明",
-    "vaccinated_times": "2回目",
-    "pre_existing_disease_names": [
-      "報告なし"
-    ],
-    "PT_names": [
-      "心筋炎"
-    ],
-    "gross_result_dates": [
-      "未記入"
-    ],
-    "gross_results": [
-      "回復"
-    ],
-    "evaluated_PT": "心筋炎",
-    "evaluated_result": "γ",
-    "brighton_classification": "4",
-    "expert_opinion": "",
-    "remarks": "",
-    "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
-    }
-  },
-  {
-    "no": 27541,
-    "age": "22",
-    "gender": "男性",
-    "vaccinated_date": "不明",
-    "onset_dates": [
-      "未記入",
-      "未記入",
-      "未記入"
-    ],
-    "days_to_onset": "不明",
-    "vaccine_name": "スパイクバックス筋注",
-    "manufacturer": "モデルナ",
-    "lot_no": "不明",
-    "vaccinated_times": "3回目",
-    "pre_existing_disease_names": [
-      "報告なし"
-    ],
-    "PT_names": [
-      "心筋炎",
-      "心原性ショック",
-      "心室細動"
-    ],
-    "gross_result_dates": [
-      "未記入",
-      "未記入",
-      "未記入"
-    ],
-    "gross_results": [
-      "回復",
-      "回復",
-      "回復"
-    ],
-    "evaluated_PT": "心筋炎",
-    "evaluated_result": "γ",
-    "brighton_classification": "1",
-    "expert_opinion": "",
-    "remarks": "",
-    "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
-    }
-  },
-  {
-    "no": 27567,
-    "age": "19",
-    "gender": "女性",
-    "vaccinated_date": "2022/06/24",
-    "onset_dates": [
-      "2022/06/25",
-      "2022/06/25",
-      "2022/06/25"
-    ],
-    "days_to_onset": "1",
-    "vaccine_name": "スパイクバックス筋注",
-    "manufacturer": "モデルナ",
-    "lot_no": "不明",
-    "vaccinated_times": "3回目",
-    "pre_existing_disease_names": [
-      "報告なし"
-    ],
-    "PT_names": [
-      "心筋炎",
-      "胸部不快感",
-      "発熱"
-    ],
-    "gross_result_dates": [
-      "未記入",
-      "未記入",
-      "未記入"
-    ],
-    "gross_results": [
-      "軽快",
-      "軽快",
-      "軽快"
-    ],
-    "evaluated_PT": "心筋炎",
-    "evaluated_result": "γ",
-    "brighton_classification": "2",
-    "expert_opinion": "",
-    "remarks": "",
-    "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
-    }
-  },
-  {
-    "no": 27575,
-    "age": "24",
-    "gender": "女性",
-    "vaccinated_date": "2022/02/24",
-    "onset_dates": [
-      "2022/03/01",
-      "2022/03/01"
-    ],
-    "days_to_onset": "5",
-    "vaccine_name": "スパイクバックス筋注",
-    "manufacturer": "モデルナ",
-    "lot_no": "不明",
-    "vaccinated_times": "3回目",
-    "pre_existing_disease_names": [
-      "報告なし"
-    ],
-    "PT_names": [
-      "心筋炎",
-      "心嚢液貯留"
-    ],
-    "gross_result_dates": [
-      "未記入",
-      "未記入"
-    ],
-    "gross_results": [
-      "軽快",
-      "軽快"
-    ],
-    "evaluated_PT": "心筋炎",
-    "evaluated_result": "γ",
-    "brighton_classification": "4",
-    "expert_opinion": "",
-    "remarks": "",
-    "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
-    }
-  },
-  {
-    "no": 27581,
-    "age": "43",
-    "gender": "男性",
-    "vaccinated_date": "2022/03/18",
-    "onset_dates": [
-      "2022",
-      "2022"
-    ],
-    "days_to_onset": "不明",
-    "vaccine_name": "スパイクバックス筋注",
-    "manufacturer": "モデルナ",
-    "lot_no": "不明",
-    "vaccinated_times": "3回目",
-    "pre_existing_disease_names": [
-      "報告なし"
-    ],
-    "PT_names": [
-      "心筋炎",
-      "心不全"
-    ],
-    "gross_result_dates": [
-      "2022",
-      "2022"
-    ],
-    "gross_results": [
-      "回復",
-      "回復"
-    ],
-    "evaluated_PT": "心筋炎",
-    "evaluated_result": "γ",
-    "brighton_classification": "1",
-    "expert_opinion": "",
-    "remarks": "",
-    "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
-    }
-  },
-  {
-    "no": 27585,
-    "age": "71",
-    "gender": "男性",
-    "vaccinated_date": "2022/08/05",
-    "onset_dates": [
-      "未記入",
-      "未記入"
-    ],
-    "days_to_onset": "不明",
-    "vaccine_name": "スパイクバックス筋注",
-    "manufacturer": "モデルナ",
-    "lot_no": "不明",
-    "vaccinated_times": "4回目",
-    "pre_existing_disease_names": [
-      "末期腎疾患",
-      "血液透析",
-      "ＩｇＡ腎症"
-    ],
-    "PT_names": [
-      "心膜炎",
-      "心タンポナーデ"
-    ],
-    "gross_result_dates": [
-      "未記入",
-      "未記入"
-    ],
-    "gross_results": [
-      "回復",
-      "回復"
-    ],
-    "evaluated_PT": "心膜炎",
-    "evaluated_result": "γ",
-    "brighton_classification": "2",
-    "expert_opinion": "",
-    "remarks": "",
-    "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
-    }
-  },
-  {
-    "no": 27624,
-    "age": "90",
-    "gender": "男性",
-    "vaccinated_date": "2022/11/14",
-    "onset_dates": [
-      "未記入",
-      "未記入",
-      "未記入"
-    ],
-    "days_to_onset": "不明",
-    "vaccine_name": "スパイクバックス筋注（２価：起源株/オミクロン株BA.1）",
-    "manufacturer": "モデルナ",
-    "lot_no": "200040A",
-    "vaccinated_times": "3回目",
-    "pre_existing_disease_names": [
-      "報告なし"
-    ],
-    "PT_names": [
-      "心筋炎",
-      "急性心筋梗塞",
-      "急性心不全"
-    ],
-    "gross_result_dates": [
-      "未記入",
-      "未記入",
-      "未記入"
-    ],
-    "gross_results": [
-      "死亡",
-      "死亡",
-      "死亡"
-    ],
-    "evaluated_PT": "心筋炎",
-    "evaluated_result": "γ",
-    "brighton_classification": "4",
-    "expert_opinion": "年齢を考慮すると、COVIDワクチン後の心筋炎よりは、動脈硬化性の心筋梗塞が鑑別の上位に来る。どちらにしても情報が不十分である。",
-    "remarks": "",
-    "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161442.pdf"
-    }
-  },
-  {
-    "no": 27756,
-    "age": "7",
-    "gender": "",
-    "vaccinated_date": "2022/03/13",
-    "onset_dates": [
-      "未記入",
-      "2022/03/14",
-      "2022/03/14",
-      "2022/03/14",
-      "2022/03",
-      "2022/03/16",
-      "2022/03",
-      "2022/03/18",
-      "2022/03/18",
-      "2022/03/18",
-      "2022/03/18",
-      "未記入",
-      "2022/03/18",
-      "2022/03/14",
-      "2022/03/18",
-      "2022/03/18",
-      "2022/03/18",
-      "2022/03/17",
-      "2022/03/14",
-      "2022/03/14",
-      "2022/03/18",
-      "2022/03/14",
-      "2022/03/14",
-      "2022/03/14",
-      "2022/03/14"
-    ],
-    "days_to_onset": "不明",
-    "vaccine_name": "コミナティ筋注５～11歳用",
-    "manufacturer": "ファイザー",
-    "lot_no": "FN5988",
-    "vaccinated_times": "1回目",
-    "pre_existing_disease_names": [
-      "ＣＯＶＩＤ－１９"
-    ],
-    "PT_names": [
-      "ウイルス性咽頭炎",
-      "無力症",
-      "腹痛",
-      "胸痛",
-      "口腔咽頭痛",
-      "咽頭紅斑",
-      "咽頭腫脹",
-      "トロポニンＴ増加",
-      "心電図ＳＴ部分上昇",
-      "トロポニンＩ増加",
-      "フィブリンＤダイマー増加",
-      "栄養状態異常",
-      "心筋症",
-      "咳嗽",
-      "心拡大",
-      "心電図異常",
-      "トロポニン増加",
-      "食欲減退",
-      "下痢",
-      "嘔吐",
-      "血中クレアチンホスホキナーゼ増加",
-      "倦怠感",
-      "発熱",
-      "心筋炎",
-      "心膜炎"
-    ],
-    "gross_result_dates": [
-      "未記入",
-      "未記入",
-      "未記入",
-      "未記入",
-      "未記入",
-      "未記入",
-      "未記入",
-      "未記入",
-      "未記入",
-      "未記入",
-      "未記入",
-      "未記入",
-      "未記入",
-      "未記入",
-      "未記入",
-      "未記入",
-      "未記入",
-      "未記入",
-      "未記入",
-      "未記入",
-      "未記入",
-      "未記入",
-      "未記入",
-      "2022",
-      "2022"
-    ],
-    "gross_results": [
-      "不明",
-      "不明",
-      "不明",
-      "不明",
-      "不明",
-      "不明",
-      "不明",
-      "不明",
-      "不明",
-      "不明",
-      "不明",
-      "不明",
-      "軽快",
-      "軽快",
-      "軽快",
-      "軽快",
-      "軽快",
-      "軽快",
-      "軽快",
-      "軽快",
-      "軽快",
-      "軽快",
-      "軽快",
-      "回復",
-      "回復"
-    ],
-    "evaluated_PT": "心筋炎\n心膜炎",
-    "evaluated_result": "γ γ",
-    "brighton_classification": "1 2",
-    "expert_opinion": "新型コロナウイルスワクチン接種後に急性心筋炎を発症した7歳男児の症例。時間的経過からはワクチン接種後の心膜炎の可能性が高いが、自然発生した心膜炎も完全には否定はできない。",
-    "remarks": "",
-    "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161445.pdf"
-    }
-  },
-  {
-    "no": 27756,
-    "age": "7",
-    "gender": "",
-    "vaccinated_date": "2022/03/13",
-    "onset_dates": [
-      "未記入",
-      "2022/03/14",
-      "2022/03/14",
-      "2022/03/14",
-      "2022/03",
-      "2022/03/16",
-      "2022/03",
-      "2022/03/18",
-      "2022/03/18",
-      "2022/03/18",
-      "2022/03/18",
-      "未記入",
-      "2022/03/18",
-      "2022/03/14",
-      "2022/03/18",
-      "2022/03/18",
-      "2022/03/18",
-      "2022/03/17",
-      "2022/03/14",
-      "2022/03/14",
-      "2022/03/18",
-      "2022/03/14",
-      "2022/03/14",
-      "2022/03/14",
-      "2022/03/14"
-    ],
-    "days_to_onset": "不明",
-    "vaccine_name": "コミナティ筋注５～11歳用",
-    "manufacturer": "ファイザー",
-    "lot_no": "FN5988",
-    "vaccinated_times": "1回目",
-    "pre_existing_disease_names": [
-      "ＣＯＶＩＤ－１９"
-    ],
-    "PT_names": [
-      "ウイルス性咽頭炎",
-      "無力症",
-      "腹痛",
-      "胸痛",
-      "口腔咽頭痛",
-      "咽頭紅斑",
-      "咽頭腫脹",
-      "トロポニンＴ増加",
-      "心電図ＳＴ部分上昇",
-      "トロポニンＩ増加",
-      "フィブリンＤダイマー増加",
-      "栄養状態異常",
-      "心筋症",
-      "咳嗽",
-      "心拡大",
-      "心電図異常",
-      "トロポニン増加",
-      "食欲減退",
-      "下痢",
-      "嘔吐",
-      "血中クレアチンホスホキナーゼ増加",
-      "倦怠感",
-      "発熱",
-      "心筋炎",
-      "心膜炎"
-    ],
-    "gross_result_dates": [
-      "未記入",
-      "未記入",
-      "未記入",
-      "未記入",
-      "未記入",
-      "未記入",
-      "未記入",
-      "未記入",
-      "未記入",
-      "未記入",
-      "未記入",
-      "未記入",
-      "未記入",
-      "未記入",
-      "未記入",
-      "未記入",
-      "未記入",
-      "未記入",
-      "未記入",
-      "未記入",
-      "未記入",
-      "未記入",
-      "未記入",
-      "2022",
-      "2022"
-    ],
-    "gross_results": [
-      "不明",
-      "不明",
-      "不明",
-      "不明",
-      "不明",
-      "不明",
-      "不明",
-      "不明",
-      "不明",
-      "不明",
-      "不明",
-      "不明",
-      "軽快",
-      "軽快",
-      "軽快",
-      "軽快",
-      "軽快",
-      "軽快",
-      "軽快",
-      "軽快",
-      "軽快",
-      "軽快",
-      "軽快",
-      "回復",
-      "回復"
-    ],
-    "evaluated_PT": "心筋炎\n心膜炎",
-    "evaluated_result": "γ γ",
-    "brighton_classification": "1 2",
-    "expert_opinion": "新型コロナウイルスワクチン接種後に急性心筋炎を発症した7歳男児の症例。時間的経過からはワクチン接種後の心膜炎の可能性が高いが、自然発生した心膜炎も完全には否定はできない。",
-    "remarks": "",
-    "source": {
-      "name": "第98回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001161445.pdf"
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
@@ -27807,6 +27397,42 @@
     "source": {
       "name": "第98回",
       "url": "https://www.mhlw.go.jp/content/10601000/001161445.pdf"
+    }
+  },
+  {
+    "no": 27777,
+    "age": "23",
+    "gender": "男性",
+    "vaccinated_date": "不明\n不明",
+    "onset_dates": [
+      "未記入"
+    ],
+    "days_to_onset": "不明\n不明",
+    "vaccine_name": "スパイクバックス筋注\nスパイクバックス筋注",
+    "manufacturer": "モデルナ\nモデルナ",
+    "lot_no": "不明\n不明",
+    "vaccinated_times": "2回目\n1回目",
+    "pre_existing_disease_names": [
+      "心筋心膜炎"
+    ],
+    "PT_names": [
+      "心筋心膜炎",
+      "心筋心膜炎"
+    ],
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "回復"
+    ],
+    "evaluated_PT": "心筋心膜炎",
+    "evaluated_result": "γ",
+    "brighton_classification": "1",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
@@ -28040,6 +27666,146 @@
     }
   },
   {
+    "no": 27818,
+    "age": "36",
+    "gender": "男性",
+    "vaccinated_date": "2022/04/26",
+    "onset_dates": [
+      "2022/05/01"
+    ],
+    "days_to_onset": "5",
+    "vaccine_name": "スパイクバックス筋注",
+    "manufacturer": "モデルナ",
+    "lot_no": "不明",
+    "vaccinated_times": "3回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心膜炎"
+    ],
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "evaluated_PT": "心膜炎",
+    "evaluated_result": "γ",
+    "brighton_classification": "4",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
+    }
+  },
+  {
+    "no": 27820,
+    "age": "32",
+    "gender": "男性",
+    "vaccinated_date": "不明",
+    "onset_dates": [
+      "未記入"
+    ],
+    "days_to_onset": "不明",
+    "vaccine_name": "スパイクバックス筋注",
+    "manufacturer": "モデルナ",
+    "lot_no": "不明",
+    "vaccinated_times": "2回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心筋炎"
+    ],
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "回復"
+    ],
+    "evaluated_PT": "心筋炎",
+    "evaluated_result": "γ",
+    "brighton_classification": "1",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
+    }
+  },
+  {
+    "no": 27821,
+    "age": "25",
+    "gender": "男性",
+    "vaccinated_date": "不明",
+    "onset_dates": [
+      "未記入"
+    ],
+    "days_to_onset": "不明",
+    "vaccine_name": "スパイクバックス筋注",
+    "manufacturer": "モデルナ",
+    "lot_no": "不明",
+    "vaccinated_times": "2回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心筋炎"
+    ],
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "回復"
+    ],
+    "evaluated_PT": "心筋炎",
+    "evaluated_result": "γ",
+    "brighton_classification": "1",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
+    }
+  },
+  {
+    "no": 27830,
+    "age": "35",
+    "gender": "男性",
+    "vaccinated_date": "2022/10/07",
+    "onset_dates": [
+      "2022/10/10"
+    ],
+    "days_to_onset": "3",
+    "vaccine_name": "スパイクバックス筋注",
+    "manufacturer": "モデルナ",
+    "lot_no": "000241A",
+    "vaccinated_times": "4回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心筋炎"
+    ],
+    "gross_result_dates": [
+      "2022/11/10"
+    ],
+    "gross_results": [
+      "後遺症あり"
+    ],
+    "evaluated_PT": "心筋炎",
+    "evaluated_result": "γ",
+    "brighton_classification": "1",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
+    }
+  },
+  {
     "no": 27855,
     "age": "10",
     "gender": "男性",
@@ -28084,6 +27850,100 @@
     "source": {
       "name": "第98回",
       "url": "https://www.mhlw.go.jp/content/10601000/001161445.pdf"
+    }
+  },
+  {
+    "no": 27863,
+    "age": "23",
+    "gender": "男性",
+    "vaccinated_date": "2022/05/24",
+    "onset_dates": [
+      "2022/05/27",
+      "2022/05/27",
+      "2022/05/27",
+      "2022/05/27"
+    ],
+    "days_to_onset": "3",
+    "vaccine_name": "スパイクバックス筋注",
+    "manufacturer": "モデルナ",
+    "lot_no": "不明",
+    "vaccinated_times": "3回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心筋炎",
+      "心膜炎",
+      "狭心症",
+      "心筋梗塞"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "不明",
+      "不明",
+      "不明",
+      "不明"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "1 4",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
+    }
+  },
+  {
+    "no": 27863,
+    "age": "23",
+    "gender": "男性",
+    "vaccinated_date": "2022/05/24",
+    "onset_dates": [
+      "2022/05/27",
+      "2022/05/27",
+      "2022/05/27",
+      "2022/05/27"
+    ],
+    "days_to_onset": "3",
+    "vaccine_name": "スパイクバックス筋注",
+    "manufacturer": "モデルナ",
+    "lot_no": "不明",
+    "vaccinated_times": "3回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心筋炎",
+      "心膜炎",
+      "狭心症",
+      "心筋梗塞"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "不明",
+      "不明",
+      "不明",
+      "不明"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "1 4",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {
@@ -28134,6 +27994,359 @@
     "source": {
       "name": "第98回",
       "url": "https://www.mhlw.go.jp/content/10601000/001161445.pdf"
+    }
+  },
+  {
+    "no": 27883,
+    "age": "",
+    "gender": "男性",
+    "vaccinated_date": "不明",
+    "onset_dates": [
+      "未記入"
+    ],
+    "days_to_onset": "不明",
+    "vaccine_name": "スパイクバックス筋注",
+    "manufacturer": "モデルナ",
+    "lot_no": "不明",
+    "vaccinated_times": "2回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心筋炎"
+    ],
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "不明"
+    ],
+    "evaluated_PT": "心筋炎",
+    "evaluated_result": "γ",
+    "brighton_classification": "4",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
+    }
+  },
+  {
+    "no": 27890,
+    "age": "19",
+    "gender": "男性",
+    "vaccinated_date": "不明",
+    "onset_dates": [
+      "未記入"
+    ],
+    "days_to_onset": "不明",
+    "vaccine_name": "スパイクバックス筋注",
+    "manufacturer": "モデルナ",
+    "lot_no": "不明",
+    "vaccinated_times": "1回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心筋炎"
+    ],
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "回復"
+    ],
+    "evaluated_PT": "心筋炎",
+    "evaluated_result": "γ",
+    "brighton_classification": "4",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
+    }
+  },
+  {
+    "no": 27892,
+    "age": "20",
+    "gender": "男性",
+    "vaccinated_date": "不明",
+    "onset_dates": [
+      "未記入"
+    ],
+    "days_to_onset": "不明",
+    "vaccine_name": "スパイクバックス筋注",
+    "manufacturer": "モデルナ",
+    "lot_no": "不明",
+    "vaccinated_times": "2回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心筋炎"
+    ],
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "回復"
+    ],
+    "evaluated_PT": "心筋炎",
+    "evaluated_result": "γ",
+    "brighton_classification": "4",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
+    }
+  },
+  {
+    "no": 27898,
+    "age": "22",
+    "gender": "男性",
+    "vaccinated_date": "不明",
+    "onset_dates": [
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "days_to_onset": "不明",
+    "vaccine_name": "スパイクバックス筋注",
+    "manufacturer": "モデルナ",
+    "lot_no": "不明",
+    "vaccinated_times": "3回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心筋炎",
+      "心原性ショック",
+      "心室細動"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "回復",
+      "回復",
+      "回復"
+    ],
+    "evaluated_PT": "心筋炎",
+    "evaluated_result": "γ",
+    "brighton_classification": "1",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
+    }
+  },
+  {
+    "no": 27924,
+    "age": "19",
+    "gender": "女性",
+    "vaccinated_date": "2022/06/24",
+    "onset_dates": [
+      "2022/06/25",
+      "2022/06/25",
+      "2022/06/25"
+    ],
+    "days_to_onset": "1",
+    "vaccine_name": "スパイクバックス筋注",
+    "manufacturer": "モデルナ",
+    "lot_no": "不明",
+    "vaccinated_times": "3回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心筋炎",
+      "胸部不快感",
+      "発熱"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快",
+      "軽快",
+      "軽快"
+    ],
+    "evaluated_PT": "心筋炎",
+    "evaluated_result": "γ",
+    "brighton_classification": "2",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
+    }
+  },
+  {
+    "no": 27932,
+    "age": "24",
+    "gender": "女性",
+    "vaccinated_date": "2022/02/24",
+    "onset_dates": [
+      "2022/03/01",
+      "2022/03/01"
+    ],
+    "days_to_onset": "5",
+    "vaccine_name": "スパイクバックス筋注",
+    "manufacturer": "モデルナ",
+    "lot_no": "不明",
+    "vaccinated_times": "3回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心筋炎",
+      "心嚢液貯留"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快",
+      "軽快"
+    ],
+    "evaluated_PT": "心筋炎",
+    "evaluated_result": "γ",
+    "brighton_classification": "4",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
+    }
+  },
+  {
+    "no": 27938,
+    "age": "43",
+    "gender": "男性",
+    "vaccinated_date": "2022/03/18",
+    "onset_dates": [
+      "2022",
+      "2022"
+    ],
+    "days_to_onset": "不明",
+    "vaccine_name": "スパイクバックス筋注",
+    "manufacturer": "モデルナ",
+    "lot_no": "不明",
+    "vaccinated_times": "3回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心筋炎",
+      "心不全"
+    ],
+    "gross_result_dates": [
+      "2022",
+      "2022"
+    ],
+    "gross_results": [
+      "回復",
+      "回復"
+    ],
+    "evaluated_PT": "心筋炎",
+    "evaluated_result": "γ",
+    "brighton_classification": "1",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
+    }
+  },
+  {
+    "no": 27942,
+    "age": "71",
+    "gender": "男性",
+    "vaccinated_date": "2022/08/05",
+    "onset_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "days_to_onset": "不明",
+    "vaccine_name": "スパイクバックス筋注",
+    "manufacturer": "モデルナ",
+    "lot_no": "不明",
+    "vaccinated_times": "4回目",
+    "pre_existing_disease_names": [
+      "末期腎疾患",
+      "血液透析",
+      "ＩｇＡ腎症"
+    ],
+    "PT_names": [
+      "心膜炎",
+      "心タンポナーデ"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "回復",
+      "回復"
+    ],
+    "evaluated_PT": "心膜炎",
+    "evaluated_result": "γ",
+    "brighton_classification": "2",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
+    }
+  },
+  {
+    "no": 28010,
+    "age": "90",
+    "gender": "男性",
+    "vaccinated_date": "2022/11/14",
+    "onset_dates": [
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "days_to_onset": "不明",
+    "vaccine_name": "スパイクバックス筋注（２価：起源株/オミクロン株BA.1）",
+    "manufacturer": "モデルナ",
+    "lot_no": "200040A",
+    "vaccinated_times": "3回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心筋炎",
+      "急性心筋梗塞",
+      "急性心不全"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "死亡",
+      "死亡",
+      "死亡"
+    ],
+    "evaluated_PT": "心筋炎",
+    "evaluated_result": "γ",
+    "brighton_classification": "4",
+    "expert_opinion": "年齢を考慮すると、COVIDワクチン後の心筋炎よりは、動脈硬化性の心筋梗塞が鑑別の上位に来る。どちらにしても情報が不十分である。",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
     }
   },
   {

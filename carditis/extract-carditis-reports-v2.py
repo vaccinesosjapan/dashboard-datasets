@@ -12,8 +12,8 @@ data = []
 for index, row in df.iterrows():
 	rowData = {
 		"no": row[0],
-		"age": row[1],
-		"gender": row[2],
+		"age": '' if isinstance(row[1], float) and math.isnan(row[1]) else row[1],
+		"gender": '' if isinstance(row[2], float) and math.isnan(row[2]) else row[2],
 		"vaccinated_date": row[3],
 		"onset_dates": row[4].split('\n'), 
 		"days_to_onset": row[5],

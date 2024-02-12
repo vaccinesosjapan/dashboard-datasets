@@ -1,0 +1,215 @@
+[
+  {
+    "no": 22869,
+    "age": "",
+    "gender": "男性",
+    "vaccinated_date": "不明\n不明\n不明\n不明\n不明\n2022/12",
+    "onset_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "days_to_onset": "不明\n不明\n不明\n不明\n不明\n不明",
+    "vaccine_name": "スパイクバックス筋注\nコミナティ筋注\nコミナティ筋注\nコミナティ筋注\nコミナティ筋注\nヌバキソビッド筋注",
+    "manufacturer": "モデルナ\nファイザー\nファイザー\nファイザー\nファイザー\nノババックス/武田",
+    "lot_no": "不明\n不明\n不明\n不明\n不明\n不明",
+    "vaccinated_times": "\n6回目\n5回目\n4回目\n3回目\n2回目\n1回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "アナフィラキシー(アナフィラキシー反応)",
+      "心筋炎(心筋炎)",
+      "アナフィラキシー(アナフィラキシー反応)",
+      "心筋炎(心筋炎)",
+      "アナフィラキシー(アナフィラキシー反応)",
+      "心筋炎(心筋炎)",
+      "アナフィラキシー(アナフィラキシー反応)",
+      "心筋炎(心筋炎)",
+      "アナフィラキシー(アナフィラキシー反応)",
+      "心筋炎(心筋炎)",
+      "アナフィラキシー(アナフィラキシー反応)",
+      "心筋炎(心筋炎)"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "不明",
+      "不明"
+    ],
+    "evaluated_PT": "心筋炎",
+    "evaluated_result": "γ",
+    "brighton_classification": 4,
+    "expert_opinion": "年齢、既往歴、発症日等の情報及び経過の詳細な情報もないため、因果関係の評価は困難である。",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
+    }
+  },
+  {
+    "no": 22889,
+    "age": "",
+    "gender": "男性",
+    "vaccinated_date": "不明\n不明\n不明\n不明\n不明\n2022/12",
+    "onset_dates": [
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "days_to_onset": "不明\n不明\n不明\n不明\n不明\n不明",
+    "vaccine_name": "スパイクバックス筋注（２価：起源株/オミクロン株BA.4-5）\nコミナティ筋注\nコミナティ筋注\nコミナティ筋注\nコミナティ筋注\nヌバキソビッド筋注",
+    "manufacturer": "モデルナ\nファイザー\nファイザー\nファイザー\nファイザー\nノババックス/武田",
+    "lot_no": "不明\n不明\n不明\n不明\n不明\n不明",
+    "vaccinated_times": "6回目\n5回目\n4回目\n3回目\n2回目\n1回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "アナフィラキシー(アナフィラキシー反応)",
+      "心筋炎(心筋炎)",
+      "脳出血(脳出血)",
+      "アナフィラキシー(アナフィラキシー反応)",
+      "心筋炎(心筋炎)",
+      "脳出血(脳出血)",
+      "アナフィラキシー(アナフィラキシー反応)",
+      "心筋炎(心筋炎)",
+      "脳出血(脳出血)",
+      "アナフィラキシー(アナフィラキシー反応)",
+      "心筋炎(心筋炎)",
+      "脳出血(脳出血)",
+      "アナフィラキシー(アナフィラキシー反応)",
+      "心筋炎(心筋炎)",
+      "脳出血(脳出血)",
+      "アナフィラキシー(アナフィラキシー反応)",
+      "心筋炎(心筋炎)",
+      "脳出血(脳出血)"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "不明",
+      "不明",
+      "不明"
+    ],
+    "evaluated_PT": "心筋炎",
+    "evaluated_result": "γ",
+    "brighton_classification": 4,
+    "expert_opinion": "心筋炎と診断するには情報が少なく、困難である。また、心筋炎は市中感染症などを契機として自然発生することが知られている疾患であり、ワクチンによる心筋炎なのか、ワクチンとは関係の無い自然発生した心筋炎なのかを判別することは困難である。以上から、ワクチンとの因果関係を有と判断することはできないと考えた。",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
+    }
+  },
+  {
+    "no": 26661,
+    "age": "29歳",
+    "gender": "男性",
+    "vaccinated_date": "2021/09/23\n不明",
+    "onset_dates": [
+      "2021/10/20"
+    ],
+    "days_to_onset": "27\n不明",
+    "vaccine_name": "スパイクバックス筋注\nスパイクバックス筋注",
+    "manufacturer": "モデルナ\nモデルナ",
+    "lot_no": "不明\n不明",
+    "vaccinated_times": "2回目\n1回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心筋炎(心筋炎)",
+      "心筋炎(心筋炎)"
+    ],
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "evaluated_PT": "心筋炎",
+    "evaluated_result": "γ",
+    "brighton_classification": 4,
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
+    }
+  },
+  {
+    "no": 27138,
+    "age": "",
+    "gender": "男性",
+    "vaccinated_date": "不明",
+    "onset_dates": [
+      "未記入"
+    ],
+    "days_to_onset": "不明",
+    "vaccine_name": "スパイクバックス筋注",
+    "manufacturer": "モデルナ",
+    "lot_no": "不明",
+    "vaccinated_times": "1回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心筋炎(心筋炎)"
+    ],
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "回復"
+    ],
+    "evaluated_PT": "心筋炎",
+    "evaluated_result": "γ",
+    "brighton_classification": 4,
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
+    }
+  },
+  {
+    "no": 27740,
+    "age": "",
+    "gender": "男性",
+    "vaccinated_date": "不明",
+    "onset_dates": [
+      "未記入"
+    ],
+    "days_to_onset": "不明",
+    "vaccine_name": "スパイクバックス筋注",
+    "manufacturer": "モデルナ",
+    "lot_no": "不明",
+    "vaccinated_times": "1回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心筋炎(心筋炎)"
+    ],
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "evaluated_PT": "心筋炎",
+    "evaluated_result": "γ",
+    "brighton_classification": 4,
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
+    }
+  }
+]
