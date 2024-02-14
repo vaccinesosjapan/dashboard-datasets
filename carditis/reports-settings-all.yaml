@@ -12,7 +12,17 @@
 settings: [
   {
     name: 'コミナティ筋注',
-    file: '001198218-myocarditis-reports.csv',
+    file: '001198218-myocarditis-2.csv',
+    pages: '',
+    source: {
+      name: '第100回',
+      url: 'https://www.mhlw.go.jp/content/10601000/001198218.pdf',
+    },
+    script-version: v2
+  },
+  {
+    name: 'コミナティ筋注',
+    file: '001198218-pericarditis-3.csv',
     pages: '',
     source: {
       name: '第100回',
@@ -30,15 +40,6 @@ settings: [
     },
     script-version: v2
   },
-  # 001197963.pdfは手作業による抽出で直接JSONを作成した
-  {
-    name: コミナティ筋注5~11歳用,
-    file: ./pdf-files/001161445.pdf,
-    pages: '28-end',
-    source: {
-      name: 第98回,
-      url: https://www.mhlw.go.jp/content/10601000/001161445.pdf,
-    },
-    script-version: v1
-  },
+  # 001197963.pdf は手作業による抽出で直接JSONを作成した
+  # 001197964.pdf も同様
 ]
