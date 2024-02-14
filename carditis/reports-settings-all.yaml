@@ -1,0 +1,56 @@
+# 心筋炎/心膜炎の報告一覧の表が掲載されているページを指定する設定ファイルです。
+# 
+#  name: ワクチンの名称
+#  file: 情報抽出に使うPDFファイルのパス
+#  pages: 情報を抽出する対象の表が掲載されているページ
+#   例） 1,2,5ページを指定する場合  pages: '1,2,5'
+#   例） 10ページから13ページを指定する場合  pages: '10-13'
+#   例） 27ページ以降の全ページを指定する場合  pages: '27-end'
+#  source: 使用するPDFが扱われている審議会の名称と、PDFのURL
+#  script-version: 使用するextractスクリプトのバージョン
+#
+settings: [
+  {
+    name: 'コミナティ筋注',
+    file: '001198218-myocarditis-2.csv',
+    pages: '',
+    source: {
+      name: '第100回',
+      url: 'https://www.mhlw.go.jp/content/10601000/001198218.pdf',
+    },
+    script-version: v2
+  },
+  {
+    name: 'コミナティ筋注',
+    file: '001198218-pericarditis-3.csv',
+    pages: '',
+    source: {
+      name: '第100回',
+      url: 'https://www.mhlw.go.jp/content/10601000/001198218.pdf',
+    },
+    script-version: v2
+  },
+  {
+    name: 'スパイクバックス筋注',
+    file: '001198223-myocarditis-2.csv',
+    pages: '',
+    source: {
+      name: '第100回',
+      url: 'https://www.mhlw.go.jp/content/10601000/001198223.pdf',
+    },
+    script-version: v2
+  },
+  # ロット番号まわりの抽出処理が不十分なため、下記で抽出したものを手作業で修正した
+  {
+    name: 'スパイクバックス筋注',
+    file: '001197011.pdf',
+    pages: '4',
+    source: {
+      name: '第100回',
+      url: 'https://www.mhlw.go.jp/content/10601000/001197011.pdf',
+    },
+    script-version: v3
+  },
+  # 001197963.pdf は手作業による抽出で直接JSONを作成した
+  # 001197964.pdf も同様
+]
