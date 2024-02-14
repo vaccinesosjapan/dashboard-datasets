@@ -47,7 +47,7 @@ for table in tables:
 			"vaccine_name": vn,
 			"manufacturer": mf,
 			"lot_no": ln,
-			"vaccinated_times": vt,
+			"vaccinated_times": '',
 			"pre_existing_disease_names": dNames,
 			"PT_names": PT_names,
 			"gross_result_dates": grd,

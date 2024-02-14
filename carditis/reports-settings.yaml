@@ -11,13 +11,13 @@
 #
 settings: [
   {
-    name: 'コミナティ筋注',
-    file: '001198218-pericarditis-3.csv',
-    pages: '',
+    name: 'スパイクバックス筋注',
+    file: '001197011.pdf',
+    pages: '4',
     source: {
       name: '第100回',
-      url: 'https://www.mhlw.go.jp/content/10601000/001198218.pdf',
+      url: 'https://www.mhlw.go.jp/content/10601000/001197011.pdf',
     },
-    script-version: v2
+    script-version: v3
   },
 ]

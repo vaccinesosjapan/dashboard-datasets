@@ -66,6 +66,24 @@
         ]
       },
       {
+        file_name_prefix: '001197010',
+        vaccine_name: "コミナティ筋注",
+        myocarditis_count: 0,
+        pericarditis_count: 0,
+        myocarditis: [
+          {
+            name: "コミナティRTU筋注（1価：オミクロン株XBB.1.5）",
+            count: 0
+          }
+        ],
+        pericarditis: [
+          {
+            name: "コミナティRTU筋注（1価：オミクロン株XBB.1.5）",
+            count: 0
+          }
+        ]
+      },
+      {
         file_name_prefix: '001198223',
         vaccine_name: "スパイクバックス筋注",
         myocarditis_count: 191,
@@ -100,6 +118,24 @@
         ]
       },
       {
+        file_name_prefix: '001197011',
+        vaccine_name: "スパイクバックス筋注",
+        myocarditis_count: 1,
+        pericarditis_count: 0,
+        myocarditis: [
+          {
+            name: "スパイクバックス筋注（1価:オミクロン株XBB.1.5）",
+            count: 1
+          }
+        ],
+        pericarditis: [
+          {
+            name: "スパイクバックス筋注（1価:オミクロン株XBB.1.5）",
+            count: 0
+          }
+        ]
+      },
+      {
         file_name_prefix: '001197963',
         vaccine_name: "ヌバキソビッド筋注",
         myocarditis_count: 1,
@@ -117,6 +153,7 @@
           }
         ]
       },
+      # 001197012 は上記と同じ内容なので抽出不要。
       {
         file_name_prefix: '001197964',
         vaccine_name: "コミナティ筋注5～11歳用",
@@ -124,14 +161,50 @@
         pericarditis_count: 2,
         myocarditis: [
           {
-            name: "コミナティ筋注５～11歳用",
+            name: "コミナティ筋注5～11歳用",
             count: 7
           }
         ],
         pericarditis: [
           {
-            name: "コミナティ筋注５～11歳用",
+            name: "コミナティ筋注5～11歳用",
             count: 2
+          }
+        ]
+      },
+      {
+        file_name_prefix: '001197014',
+        vaccine_name: "コミナティ筋注5～11歳用",
+        myocarditis_count: 0,
+        pericarditis_count: 0,
+        myocarditis: [
+          {
+            name: "コミナティ筋注5～11歳用（1価:オミクロン株XBB.1.5）",
+            count: 0
+          }
+        ],
+        pericarditis: [
+          {
+            name: "コミナティ筋注5～11歳用（1価:オミクロン株XBB.1.5）",
+            count: 0
+          }
+        ]
+      },
+      {
+        file_name_prefix: '001197467',
+        vaccine_name: "コミナティ筋注６ヵ月～４歳用",
+        myocarditis_count: 0,
+        pericarditis_count: 0,
+        myocarditis: [
+          {
+            name: "コミナティ筋注6ヵ月～4歳用（1価:オミクロン株XBB.1.5）",
+            count: 0
+          }
+        ],
+        pericarditis: [
+          {
+            name: "コミナティ筋注6ヵ月～4歳用（1価:オミクロン株XBB.1.5）",
+            count: 0
           }
         ]
       }
