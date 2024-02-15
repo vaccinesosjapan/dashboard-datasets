@@ -13,37 +13,42 @@
     "date": "2023/10/29",
     "issues_with_vaccine_name": [
       {
-        "vaccine_name": "コミナティ筋注",
-        "myocarditis_count": 336,
-        "pericarditis_count": 115
+        "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.1)",
+        "myocarditis_count": 4,
+        "pericarditis_count": 3
+      },
+      {
+        "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
+        "myocarditis_count": 20,
+        "pericarditis_count": 6
       },
       {
         "vaccine_name": "コミナティ筋注",
-        "myocarditis_count": 0,
-        "pericarditis_count": 0
+        "myocarditis_count": 312,
+        "pericarditis_count": 106
       },
       {
-        "vaccine_name": "コミナティ筋注5～11歳用",
+        "vaccine_name": "コミナティ筋注5~11歳用",
         "myocarditis_count": 7,
         "pericarditis_count": 2
       },
       {
-        "vaccine_name": "コミナティ筋注5～11歳用",
-        "myocarditis_count": 0,
-        "pericarditis_count": 0
-      },
-      {
-        "vaccine_name": "コミナティ筋注６ヵ月～４歳用",
-        "myocarditis_count": 0,
-        "pericarditis_count": 0
-      },
-      {
         "vaccine_name": "スパイクバックス筋注",
-        "myocarditis_count": 191,
+        "myocarditis_count": 189,
         "pericarditis_count": 42
       },
       {
-        "vaccine_name": "スパイクバックス筋注",
+        "vaccine_name": "スパイクバックス筋注(1価:オミクロン株XBB.1.5)",
+        "myocarditis_count": 1,
+        "pericarditis_count": 0
+      },
+      {
+        "vaccine_name": "スパイクバックス筋注(2価:起源株/オミクロン株BA.1)",
+        "myocarditis_count": 1,
+        "pericarditis_count": 0
+      },
+      {
+        "vaccine_name": "スパイクバックス筋注(2価:起源株/オミクロン株BA.4-5)",
         "myocarditis_count": 1,
         "pericarditis_count": 0
       },
