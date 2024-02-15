@@ -1,4 +1,4 @@
-import glob, json, os, sys
+import glob, json, os, sys, unicodedata
 import yaml
 sys.path.append("../libraries")
 from exmedical import (
@@ -25,17 +25,22 @@ for file in jsonFileList:
 				d['no'] = int(dNo)
 			
 			# vaccine_name
-			d['vaccine_name'] = d['vaccine_name'].replace('\n歳用', '歳用')
-			d['vaccine_name'] = d['vaccine_name'].replace('歳\n用', '歳用')
-			d['vaccine_name'] = d['vaccine_name'].replace('２\n価', '２価')
-			d['vaccine_name'] = d['vaccine_name'].replace('価\n不明', '価不明')
-			d['vaccine_name'] = d['vaccine_name'].replace('\n起源株', '起源株')
-			d['vaccine_name'] = d['vaccine_name'].replace('起\n源株', '起源株')
-			d['vaccine_name'] = d['vaccine_name'].replace('起源\n株', '起源株')
-			d['vaccine_name'] = d['vaccine_name'].replace('株\nBA.1', '株BA.1')
-			d['vaccine_name'] = d['vaccine_name'].replace('BA.4-\n5', 'BA.4-5')
-			d['vaccine_name'] = d['vaccine_name'].replace('11歳用\n（', '11歳用（')
-			d['vaccine_name'] = d['vaccine_name'].replace('オミクロ\nン', 'オミクロン')
+			vaccine_name = d['vaccine_name']
+			vaccine_name = vaccine_name.replace('\n歳用', '歳用')
+			vaccine_name = vaccine_name.replace('歳\n用', '歳用')
+			vaccine_name = vaccine_name.replace('１\n価', '１価')
+			vaccine_name = vaccine_name.replace('２\n価', '２価')
+			vaccine_name = vaccine_name.replace('価\n不明', '価不明')
+			vaccine_name = vaccine_name.replace('\n起源株', '起源株')
+			vaccine_name = vaccine_name.replace('起\n源株', '起源株')
+			vaccine_name = vaccine_name.replace('起源\n株', '起源株')
+			vaccine_name = vaccine_name.replace('株\nBA.1', '株BA.1')
+			vaccine_name = vaccine_name.replace('BA.4-\n5', 'BA.4-5')
+			vaccine_name = vaccine_name.replace('11歳用\n（', '11歳用（')
+			vaccine_name = vaccine_name.replace('オミクロ\nン', 'オミクロン')
+			vaccine_name = vaccine_name.replace('オミ\nクロン', 'オミクロン')
+			vaccine_name = vaccine_name.replace('オミクロン株\nXBB', 'オミクロン株XBB')
+			d['vaccine_name'] = unicodedata.normalize("NFKC", vaccine_name)
 			
 			# manufacturer
 			d['manufacturer'] = d['manufacturer'].replace('モデルナ／武\n田', 'モデルナ／武田')
