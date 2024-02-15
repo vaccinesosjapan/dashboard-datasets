@@ -1037,4 +1037,109 @@ settings: [
     },
     script-version: v2
   },
+  {
+    file: '100th/001196978.pdf',
+    output: '001196978.json',
+    pages: '2-3',
+    expected_count: 31,
+    source: {
+      name: 第100回,
+      url: https://www.mhlw.go.jp/content/10601000/001196978.pdf
+    },
+    script-version: v2
+  },
+  # 001196979 は0件なので抽出しない
+  # 001196980 も同様
+  {
+    file: '100th/001197717.pdf',
+    output: '001197717-1.json',
+    pages: '2-5',
+    expected_count: 75,
+    source: {
+      name: 第100回,
+      url: https://www.mhlw.go.jp/content/10601000/001197717.pdf
+    },
+    script-version: v2
+  },
+  {
+    file: '100th/001197717.pdf',
+    output: '001197717-2.json',
+    pages: '6-7',
+    expected_count: 16,
+    source: {
+      name: 第100回,
+      url: https://www.mhlw.go.jp/content/10601000/001197717.pdf
+    },
+    script-version: v2
+  },
+  # No.30226 は抽出不可のため手作業でデータ化
+  {
+    file: '100th/001197717.pdf',
+    output: '001197717-3.json',
+    pages: '8-9',
+    expected_count: 39,
+    source: {
+      name: 第100回,
+      url: https://www.mhlw.go.jp/content/10601000/001197717.pdf
+    },
+    script-version: v2
+  },
+  # 001197718 は0件のため抽出なし
+  {
+    file: '100th/001197719.pdf',
+    output: '001197719.json',
+    pages: '3',
+    expected_count: 1,
+    source: {
+      name: 第100回,
+      url: https://www.mhlw.go.jp/content/10601000/001197719.pdf
+    },
+    script-version: v2
+  },
+  {
+    file: '100th/001197720.pdf',
+    output: '001197720-1.json',
+    pages: '2-3',
+    expected_count: 22,
+    source: {
+      name: 第100回,
+      url: https://www.mhlw.go.jp/content/10601000/001197720.pdf
+    },
+    script-version: v2
+  },
+  {
+    file: '100th/001197720.pdf',
+    output: '001197720-2.json',
+    pages: '4',
+    expected_count: 1,
+    source: {
+      name: 第100回,
+      url: https://www.mhlw.go.jp/content/10601000/001197720.pdf
+    },
+    script-version: v2
+  },
+  {
+    file: '100th/001197720.pdf',
+    output: '001197720-3.json',
+    pages: '5',
+    expected_count: 18,
+    source: {
+      name: 第100回,
+      url: https://www.mhlw.go.jp/content/10601000/001197720.pdf
+    },
+    script-version: v2
+  },
+  # 001197722 は0件のため抽出なし
+  # 001198858 も同様
+  {
+    file: '100th/001198859.pdf',
+    output: '001198859.json',
+    pages: '2',
+    expected_count: 13,
+    source: {
+      name: 第100回,
+      url: https://www.mhlw.go.jp/content/10601000/001198859.pdf
+    },
+    script-version: v2
+  }
 ]

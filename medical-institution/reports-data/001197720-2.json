@@ -1,0 +1,39 @@
+[
+  {
+    "no": 36613,
+    "age": 57,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/10/20"
+    ],
+    "onset_dates": [
+      "2022/10/29 ",
+      "2022/10/29"
+    ],
+    "days_to_onset": [
+      9
+    ],
+    "vaccine_name": "スパイクバックス筋注（２価：起源\n株/オミクロン株BA.1）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "200044A",
+    "PT_names": [
+      "横紋筋融解症",
+      "発疹"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入 ",
+      "未記入"
+    ],
+    "gross_results": [
+      "未回復 ",
+      "未回復"
+    ],
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001197720.pdf"
+    }
+  }
+]

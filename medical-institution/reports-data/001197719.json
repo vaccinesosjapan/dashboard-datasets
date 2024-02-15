@@ -1,0 +1,35 @@
+[
+  {
+    "no": 36918,
+    "age": 7,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2023/08/26"
+    ],
+    "onset_dates": [
+      "2023/08/26"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "コミナティ筋注５～11歳用\n（２価：起源株/オミクロ\nン株BA.4-5）",
+    "concurrent_vaccination": "",
+    "manufacturer": "ファイザー",
+    "lot_no": "GL6799",
+    "PT_names": [
+      "多形紅斑"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "2023/08/31"
+    ],
+    "gross_results": [
+      "回復"
+    ],
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001197719.pdf"
+    }
+  }
+]

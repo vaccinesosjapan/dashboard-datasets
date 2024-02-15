@@ -4,7 +4,7 @@ import yaml
 if len(sys.argv) > 1:
     settings_file_path = sys.argv[1]
 else:
-    settings_file_path = 'reports-settings-all.yaml'
+    settings_file_path = 'reports-settings.yaml'
 
 with open(settings_file_path, "r", encoding='utf-8') as file:
     settings_root = yaml.safe_load(file)
