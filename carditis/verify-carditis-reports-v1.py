@@ -28,7 +28,7 @@ for issue in expected_issues:
 		expected_list = issue[dType]
 		total_count = 0
 		for item in expected_list:
-			item_name = unicodedata.normalize("NFKC",  item['name'])
+			item_name = unicodedata.normalize("NFKC", item['name'])
 			item_count = item['count']
 			if data_dict.get(item_name, 0) != item_count:
 				print(f'\033[33m[警告]\033[0m {item_name}: expected={item_count}, got={data_dict.get(item_name, 0)}')

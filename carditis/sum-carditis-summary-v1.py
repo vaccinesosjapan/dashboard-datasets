@@ -1,4 +1,4 @@
-import json, os
+import json, os, unicodedata
 import yaml
 
 with open('metadata.yaml', "r", encoding='utf-8') as f:
@@ -6,22 +6,38 @@ with open('metadata.yaml', "r", encoding='utf-8') as f:
 metadata = metadata_root['metadata']
 expected_issues = metadata['expected_issues']
 
-carditis_issues = []
-myocarditis_list = []
-pericarditis_list = []
+
+myocarditis_dict = dict()
+pericarditis_dict = dict()
 for issue in expected_issues:
+    myocarditis_list = issue['myocarditis']
+    for item in myocarditis_list:
+        if item['count'] == 0:
+            continue
+        vaccine_name = unicodedata.normalize("NFKC", item['name'])
+        mVal = myocarditis_dict.get(vaccine_name, 0)
+        myocarditis_dict[vaccine_name] = mVal + item['count']
+
+    pericarditis_list = issue['pericarditis']
+    for item in pericarditis_list:
+        if item['count'] == 0:
+            continue
+        vaccine_name = unicodedata.normalize("NFKC", item['name'])
+        pVal = pericarditis_dict.get(vaccine_name, 0)
+        pericarditis_dict[vaccine_name] = pVal + item['count']
+
+carditis_issues = []
+for key in sorted(myocarditis_dict.keys()):
 	carditis_issues.append({
-        "vaccine_name": issue['vaccine_name'],
-        "myocarditis_count": issue['myocarditis_count'],
-        "pericarditis_count": issue['pericarditis_count']
+		"vaccine_name": key,
+		"myocarditis_count": myocarditis_dict.get(key, 0),
+		"pericarditis_count": pericarditis_dict.get(key, 0)
 	})
-	myocarditis_list.append(issue['myocarditis_count'])
-	pericarditis_list.append(issue['pericarditis_count'])
 
 sorted_issues = sorted(carditis_issues, key=lambda issue: issue['vaccine_name'])
 
-myocarditis_sum = sum(myocarditis_list)
-pericarditis_sum = sum(pericarditis_list)
+myocarditis_sum = sum(myocarditis_dict.values())
+pericarditis_sum = sum(pericarditis_dict.values())
 total_sum = sum([myocarditis_sum, pericarditis_sum])
 
 summary_data = {
