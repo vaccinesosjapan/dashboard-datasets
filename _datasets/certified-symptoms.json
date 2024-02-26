@@ -64,6 +64,14 @@
     }
   },
   {
+    "name": "COPDの急性増悪",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
     "name": "CRP高値",
     "counts": {
       "male": 1,
@@ -306,9 +314,9 @@
   {
     "name": "くも膜下出血",
     "counts": {
-      "male": 14,
-      "female": 24,
-      "sum": 38
+      "male": 16,
+      "female": 26,
+      "sum": 42
     }
   },
   {
@@ -3178,9 +3186,9 @@
   {
     "name": "低酸素脳症",
     "counts": {
-      "male": 3,
+      "male": 9,
       "female": 4,
-      "sum": 7
+      "sum": 13
     }
   },
   {
@@ -4011,8 +4019,8 @@
     "name": "劇症型心筋炎",
     "counts": {
       "male": 4,
-      "female": 9,
-      "sum": 13
+      "female": 10,
+      "sum": 14
     }
   },
   {
@@ -4026,9 +4034,9 @@
   {
     "name": "動悸",
     "counts": {
-      "male": 27,
+      "male": 28,
       "female": 47,
-      "sum": 74
+      "sum": 75
     }
   },
   {
@@ -4424,6 +4432,14 @@
     }
   },
   {
+    "name": "右上肢痙性麻痺",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
     "name": "右上肢痛",
     "counts": {
       "male": 0,
@@ -4580,6 +4596,14 @@
     "counts": {
       "male": 0,
       "female": 1,
+      "sum": 1
+    }
+  },
+  {
+    "name": "右下肢神経痛",
+    "counts": {
+      "male": 1,
+      "female": 0,
       "sum": 1
     }
   },
@@ -4985,6 +5009,14 @@
   },
   {
     "name": "右眼網膜中心静脈閉塞症",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
+    "name": "右眼網膜動脈閉塞症",
     "counts": {
       "male": 1,
       "female": 0,
@@ -5610,9 +5642,9 @@
   {
     "name": "呼吸不全",
     "counts": {
-      "male": 4,
+      "male": 7,
       "female": 9,
-      "sum": 13
+      "sum": 16
     }
   },
   {
@@ -5882,9 +5914,17 @@
   {
     "name": "器質化肺炎",
     "counts": {
-      "male": 8,
+      "male": 9,
       "female": 3,
-      "sum": 11
+      "sum": 12
+    }
+  },
+  {
+    "name": "器質化肺炎の急性増悪",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
     }
   },
   {
@@ -5914,9 +5954,9 @@
   {
     "name": "嚥下障害",
     "counts": {
-      "male": 2,
+      "male": 4,
       "female": 2,
-      "sum": 4
+      "sum": 6
     }
   },
   {
@@ -6480,6 +6520,14 @@
     }
   },
   {
+    "name": "多発性筋炎の増悪",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
     "name": "多発性筋肉痛",
     "counts": {
       "male": 1,
@@ -6538,9 +6586,9 @@
   {
     "name": "多発神経炎",
     "counts": {
-      "male": 1,
+      "male": 2,
       "female": 1,
-      "sum": 2
+      "sum": 3
     }
   },
   {
@@ -6603,8 +6651,8 @@
     "name": "多発関節炎",
     "counts": {
       "male": 4,
-      "female": 0,
-      "sum": 4
+      "female": 2,
+      "sum": 6
     }
   },
   {
@@ -6618,9 +6666,9 @@
   {
     "name": "多臓器不全",
     "counts": {
-      "male": 8,
+      "male": 9,
       "female": 6,
-      "sum": 14
+      "sum": 15
     }
   },
   {
@@ -8280,6 +8328,14 @@
     }
   },
   {
+    "name": "左小指感覚障害",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
     "name": "左小脳出血",
     "counts": {
       "male": 1,
@@ -8851,8 +8907,8 @@
     "name": "左突発性難聴",
     "counts": {
       "male": 7,
-      "female": 1,
-      "sum": 8
+      "female": 2,
+      "sum": 9
     }
   },
   {
@@ -9330,9 +9386,9 @@
   {
     "name": "左脳梗塞",
     "counts": {
-      "male": 1,
-      "female": 0,
-      "sum": 1
+      "male": 3,
+      "female": 2,
+      "sum": 5
     }
   },
   {
@@ -9738,9 +9794,9 @@
   {
     "name": "廃用症候群",
     "counts": {
-      "male": 3,
+      "male": 4,
       "female": 5,
-      "sum": 8
+      "sum": 9
     }
   },
   {
@@ -9883,8 +9939,8 @@
     "name": "心不全",
     "counts": {
       "male": 10,
-      "female": 5,
-      "sum": 15
+      "female": 8,
+      "sum": 18
     }
   },
   {
@@ -10018,9 +10074,9 @@
   {
     "name": "心室細動",
     "counts": {
-      "male": 21,
+      "male": 22,
       "female": 2,
-      "sum": 23
+      "sum": 24
     }
   },
   {
@@ -10035,8 +10091,8 @@
     "name": "心房細動",
     "counts": {
       "male": 11,
-      "female": 3,
-      "sum": 14
+      "female": 5,
+      "sum": 16
     }
   },
   {
@@ -10154,9 +10210,9 @@
   {
     "name": "心肺停止",
     "counts": {
-      "male": 25,
-      "female": 18,
-      "sum": 43
+      "male": 27,
+      "female": 20,
+      "sum": 47
     }
   },
   {
@@ -10498,9 +10554,9 @@
   {
     "name": "急性心機能不全症",
     "counts": {
-      "male": 1,
+      "male": 3,
       "female": 0,
-      "sum": 1
+      "sum": 3
     }
   },
   {
@@ -10514,9 +10570,9 @@
   {
     "name": "急性心筋梗塞",
     "counts": {
-      "male": 45,
-      "female": 15,
-      "sum": 60
+      "male": 47,
+      "female": 17,
+      "sum": 64
     }
   },
   {
@@ -10627,8 +10683,8 @@
     "name": "急性心臓死",
     "counts": {
       "male": 4,
-      "female": 2,
-      "sum": 6
+      "female": 3,
+      "sum": 7
     }
   },
   {
@@ -10666,9 +10722,9 @@
   {
     "name": "急性散在性脳脊髄炎",
     "counts": {
-      "male": 9,
+      "male": 12,
       "female": 26,
-      "sum": 35
+      "sum": 38
     }
   },
   {
@@ -10819,24 +10875,24 @@
     "name": "急性肺血栓塞栓症",
     "counts": {
       "male": 0,
-      "female": 1,
-      "sum": 1
+      "female": 3,
+      "sum": 3
     }
   },
   {
     "name": "急性胃炎",
     "counts": {
       "male": 1,
-      "female": 1,
-      "sum": 2
+      "female": 2,
+      "sum": 3
     }
   },
   {
     "name": "急性胃腸炎",
     "counts": {
       "male": 7,
-      "female": 9,
-      "sum": 16
+      "female": 10,
+      "sum": 17
     }
   },
   {
@@ -10970,9 +11026,9 @@
   {
     "name": "息切れ",
     "counts": {
-      "male": 3,
+      "male": 4,
       "female": 8,
-      "sum": 11
+      "sum": 12
     }
   },
   {
@@ -11042,9 +11098,9 @@
   {
     "name": "意識障害",
     "counts": {
-      "male": 12,
+      "male": 15,
       "female": 11,
-      "sum": 23
+      "sum": 26
     }
   },
   {
@@ -11104,6 +11160,14 @@
     }
   },
   {
+    "name": "慢性呼吸不全の急性増悪",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
     "name": "慢性呼吸不全急性増悪",
     "counts": {
       "male": 1,
@@ -11141,6 +11205,14 @@
       "male": 0,
       "female": 1,
       "sum": 1
+    }
+  },
+  {
+    "name": "慢性心不全増悪",
+    "counts": {
+      "male": 1,
+      "female": 2,
+      "sum": 3
     }
   },
   {
@@ -11763,8 +11835,8 @@
     "name": "播種性血管内凝固症候群",
     "counts": {
       "male": 2,
-      "female": 0,
-      "sum": 2
+      "female": 1,
+      "sum": 3
     }
   },
   {
@@ -11795,8 +11867,16 @@
     "name": "敗血症性ショック",
     "counts": {
       "male": 2,
+      "female": 2,
+      "sum": 4
+    }
+  },
+  {
+    "name": "敗血症性心筋症",
+    "counts": {
+      "male": 0,
       "female": 1,
-      "sum": 3
+      "sum": 1
     }
   },
   {
@@ -11858,9 +11938,9 @@
   {
     "name": "末梢性神経障害性疼痛",
     "counts": {
-      "male": 3,
+      "male": 4,
       "female": 0,
-      "sum": 3
+      "sum": 4
     }
   },
   {
@@ -11891,8 +11971,8 @@
     "name": "末梢神経障害",
     "counts": {
       "male": 24,
-      "female": 60,
-      "sum": 84
+      "female": 61,
+      "sum": 85
     }
   },
   {
@@ -12698,9 +12778,9 @@
   {
     "name": "発熱",
     "counts": {
-      "male": 164,
+      "male": 166,
       "female": 245,
-      "sum": 409
+      "sum": 411
     }
   },
   {
@@ -13066,9 +13146,9 @@
   {
     "name": "突然死",
     "counts": {
-      "male": 68,
-      "female": 48,
-      "sum": 116
+      "male": 72,
+      "female": 52,
+      "sum": 124
     }
   },
   {
@@ -13301,6 +13381,14 @@
       "male": 2,
       "female": 0,
       "sum": 2
+    }
+  },
+  {
+    "name": "細菌性肺炎",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
     }
   },
   {
@@ -13688,6 +13776,14 @@
     }
   },
   {
+    "name": "肺塞栓症の疑い",
+    "counts": {
+      "male": 2,
+      "female": 0,
+      "sum": 2
+    }
+  },
+  {
     "name": "肺梗塞",
     "counts": {
       "male": 0,
@@ -13706,9 +13802,9 @@
   {
     "name": "肺炎",
     "counts": {
-      "male": 6,
-      "female": 9,
-      "sum": 15
+      "male": 7,
+      "female": 10,
+      "sum": 17
     }
   },
   {
@@ -14171,8 +14267,8 @@
     "name": "脱水症",
     "counts": {
       "male": 32,
-      "female": 38,
-      "sum": 70
+      "female": 39,
+      "sum": 71
     }
   },
   {
@@ -14203,8 +14299,8 @@
     "name": "脳動脈瘤",
     "counts": {
       "male": 0,
-      "female": 1,
-      "sum": 1
+      "female": 2,
+      "sum": 2
     }
   },
   {
@@ -14269,6 +14365,14 @@
       "male": 3,
       "female": 2,
       "sum": 5
+    }
+  },
+  {
+    "name": "脳幹出血・心筋炎",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
     }
   },
   {
@@ -14338,9 +14442,9 @@
   {
     "name": "脳梗塞",
     "counts": {
-      "male": 74,
+      "male": 76,
       "female": 53,
-      "sum": 127
+      "sum": 129
     }
   },
   {
@@ -14756,6 +14860,14 @@
     "counts": {
       "male": 0,
       "female": 1,
+      "sum": 1
+    }
+  },
+  {
+    "name": "腹部大動脈瘤破裂",
+    "counts": {
+      "male": 1,
+      "female": 0,
       "sum": 1
     }
   },
@@ -15306,9 +15418,9 @@
   {
     "name": "血小板減少症",
     "counts": {
-      "male": 2,
+      "male": 3,
       "female": 6,
-      "sum": 8
+      "sum": 9
     }
   },
   {
@@ -15413,6 +15525,14 @@
       "male": 0,
       "female": 1,
       "sum": 1
+    }
+  },
+  {
+    "name": "血管性認知症の増悪",
+    "counts": {
+      "male": 2,
+      "female": 0,
+      "sum": 2
     }
   },
   {
@@ -15626,9 +15746,9 @@
   {
     "name": "誤嚥性肺炎",
     "counts": {
-      "male": 10,
+      "male": 12,
       "female": 7,
-      "sum": 17
+      "sum": 19
     }
   },
   {
@@ -15728,6 +15848,14 @@
     }
   },
   {
+    "name": "運動障害",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
     "name": "過呼吸",
     "counts": {
       "male": 2,
@@ -15781,6 +15909,14 @@
       "male": 0,
       "female": 1,
       "sum": 1
+    }
+  },
+  {
+    "name": "遷延性意識障害",
+    "counts": {
+      "male": 2,
+      "female": 0,
+      "sum": 2
     }
   },
   {
@@ -15923,16 +16059,16 @@
     "name": "間質性肺炎増悪",
     "counts": {
       "male": 1,
-      "female": 1,
-      "sum": 2
+      "female": 3,
+      "sum": 4
     }
   },
   {
     "name": "間質性肺炎急性増悪",
     "counts": {
-      "male": 10,
+      "male": 11,
       "female": 1,
-      "sum": 11
+      "sum": 12
     }
   },
   {
