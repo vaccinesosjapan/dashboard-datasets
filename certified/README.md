@@ -50,3 +50,11 @@ python sum-certified-reports-v1.py
 ```
 
 実行結果はひとつ上のフォルダ階層にある`_datasets`フォルダに`certified-reports.json`などのファイル名で保存されます。
+
+## まとめデータから傾向を抽出したデータを作る
+
+女性・男性・総数の3つの区分で、認定された内容の上位10個の症状を抽出したデータを作ります。
+
+```sh
+python sum-trends.py
+```
