@@ -339,8 +339,8 @@
     "name": "くも膜下出血",
     "counts": {
       "male": 16,
-      "female": 28,
-      "sum": 44
+      "female": 29,
+      "sum": 45
     }
   },
   {
@@ -466,9 +466,9 @@
   {
     "name": "せん妄",
     "counts": {
-      "male": 0,
+      "male": 1,
       "female": 2,
-      "sum": 2
+      "sum": 3
     }
   },
   {
@@ -603,8 +603,8 @@
     "name": "めまい",
     "counts": {
       "male": 35,
-      "female": 68,
-      "sum": 103
+      "female": 69,
+      "sum": 104
     }
   },
   {
@@ -674,17 +674,17 @@
   {
     "name": "めまい発作",
     "counts": {
-      "male": 2,
+      "male": 3,
       "female": 0,
-      "sum": 2
+      "sum": 3
     }
   },
   {
     "name": "アテローム血栓性脳梗塞",
     "counts": {
       "male": 6,
-      "female": 2,
-      "sum": 8
+      "female": 3,
+      "sum": 9
     }
   },
   {
@@ -920,6 +920,14 @@
     }
   },
   {
+    "name": "サルコイドーシス",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
     "name": "ショック",
     "counts": {
       "male": 0,
@@ -1013,6 +1021,14 @@
       "male": 2,
       "female": 0,
       "sum": 2
+    }
+  },
+  {
+    "name": "トロサ・ハント症候群",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
     }
   },
   {
@@ -2947,8 +2963,8 @@
     "name": "両眼ぶどう膜炎",
     "counts": {
       "male": 1,
-      "female": 0,
-      "sum": 1
+      "female": 1,
+      "sum": 2
     }
   },
   {
@@ -3077,6 +3093,14 @@
       "male": 0,
       "female": 3,
       "sum": 3
+    }
+  },
+  {
+    "name": "両虹彩炎",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
     }
   },
   {
@@ -3810,9 +3834,9 @@
   {
     "name": "全身痛",
     "counts": {
-      "male": 11,
+      "male": 12,
       "female": 10,
-      "sum": 21
+      "sum": 22
     }
   },
   {
@@ -3978,9 +4002,9 @@
   {
     "name": "冠攣縮性狭心症",
     "counts": {
-      "male": 8,
+      "male": 9,
       "female": 6,
-      "sum": 14
+      "sum": 15
     }
   },
   {
@@ -5917,6 +5941,14 @@
       "male": 1,
       "female": 1,
       "sum": 2
+    }
+  },
+  {
+    "name": "咽喉炎",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
     }
   },
   {
@@ -9128,6 +9160,14 @@
     }
   },
   {
+    "name": "左眼窩先端部症候群",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
     "name": "左眼窩部痛",
     "counts": {
       "male": 0,
@@ -10858,9 +10898,9 @@
   {
     "name": "急性心不全の疑い",
     "counts": {
-      "male": 2,
+      "male": 3,
       "female": 1,
-      "sum": 3
+      "sum": 4
     }
   },
   {
@@ -11778,9 +11818,9 @@
   {
     "name": "成人Still病",
     "counts": {
-      "male": 0,
+      "male": 1,
       "female": 1,
-      "sum": 1
+      "sum": 2
     }
   },
   {
@@ -12456,6 +12496,14 @@
     }
   },
   {
+    "name": "橋本脳症",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
     "name": "機能性ディスペプシア",
     "counts": {
       "male": 1,
@@ -12587,8 +12635,8 @@
     "name": "気管支喘息発作",
     "counts": {
       "male": 7,
-      "female": 27,
-      "sum": 34
+      "female": 28,
+      "sum": 35
     }
   },
   {
@@ -12960,6 +13008,14 @@
     }
   },
   {
+    "name": "特発性肺線維症の急性増悪",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
     "name": "特発性血小板減少性紫斑病",
     "counts": {
       "male": 1,
@@ -13098,9 +13154,9 @@
   {
     "name": "症候性てんかん",
     "counts": {
-      "male": 2,
+      "male": 3,
       "female": 3,
-      "sum": 5
+      "sum": 6
     }
   },
   {
@@ -13184,6 +13240,14 @@
     }
   },
   {
+    "name": "発作性夜間ヘモグロビン尿症の急性溶血発作",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
     "name": "発作性心房細動",
     "counts": {
       "male": 3,
@@ -13210,9 +13274,9 @@
   {
     "name": "発熱",
     "counts": {
-      "male": 172,
+      "male": 173,
       "female": 256,
-      "sum": 428
+      "sum": 429
     }
   },
   {
@@ -13745,6 +13809,14 @@
   },
   {
     "name": "糖尿病",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
+    "name": "糖尿病の一過性増悪",
     "counts": {
       "male": 0,
       "female": 1,
@@ -14299,8 +14371,8 @@
     "name": "肺血栓塞栓症",
     "counts": {
       "male": 7,
-      "female": 6,
-      "sum": 13
+      "female": 7,
+      "sum": 14
     }
   },
   {
@@ -14762,9 +14834,9 @@
   {
     "name": "脳出血",
     "counts": {
-      "male": 19,
+      "male": 20,
       "female": 11,
-      "sum": 30
+      "sum": 31
     }
   },
   {
@@ -14914,9 +14986,9 @@
   {
     "name": "脳梗塞",
     "counts": {
-      "male": 78,
+      "male": 80,
       "female": 56,
-      "sum": 134
+      "sum": 136
     }
   },
   {
@@ -15018,9 +15090,9 @@
   {
     "name": "脳静脈洞血栓症",
     "counts": {
-      "male": 10,
+      "male": 11,
       "female": 5,
-      "sum": 15
+      "sum": 16
     }
   },
   {
@@ -15523,8 +15595,8 @@
     "name": "致死性不整脈の疑い",
     "counts": {
       "male": 1,
-      "female": 0,
-      "sum": 1
+      "female": 1,
+      "sum": 2
     }
   },
   {
@@ -16172,6 +16244,14 @@
     "counts": {
       "male": 0,
       "female": 1,
+      "sum": 1
+    }
+  },
+  {
+    "name": "視野欠損",
+    "counts": {
+      "male": 1,
+      "female": 0,
       "sum": 1
     }
   },
@@ -16867,8 +16947,8 @@
     "name": "頭痛",
     "counts": {
       "male": 119,
-      "female": 199,
-      "sum": 318
+      "female": 200,
+      "sum": 319
     }
   },
   {
@@ -17378,9 +17458,9 @@
   {
     "name": "食欲低下",
     "counts": {
-      "male": 8,
+      "male": 9,
       "female": 14,
-      "sum": 22
+      "sum": 23
     }
   },
   {
