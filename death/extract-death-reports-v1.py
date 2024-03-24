@@ -14,7 +14,7 @@ pages = sys.argv[3]
 manufacturer = sys.argv[4]
 vaccine_name = sys.argv[5]
 source_dir = 'pdf-files'
-output_dir = 'reports-data'
+output_dir = 'extracted-data'
 
 pdf_file_path = os.path.join(source_dir, pdf_file_name)
 tables = camelot.read_pdf(pdf_file_path, pages=pages, encoding='utf-8')
