@@ -1,27 +1,6 @@
 [
   {
-    "no":"18\n→他の新\n型コロナ\nワクチン\n（コミナ\nティ）の事\n例（資料\n1-3-1\nNo.1108）\nであるこ\nとが判明\nしたため\n削除。\n（～10\/1\nの情報に\n基づく）",
-    "manufacturer":"モデルナ・ジャパン株式会社",
-    "vaccine_name":"スパイクバックス筋注",
-    "age":"69歳",
-    "gender":"女",
-    "vaccinated_dates":"2021年8月6日",
-    "onset_dates":[
-      "2021年8月7日"
-    ],
-    "lot_no":"不明",
-    "vaccinated_times":"2回目",
-    "pre_existing_conditions":"無",
-    "PT_names":[
-      "不明"
-    ],
-    "tests_used_for_determination":"不明",
-    "causal_relationship":"評価不能",
-    "causal_relationship_by_expert":"",
-    "comments_by_expert":""
-  },
-  {
-    "no":"30注3",
+    "no":"30",
     "manufacturer":"モデルナ・ジャパン株式会社",
     "vaccine_name":"スパイクバックス筋注",
     "age":"21歳",
@@ -49,7 +28,7 @@
     "comments_by_expert":"21歳、男性で、COVID19ワクチンモデルナを投与後8日目に死亡。本剤投与前から微熱があり、医療機関受診した際に単球性白血病、多臓器不全、DICの状態であった。詳細な情報がなく、評価が困難と判断する。※～10\/27から変更なし。"
   },
   {
-    "no":"52注8",
+    "no":"52",
     "manufacturer":"モデルナ・ジャパン株式会社",
     "vaccine_name":"スパイクバックス筋注",
     "age":"60歳代\n→62歳\n（～12\/3\nの情報\nに基づ\nく）",
@@ -71,7 +50,7 @@
     "comments_by_expert":"ワクチン接種翌日に死亡しているところを発見され、剖検所見よりアナフィラキシーによる急性循環不全によるものと考えられると報告された症例である。ワクチン接種後の状況が不明であるため、ワクチン以外の可能性も考えられることや、アレルギー症状の程度ついては明らかでないことから、得られている情報のみから因果関係を評価することは困難である。※～10\/27から変更なし。"
   },
   {
-    "no":"67注9",
+    "no":"67",
     "manufacturer":"モデルナ・ジャパン株式会社",
     "vaccine_name":"スパイクバックス筋注",
     "age":"70歳",
@@ -93,7 +72,7 @@
     "comments_by_expert":"ワクチン接種後８日目に自宅にて死亡しているところを発見された。詳細が不明のため、判定は情報不足とする。※～10\/27から変更なし。"
   },
   {
-    "no":"129注9",
+    "no":"129",
     "manufacturer":"モデルナ・ジャパン株式会社",
     "vaccine_name":"スパイクバックス筋注",
     "age":"54歳",
@@ -116,7 +95,7 @@
     "comments_by_expert":"剖検にて直接の死因は急性大動脈解離と判断されるが、他要因の影響も否定できず評価は困難である。※～10\/27から変更なし。"
   },
   {
-    "no":"147注8",
+    "no":"147",
     "manufacturer":"モデルナ・ジャパン株式会社",
     "vaccine_name":"スパイクバックス筋注",
     "age":"65歳",
@@ -135,157 +114,5 @@
     "causal_relationship":"評価不能（接種医療機関、解剖医療機関ともに）（～6\/10の情報に基づく）",
     "causal_relationship_by_expert":"γ",
     "comments_by_expert":"死亡原因の記載がない。僧帽弁置換術後、心肥大の記載があるが、PT-INR値・心肥大の程度・服薬情報がない。※～10\/27から変更なし。"
-  },
-  {
-    "no":"※ N\n161\no.161と\n同一の\n症例に\nつき、\nNo.160に\n統合",
-    "manufacturer":"モデルナ・ジャパン株式会社",
-    "vaccine_name":"スパイクバックス筋注",
-    "age":"80歳",
-    "gender":"男",
-    "vaccinated_dates":"2021年2月10日",
-    "onset_dates":[
-      "2021年2月11日"
-    ],
-    "lot_no":"不明",
-    "vaccinated_times":"3回目",
-    "pre_existing_conditions":"1回目接種、2回目接種ともにコミナティ筋注3回目接種同月、胸部大動脈瘤が発現、救急搬送。搬送時にはほぼ死亡状態。その後、胸部大動脈瘤にて死亡。",
-    "PT_names":[
-      "大動脈瘤破裂"
-    ],
-    "tests_used_for_determination":"不明",
-    "causal_relationship":"不明",
-    "causal_relationship_by_expert":"",
-    "comments_by_expert":""
-  },
-  {
-    "no":"167\n→報告\n者により\n取り下げ",
-    "manufacturer":"モデルナ・ジャパン株式会社",
-    "vaccine_name":"スパイクバックス筋注",
-    "age":"83歳",
-    "gender":"男",
-    "vaccinated_dates":"2022年7月8日",
-    "onset_dates":[
-      "2022年7月9日"
-    ],
-    "lot_no":"000204A",
-    "vaccinated_times":"3回目",
-    "pre_existing_conditions":"病歴：強直性脊椎炎、頸椎椎体骨折術後、脳出血後、認知症併用薬：抑肝散、ピルシカイニド、マグミット、クエチアピン、サイレース強直性脊椎炎を伴った第6頸椎椎体骨折に対して2022年4月9日頸椎手術を施行。術後に貧血、両側胸水、発作性心房細動を発症し、抗凝固療法開始。4月29日脳出血を発症し、転院。保存的に加療後、6月11日再転院。頸椎カラー装着状態で肺炎を起こし易く頻繁に痰の吸引を要する状態であった。7月8日ご家族の希望によりワクチン接種。接種1日後の夜に状態が急変し永眠。剖検は実施されなかった。（～10\/7の情報に基づく（集計・専門家評価対象期間（～9\/4）後に報告された内容））",
-    "PT_names":[
-      "不明",
-      "心房細動",
-      "誤嚥",
-      "肺炎"
-    ],
-    "tests_used_for_determination":"不明",
-    "causal_relationship":"評価不能",
-    "causal_relationship_by_expert":"",
-    "comments_by_expert":""
-  },
-  {
-    "no":"※ N\n187\no.186と\n同一の\n症例に\nつき、\nNo.186に\n統合",
-    "manufacturer":"モデルナ・ジャパン株式会社",
-    "vaccine_name":"スパイクバックス筋注",
-    "age":"81歳",
-    "gender":"男",
-    "vaccinated_dates":"2022年8月17日",
-    "onset_dates":[
-      "2022年8月18日"
-    ],
-    "lot_no":"000221A",
-    "vaccinated_times":"4回目",
-    "pre_existing_conditions":"患者は頚髄腫瘍術後、高血圧、糖尿病で月１回話問診を実施。",
-    "PT_names":[
-      "不明"
-    ],
-    "tests_used_for_determination":"不明",
-    "causal_relationship":"不明",
-    "causal_relationship_by_expert":"",
-    "comments_by_expert":""
-  },
-  {
-    "no":"204\n※No.20\nと同一の\n症例に\nつき、\nNo.20に\n統合",
-    "manufacturer":"モデルナ・ジャパン株式会社",
-    "vaccine_name":"スパイクバックス筋注",
-    "age":"27歳",
-    "gender":"男",
-    "vaccinated_dates":"不明\n2021年6月28日\n(～12\/16の情報\nに基づく。)",
-    "onset_dates":[
-      "不明\n2021年8月3日\n(～12\/16の情報\nに基づく。)"
-    ],
-    "lot_no":"不明",
-    "vaccinated_times":"1回目",
-    "pre_existing_conditions":"文献報告に基づく症例。既往歴：尺側副靱帯捻挫（最近の入院の3ヶ月前）、僧帽弁逸脱併用薬：報告なし27歳男性患者。初回接種後に予測できない重篤な事象の心肺停止、致死的な事象の多臓器不全症候群及び予測できない致死的なAESIの心筋炎を発現。初回接種から8日後、心肺停止のため救急治療室に搬送された。28日目に進行性多臓器不全のため死亡した。剖検で最終的に劇症心筋炎と診断された。(～12\/16の情報に基づく。)",
-    "PT_names":[
-      "心筋炎",
-      "多臓器機能不全症候群",
-      "低酸素性虚血性脳症"
-    ],
-    "tests_used_for_determination":"剖検",
-    "causal_relationship":"関連あり",
-    "causal_relationship_by_expert":"",
-    "comments_by_expert":""
-  },
-  {
-    "no":"※ N\n210\no.102と\n同一の\n症例に\nつき、\nNo.102に\n統合",
-    "manufacturer":"モデルナ・ジャパン株式会社",
-    "vaccine_name":"スパイクバックス筋注",
-    "age":"20代\n24歳\n(～1\/20\nの情報\nに基づ\nく。)",
-    "gender":"女",
-    "vaccinated_dates":"不明\n2022年2月4日\n(～1\/20の情報に\n基づく。)",
-    "onset_dates":[
-      "不明\n2022年2月21日\n(～1\/20の情報に\n基づく。)"
-    ],
-    "lot_no":"不明",
-    "vaccinated_times":"3回目",
-    "pre_existing_conditions":"原疾患等：軽度精神遅滞5日間の進行性の食欲不振、呼吸困難、見当識障害があった。患者の上肢に点状出血および紫斑が発現した。本剤接種後17日後に、入院した。病院到着後、患者の意識と呼吸不全は急速に悪化した。コルチコステロイド療法を受けたが、心肺停止に陥り、入院から 6 時間後に死亡。",
-    "PT_names":[
-      "血栓性血小板減少性紫斑病"
-    ],
-    "tests_used_for_determination":"不明",
-    "causal_relationship":"不明関連あり(～1\/20の情報に基づく。)",
-    "causal_relationship_by_expert":"",
-    "comments_by_expert":""
-  },
-  {
-    "no":"213\n※No.23\nと同一の\n症例に\nつき、\nNo.23に\n統合",
-    "manufacturer":"モデルナ・ジャパン株式会社",
-    "vaccine_name":"スパイクバックス筋注",
-    "age":"30歳",
-    "gender":"男",
-    "vaccinated_dates":"不明",
-    "onset_dates":[
-
-    ],
-    "lot_no":"不明",
-    "vaccinated_times":"2回目",
-    "pre_existing_conditions":"2回目の投与を受けた。発熱を発現。仕事を休んで翌日も休んでいた。夕方に帰宅し、通常通りに夕食を摂取し、自室に向かった。3日後患者は目覚めず、家族が行った時に死亡しているのが発見された。",
-    "PT_names":[
-      "不明"
-    ],
-    "tests_used_for_determination":"剖検",
-    "causal_relationship":"不明",
-    "causal_relationship_by_expert":"",
-    "comments_by_expert":""
-  },
-  {
-    "no":"217\nBA4-5の\nNo1と同\n一のた\nめBA4-5\nのNo1に\n統合",
-    "manufacturer":"モデルナ・ジャパン株式会社",
-    "vaccine_name":"スパイクバックス筋注",
-    "age":"72歳",
-    "gender":"女",
-    "vaccinated_dates":"2023年1月12日",
-    "onset_dates":[
-      "2023年1月14日"
-    ],
-    "lot_no":"不明",
-    "vaccinated_times":"4回目",
-    "pre_existing_conditions":"基礎疾患等：多発性皮膚筋炎、椎間板ヘルニア、虫垂癌術後2023\/1\/12　コロナウィルス感染症ワクチン接種。夕頃から下腹部痛や具合の悪さを訴える。家族(妹)訪問。顔色不良だったが、コロナウィルス感染症ワクチン接種後副反応と考え様子を見ていた。2023\/1\/13　AM、妹さん再訪し、意識障害および顔色不良著明でHP搬送。敗血症性ショック（右尿管狭窄及び右腎周囲脂肪織濃度の上昇あり）DICの診断で病院搬送され、集中治療も1\/14AM1:08死亡確認。",
-    "PT_names":[
-      "不明"
-    ],
-    "tests_used_for_determination":"不明",
-    "causal_relationship":"評価不能",
-    "causal_relationship_by_expert":"",
-    "comments_by_expert":""
   }
 ]

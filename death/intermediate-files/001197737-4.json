@@ -1,6 +1,6 @@
 [
   {
-    "no":"1419注16",
+    "no":"1419",
     "manufacturer":"ファイザー株式会社",
     "vaccine_name":"コミナティ筋注",
     "age":"75歳",
@@ -22,7 +22,7 @@
     "comments_by_expert":"ワクチン接種後に新たな血小板減少（2000\/uL）を認めています。TTSとして報告されていますが、臨床症状及び検査所見から明らかな血栓症は確認できず、ワクチン接種後に発症した免疫性血小板減少症（ITP）であると考えられ、ブライトン分類を「4」と評価します。患者の血小板数は、副腎皮質ステロイドによる治療により速やかに基準値レベル（22.9万\/uL）まで改善しており、その後、ステロイド漸減中のITP増悪伴う死亡であることが報告されています。詳細な経過に関する情報が不足しているため、死亡との因果関係を判断することは困難です。なお、ITP患者においてワクチン接種後に病状が増悪する症例が報告されており、関連学会からも注意喚起がなされているため、当該事象については注視しておくことが望ましいと考えます。以上より、現時点ではTTSと死亡との因果関係は否定的であると考えます。※～10\/27から変更なし。"
   },
   {
-    "no":"1432注4",
+    "no":"1432",
     "manufacturer":"ファイザー株式会社",
     "vaccine_name":"コミナティ筋注",
     "age":"95歳",
@@ -45,70 +45,7 @@
     "comments_by_expert":"ワクチン接種後約１２時間後に嘔吐し、吐物による気道閉塞による呼吸不全により死亡された事例。御高齢であり、合併症についても不明。ワクチン接種が嘔吐の原因となった可能性は一般的には低い。※～10\/27から変更なし。"
   },
   {
-    "no":"1444\n※No.1426と\n同一症例に\nつき、\nNo.1426に統\n合。",
-    "manufacturer":"ファイザー株式会社",
-    "vaccine_name":"コミナティ筋注",
-    "age":"88歳",
-    "gender":"男",
-    "vaccinated_dates":"2022年1月19日",
-    "onset_dates":[
-      "2022年1月20日"
-    ],
-    "lot_no":"FL1893",
-    "vaccinated_times":"1回目",
-    "pre_existing_conditions":"病歴：慢性心不全、陳旧性脳梗塞、右下肢静脈血栓症、廃用症候群、嚥下障害1回目接種の翌日、患者の病態は急に悪化し、その後死亡した。直接の死因は虚血性心不全であった。（～3\/18の情報に基づく）",
-    "PT_names":[
-      "心不全"
-    ],
-    "tests_used_for_determination":"不明→心電図（～3\/18の情報に基づく）",
-    "causal_relationship":"関連あり",
-    "causal_relationship_by_expert":"",
-    "comments_by_expert":""
-  },
-  {
-    "no":"1480\n→他の新型コ\nロナワクチン\n（スパイクバッ\nクス）の事例\n（資料1-3-2\nNo.143）であ\nることが判明\nしたため削\n除。\n（～6\/10の情\n報に基づく）",
-    "manufacturer":"ファイザー株式会社",
-    "vaccine_name":"コミナティ筋注",
-    "age":"29歳",
-    "gender":"男",
-    "vaccinated_dates":"2022年2月6日",
-    "onset_dates":[
-      "2022年2月8日"
-    ],
-    "lot_no":"不明",
-    "vaccinated_times":"不明\n→2回目\n（～5\/13の\n情報に基\nづく（集計・\n専門家評\n価対象期\n間（～\n4\/17）後に\n報告された\n内容））",
-    "pre_existing_conditions":"病歴：脂肪肝発熱あり。不整脈により死亡。（～4\/13の情報に基づく）",
-    "PT_names":[
-      "不整脈"
-    ],
-    "tests_used_for_determination":"不明→死亡時画像診断（腹部CT（脂肪肝あり）、頭部CT（くも膜下出血など器質的脳内病変なし）、胸部CT（冠動脈硬化なし））（～4\/13の情報に基づく）",
-    "causal_relationship":"関連あり",
-    "causal_relationship_by_expert":"",
-    "comments_by_expert":""
-  },
-  {
-    "no":"1522\n→他の新型コ\nロナワクチン\n（スパイクバッ\nクス）の事例\n（資料1-3-2\nNo.112）であ\nることが判明\nしたため削\n除。\n（～4\/13の情\n報に基づく）",
-    "manufacturer":"ファイザー株式会社",
-    "vaccine_name":"コミナティ筋注",
-    "age":"75歳",
-    "gender":"男",
-    "vaccinated_dates":"2022年3月4日",
-    "onset_dates":[
-      "2022年3月5日"
-    ],
-    "lot_no":"不明",
-    "vaccinated_times":"3回目",
-    "pre_existing_conditions":"高血圧、糖尿病、心房細動3回目接種後、下痢症状あり。接種翌日未明、自宅寝室にて死亡しているところを発見された。心筋梗塞（推定）と診断。",
-    "PT_names":[
-      "心筋梗塞"
-    ],
-    "tests_used_for_determination":"不明",
-    "causal_relationship":"評価不能",
-    "causal_relationship_by_expert":"",
-    "comments_by_expert":""
-  },
-  {
-    "no":"1587注4",
+    "no":"1587",
     "manufacturer":"ファイザー株式会社",
     "vaccine_name":"コミナティ筋注",
     "age":"67歳",
@@ -133,137 +70,5 @@
     "causal_relationship":"関連あり（接種医療機関）不明（搬送先医療機関）",
     "causal_relationship_by_expert":"γ",
     "comments_by_expert":"因果関係は情報不足。ワクチン投与前より複数の睡眠導入薬、血管系副作用、抗凝固剤などの治療歴があり、接種前より心血管系リスクがある可能性が否定できない。※～10\/27から変更なし。"
-  },
-  {
-    "no":"1632\n→報告者に\nより取り下げ",
-    "manufacturer":"ファイザー株式会社",
-    "vaccine_name":"コミナティ筋注",
-    "age":"70歳",
-    "gender":"女",
-    "vaccinated_dates":"2022年3月8日",
-    "onset_dates":[
-      "2022年5月"
-    ],
-    "lot_no":"FL1839",
-    "vaccinated_times":"3回目",
-    "pre_existing_conditions":"乳癌の手術歴があり、フォローアップで医療施設を受診しているようであった。3回目接種約2か月後に死亡。患者が診察券を持っていたため、警察から連絡があった。警察によると、脳梗塞とのこと。",
-    "PT_names":[
-      "脳梗塞"
-    ],
-    "tests_used_for_determination":"不明",
-    "causal_relationship":"関連なし",
-    "causal_relationship_by_expert":"",
-    "comments_by_expert":""
-  },
-  {
-    "no":"1635\n→他の新型\nコロナワクチ\nン（スパイク\nバックス）の\n事例である\nことが判明し\nたため削除。\n（～7\/8の情\n報に基づく）",
-    "manufacturer":"ファイザー株式会社",
-    "vaccine_name":"コミナティ筋注",
-    "age":"86歳",
-    "gender":"女",
-    "vaccinated_dates":"不明",
-    "onset_dates":[
-      "不明（接種の11\n日後）"
-    ],
-    "lot_no":"不明",
-    "vaccinated_times":"2回目",
-    "pre_existing_conditions":"文献報告に基づく症例。10年前慢性リンパ性白血病を発症したが、状態安定していた。2回目接種7日後、胸痛で受診した。心電図上ST上昇認めたが冠動脈に不安定病変なかった。左室壁運動低下を認め、駆出率43.7%であった。接種11日後に死亡。血性心嚢液が貯留し、左室壁を中心として広範囲に心筋細胞脱落、マクロファージやTリンパ球の浸潤を認め、心筋炎が考えられた。",
-    "PT_names":[
-      "心筋炎",
-      "ウイルス性心筋炎"
-    ],
-    "tests_used_for_determination":"解剖、左室血管造影、心電図",
-    "causal_relationship":"不明",
-    "causal_relationship_by_expert":"",
-    "comments_by_expert":""
-  },
-  {
-    "no":"1651\n※No.381と\n同一の症例\nにつき、\nNo.381に統\n合",
-    "manufacturer":"ファイザー株式会社",
-    "vaccine_name":"コミナティ筋注",
-    "age":"90歳\n→90歳\n代\n（～7\/8\nの情報\nに基づく\n（集計・\n専門家\n評価対\n象期間\n（～\n6\/12）後\nに報告さ\nれた内",
-    "gender":"男",
-    "vaccinated_dates":"不明",
-    "onset_dates":[
-      "不明"
-    ],
-    "lot_no":"不明",
-    "vaccinated_times":"2回目",
-    "pre_existing_conditions":"文献報告に基づく症例。2回目接種翌日から全身倦怠感や微熱が出現。投与5日後に血小板減少と貧血、LDの上昇を認め、7日後には破砕赤血球及び神経症状が認められた。血栓症血小板減少症紫斑病（ＴＴＰ）疑いで転院。転院時のADAMTS13値は0.5%未満、同インヒビターは2BU\/mLであった。免疫抑制を開始したが、高齢でありBNP上昇していたため血漿交換は施行せず、血漿輸血のみ施行した。しかし、接種9日後に肺出血を合併し、接種10日後に永眠された。",
-    "PT_names":[
-      "血栓性血小板減少性紫斑病",
-      "肺出血"
-    ],
-    "tests_used_for_determination":"血液検査",
-    "causal_relationship":"不明",
-    "causal_relationship_by_expert":"",
-    "comments_by_expert":""
-  },
-  {
-    "no":"1656\n※No.1640と\n同一の症例\nにつき、\nNo.1640に統\n合",
-    "manufacturer":"ファイザー株式会社",
-    "vaccine_name":"コミナティ筋注",
-    "age":"16歳",
-    "gender":"女",
-    "vaccinated_dates":"2021年8月11日",
-    "onset_dates":[
-      "2022年2月13日"
-    ],
-    "lot_no":"FD0889",
-    "vaccinated_times":"1回目",
-    "pre_existing_conditions":"重症心身障害児、多剤内服、1ヶ月前に肺炎、胸水貯留あり。1回目接種30分後より、接種部に発赤を認めた。接種翌日より腹部膨満、胸水増加、感染兆候を認めた。Bacterial translocationによる感染又は肺炎随伴性胸水を疑ったが、コロナワクチン接種後直後であり関連も疑われた。2回目接種は家族が希望せず。2021年9月（接種1か月後）より腸管機能不全となることが増え、さらに尿路感染や肺炎などの感染を頻回に起こした、2021年12月（接種4か月後）に急性膵炎を発症。その後敗血症を起こし、循環不全を起こしたため転院。転院先で一旦状態は落ち着いたが、再度尿路感染症を起こし接種186日後に死亡確認。重症心身障害児であり感染も頻回に起こす児であるが、接種後の症状から体調をずっと崩しており、一連の症状の引き金となった可能性があると考えられる。",
-    "PT_names":[
-      "評価中",
-      "評価中",
-      "評価中"
-    ],
-    "tests_used_for_determination":"不明",
-    "causal_relationship":"評価不能",
-    "causal_relationship_by_expert":"",
-    "comments_by_expert":""
-  },
-  {
-    "no":"1658\n※No.1650と\n同一の症例\nにつき、\nNo.1650 に\n統合",
-    "manufacturer":"ファイザー株式会社",
-    "vaccine_name":"コミナティ筋注",
-    "age":"63歳",
-    "gender":"男",
-    "vaccinated_dates":"2022年4月5日",
-    "onset_dates":[
-      "2022年6月3日"
-    ],
-    "lot_no":"FN9605",
-    "vaccinated_times":"3回目",
-    "pre_existing_conditions":"2019年春より乾性咳嗽。2021年10月より労作時呼吸困難が出現したが放置していた。2021年11月職場検診で間質性肺炎疑いと指摘されたが受診せず。3回目接種当日から発熱、関節痛、筋痛、倦怠感が出現、持続した。接種21日後、受診し、間質性肺炎が疑われた。接種36日後に、胸部CTで間質性肺炎を認めたが、低酸素血症なく急性増悪は否定的だった。多発関節痛、筋痛があり、接種43日後にMPO-ANCA陽性が判明。恐らく顕微鏡的多発血管炎に伴う間質性肺炎が元々存在し、ワクチン接種後に全身症状が顕在化した病態が考えられた。早急入院し、寛解導入療法が必要であると説明したが、本人が翌月に入ってからの入院を希望された。接種53日後より咳嗽と喀血、呼吸困難が出現。著明な低酸素血症とCTで両肺広範な浸潤影、すりガラス影を認め緊急入院。急激に呼吸不全が進行し、人工呼吸器管理の希望無く、接種59日後に死亡された。入院時血液検査でKL-6 2030\/mL、SP-D 136ng\/mLであり、肺胞出血あるいは間質性肺炎急性増悪が疑われる経過であった。",
-    "PT_names":[
-      "評価中",
-      "評価中",
-      "評価中"
-    ],
-    "tests_used_for_determination":"CT、血液検査",
-    "causal_relationship":"関連あり",
-    "causal_relationship_by_expert":"",
-    "comments_by_expert":""
-  },
-  {
-    "no":"1669\n※No.1622と\n同一の症例\nにつき、\nNo.1622 に\n統合",
-    "manufacturer":"ファイザー株式会社",
-    "vaccine_name":"コミナティ筋注",
-    "age":"35歳",
-    "gender":"女",
-    "vaccinated_dates":"2022年2月25日",
-    "onset_dates":[
-      "2022年3月28日"
-    ],
-    "lot_no":"FL7646",
-    "vaccinated_times":"3回目",
-    "pre_existing_conditions":"予診票での留意点は不明ワクチン3回目接種の16日後、昼寝中の頭痛、頭部CTで右内頸動脈破裂によるくも膜下出血",
-    "PT_names":[
-      "くも膜下出血"
-    ],
-    "tests_used_for_determination":"頭部CT",
-    "causal_relationship":"評価不能",
-    "causal_relationship_by_expert":"",
-    "comments_by_expert":""
   }
 ]
