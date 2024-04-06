@@ -1122,7 +1122,7 @@
     "gender":"男",
     "vaccinated_dates":"2021年4月26日",
     "onset_dates":[
-      "2021\/5\/16\n注：5月26日の合\n同部会資料で\nは、死亡日の「16\n日」を症状発生日\nの「8日」と誤記\n載。"
+      "2021/5/16"
     ],
     "lot_no":"ET9096",
     "vaccinated_times":"1回目",
@@ -1252,7 +1252,7 @@
     "gender":"男",
     "vaccinated_dates":"2021年5月10日",
     "onset_dates":[
-      "2021\/5\/17\n(～7\/7の情報に\n基づく)"
+      "2021/5/17"
     ],
     "lot_no":"不明",
     "vaccinated_times":"1回目",
@@ -2585,7 +2585,7 @@
     "gender":"男",
     "vaccinated_dates":"2021年5月26日",
     "onset_dates":[
-      "2021年5月27日\n→2021年5月28\n日\n（～7\/21の情報に\n基づき訂正）"
+      "2021年5月28日"
     ],
     "lot_no":"FA4597",
     "vaccinated_times":"1回目",
@@ -5706,13 +5706,13 @@
     "no":283,
     "manufacturer":"ファイザー株式会社",
     "vaccine_name":"コミナティ筋注",
-    "age":"80歳代\n→83歳\n（～\n10\/22の\n情報に\n基づく）",
+    "age":"83歳",
     "gender":"女",
-    "vaccinated_dates":"2021年5月1日\n→2021年5月20\n日",
+    "vaccinated_dates":"2021年5月20日",
     "onset_dates":[
-      "不明\n→2021年6月1日\n（～10\/22の情報\nに基づく）"
+      "2021年6月1日"
     ],
-    "lot_no":"不明\n→EX3617\n（～10\/22\nの情報に\n基づく）",
+    "lot_no":"EX3617",
     "vaccinated_times":"1回目",
     "pre_existing_conditions":"不明→アルツハイマー型認知症(2013年より)、要介護度４で介護施設で生活（ADL自立度B2）。ワクチン接種後11日で精神興奮状態、血圧166／110に上昇、急性心不全、摂種12日目呼吸停止、死亡（～10\/22の情報に基づく）",
     "PT_names":[
@@ -6219,7 +6219,7 @@
     "gender":"女",
     "vaccinated_dates":"2021年6月8日",
     "onset_dates":[
-      "2021年6月14日\n→2021年6月15\n日\n（～7\/7の情報に\n基づく）"
+      "2021年6月15日"
     ],
     "lot_no":"EY0779",
     "vaccinated_times":"1回目",
@@ -6324,7 +6324,7 @@
     "gender":"男",
     "vaccinated_dates":"2021年6月9日",
     "onset_dates":[
-      "不明\n→2021年6月14\n日\n（～12\/24の情報\nに基づく）"
+      "2021年6月14日"
     ],
     "lot_no":"FA5765\n注：6月23日\nの合同部会\n資料では、\n「FA5765」を\n「SA5765」と\n誤記載。",
     "vaccinated_times":"1回目",
@@ -6876,7 +6876,7 @@
     "gender":"男",
     "vaccinated_dates":"2021年5月下旬\n→2021年5月20\n日\n（～10\/22の情報\nに基づく）",
     "onset_dates":[
-      "不明\n→2021年5月23\n日\n（～10\/22の情報\nに基づく）"
+      "2021年5月23日"
     ],
     "lot_no":"不明→\nEX3617\n（～10\/22\nの情報に\n基づく）",
     "vaccinated_times":"1回目",
@@ -6919,7 +6919,7 @@
     "gender":"男",
     "vaccinated_dates":"不明\n→2021年6月3日\n（～8\/25の情報に\n基づく）",
     "onset_dates":[
-      "不明\n→2021年6月3日\n（～8\/25の情報に\n基づく）"
+      "2021年6月3日"
     ],
     "lot_no":"不明",
     "vaccinated_times":"2回目",
@@ -6961,7 +6961,7 @@
     "gender":"男",
     "vaccinated_dates":"不明\n→2021年5月21\n日\n（～7\/21の情報に\n基づく）",
     "onset_dates":[
-      "不明（接種後約\n10日）\n→2021年6月1日\n（～7\/21の情報に\n基づく）"
+      "2021年6月1日"
     ],
     "lot_no":"不明\n→EY5420\n（～7\/21の\n情報に基\nづく）",
     "vaccinated_times":"1回目",
@@ -6983,7 +6983,7 @@
     "gender":"女",
     "vaccinated_dates":"2021年5月24日",
     "onset_dates":[
-      "2021年5月30日\n注：6月23日の合\n同部会資料で\nは、「30日」を「28\n日」と誤記載。"
+      "2021年5月30日"
     ],
     "lot_no":"FA5829",
     "vaccinated_times":"1回目",
@@ -7428,7 +7428,7 @@
     "gender":"女",
     "vaccinated_dates":"2021年6月5日",
     "onset_dates":[
-      "不明\n→不明（2021年6\n月）\n（～7\/7の情報に\n基づく）"
+      "2021年6月"
     ],
     "lot_no":"EY0779",
     "vaccinated_times":"1回目",
@@ -8312,20 +8312,20 @@
     "no":414,
     "manufacturer":"ファイザー株式会社",
     "vaccine_name":"コミナティ筋注",
-    "age":"日 N\n60歳代\n→64歳\n※9月10\no.887と\n統合",
+    "age":"64歳",
     "gender":"女",
-    "vaccinated_dates":"不明\n→2021年6月6日\n※9月10日No.887\nと統合",
+    "vaccinated_dates":"2021年6月6日",
     "onset_dates":[
-      "不明（接種翌日）\n→2021年6月7日\n※9月10日No.887\nと統合"
+      "2021年6月7日"
     ],
-    "lot_no":"不明\n→EY3860\n※9月10日\nNo.887と統\n合",
-    "vaccinated_times":"2回目\n→1回目\n※9月10日\nNo.887と統\n合",
+    "lot_no":"EY3860",
+    "vaccinated_times":"1回目",
     "pre_existing_conditions":"精神疾患、治療薬等を数種類服用→精神疾患にて　ピペリジン、オランザピン、パリペリドン、ロラゼパム、スポレキサント服用※9月10日No.887と統合",
     "PT_names":[
       "うっ血性心不全"
     ],
     "tests_used_for_determination":"解剖",
-    "causal_relationship":"不明→評価不能※9月10日No.887と統合",
+    "causal_relationship":"評価不能",
     "causal_relationship_by_expert":"γ",
     "comments_by_expert":"（コメント無し）※～10\/27から変更なし。"
   },
@@ -8379,7 +8379,7 @@
     "gender":"男",
     "vaccinated_dates":"2021年5月17日",
     "onset_dates":[
-      "不明（2021年5月\n29日又は30日）"
+      "不明（2021年5月29日又は30日）"
     ],
     "lot_no":"不明",
     "vaccinated_times":"1回目",
@@ -8443,7 +8443,7 @@
     "gender":"男",
     "vaccinated_dates":"不明",
     "onset_dates":[
-      "不明（接種8日\n後）"
+      "不明（接種8日後）"
     ],
     "lot_no":"不明",
     "vaccinated_times":"1回目",
@@ -8548,7 +8548,7 @@
     "gender":"男",
     "vaccinated_dates":"2021年6月11日",
     "onset_dates":[
-      "不明（2021年6月\n22日以前）"
+      "不明（2021年6月22日以前）"
     ],
     "lot_no":"不明",
     "vaccinated_times":"1回目",
@@ -8608,13 +8608,13 @@
     "no":428,
     "manufacturer":"ファイザー株式会社",
     "vaccine_name":"コミナティ筋注",
-    "age":"70歳代\n→74歳\n（～8\/4\nの情報\nに基づ\nく）",
+    "age":"74歳",
     "gender":"男",
-    "vaccinated_dates":"不明\n→2021年5月26\n日\n（～8\/4の情報に\n基づく）",
+    "vaccinated_dates":"2021年5月26日",
     "onset_dates":[
-      "不明（接種約2週\n間後、2021年6\n月）\n→2021年6月11\n日\n（～8\/4の情報に\n基づく）"
+      "2021年6月11日"
     ],
-    "lot_no":"不明\n→FA5715\n（～8\/4の\n情報に基\nづく）",
+    "lot_no":"FA5715",
     "vaccinated_times":"1回目",
     "pre_existing_conditions":"慢性腎不全、狭心症（バイパス手術歴あり）、透析、頻繁に胸痛発作が発現していた。接種2週間以内に処方薬（詳細不明）の服用あり。アレルギー歴はなし（～8\/4の情報に基づく）",
     "PT_names":[
