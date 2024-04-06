@@ -33,3 +33,11 @@ python check-onset-dates.py > _check-result.md
 ```sh
 python sum-death-reports-v1.py
 ```
+
+別途、PDFの1ページ目の数字をもとに件数を集計したデータが`../_datasets/death-summary.json`に保存されており、これとの件数比較を行うことで手作業などに起因するデータ件数の誤りを確認できます。`../_datasets/`フォルダでpythonを`REPL`モードで起動し、以下を実行すれば症例データによる集計の件数が確認できるので、比較すると良いです。
+
+```sh
+import pandas as pd
+df = pd.read_json('death-reports.json')
+df.groupby(['vaccine_name', 'causal_relationship_by_expert'])['no'].count()
+```
