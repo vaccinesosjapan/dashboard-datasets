@@ -199,3 +199,14 @@ json_string = json.dumps(summary_with_other_vaccines, ensure_ascii=False, indent
 output_file_path = os.path.join(output_dir, 'certified-summary-with-other-vaccines.json')
 with open( output_file_path, "w", encoding='utf-8') as f:
 	f.write(json_string)
+
+# 判定日の一覧データを作成して、ダッシュボードで表示するためのメタデータとして保存する処理
+json_file_path = os.path.join(output_dir, 'certified-reports.json')
+df = pd.read_json(json_file_path)
+certified_metadata = {
+	"judged_dates": sorted(df['certified_date'].unique().tolist(), reverse=True)
+}
+output_file_path = os.path.join(output_dir, 'certified-metadata.json')
+json_string = json.dumps(certified_metadata, ensure_ascii=False, indent=2)
+with open( output_file_path, "w", encoding='utf-8') as f:
+	f.write(json_string)
