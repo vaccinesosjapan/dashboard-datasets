@@ -1,5 +1,6 @@
 import glob, json, os, sys
 import yaml
+import pandas as pd
 sys.path.append("../libraries")
 from exdeath import (
 	create_graph_data_list_by_age
@@ -50,21 +51,34 @@ output_path = os.path.join(output_dir, 'death-reports.json')
 with open( output_path, "w", encoding='utf-8') as f:
     f.write(json_string)
 
+
 # メタ情報と組み合わせつつ、抽出した事例一覧からいくつかの集計情報抽出を行う
 with open('summary-metadata.yaml', "r", encoding='utf-8') as json_file_path:
     metadata_root = yaml.safe_load(json_file_path)
 metadata = metadata_root['metadata']
-
 sum_by_age = create_graph_data_list_by_age(sorted_issues)
-
 summary_data = {
 	"death_summary_from_reports": {
 		"date": metadata['issues']['date'],
 		"sum_by_age": sum_by_age
 	}
 }
-
 json_string = json.dumps(summary_data, ensure_ascii=False, indent=2)
 output_path = os.path.join(output_dir, 'death-summary-from-reports.json')
 with open( output_path, "w", encoding='utf-8') as f:
     f.write(json_string)
+
+
+# 性別などの一覧データを作成して、ダッシュボードで表示するためのメタデータとして保存する処理
+json_file_path = os.path.join(output_dir, 'death-reports.json')
+df = pd.read_json(json_file_path)
+death_metadata = {
+	"gender_list": sorted(df['gender'].unique().tolist(), reverse=True),
+	# todo: 矢印などによるデータ修正に十分対応してから使うようにしたい
+	# "causal_relationship_list": sorted(df['causal_relationship'].unique().tolist(), reverse=True),
+	"causal_relationship_by_expert_list": sorted(df['causal_relationship_by_expert'].unique().tolist())
+}
+output_file_path = os.path.join(output_dir, 'death-metadata.json')
+json_string = json.dumps(death_metadata, ensure_ascii=False, indent=2)
+with open( output_file_path, "w", encoding='utf-8') as f:
+	f.write(json_string)
