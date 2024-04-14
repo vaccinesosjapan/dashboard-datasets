@@ -200,13 +200,27 @@ output_file_path = os.path.join(output_dir, 'certified-summary-with-other-vaccin
 with open( output_file_path, "w", encoding='utf-8') as f:
 	f.write(json_string)
 
-# 判定日の一覧データを作成して、ダッシュボードで表示するためのメタデータとして保存する処理
+
+# 判定日などの一覧データを作成して、ダッシュボードで表示するためのメタデータとして保存する処理
 json_file_path = os.path.join(output_dir, 'certified-reports.json')
 df = pd.read_json(json_file_path)
 certified_metadata = {
-	"judged_dates": sorted(df['certified_date'].unique().tolist(), reverse=True)
+	"judged_dates": sorted(df['certified_date'].unique().tolist(), reverse=True),
+	"judged_result_list": sorted(df['judgment_result'].unique().tolist(), reverse=True),
+	"gender_list": sorted(df['gender'].unique().tolist(), reverse=True)
 }
 output_file_path = os.path.join(output_dir, 'certified-metadata.json')
 json_string = json.dumps(certified_metadata, ensure_ascii=False, indent=2)
+with open( output_file_path, "w", encoding='utf-8') as f:
+	f.write(json_string)
+
+# 症状などの一覧データを作成して、ダッシュボードで表示するためのメタデータとして保存する処理
+json_file_path = os.path.join(output_dir, 'certified-symptoms.json')
+df = pd.read_json(json_file_path)
+certified_symptoms_metadata = {
+	"symptom_name_list": sorted(df['name'].unique().tolist()),
+}
+output_file_path = os.path.join(output_dir, 'certified-symptoms-metadata.json')
+json_string = json.dumps(certified_symptoms_metadata, ensure_ascii=False, indent=2)
 with open( output_file_path, "w", encoding='utf-8') as f:
 	f.write(json_string)
