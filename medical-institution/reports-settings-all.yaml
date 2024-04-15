@@ -87,7 +87,7 @@ settings: [
     },
     script-version: v1
   },
-  # 76th/000898937.pdf は報告無しのため処理しない
+  # 000898937: なし
   {
     file: '77th/000914286.pdf',
     output: '000914286.json',
@@ -110,7 +110,7 @@ settings: [
     },
     script-version: v1
   },
-  # 77th/000914305.pdf は報告無しのため処理しない
+  # 000914305: なし
   {
     file: '78th/000928663.pdf',
     output: '000928663.json',
@@ -167,7 +167,7 @@ settings: [
     },
     script-version: v1
   },
-  # 79th/000938136.pdf は報告無しのため処理しない
+  # 000938136: なし
   {
     file: '79th/000938278.pdf',
     output: '000938278.json',
@@ -201,7 +201,7 @@ settings: [
     },
     script-version: v1
   },
-  # 80th/000948866.pdf は報告無しのため処理しない
+  # 000948866: なし
   {
     file: '80th/000948888.pdf',
     output: '000948888.json',
@@ -235,7 +235,7 @@ settings: [
     },
     script-version: v1
   },
-  # 81st/000961482.pdf は報告無しのため処理しない
+  # 000961482: なし
   {
     file: '81st/000961483.pdf',
     output: '000961483.json',
@@ -280,7 +280,7 @@ settings: [
     },
     script-version: v1
   },
-  # 82th/000972954.pdf は報告無しのため処理しない
+  # 000972954: なし
   {
     file: '82th/000972955.pdf',
     output: '000972955.json',
@@ -325,7 +325,7 @@ settings: [
     },
     script-version: v1
   },
-  # 83th/000983366.pdf は報告無しのため処理しない
+  # 000983366: なし
   {
     file: '83th/000983367.pdf',
     output: '000983367.json',
@@ -370,7 +370,7 @@ settings: [
     },
     script-version: v1
   },
-  # 85th/000998164.pdf は報告無しのため処理しない
+  # 000998164: なし
   {
     file: '85th/000998682.pdf',
     output: '000998682.json',
@@ -437,7 +437,7 @@ settings: [
     },
     script-version: v2
   },
-  # 88th/001010915.pdf は報告無しのため処理しない
+  # 001010915: なし
   {
     file: '88th/001010916.pdf',
     output: '001010916.json',
@@ -493,7 +493,7 @@ settings: [
     },
     script-version: v2
   },
-  # 89th/001024109.pdf は報告無しのため処理しない
+  # 001024109: なし
   {
     file: '89th/001024111.pdf',
     output: '001024111.json',
@@ -527,7 +527,7 @@ settings: [
     },
     script-version: v2
   },
-  # 89th/001024119.pdf は報告無しのため処理しない
+  # 001024119: なし
   {
     file: '90th/001039672.pdf',
     output: '001039672-1.json',
@@ -925,7 +925,7 @@ settings: [
     },
     script-version: v2
   },
-  # 94th/001125515.pdf は報告無しのため処理しない
+  # 001125515: なし
   {
     file: '98th/001161405.pdf',
     output: '001161405-1.json',
@@ -1048,8 +1048,8 @@ settings: [
     },
     script-version: v2
   },
-  # 001196979 は0件なので抽出しない
-  # 001196980 も同様
+  # 001196979: なし
+  # 001196980: なし
   {
     file: '100th/001197717.pdf',
     output: '001197717-1.json',
@@ -1084,7 +1084,7 @@ settings: [
     },
     script-version: v2
   },
-  # 001197718 は0件のため抽出なし
+  # 001197718: なし
   {
     file: '100th/001197719.pdf',
     output: '001197719.json',
@@ -1129,8 +1129,8 @@ settings: [
     },
     script-version: v2
   },
-  # 001197722 は0件のため抽出なし
-  # 001198858 も同様
+  # 001197722: なし
+  # 001198858: なし
   {
     file: '100th/001198859.pdf',
     output: '001198859.json',
@@ -1141,5 +1141,41 @@ settings: [
       url: https://www.mhlw.go.jp/content/10601000/001198859.pdf
     },
     script-version: v2
+  },
+  {
+    file: '101st/001244769.pdf',
+    output: '001244769.json',
+    pages: '2-7',
+    expected_count: 98,
+    source: {
+      name: 第101回,
+      url: https://www.mhlw.go.jp/content/10601000/001244769.pdf
+    },
+    script-version: v2
+  },
+  # 001244770: なし
+  # 001244771: なし
+  {
+    file: '101st/001244772.pdf',
+    output: '001244772.json',
+    pages: '2-3',
+    expected_count: 29,
+    source: {
+      name: 第101回,
+      url: https://www.mhlw.go.jp/content/10601000/001244772.pdf
+    },
+    script-version: v2
+  },
+  {
+    file: '101st/001244773.pdf',
+    output: '001244773.json',
+    pages: '2',
+    expected_count: 1,
+    source: {
+      name: 第101回,
+      url: https://www.mhlw.go.jp/content/10601000/001244773.pdf
+    },
+    script-version: v2
   }
+  # 001244774: なし
 ]

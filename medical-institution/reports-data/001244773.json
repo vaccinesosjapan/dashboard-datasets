@@ -1,0 +1,39 @@
+[
+  {
+    "no": 169,
+    "age": 63,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2023/12/09"
+    ],
+    "onset_dates": [
+      "2023/12/10",
+      "2023/12/10"
+    ],
+    "days_to_onset": [
+      1
+    ],
+    "vaccine_name": "ダイチロナ筋注（１価：オ\nミクロン株XBB.1.5）",
+    "concurrent_vaccination": "",
+    "manufacturer": "第一三共",
+    "lot_no": "VPA003A",
+    "PT_names": [
+      "胸痛",
+      "胸部不快感"
+    ],
+    "causal_relationship": "",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "2023/12/12",
+      "2023/12/12"
+    ],
+    "gross_results": [
+      "回復",
+      "回復"
+    ],
+    "source": {
+      "name": "第101回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001244773.pdf"
+    }
+  }
+]

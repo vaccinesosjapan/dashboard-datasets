@@ -1,14 +1,12 @@
 settings: [
-  # 001197722 は0件のため抽出なし
-  # 001198858 も同様
   {
-    file: '100th/001198859.pdf',
-    output: '001198859.json',
+    file: '101st/001244773.pdf',
+    output: '001244773.json',
     pages: '2',
-    expected_count: 13,
+    expected_count: 1,
     source: {
-      name: 第100回,
-      url: https://www.mhlw.go.jp/content/10601000/001198859.pdf
+      name: 第101回,
+      url: https://www.mhlw.go.jp/content/10601000/001244773.pdf
     },
     script-version: v2
   }

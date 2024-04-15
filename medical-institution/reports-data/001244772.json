@@ -1,0 +1,1103 @@
+[
+  {
+    "no": 140,
+    "age": 69,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2023/10/27"
+    ],
+    "onset_dates": [
+      "2023/10/27"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "スパイクバックス筋注（１価：オミ\nクロン株XBB.1.5）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "710010A",
+    "PT_names": [
+      "痙攣発作"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "source": {
+      "name": "第101回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001244772.pdf"
+    }
+  },
+  {
+    "no": 141,
+    "age": 91,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2023/10/26"
+    ],
+    "onset_dates": [
+      "2023/10/26"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "スパイクバックス筋注（１価：オミ\nクロン株XBB.1.5）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "710015A",
+    "PT_names": [
+      "体調不良"
+    ],
+    "causal_relationship": "",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "死亡"
+    ],
+    "source": {
+      "name": "第101回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001244772.pdf"
+    }
+  },
+  {
+    "no": 142,
+    "age": 65,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2023/10/19"
+    ],
+    "onset_dates": [
+      "2023/10/19"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "スパイクバックス筋注（１価：オミ\nクロン株XBB.1.5）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "710014A",
+    "PT_names": [
+      "紅斑"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "source": {
+      "name": "第101回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001244772.pdf"
+    }
+  },
+  {
+    "no": 143,
+    "age": 96,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2023/10/23"
+    ],
+    "onset_dates": [
+      "2023/10/26"
+    ],
+    "days_to_onset": [
+      3
+    ],
+    "vaccine_name": "スパイクバックス筋注（１価：オミ\nクロン株XBB.1.5）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "710007A",
+    "PT_names": [
+      "脳梗塞"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "不明"
+    ],
+    "source": {
+      "name": "第101回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001244772.pdf"
+    }
+  },
+  {
+    "no": 144,
+    "age": 21,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2023/10/31"
+    ],
+    "onset_dates": [
+      "2023/10/31"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "スパイクバックス筋注（１価：オミ\nクロン株XBB.1.5）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "710011A",
+    "PT_names": [
+      "失神寸前の状態"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "source": {
+      "name": "第101回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001244772.pdf"
+    }
+  },
+  {
+    "no": 145,
+    "age": 65,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2023/10/08"
+    ],
+    "onset_dates": [
+      "2023/10/08 ",
+      "2023/10/08 ",
+      "2023/10/08 ",
+      "2023/10/08 ",
+      "2023/10/08 ",
+      "2023/10/08 ",
+      "2023/10/08 ",
+      "2023/10/08 ",
+      "2023/10/08 ",
+      "2023/10/08 ",
+      "2023/10/08 ",
+      "2023/10/08"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "スパイクバックス筋注（１価：オミ\nクロン株XBB.1.5）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "710010A",
+    "PT_names": [
+      "喘鳴",
+      "頭痛",
+      "呼吸困難",
+      "咽頭浮腫",
+      "悪心",
+      "感覚鈍麻",
+      "筋固縮",
+      "口の感覚鈍麻",
+      "眼運動障害",
+      "浮動性めまい",
+      "頭部不快感",
+      "体調不良"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入 ",
+      "未記入 ",
+      "未記入 ",
+      "未記入 ",
+      "未記入 ",
+      "未記入 ",
+      "未記入 ",
+      "未記入 ",
+      "未記入 ",
+      "未記入 ",
+      "未記入 ",
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快 ",
+      "軽快 ",
+      "軽快 ",
+      "軽快 ",
+      "軽快 ",
+      "軽快 ",
+      "軽快 ",
+      "軽快 ",
+      "軽快 ",
+      "軽快 ",
+      "軽快 ",
+      "軽快"
+    ],
+    "source": {
+      "name": "第101回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001244772.pdf"
+    }
+  },
+  {
+    "no": 146,
+    "age": 85,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2023/11/05"
+    ],
+    "onset_dates": [
+      "2023/11/05"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "スパイクバックス筋注（１価：オミ\nクロン株XBB.1.5）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "710004A",
+    "PT_names": [
+      "動悸"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "不明"
+    ],
+    "source": {
+      "name": "第101回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001244772.pdf"
+    }
+  },
+  {
+    "no": 147,
+    "age": 65,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2023/10/25"
+    ],
+    "onset_dates": [
+      "2023/10/25"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "スパイクバックス筋注（１価：オミ\nクロン株XBB.1.5）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "710007A",
+    "PT_names": [
+      "異常感"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "source": {
+      "name": "第101回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001244772.pdf"
+    }
+  },
+  {
+    "no": 148,
+    "age": 71,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2023/11/13"
+    ],
+    "onset_dates": [
+      "2023/11/13"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "スパイクバックス筋注（１価：オミ\nクロン株XBB.1.5）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "710003A",
+    "PT_names": [
+      "アナフィラキシー反応"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "死亡"
+    ],
+    "source": {
+      "name": "第101回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001244772.pdf"
+    }
+  },
+  {
+    "no": 149,
+    "age": 42,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2023/11/17"
+    ],
+    "onset_dates": [
+      "2023/11/17 ",
+      "2023/11/17 ",
+      "2023/11/17 ",
+      "2023/11/17"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "スパイクバックス筋注（１価：オミ\nクロン株XBB.1.5）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "710007A",
+    "PT_names": [
+      "アナフィラキシー反応",
+      "喘鳴",
+      "咳嗽",
+      "悪心"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "2023/11/17 ",
+      "2023/11/17 ",
+      "2023/11/17 ",
+      "2023/11/17"
+    ],
+    "gross_results": [
+      "回復 ",
+      "回復 ",
+      "回復 ",
+      "回復"
+    ],
+    "source": {
+      "name": "第101回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001244772.pdf"
+    }
+  },
+  {
+    "no": 150,
+    "age": 91,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2023/11/16"
+    ],
+    "onset_dates": [
+      "2023/11/17 ",
+      "2023/11/17 ",
+      "2023/11/17 ",
+      "2023/11/17 ",
+      "2023/11/17 ",
+      "2023/11/17 ",
+      "2023/11/17"
+    ],
+    "days_to_onset": [
+      1
+    ],
+    "vaccine_name": "スパイクバックス筋注（１価：オミ\nクロン株XBB.1.5）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "710010A",
+    "PT_names": [
+      "痙攣発作",
+      "無呼吸",
+      "呼吸窮迫",
+      "運動緩慢",
+      "振戦",
+      "口呼吸",
+      "発熱"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入 ",
+      "未記入 ",
+      "未記入 ",
+      "未記入 ",
+      "未記入 ",
+      "未記入 ",
+      "未記入"
+    ],
+    "gross_results": [
+      "死亡 ",
+      "死亡 ",
+      "死亡 ",
+      "死亡 ",
+      "死亡 ",
+      "死亡 ",
+      "死亡"
+    ],
+    "source": {
+      "name": "第101回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001244772.pdf"
+    }
+  },
+  {
+    "no": 151,
+    "age": 98,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2023/10/18"
+    ],
+    "onset_dates": [
+      "2023/11/08"
+    ],
+    "days_to_onset": [
+      21
+    ],
+    "vaccine_name": "スパイクバックス筋注（１価：オミ\nクロン株XBB.1.5）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "710015A",
+    "PT_names": [
+      "血小板減少症を伴う血栓症"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "source": {
+      "name": "第101回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001244772.pdf"
+    }
+  },
+  {
+    "no": 152,
+    "age": 58,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2023/11/13"
+    ],
+    "onset_dates": [
+      "2023/11/14 ",
+      "2023/11/14"
+    ],
+    "days_to_onset": [
+      1
+    ],
+    "vaccine_name": "スパイクバックス筋注（１価：オミ\nクロン株XBB.1.5）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "710007A",
+    "PT_names": [
+      "蜂巣炎",
+      "多形紅斑"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入 ",
+      "未記入"
+    ],
+    "gross_results": [
+      "不明 ",
+      "不明"
+    ],
+    "source": {
+      "name": "第101回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001244772.pdf"
+    }
+  },
+  {
+    "no": 153,
+    "age": 94,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2023/10/01"
+    ],
+    "onset_dates": [
+      "2023/10/05 ",
+      "2023/10/05"
+    ],
+    "days_to_onset": [
+      4
+    ],
+    "vaccine_name": "スパイクバックス筋注（１価：オミ\nクロン株XBB.1.5）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "710014A",
+    "PT_names": [
+      "ヘルペス後神経痛",
+      "神経痛"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入 ",
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快 ",
+      "軽快"
+    ],
+    "source": {
+      "name": "第101回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001244772.pdf"
+    }
+  },
+  {
+    "no": 154,
+    "age": 51,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2023/11/27"
+    ],
+    "onset_dates": [
+      "2023/11/27 ",
+      "2023/11/27"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "スパイクバックス筋注（１価：オミ\nクロン株XBB.1.5）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "710002C",
+    "PT_names": [
+      "血圧上昇",
+      "浮動性めまい"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入 ",
+      "未記入"
+    ],
+    "gross_results": [
+      "不明 ",
+      "不明"
+    ],
+    "source": {
+      "name": "第101回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001244772.pdf"
+    }
+  },
+  {
+    "no": 155,
+    "age": 77,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2023/10/18"
+    ],
+    "onset_dates": [
+      "2023/10/18"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "スパイクバックス筋注（１価：オミ\nクロン株XBB.1.5）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "710007A",
+    "PT_names": [
+      "アナフィラキシー反応"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "source": {
+      "name": "第101回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001244772.pdf"
+    }
+  },
+  {
+    "no": 156,
+    "age": 67,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2023/11/04"
+    ],
+    "onset_dates": [
+      "2023/11/04 ",
+      "2023/11/04"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "スパイクバックス筋注（１価：オミ\nクロン株XBB.1.5）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "710007A",
+    "PT_names": [
+      "呼吸困難",
+      "異常感"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入 ",
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快 ",
+      "軽快"
+    ],
+    "source": {
+      "name": "第101回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001244772.pdf"
+    }
+  },
+  {
+    "no": 157,
+    "age": 29,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2023/11/20"
+    ],
+    "onset_dates": [
+      "2023/11/21"
+    ],
+    "days_to_onset": [
+      1
+    ],
+    "vaccine_name": "スパイクバックス筋注（１価：オミ\nクロン株XBB.1.5）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "710010A",
+    "PT_names": [
+      "低酸素症"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "2023/11/23"
+    ],
+    "gross_results": [
+      "回復"
+    ],
+    "source": {
+      "name": "第101回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001244772.pdf"
+    }
+  },
+  {
+    "no": 158,
+    "age": 52,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2023/10/03"
+    ],
+    "onset_dates": [
+      "2023/10/17 ",
+      "2023/10/17 ",
+      "2023/10/17 ",
+      "2023/10/17 ",
+      "2023/10/17"
+    ],
+    "days_to_onset": [
+      14
+    ],
+    "vaccine_name": "スパイクバックス筋注（１価：オミ\nクロン株XBB.1.5）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "710007A",
+    "PT_names": [
+      "誤嚥",
+      "振戦",
+      "嚥下障害",
+      "末梢腫脹",
+      "グレーブス病"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入 ",
+      "未記入 ",
+      "未記入 ",
+      "未記入 ",
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快 ",
+      "軽快 ",
+      "軽快 ",
+      "軽快 ",
+      "軽快"
+    ],
+    "source": {
+      "name": "第101回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001244772.pdf"
+    }
+  },
+  {
+    "no": 159,
+    "age": 82,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2023/12/07"
+    ],
+    "onset_dates": [
+      "2023/12/07"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "スパイクバックス筋注（１価：オミ\nクロン株XBB.1.5）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "710005A",
+    "PT_names": [
+      "痙攣発作"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "2023/12/13"
+    ],
+    "gross_results": [
+      "回復"
+    ],
+    "source": {
+      "name": "第101回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001244772.pdf"
+    }
+  },
+  {
+    "no": 160,
+    "age": 55,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2023/11/10"
+    ],
+    "onset_dates": [
+      "2023/11/15"
+    ],
+    "days_to_onset": [
+      5
+    ],
+    "vaccine_name": "スパイクバックス筋注（１価：オミ\nクロン株XBB.1.5）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "710015A",
+    "PT_names": [
+      "肝機能異常"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "source": {
+      "name": "第101回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001244772.pdf"
+    }
+  },
+  {
+    "no": 161,
+    "age": 61,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2023/10/08"
+    ],
+    "onset_dates": [
+      "2023/10/11 ",
+      "2023/10/11 ",
+      "2023/10/11"
+    ],
+    "days_to_onset": [
+      3
+    ],
+    "vaccine_name": "スパイクバックス筋注（１価：オミ\nクロン株XBB.1.5）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "99999",
+    "PT_names": [
+      "下痢",
+      "嘔吐",
+      "亜イレウス"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "2023/10/20 ",
+      "2023/10/20 ",
+      "2023/10/20"
+    ],
+    "gross_results": [
+      "回復 ",
+      "回復 ",
+      "回復"
+    ],
+    "source": {
+      "name": "第101回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001244772.pdf"
+    }
+  },
+  {
+    "no": 162,
+    "age": 81,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2023/12/06"
+    ],
+    "onset_dates": [
+      "2023/12/06 ",
+      "2023/12/06 ",
+      "2023/12/06 ",
+      "2023/12/06 ",
+      "2023/12/06"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "スパイクバックス筋注（１価：オミ\nクロン株XBB.1.5）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "710014A",
+    "PT_names": [
+      "心停止",
+      "呼吸停止",
+      "無力症",
+      "誤嚥",
+      "蒼白"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入 ",
+      "未記入 ",
+      "未記入 ",
+      "未記入 ",
+      "未記入"
+    ],
+    "gross_results": [
+      "死亡 ",
+      "死亡 ",
+      "死亡 ",
+      "死亡 ",
+      "死亡"
+    ],
+    "source": {
+      "name": "第101回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001244772.pdf"
+    }
+  },
+  {
+    "no": 163,
+    "age": 17,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2023/12/21"
+    ],
+    "onset_dates": [
+      "2023/12/21 ",
+      "2023/12/21 ",
+      "2023/12/21"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "スパイクバックス筋注（１価：オミ\nクロン株XBB.1.5）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "710005A",
+    "PT_names": [
+      "不安障害",
+      "振戦",
+      "冷感"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "2023/12/21 ",
+      "2023/12/21 ",
+      "2023/12/21"
+    ],
+    "gross_results": [
+      "回復 ",
+      "回復 ",
+      "回復"
+    ],
+    "source": {
+      "name": "第101回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001244772.pdf"
+    }
+  },
+  {
+    "no": 164,
+    "age": 32,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2023/10/30"
+    ],
+    "onset_dates": [
+      "2023/11/05"
+    ],
+    "days_to_onset": [
+      6
+    ],
+    "vaccine_name": "スパイクバックス筋注（１価：オミ\nクロン株XBB.1.5）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "710011A",
+    "PT_names": [
+      "横紋筋融解症"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "死亡"
+    ],
+    "source": {
+      "name": "第101回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001244772.pdf"
+    }
+  },
+  {
+    "no": 165,
+    "age": 96,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2023/12/05"
+    ],
+    "onset_dates": [
+      "2023/12/07"
+    ],
+    "days_to_onset": [
+      2
+    ],
+    "vaccine_name": "スパイクバックス筋注（１価：オミ\nクロン株XBB.1.5）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "710007A",
+    "PT_names": [
+      "無呼吸"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "死亡"
+    ],
+    "source": {
+      "name": "第101回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001244772.pdf"
+    }
+  },
+  {
+    "no": 166,
+    "age": 73,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2023/12/02"
+    ],
+    "onset_dates": [
+      "2023/12/24"
+    ],
+    "days_to_onset": [
+      22
+    ],
+    "vaccine_name": "スパイクバックス筋注（１価：オミ\nクロン株XBB.1.5）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "710005A",
+    "PT_names": [
+      "心肺停止"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "死亡"
+    ],
+    "source": {
+      "name": "第101回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001244772.pdf"
+    }
+  },
+  {
+    "no": 167,
+    "age": 76,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2023/11/24"
+    ],
+    "onset_dates": [
+      "2023/12/01"
+    ],
+    "days_to_onset": [
+      7
+    ],
+    "vaccine_name": "スパイクバックス筋注（１価：オミ\nクロン株XBB.1.5）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "710011A",
+    "PT_names": [
+      "間質性肺疾患"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "死亡"
+    ],
+    "source": {
+      "name": "第101回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001244772.pdf"
+    }
+  },
+  {
+    "no": 168,
+    "age": 83,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2023/12/02"
+    ],
+    "onset_dates": [
+      "2023/12/22"
+    ],
+    "days_to_onset": [
+      20
+    ],
+    "vaccine_name": "スパイクバックス筋注（１価：オミ\nクロン株XBB.1.5）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "710005A",
+    "PT_names": [
+      "血小板減少症を伴う血栓症"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "source": {
+      "name": "第101回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001244772.pdf"
+    }
+  }
+]
