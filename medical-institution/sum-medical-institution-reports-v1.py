@@ -1,11 +1,13 @@
 import glob, json, os, sys, unicodedata
 import yaml
+import pandas as pd
 sys.path.append("../libraries")
 from exmedical import (
 	create_graph_by_causal_relationship,
 	create_graph_severities_of_related,
-	create_keys,
-	create_keys_from_array
+	cleansing_vaccine_name,
+	create_unique_list,
+	create_unique_list_with_2d_list
 )
 
 jsonFileList = glob.glob('reports-data/*.json')
@@ -25,22 +27,7 @@ for file in jsonFileList:
 				d['no'] = int(dNo)
 			
 			# vaccine_name
-			vaccine_name = d['vaccine_name']
-			vaccine_name = vaccine_name.replace('\n歳用', '歳用')
-			vaccine_name = vaccine_name.replace('歳\n用', '歳用')
-			vaccine_name = vaccine_name.replace('１\n価', '１価')
-			vaccine_name = vaccine_name.replace('２\n価', '２価')
-			vaccine_name = vaccine_name.replace('価\n不明', '価不明')
-			vaccine_name = vaccine_name.replace('\n起源株', '起源株')
-			vaccine_name = vaccine_name.replace('起\n源株', '起源株')
-			vaccine_name = vaccine_name.replace('起源\n株', '起源株')
-			vaccine_name = vaccine_name.replace('株\nBA.1', '株BA.1')
-			vaccine_name = vaccine_name.replace('BA.4-\n5', 'BA.4-5')
-			vaccine_name = vaccine_name.replace('11歳用\n（', '11歳用（')
-			vaccine_name = vaccine_name.replace('オミクロ\nン', 'オミクロン')
-			vaccine_name = vaccine_name.replace('オミ\nクロン', 'オミクロン')
-			vaccine_name = vaccine_name.replace('オミクロン株\nXBB', 'オミクロン株XBB')
-			d['vaccine_name'] = unicodedata.normalize("NFKC", vaccine_name)
+			d['vaccine_name'] = cleansing_vaccine_name(d['vaccine_name'])
 			
 			# manufacturer
 			d['manufacturer'] = d['manufacturer'].replace('モデルナ／武\n田', 'モデルナ／武田')
@@ -61,6 +48,24 @@ output_path = os.path.join(output_dir, 'medical-institution-reports.json')
 with open( output_path, "w", encoding='utf-8' ) as f:
 	f.write(json_string)
 
+
+# 症状などの一覧データを作って、ダッシュボードで表示するためのメタデータとして保存する処理
+json_file_path = os.path.join(output_dir, 'medical-institution-reports.json')
+df = pd.read_json(json_file_path)
+certified_symptoms_metadata = {
+	"gender_list": sorted(df['gender'].unique().tolist(), reverse=True),
+	"vaccine_name_list": sorted( create_unique_list(df['vaccine_name'].unique().tolist()) ),
+	"manufacturer_list": sorted( create_unique_list(df['manufacturer'].unique().tolist()) ),
+	"causal_relationship_list": sorted( df['causal_relationship'].unique().tolist() , reverse=True),
+	"severity_list": sorted(df['severity'].unique().tolist()),
+	"gross_results_list": sorted( create_unique_list_with_2d_list(df['gross_results'].tolist()) ),
+}
+output_file_path = os.path.join(output_dir, 'medical-institution-metadata.json')
+json_string = json.dumps(certified_symptoms_metadata, ensure_ascii=False, indent=2)
+with open( output_file_path, "w", encoding='utf-8') as f:
+	f.write(json_string)
+
+
 # メタ情報と組み合わせつつ、抽出した事例一覧からいくつかの集計情報抽出を行う
 with open('summary-metadata.yaml', "r", encoding='utf-8') as file:
 	metadata_root = yaml.safe_load(file)
@@ -80,25 +85,5 @@ summary_data = {
 
 json_string = json.dumps(summary_data, ensure_ascii=False, indent=2)
 output_path = os.path.join(output_dir, 'medical-institution-summary-from-reports.json')
-with open( output_path, "w", encoding='utf-8') as f:
-    f.write(json_string)
-
-#どんな項目があるのかという一覧を作ろうとした処理
-keys_of_vaccine_name = create_keys(sorted_issues, 'vaccine_name')
-keys_of_manufacturer = create_keys(sorted_issues, 'manufacturer')
-keys_of_causal_relationship = create_keys(sorted_issues, 'causal_relationship')
-keys_of_severity = create_keys(sorted_issues, 'severity')
-keys_of_gross_results = create_keys_from_array(sorted_issues, 'gross_results')
-
-keys_data = {
-	"vaccine_name": keys_of_vaccine_name,
-	"manufacturer": keys_of_manufacturer,
-	"causal_relationship": keys_of_causal_relationship,
-	"severity": keys_of_severity,
-	"gross_results": keys_of_gross_results
-}
-
-json_string = json.dumps(keys_data, ensure_ascii=False, indent=2)
-output_path = os.path.join(output_dir, 'medical-institution-keys-of-reports.json')
 with open( output_path, "w", encoding='utf-8') as f:
     f.write(json_string)
