@@ -10,11 +10,7 @@ python create-death-reports-v1.py
 
 一部のデータで、`no`列に統廃合に関する情報などが書かれている場合があります。`no`列が数字に変換可能かをチェックしてデータをより分け、手作業でデータの削除などを実施する必要があります。
 
-以下を実行することで、`extracted-data`フォルダのすべてのJSONファイルを読み取り、より分けを行います。`no`列が数字のデータは`reports-data`フォルダに、手作業で修正が必要なデータは`intermediate-files`フォルダに、それぞれJSON形式で保存されます。
-
-```sh
-python select-no.py
-```
+上記の`create-death-reports-v1.py`による処理では`select-no.py`も実行することで、`extracted-data`フォルダのすべてのJSONファイルを読み取り、仕分けを行います。`no`列が数字のデータは`reports-data`フォルダに、手作業で修正が必要なデータは`intermediate-files`フォルダに、それぞれJSON形式で保存されます。
 
 `intermediate-files`フォルダ内のJSONを目視で確認しながら、「取り下げ」られた案件や「No.◯◯に統合」と書かれたデータを削除します。統合されて残る方のデータは「No.◯◯と統合」という風に書かれるようなので、誤って消さないよう注意が必要です。
 

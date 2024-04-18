@@ -7,6 +7,9 @@ from exdeath import (
 
 '''
 亡くなった方々の症例一覧から情報を抽出するスクリプト。
+
+- 「接種回数」あり
+- 「専門家による評価」が2つ
 '''
 pdf_file_name = sys.argv[1]
 output_file_name = sys.argv[2]

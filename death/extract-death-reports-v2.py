@@ -9,7 +9,7 @@ from exdeath import (
 亡くなった方々の症例一覧から情報を抽出するスクリプト。
 
 - 「接種回数」無し
-- 「専門家による評価」が1つ
+- 「専門家による評価」が2つ
 '''
 pdf_file_name = sys.argv[1]
 output_file_name = sys.argv[2]
@@ -43,13 +43,13 @@ try:
 				"vaccinated_dates": vaccinated_dates,
 				"onset_dates": onset_dates,
 				"lot_no": lot_no,
-				"vaccinated_times": "1回目",
+				"vaccinated_times": "",
 				"pre_existing_conditions": row[6].replace('\n',''),
 				"PT_names": row[8].split('\n'),
 				"tests_used_for_determination": row[9].replace('\n',''),
 				"causal_relationship": row[10].replace('\n',''),
-				"causal_relationship_by_expert": row[12],
-				"comments_by_expert": row[13]
+				"causal_relationship_by_expert": row[14],
+				"comments_by_expert": row[15]
 			}
 
 			if rowData['no'] == '':

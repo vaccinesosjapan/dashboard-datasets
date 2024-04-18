@@ -119,18 +119,18 @@ settings: [
   },
   {
     manufacturer: 'ファイザー株式会社',
-    name: 'コミナティRTU筋注（1価:オミクロン株XBB.1.5）',
-    file: '001197005.pdf',
-    output: '001197005.json',
-    pages: '2-4',
-    script-version: v0
+    name: 'コミナティRTU筋注（1価：オミクロン株XBB.1.5）',
+    file: '001245072.pdf',
+    output: '001245072.json',
+    pages: '2-7',
+    script-version: v2
   },
   {
-    manufacturer: 'モデルナ・ジャパン株式会社',
-    name: 'スパイクバックス筋注（1価:オミクロン株XBB.1.5）',
-    file: '001197006.pdf',
-    output: '001197006.json',
-    pages: '2',
-    script-version: v0
-  },
+    manufacturer: 'モデルナ株式会社',
+    name: 'スパイクバックス筋注（1価：オミクロン株XBB.1.5）',
+    file: '001244792.pdf',
+    output: '001244792.json',
+    pages: '2-4',
+    script-version: v2
+  }
 ]
