@@ -2,14 +2,13 @@ import yaml
 import sys
 import subprocess
 
-try:
-    with open('summary-settings.yaml', "r", encoding='utf-8') as file:
-        settings_root = yaml.safe_load(file)
-except Exception as e:
-    print('Exception occurred while loading YAML...', file=sys.stderr)
-    print(e, file=sys.stderr)
-    sys.exit(1)
+if len(sys.argv) > 1:
+    settings_file_path = sys.argv[1]
+else:
+    settings_file_path = 'summary-settings.yaml'
 
+with open(settings_file_path, "r", encoding='utf-8') as file:
+    settings_root = yaml.safe_load(file)
 settings = settings_root['settings']
 
 for s in settings:
