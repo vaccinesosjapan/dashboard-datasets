@@ -23,11 +23,11 @@
 {
   metadata: {
     summary: {
-      commission_of_inquiry_date: '2024/01/26',
-      data_end_date: '2023/10/29',
+      commission_of_inquiry_date: '2024/04/15',
+      data_end_date: '2024/01/28',
       source: {
-        name: '第100回厚生科学審議会予防接種・ワクチン分科会副反応検討部会',
-        url: 'https://www.mhlw.go.jp/stf/shingi2/0000208910_00072.html',
+        name: '第101回厚生科学審議会予防接種・ワクチン分科会副反応検討部会',
+        url: 'https://www.mhlw.go.jp/stf/shingi2/newpage_39491.html',
       },
     },
     expected_issues: [
@@ -63,11 +63,11 @@
         ]
       },
       {
-        file_name_prefix: '001197010',
+        file_name_prefix: '001244797',
         myocarditis: [
           {
             name: "コミナティRTU筋注（1価：オミクロン株XBB.1.5）",
-            count: 0
+            count: 3
           }
         ],
         pericarditis: [
@@ -109,7 +109,7 @@
         ]
       },
       {
-        file_name_prefix: '001197011',
+        file_name_prefix: '001244798',
         myocarditis: [
           {
             name: "スパイクバックス筋注（1価:オミクロン株XBB.1.5）",

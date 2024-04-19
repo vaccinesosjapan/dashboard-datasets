@@ -53,4 +53,14 @@ settings: [
   },
   # 001197963.pdf は手作業による抽出で直接JSONを作成した
   # 001197964.pdf も同様
+  {
+    name: 'コミナティ筋注',
+    file: '001244797.pdf',
+    pages: '7',
+    source: {
+      name: '第101回',
+      url: 'https://www.mhlw.go.jp/content/10601000/001244797.pdf',
+    },
+    script-version: v4
+  },
 ]
