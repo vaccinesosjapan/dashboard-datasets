@@ -213,6 +213,16 @@ def split_normal(data):
 	return array
 
 
+def split_space_and_newline(data):
+	result = []
+	array1 = data.split('\n')
+	for item1 in array1:
+		array2 = item1.split(' ')
+		for item2 in array2:
+			if item2 != '':
+				result.append(item2)
+	return result
+
 def extract_age_gender_with_check(no, age):
 	"""
     厚生労働省の心筋炎/心膜炎の報告一覧をPDFから抽出する際、2列目の内容が
