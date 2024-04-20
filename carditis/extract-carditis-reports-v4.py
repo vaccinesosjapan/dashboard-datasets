@@ -10,6 +10,8 @@ from exfuncs import (
 # 引数から情報を取得
 pdf_file_name = sys.argv[1]
 pages = sys.argv[2]
+source_name = sys.argv[3]
+source_url = sys.argv[4]
 
 # 定数
 source_dir = 'pdf-files'
@@ -42,6 +44,8 @@ for index, table in enumerate(tables):
 	df = df.rename(columns={15: 'expert_opinion'})
 	df = df.rename(columns={16: 'remarks'})
 	df.insert(8, 'lot_no', '')
+	df.insert(9, 'vaccinated_times', '')
+	df.insert(19, 'source', '')
 
 	# todo: No列を数字に変換する処理もできればここでやりたい
 	df[['age','gender']] = df['age'].str.split(' ', expand=True)
@@ -53,6 +57,8 @@ for index, table in enumerate(tables):
 	df['PT_names'] = df['PT_names'].map(lambda x: extract_PT_names(x))
 	df['gross_result_dates'] = df['gross_result_dates'].str.split('\n')
 	df['gross_results'] = df['gross_results'].map(lambda x: split_space_and_newline(x))
+	source_data = {"name": source_name,"url": source_url}
+	df['source'] = df['source'].map(lambda x: source_data)
 
 	# 保存処理
 	json_string = df.to_json(orient='records' ,force_ascii=False, indent=2)

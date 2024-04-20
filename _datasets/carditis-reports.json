@@ -11,9 +11,10 @@
       "2023/10/27"
     ],
     "days_to_onset": "不明",
-    "vaccine_name": "コミナティ筋注（１価：オミクロン株XBB.1.5）",
+    "vaccine_name": "コミナティ筋注(1価:オミクロン株XBB.1.5)",
     "manufacturer": "ファイザー",
     "lot_no": "不明",
+    "vaccinated_times": "",
     "pre_existing_disease_names": [
       "心房細動;",
       "心筋梗塞"
@@ -40,7 +41,11 @@
     "evaluated_result": "γ",
     "brighton_classification": "4",
     "expert_opinion": "コロナウイルスワクチンとインフルエンザワ\nクチンを同時に接種した症例である。\n　心筋炎と診断するには、客観的な情報の記\n載がなく困難である。アナフィラキシーに関\nしても、血圧低下を認めているが、皮膚症状\nや呼吸器症状の記載がなく、診断根拠となる\n情報が乏しい。\n　心筋炎は市中感染症などを契機として自然\n発生することが知られている疾患であり、ワ\nクチンによる心筋炎なのか、ワクチンとは関\n係の無い自然発生した心筋炎なのかを判別す\nることは困難である。そのため、ワクチンと\nの因果関係を有と判断することはできないと\n考えた。",
-    "remarks": ""
+    "remarks": "",
+    "source": {
+      "name": "第101回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001244797.pdf"
+    }
   },
   {
     "no": 94,
@@ -52,9 +57,10 @@
       "2023/11/20"
     ],
     "days_to_onset": "25",
-    "vaccine_name": "コミナティ筋注（１価：オミクロン株XBB.1.5）",
+    "vaccine_name": "コミナティ筋注(1価:オミクロン株XBB.1.5)",
     "manufacturer": "ファイザー",
     "lot_no": "HG2346",
+    "vaccinated_times": "",
     "pre_existing_disease_names": [
       "アルコール摂取;",
       "タバコ使用者;",
@@ -77,7 +83,11 @@
     "evaluated_result": "γ",
     "brighton_classification": "4",
     "expert_opinion": "",
-    "remarks": ""
+    "remarks": "",
+    "source": {
+      "name": "第101回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001244797.pdf"
+    }
   },
   {
     "no": 106,
@@ -89,9 +99,10 @@
       "未記入"
     ],
     "days_to_onset": "不明",
-    "vaccine_name": "コミナティ筋注（１価：オミクロン株XBB.1.5）",
+    "vaccine_name": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)",
     "manufacturer": "ファイザー",
     "lot_no": "不明",
+    "vaccinated_times": "",
     "pre_existing_disease_names": [
       "報告なし"
     ],
@@ -111,7 +122,11 @@
     "evaluated_result": "γ",
     "brighton_classification": "4",
     "expert_opinion": "",
-    "remarks": ""
+    "remarks": "",
+    "source": {
+      "name": "第101回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001244797.pdf"
+    }
   },
   {
     "no": 16433,
