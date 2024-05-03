@@ -74,7 +74,7 @@ metadata = metadata_root['metadata']
 sum_causal_relationship = create_graph_by_causal_relationship(sorted_issues)
 sum_severities_of_related = create_graph_severities_of_related(sorted_issues)
 
-unknown_lotno_df = df[df['lot_no'].map(lambda x: str(x).__contains__('不明'))]
+invalid_lotno_df = df[df['lot_no'].map(lambda x: str(x).__contains__('不明') or not str(x))]
 valid_lotno_df = df[df['lot_no'].map(lambda x: not str(x).__contains__('不明'))]
 
 summary_data = {
@@ -85,7 +85,7 @@ summary_data = {
 		"sum_severities_of_related": sum_severities_of_related,
 		"lot_no_info": {
 			"top_ten_list": valid_lotno_df.groupby(['lot_no'])['no'].count().nlargest(10).to_dict(),
-			"unknown_count": unknown_lotno_df.shape[0]
+			"invalid_count": invalid_lotno_df.shape[0]
 		},
 	}
 }
