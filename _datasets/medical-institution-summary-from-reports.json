@@ -13,18 +13,58 @@
       "重い": 4548
     },
     "lot_no_info": {
-      "top_ten_list": {
-        "EY2173": 2379,
-        "ER2659": 2197,
-        "EW4811": 2054,
-        "EP9605": 1823,
-        "ER7449": 1388,
-        "ER9480": 1341,
-        "EY0779": 946,
-        "EX3617": 873,
-        "ET3674": 786,
-        "EY4834": 786
-      },
+      "top_ten_list": [
+        {
+          "lot_no": "EY2173",
+          "count": 2379,
+          "manufacturer": "ファイザー"
+        },
+        {
+          "lot_no": "ER2659",
+          "count": 2197,
+          "manufacturer": "ファイザー"
+        },
+        {
+          "lot_no": "EW4811",
+          "count": 2054,
+          "manufacturer": "ファイザー"
+        },
+        {
+          "lot_no": "EP9605",
+          "count": 1823,
+          "manufacturer": "ファイザー"
+        },
+        {
+          "lot_no": "ER7449",
+          "count": 1388,
+          "manufacturer": "ファイザー"
+        },
+        {
+          "lot_no": "ER9480",
+          "count": 1341,
+          "manufacturer": "ファイザー"
+        },
+        {
+          "lot_no": "EY0779",
+          "count": 946,
+          "manufacturer": "ファイザー"
+        },
+        {
+          "lot_no": "EX3617",
+          "count": 873,
+          "manufacturer": "ファイザー"
+        },
+        {
+          "lot_no": "ET3674",
+          "count": 786,
+          "manufacturer": "ファイザー"
+        },
+        {
+          "lot_no": "EY4834",
+          "count": 786,
+          "manufacturer": "ファイザー"
+        }
+      ],
       "invalid_count": 2454
     }
   }
