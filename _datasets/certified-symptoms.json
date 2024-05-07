@@ -2,9 +2,9 @@
   {
     "name": "1型糖尿病",
     "counts": {
-      "male": 2,
-      "female": 5,
-      "sum": 7
+      "male": 3,
+      "female": 6,
+      "sum": 9
     }
   },
   {
@@ -250,9 +250,9 @@
   {
     "name": "TAFRO症候群",
     "counts": {
-      "male": 4,
+      "male": 5,
       "female": 2,
-      "sum": 6
+      "sum": 7
     }
   },
   {
@@ -808,6 +808,14 @@
     }
   },
   {
+    "name": "アフタ性腸炎",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
     "name": "アレルギー性気管支炎",
     "counts": {
       "male": 0,
@@ -976,6 +984,14 @@
     }
   },
   {
+    "name": "シェーグレン症候群の憎悪",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
     "name": "ショック",
     "counts": {
       "male": 1,
@@ -1028,6 +1044,14 @@
     "counts": {
       "male": 1,
       "female": 0,
+      "sum": 1
+    }
+  },
+  {
+    "name": "スティッフパーソン症候群",
+    "counts": {
+      "male": 0,
+      "female": 1,
       "sum": 1
     }
   },
@@ -1600,6 +1624,14 @@
     }
   },
   {
+    "name": "一過性構音障害",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
     "name": "一過性甲状腺機能異常症",
     "counts": {
       "male": 0,
@@ -1669,6 +1701,14 @@
       "male": 0,
       "female": 4,
       "sum": 4
+    }
+  },
+  {
+    "name": "一過性躁状態",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
     }
   },
   {
@@ -1957,6 +1997,14 @@
       "male": 0,
       "female": 6,
       "sum": 6
+    }
+  },
+  {
+    "name": "上行大動脈解離",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
     }
   },
   {
@@ -2376,6 +2424,14 @@
     }
   },
   {
+    "name": "不正出血",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
     "name": "不眠",
     "counts": {
       "male": 2,
@@ -2500,6 +2556,14 @@
     "counts": {
       "male": 1,
       "female": 0,
+      "sum": 1
+    }
+  },
+  {
+    "name": "両上肢ふるえ",
+    "counts": {
+      "male": 0,
+      "female": 1,
       "sum": 1
     }
   },
@@ -3763,8 +3827,8 @@
     "name": "免疫性血小板減少性紫斑病",
     "counts": {
       "male": 24,
-      "female": 36,
-      "sum": 60
+      "female": 37,
+      "sum": 61
     }
   },
   {
@@ -3931,8 +3995,8 @@
     "name": "全身倦怠感",
     "counts": {
       "male": 24,
-      "female": 31,
-      "sum": 55
+      "female": 32,
+      "sum": 56
     }
   },
   {
@@ -4649,6 +4713,14 @@
   },
   {
     "name": "口唇のけいれん",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
+    "name": "口唇の偏位",
     "counts": {
       "male": 0,
       "female": 1,
@@ -6547,8 +6619,8 @@
     "name": "嘔吐",
     "counts": {
       "male": 46,
-      "female": 74,
-      "sum": 120
+      "female": 75,
+      "sum": 121
     }
   },
   {
@@ -6563,8 +6635,8 @@
     "name": "嘔気",
     "counts": {
       "male": 47,
-      "female": 94,
-      "sum": 141
+      "female": 95,
+      "sum": 142
     }
   },
   {
@@ -10784,6 +10856,14 @@
     }
   },
   {
+    "name": "帽状腱膜下浮腫",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
     "name": "平衡感覚障害",
     "counts": {
       "male": 0,
@@ -10812,6 +10892,14 @@
     "counts": {
       "male": 0,
       "female": 1,
+      "sum": 1
+    }
+  },
+  {
+    "name": "広汎性発達障害の一過性症状憎悪",
+    "counts": {
+      "male": 1,
+      "female": 0,
       "sum": 1
     }
   },
@@ -10915,8 +11003,8 @@
     "name": "後頭部痛",
     "counts": {
       "male": 1,
-      "female": 0,
-      "sum": 1
+      "female": 1,
+      "sum": 2
     }
   },
   {
@@ -11010,9 +11098,9 @@
   {
     "name": "心タンポナーデ",
     "counts": {
-      "male": 2,
+      "male": 3,
       "female": 4,
-      "sum": 6
+      "sum": 7
     }
   },
   {
@@ -11106,9 +11194,9 @@
   {
     "name": "心嚢血腫",
     "counts": {
-      "male": 1,
+      "male": 2,
       "female": 0,
-      "sum": 1
+      "sum": 2
     }
   },
   {
@@ -11459,8 +11547,8 @@
     "name": "急性アレルギー反応",
     "counts": {
       "male": 67,
-      "female": 268,
-      "sum": 335
+      "female": 269,
+      "sum": 336
     }
   },
   {
@@ -11587,8 +11675,8 @@
     "name": "急性大動脈解離",
     "counts": {
       "male": 9,
-      "female": 8,
-      "sum": 17
+      "female": 9,
+      "sum": 18
     }
   },
   {
@@ -11706,9 +11794,9 @@
   {
     "name": "急性心筋梗塞",
     "counts": {
-      "male": 54,
+      "male": 55,
       "female": 17,
-      "sum": 71
+      "sum": 72
     }
   },
   {
@@ -11954,9 +12042,9 @@
   {
     "name": "急性硬膜下血腫",
     "counts": {
-      "male": 1,
+      "male": 2,
       "female": 0,
-      "sum": 1
+      "sum": 2
     }
   },
   {
@@ -12037,6 +12125,14 @@
       "male": 1,
       "female": 2,
       "sum": 3
+    }
+  },
+  {
+    "name": "急性胃粘膜病変",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
     }
   },
   {
@@ -12656,6 +12752,14 @@
     }
   },
   {
+    "name": "慢性頭痛の憎悪",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
     "name": "成人Still病",
     "counts": {
       "male": 2,
@@ -13154,9 +13258,9 @@
   {
     "name": "敗血症",
     "counts": {
-      "male": 3,
+      "male": 4,
       "female": 5,
-      "sum": 8
+      "sum": 9
     }
   },
   {
@@ -13429,6 +13533,14 @@
       "male": 3,
       "female": 6,
       "sum": 9
+    }
+  },
+  {
+    "name": "歯ぎしり",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
     }
   },
   {
@@ -14194,9 +14306,9 @@
   {
     "name": "発熱",
     "counts": {
-      "male": 181,
-      "female": 271,
-      "sum": 452
+      "male": 182,
+      "female": 272,
+      "sum": 454
     }
   },
   {
@@ -14316,6 +14428,14 @@
     "counts": {
       "male": 1,
       "female": 0,
+      "sum": 1
+    }
+  },
+  {
+    "name": "皮膚型結節性多発動脈炎",
+    "counts": {
+      "male": 0,
+      "female": 1,
       "sum": 1
     }
   },
@@ -14570,9 +14690,9 @@
   {
     "name": "神経障害性疼痛",
     "counts": {
-      "male": 12,
+      "male": 13,
       "female": 23,
-      "sum": 35
+      "sum": 36
     }
   },
   {
@@ -14586,9 +14706,9 @@
   {
     "name": "突然死",
     "counts": {
-      "male": 83,
+      "male": 84,
       "female": 58,
-      "sum": 141
+      "sum": 142
     }
   },
   {
@@ -14786,9 +14906,9 @@
   {
     "name": "糖尿病の増悪",
     "counts": {
-      "male": 3,
+      "male": 4,
       "female": 1,
-      "sum": 4
+      "sum": 5
     }
   },
   {
@@ -14811,8 +14931,8 @@
     "name": "糖尿病性ケトアシドーシス",
     "counts": {
       "male": 2,
-      "female": 2,
-      "sum": 4
+      "female": 3,
+      "sum": 5
     }
   },
   {
@@ -15802,9 +15922,9 @@
   {
     "name": "脱水",
     "counts": {
-      "male": 5,
+      "male": 6,
       "female": 11,
-      "sum": 16
+      "sum": 17
     }
   },
   {
@@ -15985,6 +16105,14 @@
   },
   {
     "name": "脳底動脈閉塞",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
+    "name": "脳挫傷",
     "counts": {
       "male": 1,
       "female": 0,
@@ -17104,6 +17232,14 @@
     }
   },
   {
+    "name": "血球貧食症候群",
+    "counts": {
+      "male": 2,
+      "female": 0,
+      "sum": 2
+    }
+  },
+  {
     "name": "血球貪食性リンパ組織球症",
     "counts": {
       "male": 1,
@@ -17178,9 +17314,9 @@
   {
     "name": "血管迷走神経反射",
     "counts": {
-      "male": 9,
+      "male": 10,
       "female": 17,
-      "sum": 26
+      "sum": 27
     }
   },
   {
@@ -17267,8 +17403,8 @@
     "name": "視神経脊髄炎",
     "counts": {
       "male": 1,
-      "female": 7,
-      "sum": 8
+      "female": 9,
+      "sum": 10
     }
   },
   {
@@ -17696,6 +17832,14 @@
     }
   },
   {
+    "name": "閉眼困難",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
     "name": "開口障害",
     "counts": {
       "male": 0,
@@ -17813,6 +17957,14 @@
       "male": 1,
       "female": 0,
       "sum": 1
+    }
+  },
+  {
+    "name": "関節リウマチ性間質性肺炎の急性憎悪",
+    "counts": {
+      "male": 2,
+      "female": 0,
+      "sum": 2
     }
   },
   {
