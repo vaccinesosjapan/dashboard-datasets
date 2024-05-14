@@ -2,11 +2,11 @@
   "female_counts": [
     {
       "name": "アナフィラキシー",
-      "count": 555
+      "count": 558
     },
     {
       "name": "発熱",
-      "count": 272
+      "count": 274
     },
     {
       "name": "急性アレルギー反応",
@@ -14,31 +14,31 @@
     },
     {
       "name": "頭痛",
-      "count": 210
+      "count": 213
     },
     {
       "name": "アナフィラキシー様症状",
-      "count": 168
+      "count": 170
     },
     {
       "name": "左肩関節周囲炎",
-      "count": 164
+      "count": 170
     },
     {
       "name": "倦怠感",
-      "count": 149
+      "count": 152
     },
     {
       "name": "嘔気",
-      "count": 95
+      "count": 96
     },
     {
       "name": "中毒疹",
-      "count": 87
+      "count": 89
     },
     {
       "name": "嘔吐",
-      "count": 75
+      "count": 76
     }
   ],
   "male_counts": [
@@ -48,15 +48,15 @@
     },
     {
       "name": "発熱",
-      "count": 182
+      "count": 185
     },
     {
       "name": "頭痛",
-      "count": 134
+      "count": 136
     },
     {
       "name": "アナフィラキシー",
-      "count": 121
+      "count": 122
     },
     {
       "name": "急性心筋炎",
@@ -64,11 +64,11 @@
     },
     {
       "name": "左肩関節周囲炎",
-      "count": 96
+      "count": 97
     },
     {
       "name": "倦怠感",
-      "count": 94
+      "count": 97
     },
     {
       "name": "突然死",
@@ -76,7 +76,7 @@
     },
     {
       "name": "脳梗塞",
-      "count": 82
+      "count": 84
     },
     {
       "name": "急性アレルギー反応",
@@ -86,15 +86,15 @@
   "sum_counts": [
     {
       "name": "アナフィラキシー",
-      "count": 676
+      "count": 680
     },
     {
       "name": "発熱",
-      "count": 454
+      "count": 459
     },
     {
       "name": "頭痛",
-      "count": 344
+      "count": 349
     },
     {
       "name": "急性アレルギー反応",
@@ -102,27 +102,27 @@
     },
     {
       "name": "左肩関節周囲炎",
-      "count": 260
+      "count": 267
+    },
+    {
+      "name": "倦怠感",
+      "count": 249
     },
     {
       "name": "急性心膜心筋炎",
       "count": 243
     },
     {
-      "name": "倦怠感",
-      "count": 243
+      "name": "アナフィラキシー様症状",
+      "count": 191
     },
     {
-      "name": "アナフィラキシー様症状",
-      "count": 189
+      "name": "嘔気",
+      "count": 145
     },
     {
       "name": "脳梗塞",
-      "count": 143
-    },
-    {
-      "name": "突然死",
-      "count": 142
+      "count": 145
     }
   ]
 }
