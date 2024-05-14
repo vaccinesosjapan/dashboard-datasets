@@ -52,23 +52,6 @@ with open( output_path, "w", encoding='utf-8') as f:
     f.write(json_string)
 
 
-# メタ情報と組み合わせつつ、抽出した事例一覧からいくつかの集計情報抽出を行う
-with open('summary-metadata.yaml', "r", encoding='utf-8') as json_file_path:
-    metadata_root = yaml.safe_load(json_file_path)
-metadata = metadata_root['metadata']
-sum_by_age = create_graph_data_list_by_age(sorted_issues)
-summary_data = {
-	"death_summary_from_reports": {
-		"date": metadata['issues']['date'],
-		"sum_by_age": sum_by_age
-	}
-}
-json_string = json.dumps(summary_data, ensure_ascii=False, indent=2)
-output_path = os.path.join(output_dir, 'death-summary-from-reports.json')
-with open( output_path, "w", encoding='utf-8') as f:
-    f.write(json_string)
-
-
 # 性別などの一覧データを作成して、ダッシュボードで表示するためのメタデータとして保存する処理
 json_file_path = os.path.join(output_dir, 'death-reports.json')
 df = pd.read_json(json_file_path)
@@ -82,3 +65,49 @@ output_file_path = os.path.join(output_dir, 'death-metadata.json')
 json_string = json.dumps(death_metadata, ensure_ascii=False, indent=2)
 with open( output_file_path, "w", encoding='utf-8') as f:
 	f.write(json_string)
+
+
+# メタ情報と組み合わせつつ、抽出した事例一覧からいくつかの集計情報抽出を行う
+with open('summary-metadata.yaml', "r", encoding='utf-8') as json_file_path:
+    metadata_root = yaml.safe_load(json_file_path)
+metadata = metadata_root['metadata']
+sum_by_age = create_graph_data_list_by_age(sorted_issues)
+
+## ロットNoの集計結果を保存する処理
+invalid_lotno_df = df[df['lot_no'].map(lambda x: str(x).__contains__('不明') or not str(x))]
+valid_lotno_df = df[df['lot_no'].map(lambda x: not str(x).__contains__('不明'))]
+
+valid_lotno_dict = valid_lotno_df.groupby(['lot_no'])['no'].count().nlargest(10).to_dict()
+valid_lotno_list = []
+for k,v in valid_lotno_dict.items():
+	valid_lotno_list.append({
+		"lot_no": k,
+		"count": v,
+		"manufacturer": valid_lotno_df[valid_lotno_df['lot_no'] == k]['manufacturer'].unique()[0]
+	})
+
+moderna_lotno_dict = valid_lotno_df[valid_lotno_df['manufacturer'].str.contains('モデルナ')].groupby(['lot_no'])['no'].count().nlargest(10).to_dict()
+moderna_lotno_list = []
+for k,v in moderna_lotno_dict.items():
+	moderna_lotno_list.append({
+		"lot_no": k,
+		"count": v,
+		"manufacturer": valid_lotno_df[valid_lotno_df['lot_no'] == k]['manufacturer'].unique()[0]
+	})
+
+summary_data = {
+	"death_summary_from_reports": {
+		"date": metadata['issues']['date'],
+		"sum_by_age": sum_by_age,
+		"lot_no_info": {
+			"top_ten_list": valid_lotno_list,
+			"top_ten_list_moderna": moderna_lotno_list,
+			"invalid_count": invalid_lotno_df.shape[0]
+		},
+	}
+}
+
+json_string = json.dumps(summary_data, ensure_ascii=False, indent=2)
+output_path = os.path.join(output_dir, 'death-summary-from-reports.json')
+with open( output_path, "w", encoding='utf-8') as f:
+    f.write(json_string)
