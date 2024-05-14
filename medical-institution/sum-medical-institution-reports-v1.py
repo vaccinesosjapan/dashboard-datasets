@@ -86,6 +86,15 @@ for k,v in valid_lotno_dict.items():
 		"manufacturer": valid_lotno_df[valid_lotno_df['lot_no'] == k]['manufacturer'].unique()[0]
 	})
 
+moderna_lotno_dict = valid_lotno_df[valid_lotno_df['manufacturer'].str.contains('モデルナ')].groupby(['lot_no'])['no'].count().nlargest(10).to_dict()
+moderna_lotno_list = []
+for k,v in moderna_lotno_dict.items():
+	moderna_lotno_list.append({
+		"lot_no": k,
+		"count": v,
+		"manufacturer": valid_lotno_df[valid_lotno_df['lot_no'] == k]['manufacturer'].unique()[0]
+	})
+
 summary_data = {
 	"medical_institution_summary_from_reports": {
 		"date": metadata['issues']['date'],
@@ -94,6 +103,7 @@ summary_data = {
 		"sum_severities_of_related": sum_severities_of_related,
 		"lot_no_info": {
 			"top_ten_list": valid_lotno_list,
+			"top_ten_list_moderna": moderna_lotno_list,
 			"invalid_count": invalid_lotno_df.shape[0]
 		},
 	}
