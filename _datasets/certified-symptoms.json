@@ -131,8 +131,8 @@
     "name": "IgA腎症",
     "counts": {
       "male": 7,
-      "female": 28,
-      "sum": 35
+      "female": 29,
+      "sum": 36
     }
   },
   {
@@ -451,8 +451,8 @@
     "name": "しびれ",
     "counts": {
       "male": 5,
-      "female": 24,
-      "sum": 29
+      "female": 26,
+      "sum": 31
     }
   },
   {
@@ -475,8 +475,8 @@
     "name": "じんま疹",
     "counts": {
       "male": 7,
-      "female": 19,
-      "sum": 26
+      "female": 20,
+      "sum": 27
     }
   },
   {
@@ -675,8 +675,8 @@
     "name": "めまい症",
     "counts": {
       "male": 32,
-      "female": 40,
-      "sum": 72
+      "female": 41,
+      "sum": 73
     }
   },
   {
@@ -731,8 +731,8 @@
     "name": "アテローム血栓性脳梗塞",
     "counts": {
       "male": 6,
-      "female": 4,
-      "sum": 10
+      "female": 5,
+      "sum": 11
     }
   },
   {
@@ -762,9 +762,9 @@
   {
     "name": "アナフィラキシー",
     "counts": {
-      "male": 122,
-      "female": 558,
-      "sum": 680
+      "male": 123,
+      "female": 559,
+      "sum": 682
     }
   },
   {
@@ -1194,9 +1194,9 @@
   {
     "name": "ハント症候群",
     "counts": {
-      "male": 3,
+      "male": 4,
       "female": 2,
-      "sum": 5
+      "sum": 6
     }
   },
   {
@@ -1418,13 +1418,21 @@
   {
     "name": "リウマチ性多発筋痛症",
     "counts": {
-      "male": 9,
+      "male": 10,
       "female": 14,
-      "sum": 23
+      "sum": 24
     }
   },
   {
     "name": "リウマチ性多発筋痛症の再燃",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
+    "name": "リウマチ性多発筋痛症疑い",
     "counts": {
       "male": 1,
       "female": 0,
@@ -1946,9 +1954,9 @@
   {
     "name": "上肢痛",
     "counts": {
-      "male": 0,
+      "male": 1,
       "female": 3,
-      "sum": 3
+      "sum": 4
     }
   },
   {
@@ -2099,8 +2107,8 @@
     "name": "下痢",
     "counts": {
       "male": 31,
-      "female": 49,
-      "sum": 80
+      "female": 50,
+      "sum": 81
     }
   },
   {
@@ -2810,9 +2818,9 @@
   {
     "name": "両下肢脱力感",
     "counts": {
-      "male": 0,
+      "male": 1,
       "female": 2,
-      "sum": 2
+      "sum": 3
     }
   },
   {
@@ -2820,6 +2828,14 @@
     "counts": {
       "male": 1,
       "female": 0,
+      "sum": 1
+    }
+  },
+  {
+    "name": "両下肢違和感",
+    "counts": {
+      "male": 0,
+      "female": 1,
       "sum": 1
     }
   },
@@ -3001,6 +3017,14 @@
   },
   {
     "name": "両側肩痛",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
+    "name": "両側肩関節痛症",
     "counts": {
       "male": 1,
       "female": 0,
@@ -3522,9 +3546,9 @@
   {
     "name": "中毒疹",
     "counts": {
-      "male": 47,
-      "female": 89,
-      "sum": 136
+      "male": 49,
+      "female": 90,
+      "sum": 139
     }
   },
   {
@@ -3723,8 +3747,8 @@
     "name": "体動困難",
     "counts": {
       "male": 11,
-      "female": 13,
-      "sum": 24
+      "female": 14,
+      "sum": 25
     }
   },
   {
@@ -3818,9 +3842,9 @@
   {
     "name": "倦怠感",
     "counts": {
-      "male": 97,
-      "female": 152,
-      "sum": 249
+      "male": 99,
+      "female": 153,
+      "sum": 252
     }
   },
   {
@@ -4043,8 +4067,8 @@
     "name": "全身倦怠感",
     "counts": {
       "male": 26,
-      "female": 32,
-      "sum": 58
+      "female": 35,
+      "sum": 61
     }
   },
   {
@@ -4074,9 +4098,9 @@
   {
     "name": "全身性エリテマトーデス",
     "counts": {
-      "male": 0,
+      "male": 1,
       "female": 2,
-      "sum": 2
+      "sum": 3
     }
   },
   {
@@ -4298,9 +4322,9 @@
   {
     "name": "全身脱力",
     "counts": {
-      "male": 2,
+      "male": 3,
       "female": 2,
-      "sum": 4
+      "sum": 5
     }
   },
   {
@@ -4330,9 +4354,9 @@
   {
     "name": "全頭型円形脱毛症",
     "counts": {
-      "male": 0,
+      "male": 1,
       "female": 1,
-      "sum": 1
+      "sum": 2
     }
   },
   {
@@ -4363,8 +4387,8 @@
     "name": "円形脱毛症",
     "counts": {
       "male": 15,
-      "female": 24,
-      "sum": 39
+      "female": 28,
+      "sum": 43
     }
   },
   {
@@ -4530,9 +4554,9 @@
   {
     "name": "前庭神経炎",
     "counts": {
-      "male": 3,
+      "male": 4,
       "female": 2,
-      "sum": 5
+      "sum": 6
     }
   },
   {
@@ -5987,8 +6011,8 @@
     "name": "右肩関節周囲炎",
     "counts": {
       "male": 12,
-      "female": 12,
-      "sum": 24
+      "female": 13,
+      "sum": 25
     }
   },
   {
@@ -6220,6 +6244,14 @@
     "counts": {
       "male": 0,
       "female": 1,
+      "sum": 1
+    }
+  },
+  {
+    "name": "右頚部リンパ節炎・右顔面神経麻痺",
+    "counts": {
+      "male": 1,
+      "female": 0,
       "sum": 1
     }
   },
@@ -6554,9 +6586,9 @@
   {
     "name": "咽頭痛",
     "counts": {
-      "male": 10,
+      "male": 11,
       "female": 15,
-      "sum": 25
+      "sum": 26
     }
   },
   {
@@ -6707,8 +6739,8 @@
     "name": "嘔気",
     "counts": {
       "male": 49,
-      "female": 96,
-      "sum": 145
+      "female": 97,
+      "sum": 146
     }
   },
   {
@@ -7243,8 +7275,8 @@
     "name": "多型滲出性紅斑",
     "counts": {
       "male": 1,
-      "female": 0,
-      "sum": 1
+      "female": 1,
+      "sum": 2
     }
   },
   {
@@ -7307,8 +7339,8 @@
     "name": "多形紅斑",
     "counts": {
       "male": 16,
-      "female": 23,
-      "sum": 39
+      "female": 24,
+      "sum": 40
     }
   },
   {
@@ -7345,6 +7377,14 @@
   },
   {
     "name": "多発単神経炎",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
+    "name": "多発性ニューロパチー",
     "counts": {
       "male": 0,
       "female": 1,
@@ -7618,9 +7658,9 @@
   {
     "name": "大動脈解離",
     "counts": {
-      "male": 3,
+      "male": 4,
       "female": 2,
-      "sum": 5
+      "sum": 6
     }
   },
   {
@@ -7731,8 +7771,8 @@
     "name": "好酸球性多発血管炎性肉芽腫症",
     "counts": {
       "male": 2,
-      "female": 1,
-      "sum": 3
+      "female": 2,
+      "sum": 4
     }
   },
   {
@@ -7802,9 +7842,9 @@
   {
     "name": "小脳出血",
     "counts": {
-      "male": 2,
+      "male": 4,
       "female": 2,
-      "sum": 4
+      "sum": 6
     }
   },
   {
@@ -8131,8 +8171,8 @@
     "name": "左上肢のしびれ",
     "counts": {
       "male": 1,
-      "female": 5,
-      "sum": 6
+      "female": 6,
+      "sum": 7
     }
   },
   {
@@ -8515,8 +8555,8 @@
     "name": "左上肢神経障害性疼痛",
     "counts": {
       "male": 1,
-      "female": 2,
-      "sum": 3
+      "female": 3,
+      "sum": 4
     }
   },
   {
@@ -8547,8 +8587,8 @@
     "name": "左上肢筋肉痛",
     "counts": {
       "male": 1,
-      "female": 0,
-      "sum": 1
+      "female": 1,
+      "sum": 2
     }
   },
   {
@@ -8731,8 +8771,8 @@
     "name": "左上腕痛",
     "counts": {
       "male": 15,
-      "female": 15,
-      "sum": 30
+      "female": 16,
+      "sum": 31
     }
   },
   {
@@ -9728,6 +9768,14 @@
     }
   },
   {
+    "name": "左指先しびれ",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
     "name": "左放線冠出血",
     "counts": {
       "male": 1,
@@ -10176,6 +10224,14 @@
     }
   },
   {
+    "name": "左耳鳴り",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
     "name": "左耳鳴症",
     "counts": {
       "male": 3,
@@ -10209,6 +10265,14 @@
   },
   {
     "name": "左肘関節拘縮",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
+    "name": "左肘関節痛",
     "counts": {
       "male": 1,
       "female": 0,
@@ -10442,9 +10506,9 @@
   {
     "name": "左肩関節周囲炎",
     "counts": {
-      "male": 97,
-      "female": 170,
-      "sum": 267
+      "male": 98,
+      "female": 171,
+      "sum": 269
     }
   },
   {
@@ -10475,8 +10539,8 @@
     "name": "左肩関節拘縮",
     "counts": {
       "male": 12,
-      "female": 33,
-      "sum": 45
+      "female": 35,
+      "sum": 47
     }
   },
   {
@@ -10490,9 +10554,9 @@
   {
     "name": "左肩関節痛",
     "counts": {
-      "male": 6,
+      "male": 7,
       "female": 7,
-      "sum": 13
+      "sum": 14
     }
   },
   {
@@ -10915,8 +10979,8 @@
     "name": "左顔面神経麻痺",
     "counts": {
       "male": 23,
-      "female": 11,
-      "sum": 34
+      "female": 12,
+      "sum": 35
     }
   },
   {
@@ -10946,21 +11010,29 @@
   {
     "name": "巨細胞性動脈炎",
     "counts": {
-      "male": 3,
+      "male": 4,
       "female": 2,
-      "sum": 5
+      "sum": 6
     }
   },
   {
     "name": "帯状疱疹",
     "counts": {
-      "male": 35,
+      "male": 36,
       "female": 26,
-      "sum": 61
+      "sum": 62
     }
   },
   {
     "name": "帯状疱疹の再燃",
+    "counts": {
+      "male": 1,
+      "female": 1,
+      "sum": 2
+    }
+  },
+  {
+    "name": "帯状疱疹ヘルペス神経症",
     "counts": {
       "male": 1,
       "female": 0,
@@ -11106,9 +11178,9 @@
   {
     "name": "後頚部痛",
     "counts": {
-      "male": 1,
+      "male": 2,
       "female": 0,
-      "sum": 1
+      "sum": 2
     }
   },
   {
@@ -11259,8 +11331,8 @@
     "name": "心不全の増悪",
     "counts": {
       "male": 2,
-      "female": 2,
-      "sum": 4
+      "female": 3,
+      "sum": 5
     }
   },
   {
@@ -11499,8 +11571,8 @@
     "name": "心筋梗塞",
     "counts": {
       "male": 8,
-      "female": 6,
-      "sum": 14
+      "female": 7,
+      "sum": 15
     }
   },
   {
@@ -11685,6 +11757,14 @@
       "male": 2,
       "female": 1,
       "sum": 3
+    }
+  },
+  {
+    "name": "急性くも膜下出血",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
     }
   },
   {
@@ -11946,9 +12026,9 @@
   {
     "name": "急性心筋梗塞",
     "counts": {
-      "male": 55,
-      "female": 18,
-      "sum": 73
+      "male": 57,
+      "female": 19,
+      "sum": 76
     }
   },
   {
@@ -11970,9 +12050,9 @@
   {
     "name": "急性心筋炎",
     "counts": {
-      "male": 107,
+      "male": 108,
       "female": 17,
-      "sum": 124
+      "sum": 125
     }
   },
   {
@@ -12002,9 +12082,9 @@
   {
     "name": "急性心膜心筋炎",
     "counts": {
-      "male": 227,
+      "male": 229,
       "female": 16,
-      "sum": 243
+      "sum": 245
     }
   },
   {
@@ -13147,8 +13227,8 @@
     "name": "抑うつ状態",
     "counts": {
       "male": 1,
-      "female": 4,
-      "sum": 5
+      "female": 5,
+      "sum": 6
     }
   },
   {
@@ -13504,6 +13584,14 @@
     }
   },
   {
+    "name": "末梢性顔面神経麻痺",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
     "name": "末梢神経損傷",
     "counts": {
       "male": 0,
@@ -13531,8 +13619,8 @@
     "name": "末梢神経障害",
     "counts": {
       "male": 28,
-      "female": 69,
-      "sum": 97
+      "female": 72,
+      "sum": 100
     }
   },
   {
@@ -13850,9 +13938,9 @@
   {
     "name": "水疱性類天疱瘡",
     "counts": {
-      "male": 2,
+      "male": 3,
       "female": 2,
-      "sum": 4
+      "sum": 5
     }
   },
   {
@@ -13963,8 +14051,8 @@
     "name": "洞性頻脈",
     "counts": {
       "male": 0,
-      "female": 3,
-      "sum": 3
+      "female": 4,
+      "sum": 4
     }
   },
   {
@@ -14123,8 +14211,8 @@
     "name": "無菌性髄膜炎",
     "counts": {
       "male": 5,
-      "female": 7,
-      "sum": 12
+      "female": 9,
+      "sum": 14
     }
   },
   {
@@ -14323,8 +14411,8 @@
     "name": "疼痛",
     "counts": {
       "male": 6,
-      "female": 16,
-      "sum": 22
+      "female": 18,
+      "sum": 24
     }
   },
   {
@@ -14474,9 +14562,9 @@
   {
     "name": "発熱",
     "counts": {
-      "male": 185,
+      "male": 189,
       "female": 274,
-      "sum": 459
+      "sum": 463
     }
   },
   {
@@ -14643,8 +14731,8 @@
     "name": "皮膚筋炎",
     "counts": {
       "male": 3,
-      "female": 6,
-      "sum": 9
+      "female": 7,
+      "sum": 10
     }
   },
   {
@@ -14850,9 +14938,9 @@
   {
     "name": "神経痛性筋萎縮症",
     "counts": {
-      "male": 8,
+      "male": 9,
       "female": 1,
-      "sum": 9
+      "sum": 10
     }
   },
   {
@@ -14978,9 +15066,9 @@
   {
     "name": "筋力低下",
     "counts": {
-      "male": 4,
+      "male": 5,
       "female": 4,
-      "sum": 8
+      "sum": 9
     }
   },
   {
@@ -15451,8 +15539,8 @@
     "name": "肝機能障害",
     "counts": {
       "male": 17,
-      "female": 45,
-      "sum": 62
+      "female": 46,
+      "sum": 63
     }
   },
   {
@@ -16155,8 +16243,8 @@
     "name": "脳出血",
     "counts": {
       "male": 23,
-      "female": 14,
-      "sum": 37
+      "female": 15,
+      "sum": 38
     }
   },
   {
@@ -16211,8 +16299,8 @@
     "name": "脳塞栓症",
     "counts": {
       "male": 4,
-      "female": 0,
-      "sum": 4
+      "female": 1,
+      "sum": 5
     }
   },
   {
@@ -16331,8 +16419,8 @@
     "name": "脳梗塞",
     "counts": {
       "male": 84,
-      "female": 61,
-      "sum": 145
+      "female": 63,
+      "sum": 147
     }
   },
   {
@@ -16378,9 +16466,9 @@
   {
     "name": "脳炎",
     "counts": {
-      "male": 5,
+      "male": 6,
       "female": 11,
-      "sum": 16
+      "sum": 17
     }
   },
   {
@@ -16819,8 +16907,8 @@
     "name": "腹部膨満感",
     "counts": {
       "male": 0,
-      "female": 1,
-      "sum": 1
+      "female": 2,
+      "sum": 2
     }
   },
   {
@@ -16955,8 +17043,8 @@
     "name": "自律神経失調症",
     "counts": {
       "male": 2,
-      "female": 2,
-      "sum": 4
+      "female": 3,
+      "sum": 5
     }
   },
   {
@@ -17082,9 +17170,9 @@
   {
     "name": "蕁麻疹",
     "counts": {
-      "male": 28,
+      "male": 29,
       "female": 65,
-      "sum": 93
+      "sum": 94
     }
   },
   {
@@ -17754,9 +17842,9 @@
   {
     "name": "貧血",
     "counts": {
-      "male": 1,
+      "male": 2,
       "female": 1,
-      "sum": 2
+      "sum": 3
     }
   },
   {
@@ -17891,8 +17979,8 @@
     "name": "過換気症候群",
     "counts": {
       "male": 9,
-      "female": 42,
-      "sum": 51
+      "female": 43,
+      "sum": 52
     }
   },
   {
@@ -18074,9 +18162,9 @@
   {
     "name": "間質性肺炎",
     "counts": {
-      "male": 28,
-      "female": 22,
-      "sum": 50
+      "male": 30,
+      "female": 23,
+      "sum": 53
     }
   },
   {
@@ -18139,16 +18227,16 @@
     "name": "間質性腎炎",
     "counts": {
       "male": 1,
-      "female": 0,
-      "sum": 1
+      "female": 1,
+      "sum": 2
     }
   },
   {
     "name": "関節リウマチ",
     "counts": {
-      "male": 12,
-      "female": 15,
-      "sum": 27
+      "male": 15,
+      "female": 16,
+      "sum": 31
     }
   },
   {
@@ -18194,9 +18282,9 @@
   {
     "name": "関節痛",
     "counts": {
-      "male": 26,
+      "male": 27,
       "female": 36,
-      "sum": 62
+      "sum": 63
     }
   },
   {
@@ -18443,8 +18531,8 @@
     "name": "頭痛",
     "counts": {
       "male": 136,
-      "female": 213,
-      "sum": 349
+      "female": 215,
+      "sum": 351
     }
   },
   {
@@ -18896,6 +18984,14 @@
     }
   },
   {
+    "name": "顔面神経麻痺による角膜びらん",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
     "name": "顔面紅斑・膿疱",
     "counts": {
       "male": 0,
@@ -18908,6 +19004,14 @@
     "counts": {
       "male": 0,
       "female": 1,
+      "sum": 1
+    }
+  },
+  {
+    "name": "顔面麻痺",
+    "counts": {
+      "male": 1,
+      "female": 0,
       "sum": 1
     }
   },
@@ -18970,9 +19074,9 @@
   {
     "name": "食欲低下",
     "counts": {
-      "male": 10,
-      "female": 15,
-      "sum": 25
+      "male": 11,
+      "female": 16,
+      "sum": 27
     }
   },
   {
