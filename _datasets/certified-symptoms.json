@@ -131,8 +131,8 @@
     "name": "IgA腎症",
     "counts": {
       "male": 7,
-      "female": 29,
-      "sum": 36
+      "female": 30,
+      "sum": 37
     }
   },
   {
@@ -185,6 +185,14 @@
   },
   {
     "name": "IgA血管炎疑い",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
+    "name": "IgG4関連疾患",
     "counts": {
       "male": 1,
       "female": 0,
@@ -819,8 +827,8 @@
     "name": "アナフィラキシー疑い",
     "counts": {
       "male": 4,
-      "female": 0,
-      "sum": 4
+      "female": 1,
+      "sum": 5
     }
   },
   {
@@ -930,9 +938,9 @@
   {
     "name": "ギラン・バレー症候群",
     "counts": {
-      "male": 39,
+      "male": 40,
       "female": 51,
-      "sum": 90
+      "sum": 91
     }
   },
   {
@@ -1178,9 +1186,9 @@
   {
     "name": "ネフローゼ症候群",
     "counts": {
-      "male": 8,
+      "male": 10,
       "female": 6,
-      "sum": 14
+      "sum": 16
     }
   },
   {
@@ -2139,8 +2147,8 @@
     "name": "下痢症",
     "counts": {
       "male": 1,
-      "female": 4,
-      "sum": 5
+      "female": 5,
+      "sum": 6
     }
   },
   {
@@ -3600,6 +3608,14 @@
     }
   },
   {
+    "name": "中等度運動障害",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
     "name": "乳頭浮腫左側",
     "counts": {
       "male": 1,
@@ -3746,9 +3762,9 @@
   {
     "name": "低酸素脳症",
     "counts": {
-      "male": 14,
+      "male": 15,
       "female": 5,
-      "sum": 19
+      "sum": 20
     }
   },
   {
@@ -4945,6 +4961,14 @@
   },
   {
     "name": "口腔出血",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
+    "name": "口腔粘膜炎",
     "counts": {
       "male": 1,
       "female": 0,
@@ -6898,9 +6922,9 @@
   {
     "name": "嚥下障害",
     "counts": {
-      "male": 4,
+      "male": 5,
       "female": 2,
-      "sum": 6
+      "sum": 7
     }
   },
   {
@@ -7699,8 +7723,8 @@
     "name": "多関節炎",
     "counts": {
       "male": 3,
-      "female": 8,
-      "sum": 11
+      "female": 9,
+      "sum": 12
     }
   },
   {
@@ -8563,8 +8587,8 @@
     "name": "左上肢痛",
     "counts": {
       "male": 5,
-      "female": 21,
-      "sum": 26
+      "female": 22,
+      "sum": 27
     }
   },
   {
@@ -10914,9 +10938,17 @@
   {
     "name": "左被殻出血",
     "counts": {
-      "male": 7,
+      "male": 9,
       "female": 2,
-      "sum": 9
+      "sum": 11
+    }
+  },
+  {
+    "name": "左被殻出血後遺症",
+    "counts": {
+      "male": 2,
+      "female": 0,
+      "sum": 2
     }
   },
   {
@@ -11482,9 +11514,9 @@
   {
     "name": "心原性脳塞栓症",
     "counts": {
-      "male": 2,
+      "male": 4,
       "female": 6,
-      "sum": 8
+      "sum": 10
     }
   },
   {
@@ -11570,9 +11602,9 @@
   {
     "name": "心室細動",
     "counts": {
-      "male": 27,
+      "male": 28,
       "female": 2,
-      "sum": 29
+      "sum": 30
     }
   },
   {
@@ -11594,9 +11626,9 @@
   {
     "name": "心房細動",
     "counts": {
-      "male": 11,
+      "male": 12,
       "female": 7,
-      "sum": 18
+      "sum": 19
     }
   },
   {
@@ -11810,9 +11842,9 @@
   {
     "name": "心臓突然死",
     "counts": {
-      "male": 5,
+      "male": 6,
       "female": 0,
-      "sum": 5
+      "sum": 6
     }
   },
   {
@@ -12514,9 +12546,9 @@
   {
     "name": "急性腎不全",
     "counts": {
-      "male": 10,
+      "male": 11,
       "female": 5,
-      "sum": 15
+      "sum": 16
     }
   },
   {
@@ -12565,6 +12597,14 @@
       "male": 2,
       "female": 6,
       "sum": 8
+    }
+  },
+  {
+    "name": "急性自己免疫性筋炎",
+    "counts": {
+      "male": 0,
+      "female": 2,
+      "sum": 2
     }
   },
   {
@@ -13360,6 +13400,14 @@
     }
   },
   {
+    "name": "抗ARS抗体症候群",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
     "name": "抗LGI-1受容体抗体陽性脳炎",
     "counts": {
       "male": 1,
@@ -13618,9 +13666,9 @@
   {
     "name": "敗血症",
     "counts": {
-      "male": 4,
+      "male": 5,
       "female": 5,
-      "sum": 9
+      "sum": 10
     }
   },
   {
@@ -13744,6 +13792,14 @@
     }
   },
   {
+    "name": "末梢神経障害(免疫介在性ニューロパチー)",
+    "counts": {
+      "male": 0,
+      "female": 2,
+      "sum": 2
+    }
+  },
+  {
     "name": "末梢神経障害(左橈骨神経麻痺)",
     "counts": {
       "male": 1,
@@ -13794,9 +13850,9 @@
   {
     "name": "構音障害",
     "counts": {
-      "male": 1,
+      "male": 2,
       "female": 5,
-      "sum": 6
+      "sum": 7
     }
   },
   {
@@ -14122,9 +14178,9 @@
   {
     "name": "汎血球減少",
     "counts": {
-      "male": 1,
+      "male": 2,
       "female": 1,
-      "sum": 2
+      "sum": 3
     }
   },
   {
@@ -14291,8 +14347,8 @@
     "name": "潰瘍性大腸炎",
     "counts": {
       "male": 3,
-      "female": 1,
-      "sum": 4
+      "female": 2,
+      "sum": 5
     }
   },
   {
@@ -15850,9 +15906,9 @@
   {
     "name": "肺炎",
     "counts": {
-      "male": 7,
+      "male": 9,
       "female": 11,
-      "sum": 18
+      "sum": 20
     }
   },
   {
@@ -15924,6 +15980,14 @@
     "counts": {
       "male": 1,
       "female": 0,
+      "sum": 1
+    }
+  },
+  {
+    "name": "胃炎",
+    "counts": {
+      "male": 0,
+      "female": 1,
       "sum": 1
     }
   },
@@ -16354,9 +16418,9 @@
   {
     "name": "脱水症",
     "counts": {
-      "male": 34,
+      "male": 35,
       "female": 44,
-      "sum": 78
+      "sum": 79
     }
   },
   {
@@ -16554,9 +16618,9 @@
   {
     "name": "脳梗塞",
     "counts": {
-      "male": 85,
+      "male": 86,
       "female": 63,
-      "sum": 148
+      "sum": 149
     }
   },
   {
@@ -16586,9 +16650,9 @@
   {
     "name": "脳梗塞後遺症",
     "counts": {
-      "male": 0,
+      "male": 1,
       "female": 1,
-      "sum": 1
+      "sum": 2
     }
   },
   {
@@ -16701,6 +16765,38 @@
       "male": 2,
       "female": 0,
       "sum": 2
+    }
+  },
+  {
+    "name": "脾摘後の免疫不全",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
+    "name": "脾梗塞",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
+    "name": "脾腫",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
+    "name": "脾臓破裂",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
     }
   },
   {
@@ -17082,9 +17178,9 @@
   {
     "name": "膜性腎症",
     "counts": {
-      "male": 0,
+      "male": 2,
       "female": 1,
-      "sum": 1
+      "sum": 3
     }
   },
   {
@@ -17136,11 +17232,19 @@
     }
   },
   {
+    "name": "自己免疫介在性脳炎・脳症",
+    "counts": {
+      "male": 0,
+      "female": 2,
+      "sum": 2
+    }
+  },
+  {
     "name": "自己免疫性溶血性貧血",
     "counts": {
-      "male": 2,
+      "male": 3,
       "female": 1,
-      "sum": 3
+      "sum": 4
     }
   },
   {
@@ -17149,6 +17253,14 @@
       "male": 1,
       "female": 7,
       "sum": 8
+    }
+  },
+  {
+    "name": "自己免疫性肝炎後再生不良性貧血",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
     }
   },
   {
@@ -17466,9 +17578,9 @@
   {
     "name": "虚血性心疾患",
     "counts": {
-      "male": 5,
+      "male": 6,
       "female": 2,
-      "sum": 7
+      "sum": 8
     }
   },
   {
@@ -17858,9 +17970,17 @@
   {
     "name": "視神経脊髄炎",
     "counts": {
-      "male": 1,
+      "male": 3,
       "female": 9,
-      "sum": 10
+      "sum": 12
+    }
+  },
+  {
+    "name": "視神経脊髄炎に伴う肺炎・嚥下障害",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
     }
   },
   {
@@ -18322,9 +18442,9 @@
   {
     "name": "間質性肺炎",
     "counts": {
-      "male": 30,
+      "male": 31,
       "female": 23,
-      "sum": 53
+      "sum": 54
     }
   },
   {
@@ -18395,8 +18515,8 @@
     "name": "関節リウマチ",
     "counts": {
       "male": 15,
-      "female": 16,
-      "sum": 31
+      "female": 17,
+      "sum": 32
     }
   },
   {
@@ -18452,6 +18572,14 @@
     "counts": {
       "male": 0,
       "female": 1,
+      "sum": 1
+    }
+  },
+  {
+    "name": "限局性強皮症",
+    "counts": {
+      "male": 1,
+      "female": 0,
       "sum": 1
     }
   },
@@ -18690,9 +18818,9 @@
   {
     "name": "頭痛",
     "counts": {
-      "male": 136,
+      "male": 137,
       "female": 215,
-      "sum": 351
+      "sum": 352
     }
   },
   {
@@ -19208,6 +19336,14 @@
     }
   },
   {
+    "name": "類天疱瘡様扁平苔癬",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
     "name": "食事摂取不良",
     "counts": {
       "male": 1,
@@ -19333,6 +19469,14 @@
       "male": 0,
       "female": 1,
       "sum": 1
+    }
+  },
+  {
+    "name": "高次脳機能障害",
+    "counts": {
+      "male": 2,
+      "female": 0,
+      "sum": 2
     }
   },
   {
