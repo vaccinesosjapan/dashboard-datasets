@@ -57,6 +57,8 @@ try:
 		age_raw = row['年齢']
 		if type(age_raw) is str:
 			for a in row['年齢'].replace('歳', '').replace('、', ',').split(','):
+				if a.find('ヶ月') > -1:
+					a = '0'
 				age.append(int(a))
 		else:
 			age.append(int(age_raw))
