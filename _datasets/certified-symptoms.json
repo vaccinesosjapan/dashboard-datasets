@@ -176,6 +176,14 @@
     }
   },
   {
+    "name": "IgA腎症急性増悪による半月体形成性糸球体腎炎",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
     "name": "IgA血管炎",
     "counts": {
       "male": 9,
@@ -211,8 +219,8 @@
     "name": "I型糖尿病",
     "counts": {
       "male": 2,
-      "female": 3,
-      "sum": 5
+      "female": 4,
+      "sum": 6
     }
   },
   {
@@ -674,9 +682,9 @@
   {
     "name": "めまい",
     "counts": {
-      "male": 37,
+      "male": 38,
       "female": 73,
-      "sum": 110
+      "sum": 111
     }
   },
   {
@@ -755,8 +763,8 @@
     "name": "アテローム血栓性脳梗塞",
     "counts": {
       "male": 6,
-      "female": 5,
-      "sum": 11
+      "female": 7,
+      "sum": 13
     }
   },
   {
@@ -1032,6 +1040,14 @@
     }
   },
   {
+    "name": "シェーグレン症候群の増悪",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
     "name": "シェーグレン症候群の憎悪",
     "counts": {
       "male": 0,
@@ -1210,9 +1226,17 @@
   {
     "name": "ネフローゼ症候群",
     "counts": {
-      "male": 10,
+      "male": 13,
       "female": 6,
-      "sum": 16
+      "sum": 19
+    }
+  },
+  {
+    "name": "ネフローゼ症候群(微小変化型)",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
     }
   },
   {
@@ -1229,6 +1253,14 @@
       "male": 1,
       "female": 0,
       "sum": 1
+    }
+  },
+  {
+    "name": "ネフローゼ症候群後の腎不全",
+    "counts": {
+      "male": 2,
+      "female": 0,
+      "sum": 2
     }
   },
   {
@@ -2163,8 +2195,8 @@
     "name": "下痢",
     "counts": {
       "male": 31,
-      "female": 51,
-      "sum": 82
+      "female": 52,
+      "sum": 83
     }
   },
   {
@@ -2715,8 +2747,8 @@
     "name": "両上肢痛",
     "counts": {
       "male": 0,
-      "female": 1,
-      "sum": 1
+      "female": 2,
+      "sum": 2
     }
   },
   {
@@ -3954,9 +3986,9 @@
   {
     "name": "倦怠感",
     "counts": {
-      "male": 101,
+      "male": 102,
       "female": 154,
-      "sum": 255
+      "sum": 256
     }
   },
   {
@@ -4227,8 +4259,8 @@
     "name": "全身性エリテマトーデスの増悪",
     "counts": {
       "male": 0,
-      "female": 1,
-      "sum": 1
+      "female": 2,
+      "sum": 2
     }
   },
   {
@@ -4992,6 +5024,14 @@
     }
   },
   {
+    "name": "口唇違和感",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
     "name": "口渇",
     "counts": {
       "male": 0,
@@ -5108,6 +5148,14 @@
     "counts": {
       "male": 1,
       "female": 0,
+      "sum": 1
+    }
+  },
+  {
+    "name": "右アテローム血栓性脳梗塞",
+    "counts": {
+      "male": 0,
+      "female": 1,
       "sum": 1
     }
   },
@@ -6664,6 +6712,14 @@
     }
   },
   {
+    "name": "呼吸困難の増悪",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
     "name": "呼吸困難感",
     "counts": {
       "male": 2,
@@ -6931,8 +6987,8 @@
     "name": "嘔吐",
     "counts": {
       "male": 47,
-      "female": 76,
-      "sum": 123
+      "female": 78,
+      "sum": 125
     }
   },
   {
@@ -7650,9 +7706,9 @@
   {
     "name": "多発性硬化症",
     "counts": {
-      "male": 1,
+      "male": 2,
       "female": 4,
-      "sum": 5
+      "sum": 6
     }
   },
   {
@@ -7936,6 +7992,14 @@
     }
   },
   {
+    "name": "失語",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
     "name": "失語・構音障害",
     "counts": {
       "male": 0,
@@ -7994,9 +8058,9 @@
   {
     "name": "好酸球性多発血管炎性肉芽腫症",
     "counts": {
-      "male": 4,
+      "male": 5,
       "female": 2,
-      "sum": 6
+      "sum": 7
     }
   },
   {
@@ -11683,8 +11747,8 @@
     "name": "心原性ショック",
     "counts": {
       "male": 1,
-      "female": 2,
-      "sum": 3
+      "female": 3,
+      "sum": 4
     }
   },
   {
@@ -11795,8 +11859,8 @@
     "name": "心室細動",
     "counts": {
       "male": 29,
-      "female": 2,
-      "sum": 31
+      "female": 3,
+      "sum": 32
     }
   },
   {
@@ -11859,8 +11923,8 @@
     "name": "心機能不全",
     "counts": {
       "male": 0,
-      "female": 1,
-      "sum": 1
+      "female": 2,
+      "sum": 2
     }
   },
   {
@@ -11960,6 +12024,14 @@
     }
   },
   {
+    "name": "心筋症",
+    "counts": {
+      "male": 0,
+      "female": 2,
+      "sum": 2
+    }
+  },
+  {
     "name": "心筋症の疑い",
     "counts": {
       "male": 1,
@@ -11987,8 +12059,8 @@
     "name": "心肺停止",
     "counts": {
       "male": 31,
-      "female": 28,
-      "sum": 59
+      "female": 29,
+      "sum": 60
     }
   },
   {
@@ -12067,8 +12139,8 @@
     "name": "心臓死の疑い",
     "counts": {
       "male": 1,
-      "female": 1,
-      "sum": 2
+      "female": 2,
+      "sum": 3
     }
   },
   {
@@ -15058,9 +15130,9 @@
   {
     "name": "発熱",
     "counts": {
-      "male": 192,
-      "female": 276,
-      "sum": 468
+      "male": 193,
+      "female": 277,
+      "sum": 470
     }
   },
   {
@@ -15091,8 +15163,8 @@
     "name": "発疹",
     "counts": {
       "male": 2,
-      "female": 4,
-      "sum": 6
+      "female": 5,
+      "sum": 7
     }
   },
   {
@@ -15105,6 +15177,14 @@
   },
   {
     "name": "発赤",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
+    "name": "白血球・血小板減少",
     "counts": {
       "male": 0,
       "female": 1,
@@ -15419,8 +15499,8 @@
     "name": "神経因性膀胱",
     "counts": {
       "male": 2,
-      "female": 2,
-      "sum": 4
+      "female": 3,
+      "sum": 5
     }
   },
   {
@@ -15491,8 +15571,8 @@
     "name": "突然死",
     "counts": {
       "male": 88,
-      "female": 67,
-      "sum": 155
+      "female": 68,
+      "sum": 156
     }
   },
   {
@@ -17544,6 +17624,14 @@
     }
   },
   {
+    "name": "膠原病性間質性肺炎",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
     "name": "膵炎の増悪",
     "counts": {
       "male": 1,
@@ -17602,9 +17690,9 @@
   {
     "name": "自己免疫性溶血性貧血",
     "counts": {
-      "male": 3,
+      "male": 4,
       "female": 1,
-      "sum": 4
+      "sum": 5
     }
   },
   {
@@ -18947,8 +19035,8 @@
     "name": "関節炎",
     "counts": {
       "male": 1,
-      "female": 1,
-      "sum": 2
+      "female": 2,
+      "sum": 3
     }
   },
   {
