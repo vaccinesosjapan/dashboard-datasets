@@ -291,8 +291,8 @@
     "name": "TAFRO症候群",
     "counts": {
       "male": 5,
-      "female": 2,
-      "sum": 7
+      "female": 3,
+      "sum": 8
     }
   },
   {
@@ -912,6 +912,14 @@
     }
   },
   {
+    "name": "イレウス",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
     "name": "カウザルギー",
     "counts": {
       "male": 0,
@@ -954,9 +962,9 @@
   {
     "name": "ギラン・バレー症候群",
     "counts": {
-      "male": 43,
-      "female": 52,
-      "sum": 95
+      "male": 45,
+      "female": 53,
+      "sum": 98
     }
   },
   {
@@ -1451,8 +1459,8 @@
     "name": "ラクナ梗塞",
     "counts": {
       "male": 2,
-      "female": 0,
-      "sum": 2
+      "female": 1,
+      "sum": 3
     }
   },
   {
@@ -2120,6 +2128,22 @@
     }
   },
   {
+    "name": "上腸間膜血栓症",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
+    "name": "上腸間膜血管血栓症",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
     "name": "上腹部不快感",
     "counts": {
       "male": 1,
@@ -2154,9 +2178,9 @@
   {
     "name": "上部消化管出血",
     "counts": {
-      "male": 1,
+      "male": 2,
       "female": 0,
-      "sum": 1
+      "sum": 2
     }
   },
   {
@@ -3064,6 +3088,14 @@
     }
   },
   {
+    "name": "両側下肢静脈血栓症",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
     "name": "両側下腿深部静脈血栓症",
     "counts": {
       "male": 1,
@@ -3632,6 +3664,14 @@
     }
   },
   {
+    "name": "両視神経委縮",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
     "name": "両視神経炎の疑い",
     "counts": {
       "male": 1,
@@ -3973,6 +4013,14 @@
       "male": 1,
       "female": 0,
       "sum": 1
+    }
+  },
+  {
+    "name": "体幹機能障害",
+    "counts": {
+      "male": 0,
+      "female": 2,
+      "sum": 2
     }
   },
   {
@@ -5272,6 +5320,14 @@
     }
   },
   {
+    "name": "右上下肢機能障害",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
     "name": "右上下肢痺れ",
     "counts": {
       "male": 0,
@@ -5580,6 +5636,14 @@
     "counts": {
       "male": 1,
       "female": 1,
+      "sum": 2
+    }
+  },
+  {
+    "name": "右中大脳動脈血栓症",
+    "counts": {
+      "male": 2,
+      "female": 0,
       "sum": 2
     }
   },
@@ -5978,9 +6042,9 @@
   {
     "name": "右片麻痺",
     "counts": {
-      "male": 1,
-      "female": 1,
-      "sum": 2
+      "male": 3,
+      "female": 3,
+      "sum": 6
     }
   },
   {
@@ -6354,9 +6418,9 @@
   {
     "name": "右脳出血",
     "counts": {
-      "male": 0,
+      "male": 1,
       "female": 1,
-      "sum": 1
+      "sum": 2
     }
   },
   {
@@ -6442,9 +6506,9 @@
   {
     "name": "右被殻出血",
     "counts": {
-      "male": 5,
-      "female": 2,
-      "sum": 7
+      "male": 8,
+      "female": 4,
+      "sum": 12
     }
   },
   {
@@ -6458,9 +6522,9 @@
   {
     "name": "右視床出血",
     "counts": {
-      "male": 4,
+      "male": 6,
       "female": 2,
-      "sum": 6
+      "sum": 8
     }
   },
   {
@@ -6723,8 +6787,8 @@
     "name": "呼吸不全",
     "counts": {
       "male": 7,
-      "female": 9,
-      "sum": 16
+      "female": 10,
+      "sum": 17
     }
   },
   {
@@ -6772,6 +6836,14 @@
     "counts": {
       "male": 1,
       "female": 0,
+      "sum": 1
+    }
+  },
+  {
+    "name": "咀嚼言語機能障害",
+    "counts": {
+      "male": 0,
+      "female": 1,
       "sum": 1
     }
   },
@@ -7024,6 +7096,14 @@
     }
   },
   {
+    "name": "嘔吐下痢症",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
     "name": "嘔吐症",
     "counts": {
       "male": 3,
@@ -7099,8 +7179,8 @@
     "name": "嚥下機能障害",
     "counts": {
       "male": 0,
-      "female": 1,
-      "sum": 1
+      "female": 2,
+      "sum": 2
     }
   },
   {
@@ -7482,9 +7562,9 @@
   {
     "name": "四肢麻痺",
     "counts": {
-      "male": 1,
-      "female": 2,
-      "sum": 3
+      "male": 2,
+      "female": 4,
+      "sum": 6
     }
   },
   {
@@ -7922,9 +8002,9 @@
   {
     "name": "多臓器不全",
     "counts": {
-      "male": 10,
+      "male": 11,
       "female": 9,
-      "sum": 19
+      "sum": 20
     }
   },
   {
@@ -8042,9 +8122,9 @@
   {
     "name": "失語症",
     "counts": {
-      "male": 0,
+      "male": 2,
       "female": 2,
-      "sum": 2
+      "sum": 4
     }
   },
   {
@@ -8259,8 +8339,8 @@
     "name": "左アテローム血栓性脳梗塞",
     "counts": {
       "male": 1,
-      "female": 1,
-      "sum": 2
+      "female": 2,
+      "sum": 3
     }
   },
   {
@@ -8499,8 +8579,8 @@
     "name": "左上肢のしびれ",
     "counts": {
       "male": 1,
-      "female": 6,
-      "sum": 7
+      "female": 7,
+      "sum": 8
     }
   },
   {
@@ -9464,11 +9544,19 @@
     }
   },
   {
+    "name": "左不全片麻痺",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
     "name": "左中大脳動脈狭窄症",
     "counts": {
       "male": 0,
-      "female": 1,
-      "sum": 1
+      "female": 2,
+      "sum": 2
     }
   },
   {
@@ -9524,6 +9612,14 @@
     "counts": {
       "male": 0,
       "female": 1,
+      "sum": 1
+    }
+  },
+  {
+    "name": "左側頭蓋底内頚動脈閉塞症",
+    "counts": {
+      "male": 1,
+      "female": 0,
       "sum": 1
     }
   },
@@ -9853,6 +9949,14 @@
       "male": 2,
       "female": 1,
       "sum": 3
+    }
+  },
+  {
+    "name": "左尺骨神経炎",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
     }
   },
   {
@@ -10330,9 +10434,9 @@
   {
     "name": "左片麻痺",
     "counts": {
-      "male": 1,
-      "female": 2,
-      "sum": 3
+      "male": 2,
+      "female": 3,
+      "sum": 5
     }
   },
   {
@@ -11234,9 +11338,9 @@
   {
     "name": "左被殻出血",
     "counts": {
-      "male": 11,
-      "female": 2,
-      "sum": 13
+      "male": 13,
+      "female": 4,
+      "sum": 17
     }
   },
   {
@@ -11245,6 +11349,14 @@
       "male": 2,
       "female": 0,
       "sum": 2
+    }
+  },
+  {
+    "name": "左視力低下",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
     }
   },
   {
@@ -11568,11 +11680,19 @@
     }
   },
   {
+    "name": "廃用",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
     "name": "廃用症候群",
     "counts": {
       "male": 5,
-      "female": 5,
-      "sum": 10
+      "female": 6,
+      "sum": 11
     }
   },
   {
@@ -11842,9 +11962,9 @@
   {
     "name": "心原性脳塞栓症",
     "counts": {
-      "male": 6,
+      "male": 7,
       "female": 6,
-      "sum": 12
+      "sum": 13
     }
   },
   {
@@ -12346,9 +12466,9 @@
   {
     "name": "急性呼吸不全",
     "counts": {
-      "male": 8,
+      "male": 10,
       "female": 7,
-      "sum": 15
+      "sum": 17
     }
   },
   {
@@ -12480,6 +12600,14 @@
     }
   },
   {
+    "name": "急性広範前壁心筋梗塞",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
     "name": "急性広範前壁心筋梗塞の疑い",
     "counts": {
       "male": 2,
@@ -12586,9 +12714,9 @@
   {
     "name": "急性心筋炎",
     "counts": {
-      "male": 110,
+      "male": 112,
       "female": 22,
-      "sum": 132
+      "sum": 134
     }
   },
   {
@@ -13178,9 +13306,9 @@
   {
     "name": "意識障害",
     "counts": {
-      "male": 16,
+      "male": 17,
       "female": 15,
-      "sum": 31
+      "sum": 32
     }
   },
   {
@@ -13378,9 +13506,9 @@
   {
     "name": "慢性炎症性脱髄性多発神経炎",
     "counts": {
-      "male": 10,
+      "male": 12,
       "female": 5,
-      "sum": 15
+      "sum": 17
     }
   },
   {
@@ -13588,6 +13716,14 @@
     "counts": {
       "male": 0,
       "female": 1,
+      "sum": 1
+    }
+  },
+  {
+    "name": "成人発症スティル病疑い",
+    "counts": {
+      "male": 1,
+      "female": 0,
       "sum": 1
     }
   },
@@ -14048,6 +14184,22 @@
     }
   },
   {
+    "name": "摂食・嚥下障害",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
+    "name": "摂食嚥下障害",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
     "name": "摂食障害",
     "counts": {
       "male": 0,
@@ -14082,9 +14234,9 @@
   {
     "name": "敗血症",
     "counts": {
-      "male": 6,
+      "male": 7,
       "female": 5,
-      "sum": 11
+      "sum": 12
     }
   },
   {
@@ -14211,8 +14363,8 @@
     "name": "末梢神経障害",
     "counts": {
       "male": 28,
-      "female": 75,
-      "sum": 103
+      "female": 76,
+      "sum": 104
     }
   },
   {
@@ -14282,9 +14434,9 @@
   {
     "name": "構音障害",
     "counts": {
-      "male": 2,
+      "male": 4,
       "female": 5,
-      "sum": 7
+      "sum": 9
     }
   },
   {
@@ -15051,8 +15203,8 @@
     "name": "疼痛",
     "counts": {
       "male": 9,
-      "female": 19,
-      "sum": 28
+      "female": 20,
+      "sum": 29
     }
   },
   {
@@ -15066,9 +15218,9 @@
   {
     "name": "症候性てんかん",
     "counts": {
-      "male": 3,
+      "male": 4,
       "female": 4,
-      "sum": 7
+      "sum": 8
     }
   },
   {
@@ -15106,9 +15258,9 @@
   {
     "name": "痙攣発作",
     "counts": {
-      "male": 1,
+      "male": 2,
       "female": 7,
-      "sum": 8
+      "sum": 9
     }
   },
   {
@@ -15243,8 +15395,8 @@
     "name": "発疹",
     "counts": {
       "male": 2,
-      "female": 5,
-      "sum": 7
+      "female": 6,
+      "sum": 8
     }
   },
   {
@@ -15650,9 +15802,9 @@
   {
     "name": "突然死",
     "counts": {
-      "male": 96,
+      "male": 98,
       "female": 71,
-      "sum": 167
+      "sum": 169
     }
   },
   {
@@ -16162,9 +16314,9 @@
   {
     "name": "耳鳴症",
     "counts": {
-      "male": 5,
+      "male": 6,
       "female": 1,
-      "sum": 6
+      "sum": 7
     }
   },
   {
@@ -16285,6 +16437,14 @@
       "male": 1,
       "female": 2,
       "sum": 3
+    }
+  },
+  {
+    "name": "肩痛・慢性疼痛",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
     }
   },
   {
@@ -16450,9 +16610,9 @@
   {
     "name": "肺胞出血",
     "counts": {
-      "male": 4,
+      "male": 6,
       "female": 1,
-      "sum": 5
+      "sum": 7
     }
   },
   {
@@ -16835,8 +16995,8 @@
     "name": "脊髄炎",
     "counts": {
       "male": 18,
-      "female": 10,
-      "sum": 28
+      "female": 11,
+      "sum": 29
     }
   },
   {
@@ -16954,17 +17114,17 @@
   {
     "name": "脳出血",
     "counts": {
-      "male": 25,
-      "female": 18,
-      "sum": 43
+      "male": 26,
+      "female": 19,
+      "sum": 45
     }
   },
   {
     "name": "脳出血後遺症",
     "counts": {
       "male": 2,
-      "female": 0,
-      "sum": 2
+      "female": 1,
+      "sum": 3
     }
   },
   {
@@ -17026,9 +17186,9 @@
   {
     "name": "脳室内穿破",
     "counts": {
-      "male": 0,
+      "male": 1,
       "female": 1,
-      "sum": 1
+      "sum": 2
     }
   },
   {
@@ -17130,9 +17290,9 @@
   {
     "name": "脳梗塞",
     "counts": {
-      "male": 88,
-      "female": 65,
-      "sum": 153
+      "male": 95,
+      "female": 66,
+      "sum": 161
     }
   },
   {
@@ -17162,9 +17322,9 @@
   {
     "name": "脳梗塞後遺症",
     "counts": {
-      "male": 1,
+      "male": 3,
       "female": 1,
-      "sum": 2
+      "sum": 4
     }
   },
   {
@@ -17576,6 +17736,14 @@
     }
   },
   {
+    "name": "腸閉塞症",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
     "name": "腸間膜リンパ節炎",
     "counts": {
       "male": 0,
@@ -17757,6 +17925,14 @@
       "male": 2,
       "female": 3,
       "sum": 5
+    }
+  },
+  {
+    "name": "自己免疫介在性脳炎",
+    "counts": {
+      "male": 3,
+      "female": 0,
+      "sum": 3
     }
   },
   {
@@ -18520,6 +18696,14 @@
     }
   },
   {
+    "name": "視神経症",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
     "name": "視神経脊髄炎",
     "counts": {
       "male": 3,
@@ -18617,6 +18801,14 @@
   },
   {
     "name": "言語機能障害",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
+    "name": "言語障害",
     "counts": {
       "male": 0,
       "female": 1,
@@ -19096,6 +19288,14 @@
     }
   },
   {
+    "name": "関節リウマチの疑い",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
     "name": "関節リウマチ合併リウマチ性多発筋痛症の再燃",
     "counts": {
       "male": 1,
@@ -19346,9 +19546,9 @@
   {
     "name": "頚部痛",
     "counts": {
-      "male": 0,
+      "male": 1,
       "female": 5,
-      "sum": 5
+      "sum": 6
     }
   },
   {
@@ -20058,9 +20258,9 @@
   {
     "name": "高次脳機能障害",
     "counts": {
-      "male": 2,
-      "female": 0,
-      "sum": 2
+      "male": 4,
+      "female": 1,
+      "sum": 5
     }
   },
   {
@@ -20141,6 +20341,14 @@
       "male": 0,
       "female": 4,
       "sum": 4
+    }
+  },
+  {
+    "name": "鬱血性心不全の疑い",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
     }
   },
   {
