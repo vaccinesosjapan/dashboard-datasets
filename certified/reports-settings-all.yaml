@@ -1386,17 +1386,17 @@ settings: [
   },
   {
     date: '2024/07/25',
-    file: '001280328.csv',
-    output: '001280328.json',
+    file: '001280927.csv',
+    output: '001280927.json',
     pages: '',
     expected_count: {
-      certified: 23,
+      certified: 24,
       repudiation: 33
     },
     reason-type: 'TypeB',
     script-version: v2,
     source: {
-      url: https://www.mhlw.go.jp/content/10900000/001280328.pdf,
+      url: https://www.mhlw.go.jp/content/10900000/001280927.pdf,
     },
   }
 ]
