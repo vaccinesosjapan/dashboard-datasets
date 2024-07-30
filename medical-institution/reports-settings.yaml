@@ -1,13 +1,13 @@
 settings: [
   {
-    file: '101st/001244773.pdf',
-    output: '001244773.json',
+    file: '102nd/001280751.csv',
+    output: '001280751.json',
     pages: '2',
     expected_count: 1,
     source: {
-      name: 第101回,
-      url: https://www.mhlw.go.jp/content/10601000/001244773.pdf
+      name: 第102回,
+      url: https://www.mhlw.go.jp/content/10601000/001280751.pdf
     },
-    script-version: v2
+    script-version: ex1
   }
 ]

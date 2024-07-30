@@ -60,9 +60,11 @@ def cleansing_vaccine_name(vaccine_name):
 	vaccine_name = vaccine_name.replace('BA.4-\n5', 'BA.4-5')
 	vaccine_name = vaccine_name.replace('11歳用\n（', '11歳用（')
 	vaccine_name = vaccine_name.replace('オミクロ\nン', 'オミクロン')
+	vaccine_name = vaccine_name.replace('オミク\nロン', 'オミクロン')
 	vaccine_name = vaccine_name.replace('オミ\nクロン', 'オミクロン')
 	vaccine_name = vaccine_name.replace('オミクロン株\nXBB', 'オミクロン株XBB')
 	vaccine_name = vaccine_name.replace('オ\nミクロン株', 'オミクロン株')
+	vaccine_name = vaccine_name.replace('１価：\nオミクロン', '１価:オミクロン')
 
 	return unicodedata.normalize("NFKC", vaccine_name)
 
