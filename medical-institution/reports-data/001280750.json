@@ -1,0 +1,156 @@
+[
+  {
+    "no": 36,
+    "age": 62,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2024/02/01"
+    ],
+    "onset_dates": [
+      "2024/02/01",
+      "2024/02/01",
+      "2024/02/01",
+      "2024/02/01"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "ダイチロナ筋注（１価：オミク\nロン株XBB.1.5）",
+    "concurrent_vaccination": "",
+    "manufacturer": "第一三共",
+    "lot_no": "VPA005A",
+    "PT_names": [
+      "末梢性ニューロパチー",
+      "熱感",
+      "ワクチン接種部位疼痛",
+      "腫脹"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快"
+    ],
+    "source": {
+      "name": "第102回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001280750.pdf"
+    }
+  },
+  {
+    "no": 37,
+    "age": 67,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2024/01/15"
+    ],
+    "onset_dates": [
+      "2024/01/16"
+    ],
+    "days_to_onset": [
+      1
+    ],
+    "vaccine_name": "ダイチロナ筋注（１価：オミク\nロン株XBB.1.5）",
+    "concurrent_vaccination": "",
+    "manufacturer": "第一三共",
+    "lot_no": "VPA003A 脊髄炎（脊髄炎）",
+    "PT_names": [],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "未回復"
+    ],
+    "source": {
+      "name": "第102回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001280750.pdf"
+    }
+  },
+  {
+    "no": 38,
+    "age": 25,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2024/03/21"
+    ],
+    "onset_dates": [
+      "2024/03/21",
+      "2024/03/21",
+      "2024/03/21"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "ダイチロナ筋注（１価：オミク\nロン株XBB.1.5）",
+    "concurrent_vaccination": "",
+    "manufacturer": "第一三共",
+    "lot_no": "VPA004A",
+    "PT_names": [
+      "そう痒症",
+      "多汗症",
+      "紅斑性皮疹"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快",
+      "軽快",
+      "軽快"
+    ],
+    "source": {
+      "name": "第102回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001280750.pdf"
+    }
+  },
+  {
+    "no": 39,
+    "age": 34,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2024/03/08"
+    ],
+    "onset_dates": [
+      "2024/03/09",
+      "2024/03/09"
+    ],
+    "days_to_onset": [
+      1
+    ],
+    "vaccine_name": "ダイチロナ筋注（１価：オミク\nロン株XBB.1.5）",
+    "concurrent_vaccination": "",
+    "manufacturer": "第一三共",
+    "lot_no": "VPA007A",
+    "PT_names": [
+      "光視症",
+      "硝子体浮遊物"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "未回復",
+      "未回復"
+    ],
+    "source": {
+      "name": "第102回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001280750.pdf"
+    }
+  }
+]

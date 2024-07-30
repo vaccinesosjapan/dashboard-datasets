@@ -1176,6 +1176,52 @@ settings: [
       url: https://www.mhlw.go.jp/content/10601000/001244773.pdf
     },
     script-version: v2
-  }
+  },
   # 001244774: なし
+  {
+    file: '102nd/001280746.pdf',
+    output: '001280746.json',
+    pages: '2-3',
+    expected_count: 27,
+    source: {
+      name: 第102回,
+      url: https://www.mhlw.go.jp/content/10601000/001280746.pdf
+    },
+    script-version: v2
+  },
+  # 001280747: なし
+  # 001280748: なし
+  {
+    file: '102nd/001280749.pdf',
+    output: '001280749.json',
+    pages: '2',
+    expected_count: 8,
+    source: {
+      name: 第102回,
+      url: https://www.mhlw.go.jp/content/10601000/001280749.pdf
+    },
+    script-version: v2
+  },
+  {
+    file: '102nd/001280750.pdf',
+    output: '001280750.json',
+    pages: '2',
+    expected_count: 4,
+    source: {
+      name: 第102回,
+      url: https://www.mhlw.go.jp/content/10601000/001280750.pdf
+    },
+    script-version: v2
+  },
+  {
+    file: '102nd/001280751.csv',
+    output: '001280751.json',
+    pages: '2',
+    expected_count: 1,
+    source: {
+      name: 第102回,
+      url: https://www.mhlw.go.jp/content/10601000/001280751.pdf
+    },
+    script-version: ex1
+  }
 ]

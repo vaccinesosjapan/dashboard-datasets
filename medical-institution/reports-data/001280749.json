@@ -1,0 +1,313 @@
+[
+  {
+    "no": 28,
+    "age": 74,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2023/12/06"
+    ],
+    "onset_dates": [
+      "2024/01/20"
+    ],
+    "days_to_onset": [
+      45
+    ],
+    "vaccine_name": "スパイクバックス筋注（１価：オミクロン株\nXBB.1.5）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "710011A",
+    "PT_names": [
+      "間質性肺疾患"
+    ],
+    "causal_relationship": "",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "不明"
+    ],
+    "source": {
+      "name": "第102回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001280749.pdf"
+    }
+  },
+  {
+    "no": 29,
+    "age": 88,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2023/10/21"
+    ],
+    "onset_dates": [
+      "2023/11",
+      "2023/11"
+    ],
+    "days_to_onset": [],
+    "vaccine_name": "スパイクバックス筋注（１価：オミクロン株\nXBB.1.5）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "710011A",
+    "PT_names": [
+      "間質性肺疾患",
+      "線維症"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快",
+      "軽快"
+    ],
+    "source": {
+      "name": "第102回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001280749.pdf"
+    }
+  },
+  {
+    "no": 30,
+    "age": 95,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2024/02/09"
+    ],
+    "onset_dates": [
+      "2024/02/11",
+      "2024/02/11",
+      "2024/02/11",
+      "2024/02/11",
+      "2024/02/11",
+      "2024/02/11",
+      "2024/02/11",
+      "2024/02/11",
+      "2024/02/11",
+      "2024/02/11"
+    ],
+    "days_to_onset": [
+      2
+    ],
+    "vaccine_name": "スパイクバックス筋注（１価：オミクロン株\nXBB.1.5）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "710003A",
+    "PT_names": [
+      "アナフィラキシーショック",
+      "痙攣発作",
+      "肝機能異常",
+      "低酸素症",
+      "循環虚脱",
+      "チアノーゼ",
+      "頻脈",
+      "レイノー現象",
+      "蒼白",
+      "発熱"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "死亡",
+      "死亡",
+      "死亡",
+      "死亡",
+      "死亡",
+      "死亡",
+      "死亡",
+      "死亡",
+      "死亡",
+      "死亡"
+    ],
+    "source": {
+      "name": "第102回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001280749.pdf"
+    }
+  },
+  {
+    "no": 31,
+    "age": 45,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2023/10/29"
+    ],
+    "onset_dates": [
+      "2023/10/30"
+    ],
+    "days_to_onset": [
+      1
+    ],
+    "vaccine_name": "スパイクバックス筋注（１価：オミクロン株\nXBB.1.5）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "710015A",
+    "PT_names": [
+      "閉塞隅角緑内障"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "source": {
+      "name": "第102回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001280749.pdf"
+    }
+  },
+  {
+    "no": 32,
+    "age": 85,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2023/10/12"
+    ],
+    "onset_dates": [
+      "2023/10/25"
+    ],
+    "days_to_onset": [
+      13
+    ],
+    "vaccine_name": "スパイクバックス筋注（１価：オミクロン株\nXBB.1.5）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "710015A",
+    "PT_names": [
+      "血小板減少症を伴う血栓症"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "未回復"
+    ],
+    "source": {
+      "name": "第102回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001280749.pdf"
+    }
+  },
+  {
+    "no": 33,
+    "age": 81,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2023/10/07"
+    ],
+    "onset_dates": [
+      "2023/11"
+    ],
+    "days_to_onset": [],
+    "vaccine_name": "スパイクバックス筋注（１価：オミクロン株\nXBB.1.5）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "710010A",
+    "PT_names": [
+      "ミラー・フィッシャー症候群"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "2024/03/06"
+    ],
+    "gross_results": [
+      "後遺症あり"
+    ],
+    "source": {
+      "name": "第102回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001280749.pdf"
+    }
+  },
+  {
+    "no": 34,
+    "age": 55,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2024/03/22"
+    ],
+    "onset_dates": [
+      "2024/03/23",
+      "2024/03/23"
+    ],
+    "days_to_onset": [
+      1
+    ],
+    "vaccine_name": "スパイクバックス筋注（１価：オミクロン株\nXBB.1.5）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "710007A",
+    "PT_names": [
+      "腎不全"
+    ],
+    "causal_relationship": "",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "不明",
+      "不明"
+    ],
+    "source": {
+      "name": "第102回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001280749.pdf"
+    }
+  },
+  {
+    "no": 35,
+    "age": 96,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2023/10/16"
+    ],
+    "onset_dates": [
+      "2023/10/16",
+      "2023/10/16",
+      "2023/10/16"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "スパイクバックス筋注（１価：オミクロン株\nXBB.1.5）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "710007A",
+    "PT_names": [
+      "アナフィラキシーショック",
+      "急性冠動脈症候群",
+      "コーニス症候群"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "死亡",
+      "死亡",
+      "死亡"
+    ],
+    "source": {
+      "name": "第102回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001280749.pdf"
+    }
+  }
+]

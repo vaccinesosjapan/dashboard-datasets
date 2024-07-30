@@ -1,0 +1,33 @@
+[
+  {
+    "no": 40,
+    "age": 56,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/6/21"
+    ],
+    "onset_dates": [
+      "2022/6/23"
+    ],
+    "days_to_onset": 2,
+    "vaccine_name": "ヌバキソビッド筋注",
+    "concurrent_vaccination": "",
+    "manufacturer": "ノババックス／武田",
+    "lot_no": 99999,
+    "PT_names": [
+      "アナフィラキシー反応"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "2022/9/1"
+    ],
+    "gross_results": [
+      "回復"
+    ],
+    "source": {
+      "name": "第102回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001280751.pdf"
+    }
+  }
+]
