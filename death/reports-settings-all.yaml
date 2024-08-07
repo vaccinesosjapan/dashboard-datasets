@@ -117,12 +117,13 @@ settings: [
     pages: '3',
     script-version: v1
   },
+  # todo: 001245072 が 001280765 に入れ替わり
   {
     manufacturer: 'ファイザー株式会社',
     name: 'コミナティRTU筋注（1価：オミクロン株XBB.1.5）',
-    file: '001245072.pdf',
-    output: '001245072.json',
-    pages: '2-7',
+    file: '001280765.pdf',
+    output: '001280765.json',
+    pages: '2-9',
     script-version: v2
   },
   {

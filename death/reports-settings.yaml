@@ -1,10 +1,10 @@
 settings: [
   {
-    manufacturer: 'モデルナ株式会社',
-    name: 'スパイクバックス筋注（1価：オミクロン株XBB.1.5）',
-    file: '001244792.pdf',
-    output: '001244792.json',
-    pages: '2-4',
-    script-version: v2
+    manufacturer: 'ファイザー株式会社',
+    name: 'コミナティRTU筋注（1価：オミクロン株XBB.1.5）',
+    file: '001280765.csv',
+    output: '001280765.json',
+    pages: '',
+    script-version: ex1
   }
 ]
