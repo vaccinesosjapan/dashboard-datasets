@@ -18,6 +18,7 @@ def convert_data(d):
 	dAge = dAge.split('\n')[0]
 	dAge = dAge.split('※')[0]
 	dAge = dAge.replace('歳', '')
+	dAge = dAge.replace('歳', '')
 	if dAge.isdecimal():
 		d['age'] = int(dAge)
 	else:

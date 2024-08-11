@@ -93,11 +93,10 @@ settings: [
   {
     manufacturer: '武田薬品工業株式会社',
     name: 'ヌバキソビッド筋注',
-    # 001197007 と同じ内容のため、こちらだけ抽出して使う
-    file: '001197905.pdf',
-    output: '001197905.json',
-    pages: '2-3',
-    script-version: v2
+    file: '001280767.csv',
+    output: '001280767.json',
+    pages: '',
+    script-version: ex1
   },
   {
     manufacturer: 'ファイザー株式会社',
@@ -117,20 +116,21 @@ settings: [
     pages: '3',
     script-version: v1
   },
+  # todo: 001245072 が 001280765 に入れ替わり
   {
     manufacturer: 'ファイザー株式会社',
     name: 'コミナティRTU筋注（1価：オミクロン株XBB.1.5）',
-    file: '001245072.pdf',
-    output: '001245072.json',
-    pages: '2-7',
+    file: '001280765.pdf',
+    output: '001280765.json',
+    pages: '2-9',
     script-version: v2
   },
   {
-    manufacturer: 'モデルナ株式会社',
+    manufacturer: 'モデルナ・ジャパン株式会社',
     name: 'スパイクバックス筋注（1価：オミクロン株XBB.1.5）',
-    file: '001244792.pdf',
-    output: '001244792.json',
-    pages: '2-4',
-    script-version: v2
+    file: '001280766.pdf',
+    output: '001280766.json',
+    pages: '',
+    script-version: ex1
   }
 ]

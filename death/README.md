@@ -1,6 +1,8 @@
-# 亡くなった方々に関する症例の集計
+# 集計方法
 
-## データの抽出と修正
+## 亡くなった方々に関する症例の集計
+
+### データの抽出と修正
 
 まず、以下を実行してPDFファイルからデータを抽出します。これにより`extracted-data`フォルダに`JSON`形式でデータが抽出されます。
 
@@ -22,7 +24,7 @@ python check-onset-dates.py > _check-result.md
 
 保存された`_check-result.md`を見ながら、対象の案件を修正します。
 
-## 集計
+### 集計
 
 上記ができたら、以下を実行することで症例一覧データを作れます。`reports-data`フォルダと`intermediate-files`フォルダの全てのJSONファイルを読み取り、改行などを除去しながら1つのデータにまとめる処理です。
 
@@ -36,4 +38,19 @@ python sum-death-reports-v1.py
 import pandas as pd
 df = pd.read_json('death-reports.json')
 df.groupby(['vaccine_name', 'causal_relationship_by_expert'])['no'].count()
+```
+
+## サマリの集計
+
+以下3つのファイルの情報を更新します。
+
+- summary-metadata.yaml
+- summary-settings.yaml
+- summary-settings-all.yaml
+
+その後、以下を実行します。
+
+```sh
+python create-death-summary-v1.py
+python sum-death-summary-v1.py
 ```

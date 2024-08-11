@@ -27,7 +27,7 @@ for table in tables:
 
 if not bool(numbers):
     print('「因果関係評価結果」の読み取りに失敗しました！')
-    sys.exit(1)    
+    sys.exit(1)
     
 json_string = json.dumps(numbers, ensure_ascii=False, indent=2)
 file_name = pdf_file_name.rsplit('.', 1)[0]
