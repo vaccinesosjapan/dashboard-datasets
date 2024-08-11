@@ -11,13 +11,23 @@
 #
 settings: [
   {
-    name: 'コミナティ筋注',
-    file: '001244797.pdf',
-    pages: '7',
+    name: 'コミナティRTU筋注（1価：オミクロン株XBB.1.5）',
+    file: '001280774-myocarditis.csv',
+    pages: '',
     source: {
-      name: '第101回',
-      url: 'https://www.mhlw.go.jp/content/10601000/001244797.pdf',
+      name: '第102回',
+      url: 'https://www.mhlw.go.jp/content/10601000/001280774.pdf',
     },
-    script-version: v4
+    script-version: ex2
+  },
+  {
+    name: 'コミナティRTU筋注（1価：オミクロン株XBB.1.5）',
+    file: '001280774-pericarditis.csv',
+    pages: '',
+    source: {
+      name: '第102回',
+      url: 'https://www.mhlw.go.jp/content/10601000/001280774.pdf',
+    },
+    script-version: ex2
   },
 ]

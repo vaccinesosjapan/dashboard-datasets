@@ -18,7 +18,7 @@ settings: [
       name: '第100回',
       url: 'https://www.mhlw.go.jp/content/10601000/001198218.pdf',
     },
-    script-version: v2
+    script-version: ex1
   },
   {
     name: 'コミナティ筋注',
@@ -28,7 +28,7 @@ settings: [
       name: '第100回',
       url: 'https://www.mhlw.go.jp/content/10601000/001198218.pdf',
     },
-    script-version: v2
+    script-version: ex1
   },
   {
     name: 'スパイクバックス筋注',
@@ -38,7 +38,7 @@ settings: [
       name: '第100回',
       url: 'https://www.mhlw.go.jp/content/10601000/001198223.pdf',
     },
-    script-version: v2
+    script-version: ex1
   },
   # ロット番号まわりの抽出処理が不十分なため、下記で抽出したものを手作業で修正した
   {
@@ -49,18 +49,26 @@ settings: [
       name: '第100回',
       url: 'https://www.mhlw.go.jp/content/10601000/001197011.pdf',
     },
-    script-version: v3
+    script-version: v2
   },
-  # 001197963.pdf は手作業による抽出で直接JSONを作成した
-  # 001197964.pdf も同様
   {
-    name: 'コミナティ筋注',
-    file: '001244797.pdf',
-    pages: '7',
+    name: 'コミナティRTU筋注（1価：オミクロン株XBB.1.5）',
+    file: '001280774-myocarditis.csv',
+    pages: '',
     source: {
-      name: '第101回',
-      url: 'https://www.mhlw.go.jp/content/10601000/001244797.pdf',
+      name: '第102回',
+      url: 'https://www.mhlw.go.jp/content/10601000/001280774.pdf',
     },
-    script-version: v4
+    script-version: ex2
+  },
+  {
+    name: 'コミナティRTU筋注（1価：オミクロン株XBB.1.5）',
+    file: '001280774-pericarditis.csv',
+    pages: '',
+    source: {
+      name: '第102回',
+      url: 'https://www.mhlw.go.jp/content/10601000/001280774.pdf',
+    },
+    script-version: ex2
   },
 ]

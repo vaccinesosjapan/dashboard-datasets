@@ -1,45 +1,92 @@
-import json, sys, math, os
-import pandas as pd
+import camelot
+import json
+import os
+import sys
+sys.path.append("../libraries")
+from exfuncs import (
+	extract_vaccine_name_etc,
+	extract_age_gender,
+	split_normal,
+	extract_PT_names,
+	split_pre_existing_disease_names
+)
 
-csv_file_name = sys.argv[1]
+pdf_file_name = sys.argv[1]
+pages = sys.argv[2]
 source_name = sys.argv[3]
 source_url = sys.argv[4]
 
-csv_file_path = os.path.join('intermediate-files', csv_file_name)
-df = pd.read_csv(csv_file_path, delimiter=',')
+source_dir = 'pdf-files'
+output_dir = 'reports-data'
+pdf_file_path = os.path.join(source_dir, pdf_file_name)
+
+tables = camelot.read_pdf(pdf_file_path, pages=pages, encoding='utf-8')
 
 data = []
-for index, row in df.iterrows():
-	rowData = {
-		"no": row[0],
-		"age": '' if isinstance(row[1], float) and math.isnan(row[1]) else row[1],
-		"gender": '' if isinstance(row[2], float) and math.isnan(row[2]) else row[2],
-		"vaccinated_date": row[3],
-		"onset_dates": row[4].split('\n'), 
-		"days_to_onset": row[5],
-		"vaccine_name": row[6],
-		"manufacturer": row[7],
-		"lot_no": row[8],
-		"vaccinated_times": row[9],
-		"pre_existing_disease_names": row[10].split(';\n'),
-		"PT_names": row[11].split('\n'),
-		"gross_result_dates": row[12].split('\n'),
-		"gross_results": row[13].split('\n'),
-		"evaluated_PT": row[14],
-		"evaluated_result": row[15],
-		"brighton_classification": row[16],
-		"expert_opinion": '' if isinstance(row[17], float) and math.isnan(row[17]) else row[17].replace('\n', ''),
-		"remarks": '' if isinstance(row[18], float) and math.isnan(row[18]) else row[18].replace('\n', ''),
-		"source": {
-			"name": source_name,
-			"url": source_url
+for table in tables:
+	rowCount, _ = table.df.shape
+	for rowIndex in range(1, rowCount):
+		row = table.df.loc[rowIndex]
+
+		dto, vn, mf, ln, vt = extract_vaccine_name_etc(row[5], row[6])
+		no, age, gender = extract_age_gender(row[0], row[1])
+		
+		onset_dates = split_normal(row[4])
+		dNames = split_pre_existing_disease_names(row[7])
+		PT_names = extract_PT_names(row[8])
+		grd = split_normal(row[9])
+		gr = split_normal(row[10])
+
+		row = {
+			"no": no,
+			"age": age,
+			"gender": gender,
+			"vaccinated_date": row[3],
+			"onset_dates": onset_dates,
+			"days_to_onset": dto,
+			"vaccine_name": vn,
+			"manufacturer": mf,
+			"lot_no": ln,
+			"vaccinated_times": '',
+			"pre_existing_disease_names": dNames,
+			"PT_names": PT_names,
+			"gross_result_dates": grd,
+			"gross_results": gr,
+			"evaluated_PT": row[11],
+			"evaluated_result": row[12],
+			"brighton_classification": row[13],
+			"expert_opinion": row[14].replace('\n',''),
+			"remarks": row[15],
+			"source": {
+				"name": source_name,
+				"url": source_url
+			}
 		}
-	}
-	data.append(rowData)
+		
+		if row['no'] == '':
+			previous_row = data[len(data)-1]
+			separator = '\n'
+
+			# sourceは結合不要
+			keysOfStr = ['age', 'gender', 'vaccinated_date', 'days_to_onset', 'vaccine_name', 'manufacturer', 'lot_no',
+				'vaccinated_times', 'evaluated_PT', 'evaluated_result', 'brighton_classification', 'expert_opinion', 'remarks']
+			for sKey in keysOfStr:
+				if row[sKey] != '':
+					previous_row[sKey] = previous_row[sKey] + separator + row[sKey]
+			
+			keysOfList = ['onset_dates', 'pre_existing_disease_names', 'PT_names', 'gross_result_dates', 'gross_results']
+			for lKey in keysOfList:
+				if len(row[lKey]) > 0 and ''.join(row[lKey]) != '':
+					previous_row[lKey] += row[lKey]
+
+		else:
+			data.append(row)
 
 print(f'{len(data)} [件] 抽出しました')
 
 json_string = json.dumps(data, ensure_ascii=False, indent=2)
-output_file_path = os.path.join('reports-data', csv_file_name.replace('.csv','.json'))
-with open( output_file_path, "w", encoding='utf-8') as f:
-	f.write(json_string)
+
+file_name = pdf_file_name.rsplit('.', 1)[0]
+output_path = os.path.join(output_dir, file_name + '.json')
+with open( output_path, "w", encoding='utf-8') as f:
+    f.write(json_string)
