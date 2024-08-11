@@ -93,11 +93,10 @@ settings: [
   {
     manufacturer: '武田薬品工業株式会社',
     name: 'ヌバキソビッド筋注',
-    # 001197007 と同じ内容のため、こちらだけ抽出して使う
-    file: '001197905.pdf',
-    output: '001197905.json',
-    pages: '2-3',
-    script-version: v2
+    file: '001280767.csv',
+    output: '001280767.json',
+    pages: '',
+    script-version: ex1
   },
   {
     manufacturer: 'ファイザー株式会社',
