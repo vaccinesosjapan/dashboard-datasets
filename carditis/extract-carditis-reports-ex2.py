@@ -1,4 +1,4 @@
-import json, sys, math, os
+import json, sys, math, os, unicodedata
 import pandas as pd
 
 sys.path.append("../libraries")
@@ -54,7 +54,7 @@ for index, row in df.iterrows():
 		"vaccinated_date": row['接種日'],
 		"onset_dates": row['発生日'].split('\n'), 
 		"days_to_onset": row['接種から発生までの日数'],
-		"vaccine_name": row['ワクチン名'],
+		"vaccine_name": unicodedata.normalize("NFKC", row['ワクチン名']),
 		"manufacturer": row['製造販売業者'],
 		"lot_no": row['ロット番号'],
 		"vaccinated_times": '', # データスキーマの互換性のため空文字を設定する

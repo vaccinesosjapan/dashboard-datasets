@@ -40,17 +40,6 @@ settings: [
     },
     script-version: ex1
   },
-  # ロット番号まわりの抽出処理が不十分なため、下記で抽出したものを手作業で修正した
-  {
-    name: 'スパイクバックス筋注',
-    file: '001197011.pdf',
-    pages: '4',
-    source: {
-      name: '第100回',
-      url: 'https://www.mhlw.go.jp/content/10601000/001197011.pdf',
-    },
-    script-version: v2
-  },
   {
     name: 'コミナティRTU筋注（1価：オミクロン株XBB.1.5）',
     file: '001280774-myocarditis.csv',
@@ -71,4 +60,14 @@ settings: [
     },
     script-version: ex2
   },
+  {
+    name: 'スパイクバックス筋注 （1価：オミクロン株XBB.1.5）',
+    file: '001280775-myocarditis.csv',
+    pages: '',
+    source: {
+      name: '第102回',
+      url: 'https://www.mhlw.go.jp/content/10601000/001280775.pdf',
+    },
+    script-version: ex2
+  }
 ]
