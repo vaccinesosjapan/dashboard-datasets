@@ -41,6 +41,17 @@ settings: [
     script-version: ex1
   },
   {
+    name: 'ヌバキソビッド筋注',
+    file: '001280776-myocarditis.csv',
+    pages: '',
+    source: {
+      name: '第102回',
+      url: 'https://www.mhlw.go.jp/content/10601000/001280776.pdf',
+    },
+    script-version: ex2
+  },
+  ## 以降はXBB系
+  {
     name: 'コミナティ筋注（1価：オミクロン株XBB.1.5）',
     file: '001280774-myocarditis.csv',
     pages: '',
@@ -67,6 +78,16 @@ settings: [
     source: {
       name: '第102回',
       url: 'https://www.mhlw.go.jp/content/10601000/001280775.pdf',
+    },
+    script-version: ex2
+  },
+  {
+    name: 'コミナティ筋注５～11歳用（1価：オミクロン株XBB.1.5）',
+    file: '001280777-myocarditis.csv',
+    pages: '',
+    source: {
+      name: '第102回',
+      url: 'https://www.mhlw.go.jp/content/10601000/001280777.pdf',
     },
     script-version: ex2
   }

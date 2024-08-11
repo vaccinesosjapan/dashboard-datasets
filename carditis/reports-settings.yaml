@@ -11,12 +11,12 @@
 #
 settings: [
   {
-    name: 'ヌバキソビッド筋注',
-    file: '001280776-myocarditis.csv',
+    name: 'コミナティ筋注５～11歳用（1価：オミクロン株XBB.1.5）',
+    file: '001280777-myocarditis.csv',
     pages: '',
     source: {
       name: '第102回',
-      url: 'https://www.mhlw.go.jp/content/10601000/001280776.pdf',
+      url: 'https://www.mhlw.go.jp/content/10601000/001280777.pdf',
     },
     script-version: ex2
   }
