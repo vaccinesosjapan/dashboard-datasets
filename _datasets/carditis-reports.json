@@ -1,7 +1,46 @@
 [
   {
+    "no": 1,
+    "age": "",
+    "gender": "男性",
+    "vaccinated_date": "2022/12",
+    "onset_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "days_to_onset": "不明",
+    "vaccine_name": "ヌバキソビッド筋注",
+    "manufacturer": "ノババックス\n／武田",
+    "lot_no": "不明",
+    "vaccinated_times": "",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "アナフィラキシー反応",
+      "心筋炎"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "不明",
+      "不明"
+    ],
+    "evaluated_PT": "心筋炎",
+    "evaluated_result": "γ",
+    "brighton_classification": 4,
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第102回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001280776.pdf"
+    }
+  },
+  {
     "no": 82,
-    "age": "79",
+    "age": 79,
     "gender": "男性",
     "vaccinated_date": "2023/10/27",
     "onset_dates": [
@@ -16,7 +55,7 @@
     "lot_no": "不明",
     "vaccinated_times": "",
     "pre_existing_disease_names": [
-      "心房細動;",
+      "心房細動",
       "心筋梗塞"
     ],
     "PT_names": [
@@ -39,17 +78,17 @@
     ],
     "evaluated_PT": "心筋炎",
     "evaluated_result": "γ",
-    "brighton_classification": "4",
-    "expert_opinion": "コロナウイルスワクチンとインフルエンザワ\nクチンを同時に接種した症例である。\n　心筋炎と診断するには、客観的な情報の記\n載がなく困難である。アナフィラキシーに関\nしても、血圧低下を認めているが、皮膚症状\nや呼吸器症状の記載がなく、診断根拠となる\n情報が乏しい。\n　心筋炎は市中感染症などを契機として自然\n発生することが知られている疾患であり、ワ\nクチンによる心筋炎なのか、ワクチンとは関\n係の無い自然発生した心筋炎なのかを判別す\nることは困難である。そのため、ワクチンと\nの因果関係を有と判断することはできないと\n考えた。",
+    "brighton_classification": 4,
+    "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第101回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001244797.pdf"
+      "name": "第102回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001280774.pdf"
     }
   },
   {
     "no": 94,
-    "age": "74",
+    "age": 74,
     "gender": "男性",
     "vaccinated_date": "2023/10/26",
     "onset_dates": [
@@ -62,9 +101,9 @@
     "lot_no": "HG2346",
     "vaccinated_times": "",
     "pre_existing_disease_names": [
-      "アルコール摂取;",
-      "タバコ使用者;",
-      "慢性心不全;",
+      "アルコール摂取",
+      "タバコ使用者",
+      "慢性心不全",
       "直腸癌"
     ],
     "PT_names": [
@@ -81,17 +120,17 @@
     ],
     "evaluated_PT": "心筋炎",
     "evaluated_result": "γ",
-    "brighton_classification": "4",
+    "brighton_classification": 4,
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第101回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001244797.pdf"
+      "name": "第102回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001280774.pdf"
     }
   },
   {
-    "no": 106,
-    "age": "20",
+    "no": 105,
+    "age": "20代",
     "gender": "",
     "vaccinated_date": "不明",
     "onset_dates": [
@@ -99,7 +138,7 @@
       "未記入"
     ],
     "days_to_onset": "不明",
-    "vaccine_name": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)",
+    "vaccine_name": "コミナティ筋注(1価:オミクロン株XBB.1.5)",
     "manufacturer": "ファイザー",
     "lot_no": "不明",
     "vaccinated_times": "",
@@ -120,12 +159,399 @@
     ],
     "evaluated_PT": "心筋炎",
     "evaluated_result": "γ",
-    "brighton_classification": "4",
+    "brighton_classification": 4,
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第101回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001244797.pdf"
+      "name": "第102回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001280774.pdf"
+    }
+  },
+  {
+    "no": 174,
+    "age": 70,
+    "gender": "男性",
+    "vaccinated_date": "2023/10/12",
+    "onset_dates": [
+      "2023/10/22",
+      "2023/10/24",
+      "2023/10/22",
+      "2023/10/15",
+      "2023/10/19",
+      "2023/10/19",
+      "2023/10/22",
+      "2023/10/19"
+    ],
+    "days_to_onset": "3",
+    "vaccine_name": "コミナティ筋注(1価:オミクロン株XBB.1.5)",
+    "manufacturer": "ファイザー",
+    "lot_no": "不明",
+    "vaccinated_times": "",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心不全",
+      "肺うっ血",
+      "心嚢液貯留",
+      "発熱",
+      "ワクチン接種部位発疹",
+      "スチル病",
+      "心筋炎",
+      "多形紅斑"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "2023/10/27",
+      "2023/12/14"
+    ],
+    "gross_results": [
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "軽快",
+      "回復",
+      "回復"
+    ],
+    "evaluated_PT": "心筋炎",
+    "evaluated_result": "γ",
+    "brighton_classification": 4,
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第102回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001280774.pdf"
+    }
+  },
+  {
+    "no": 186,
+    "age": 17,
+    "gender": "男性",
+    "vaccinated_date": "2023/12/9",
+    "onset_dates": [
+      "2023/12/12"
+    ],
+    "days_to_onset": "3",
+    "vaccine_name": "コミナティ筋注(1価:オミクロン株XBB.1.5)",
+    "manufacturer": "ファイザー",
+    "lot_no": "不明",
+    "vaccinated_times": "",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心筋炎"
+    ],
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "evaluated_PT": "心筋炎",
+    "evaluated_result": "γ",
+    "brighton_classification": 4,
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第102回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001280774.pdf"
+    }
+  },
+  {
+    "no": 192,
+    "age": 70,
+    "gender": "男性",
+    "vaccinated_date": "2023/11/2",
+    "onset_dates": [
+      "2023/11/10",
+      "2023/11/10",
+      "2023/11/10",
+      "2023/11/10",
+      "2023/11/10",
+      "2023/11/10",
+      "2023/11/10",
+      "2023/11/10",
+      "2023/11/10",
+      "2023/12/26"
+    ],
+    "days_to_onset": 8,
+    "vaccine_name": "コミナティ筋注(1価:オミクロン株XBB.1.5)",
+    "manufacturer": "ファイザー",
+    "lot_no": "不明",
+    "vaccinated_times": "",
+    "pre_existing_disease_names": [
+      ""
+    ],
+    "PT_names": [
+      "心膜炎",
+      "胸膜炎",
+      "右脚ブロック",
+      "胸痛",
+      "呼吸困難",
+      "胸水",
+      "胸部不快感",
+      "心拡大",
+      "心嚢液貯留",
+      "浮腫"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "未回復",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明"
+    ],
+    "evaluated_PT": "心膜炎",
+    "evaluated_result": "γ",
+    "brighton_classification": 2,
+    "expert_opinion": "心膜炎は市中感染症などを契機として自然発生することが知られている疾患であり、ワクチンによる心膜炎か、ワクチンとは関係の無い自然発生した心膜炎なのかを判別することは困難である。",
+    "remarks": "",
+    "source": {
+      "name": "第102回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001280774.pdf"
+    }
+  },
+  {
+    "no": 215,
+    "age": "",
+    "gender": "男性",
+    "vaccinated_date": "不明",
+    "onset_dates": [
+      "未記入"
+    ],
+    "days_to_onset": "不明",
+    "vaccine_name": "コミナティ筋注(1価:オミクロン株XBB.1.5)",
+    "manufacturer": "ファイザー",
+    "lot_no": "不明",
+    "vaccinated_times": "",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心筋炎"
+    ],
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "回復"
+    ],
+    "evaluated_PT": "心筋炎",
+    "evaluated_result": "γ",
+    "brighton_classification": 4,
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第102回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001280774.pdf"
+    }
+  },
+  {
+    "no": 219,
+    "age": "",
+    "gender": "女性",
+    "vaccinated_date": "不明",
+    "onset_dates": [
+      "未記入"
+    ],
+    "days_to_onset": "不明",
+    "vaccine_name": "コミナティ筋注(1価:オミクロン株XBB.1.5)",
+    "manufacturer": "ファイザー",
+    "lot_no": "不明",
+    "vaccinated_times": "",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心筋炎"
+    ],
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "不明"
+    ],
+    "evaluated_PT": "心筋炎",
+    "evaluated_result": "γ",
+    "brighton_classification": 4,
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第102回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001280774.pdf"
+    }
+  },
+  {
+    "no": 227,
+    "age": 13,
+    "gender": "男性",
+    "vaccinated_date": "2023/10/07",
+    "onset_dates": [
+      "2023/10/08"
+    ],
+    "days_to_onset": 1,
+    "vaccine_name": "スパイクバックス筋注(1価:オミクロン株XBB.1.5)",
+    "manufacturer": "モデルナ",
+    "lot_no": "710004A",
+    "vaccinated_times": "",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心筋炎"
+    ],
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "evaluated_PT": "心筋炎",
+    "evaluated_result": "γ",
+    "brighton_classification": 1,
+    "expert_opinion": "今回の経過からは、4回目のワクチン接種と心筋炎発症との関連性が疑われる。一方で、3回目の接種の際には無症候で、かつ今回のワクチンは、類似の経過をたどった2回目とは異なるメーカー製品であったことから、原因がワクチン以外である可能性についても考察が必要と思われる。心筋炎の多くはウィルスなどの感染を契機に発症するが、抗炎症薬(例:インドメタシン)、膠原病やサルコイドーシスといった全身性疾患でも起こりえる。また、ある種の薬物(例:エフェドリン)の摂取による心筋障害も報告されている。本症例では、感染や併用薬、自己免疫疾患の病歴の有無などの情報について不足しており、現時点では肯定も否定もできない。",
+    "remarks": "注：「No」は、全新型コロナワクチンに係る副反応疑い報告（製造販売業者からの報告）の通番。2024年4月21日現在",
+    "source": {
+      "name": "第102回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001280775.pdf"
+    }
+  },
+  {
+    "no": 281,
+    "age": 29,
+    "gender": "男性",
+    "vaccinated_date": "2022/08/17",
+    "onset_dates": [
+      "2022/08/18",
+      "2022/08/18",
+      "2022/08/18",
+      "2022/08/18",
+      "2022/08/18"
+    ],
+    "days_to_onset": "1",
+    "vaccine_name": "ヌバキソビッド筋注",
+    "manufacturer": "ノババックス\n／武田",
+    "lot_no": "NP001",
+    "vaccinated_times": "",
+    "pre_existing_disease_names": [
+      "心房中隔欠損症"
+    ],
+    "PT_names": [
+      "心肺停止",
+      "心臓死",
+      "心筋炎",
+      "肺水腫",
+      "心拡大"
+    ],
+    "gross_result_dates": [
+      "2022/08/182022/08/18"
+    ],
+    "gross_results": [
+      "死亡",
+      "死亡",
+      "不明",
+      "不明",
+      "不明"
+    ],
+    "evaluated_PT": "心筋炎",
+    "evaluated_result": "γ",
+    "brighton_classification": 4,
+    "expert_opinion": "",
+    "remarks": "注：「No」は、全新型コロナワクチンに係る副反応疑い報告（製造販売業者からの報告）の通番。2024年4月21日現在",
+    "source": {
+      "name": "第102回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001280776.pdf"
+    }
+  },
+  {
+    "no": 306,
+    "age": 6,
+    "gender": "女性",
+    "vaccinated_date": "2023/10/07",
+    "onset_dates": [
+      "2023/10/22",
+      "2023/10/22",
+      "2023/10/22",
+      "2023/10/07",
+      "2023/10/16",
+      "2023/10/16"
+    ],
+    "days_to_onset": 0,
+    "vaccine_name": "コミナティ筋注5~11歳用(1価:オミクロン株XBB.1.5)",
+    "manufacturer": "ファイザー",
+    "lot_no": "HH6774",
+    "vaccinated_times": "",
+    "pre_existing_disease_names": [
+      "ケロイド瘢痕",
+      "不整脈",
+      "傾眠",
+      "入院",
+      "嘔吐",
+      "心不全",
+      "心筋炎",
+      "房室ブロック",
+      "発疹",
+      "肺補助デバイス治療",
+      "腹痛",
+      "駆出率減少"
+    ],
+    "PT_names": [
+      "房室ブロック",
+      "徐脈",
+      "脚ブロック",
+      "不適切な製品適用計画",
+      "鼻部障害",
+      "心筋炎"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "2023/11/02"
+    ],
+    "gross_results": [
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "回復"
+    ],
+    "evaluated_PT": "心筋炎",
+    "evaluated_result": "γ",
+    "brighton_classification": 1,
+    "expert_opinion": "心筋炎に関しては市中感染症などを契機として自然発生することが知られている疾患であり、ワクチンによる心筋炎なのか、ワクチンとは関係の無い自然発生した心筋炎なのかを判別することは困難である。",
+    "remarks": "",
+    "source": {
+      "name": "第102回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001280777.pdf"
     }
   },
   {
@@ -30598,92 +31024,6 @@
     "source": {
       "name": "第100回",
       "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
-    }
-  },
-  {
-    "no": 28107,
-    "age": "13",
-    "gender": "男性",
-    "vaccinated_date": "2023/10/07",
-    "onset_dates": [
-      "2023/10/08"
-    ],
-    "days_to_onset": "1",
-    "vaccine_name": "スパイクバックス筋注（１価：オミクロン株XBB.1.5）",
-    "manufacturer": "モデルナ",
-    "lot_no": "710004A",
-    "vaccinated_times": "",
-    "pre_existing_disease_names": [
-      "報告なし"
-    ],
-    "PT_names": [
-      "心筋炎"
-    ],
-    "gross_result_dates": [
-      "未記入"
-    ],
-    "gross_results": [
-      "軽快"
-    ],
-    "evaluated_PT": "心筋炎",
-    "evaluated_result": "γ",
-    "brighton_classification": "1",
-    "expert_opinion": "今回の経過からは、4回目のワクチン接種と心筋炎発症との関連性が疑われる。一方で、3回目の接種の際には無症候で、かつ今回のワクチンは、類似の経過をたどった2回目とは異なるメーカー製品であったことから、原因がワクチン以外である可能性についても考察が必要と思われる。心筋炎の多くはウィルスなどの感染を契機に発症するが、抗炎症薬(例:インドメタシン)、膠原病やサルコイドーシスといった全身性疾患でも起こりえる。また、ある種の薬物(例:エフェドリン)の摂取による心筋障害も報告されている。本症例では、感染や併用薬、自己免疫疾患の病歴の有無などの情報について不足しており、現時点では肯定も否定もできない。",
-    "remarks": "",
-    "source": {
-      "name": "第100回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001197011.pdf"
-    }
-  },
-  {
-    "no": 28141,
-    "age": "29歳",
-    "gender": "男性",
-    "vaccinated_date": "2022/08/17",
-    "onset_dates": [
-      "2022/08/18",
-      "2022/08/18",
-      "2022/08/18",
-      "2022/08/18",
-      "2022/08/18"
-    ],
-    "days_to_onset": "1",
-    "vaccine_name": "ヌバキソビッド筋注",
-    "manufacturer": "ノババックス / 武田",
-    "lot_no": "NP001",
-    "vaccinated_times": "2回目",
-    "pre_existing_disease_names": [
-      "心房中隔欠損症"
-    ],
-    "PT_names": [
-      "心肺停止",
-      "心臓死",
-      "心筋炎",
-      "肺水腫",
-      "心拡大"
-    ],
-    "gross_result_dates": [
-      "2022/08/18",
-      "2022/08/18",
-      "未記入",
-      "未記入",
-      "未記入"
-    ],
-    "gross_results": [
-      "死亡",
-      "死亡",
-      "不明",
-      "不明",
-      "不明"
-    ],
-    "evaluated_PT": "心筋炎",
-    "evaluated_result": "γ",
-    "brighton_classification": "4",
-    "expert_opinion": "心肺停止から突然死に至った原因として心筋炎の可能性を示唆する記載があるが、心筋炎が起こっていたことを示唆する客観的な情報が不足しており、心肺停止の原因は不明である。死亡がワクチン接種により起きたものか、ワクチン接種に関係なく起きたものなのかを判断することは困難である。",
-    "remarks": "",
-    "source": {
-      "name": "第100回",
-      "url": "https://www.mhlw.go.jp/content/10601000/001197963.pdf"
     }
   },
   {

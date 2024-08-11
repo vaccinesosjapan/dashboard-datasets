@@ -1,7 +1,7 @@
 import glob, json
 
 def sum_carditis_reports(file_name_prefix, data_type):
-	jsonFileList = glob.glob(f'reports-data/{file_name_prefix}-{data_type}-*.json')
+	jsonFileList = glob.glob(f'reports-data/{file_name_prefix}-{data_type}*.json')
 
 	carditis_reports = []
 	for file in jsonFileList:
