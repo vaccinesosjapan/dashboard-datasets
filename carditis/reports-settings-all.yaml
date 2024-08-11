@@ -41,7 +41,7 @@ settings: [
     script-version: ex1
   },
   {
-    name: 'コミナティRTU筋注（1価：オミクロン株XBB.1.5）',
+    name: 'コミナティ筋注（1価：オミクロン株XBB.1.5）',
     file: '001280774-myocarditis.csv',
     pages: '',
     source: {
@@ -51,7 +51,7 @@ settings: [
     script-version: ex2
   },
   {
-    name: 'コミナティRTU筋注（1価：オミクロン株XBB.1.5）',
+    name: 'コミナティ筋注（1価：オミクロン株XBB.1.5）',
     file: '001280774-pericarditis.csv',
     pages: '',
     source: {

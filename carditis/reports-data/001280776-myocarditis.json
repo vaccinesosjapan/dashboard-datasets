@@ -1,0 +1,88 @@
+[
+  {
+    "no": 1,
+    "age": "",
+    "gender": "男性",
+    "vaccinated_date": "2022/12",
+    "onset_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "days_to_onset": "不明",
+    "vaccine_name": "ヌバキソビッド筋注",
+    "manufacturer": "ノババックス\n／武田",
+    "lot_no": "不明",
+    "vaccinated_times": "",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "アナフィラキシー反応",
+      "心筋炎"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "不明",
+      "不明"
+    ],
+    "evaluated_PT": "心筋炎",
+    "evaluated_result": "γ",
+    "brighton_classification": 4,
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第102回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001280776.pdf"
+    }
+  },
+  {
+    "no": 281,
+    "age": 29,
+    "gender": "男性",
+    "vaccinated_date": "2022/08/17",
+    "onset_dates": [
+      "2022/08/18",
+      "2022/08/18",
+      "2022/08/18",
+      "2022/08/18",
+      "2022/08/18"
+    ],
+    "days_to_onset": "1",
+    "vaccine_name": "ヌバキソビッド筋注",
+    "manufacturer": "ノババックス\n／武田",
+    "lot_no": "NP001",
+    "vaccinated_times": "",
+    "pre_existing_disease_names": [
+      "心房中隔欠損症"
+    ],
+    "PT_names": [
+      "心肺停止",
+      "心臓死",
+      "心筋炎",
+      "肺水腫",
+      "心拡大"
+    ],
+    "gross_result_dates": [
+      "2022/08/182022/08/18"
+    ],
+    "gross_results": [
+      "死亡",
+      "死亡",
+      "不明",
+      "不明",
+      "不明"
+    ],
+    "evaluated_PT": "心筋炎",
+    "evaluated_result": "γ",
+    "brighton_classification": 4,
+    "expert_opinion": "",
+    "remarks": "注：「No」は、全新型コロナワクチンに係る副反応疑い報告（製造販売業者からの報告）の通番。2024年4月21日現在",
+    "source": {
+      "name": "第102回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001280776.pdf"
+    }
+  }
+]
