@@ -9,3 +9,12 @@
 * `lot_no`は文字列にすること（"lot_no":9999）というように数字として記載してしまうと、フロントエンド側が内部でエラー起こす。
   * これについてフロントエンド側でタイプチェックしてエラーが起きないようにするという処置も考えられたが、パフォーマンスが著しく低下するためデータを修正するようにした。
   * 問題箇所の有無をチェックするには、VSCodeなどの検索ツールで正規表現をOnにして「"lot_no": [^" ]」や「"lot_no":[^" ]」を検索すればよい。
+
+## 手順
+
+1. 新しいPDFを`pdf-files`フォルダにダウンロードする
+1. ダウンロードしたPDFのファイル名やリンクURLなどを`reports-settings.yaml`に記入する
+1. `create-medial-institution-reports-v1.py`を実行する
+1. エラーなく処理が完了したら、`reports-settings.yaml`の内容を`reports-settings-all.yaml`の末尾に追記する
+1. PDFから読み取った日付などを`summary-metadata.yaml`に記入する
+1. `sum-medical-institution-reports-v1.py`を実行する

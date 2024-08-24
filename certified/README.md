@@ -58,3 +58,11 @@ python sum-certified-reports-v1.py
 ```sh
 python sum-trends.py
 ```
+
+## 審議結果の総数や認定比率を算出する
+
+毎回の認定/否認の件数や認定比率、累計の認定/否認の件数や認定比率を算出してデータファイルに保存します。
+
+```sh
+python sum-judged-data.py
+```
