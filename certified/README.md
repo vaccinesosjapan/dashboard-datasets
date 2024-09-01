@@ -66,3 +66,5 @@ python sum-trends.py
 ```sh
 python sum-judged-data.py
 ```
+
+ダッシュボードを手元で起動し、上述の手順で生成した新しいデータを用いて表示する。件数や認定比率のグラフを、フルHD画面で最大化したChromeの画面上でSVG画像として保存し`_datasets/images`フォルダに保存する。
