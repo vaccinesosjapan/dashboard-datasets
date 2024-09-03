@@ -139,8 +139,8 @@
     "name": "IgA腎症",
     "counts": {
       "male": 8,
-      "female": 33,
-      "sum": 41
+      "female": 34,
+      "sum": 42
     }
   },
   {
@@ -187,8 +187,8 @@
     "name": "IgA血管炎",
     "counts": {
       "male": 9,
-      "female": 10,
-      "sum": 19
+      "female": 11,
+      "sum": 20
     }
   },
   {
@@ -571,8 +571,8 @@
     "name": "てんかん発作",
     "counts": {
       "male": 4,
-      "female": 5,
-      "sum": 9
+      "female": 6,
+      "sum": 10
     }
   },
   {
@@ -2723,8 +2723,8 @@
     "name": "両ぶどう膜炎",
     "counts": {
       "male": 0,
-      "female": 1,
-      "sum": 1
+      "female": 2,
+      "sum": 2
     }
   },
   {
@@ -3090,9 +3090,9 @@
   {
     "name": "両下肢運動機能障害",
     "counts": {
-      "male": 3,
+      "male": 4,
       "female": 0,
-      "sum": 3
+      "sum": 4
     }
   },
   {
@@ -3440,6 +3440,14 @@
     }
   },
   {
+    "name": "両強膜炎",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
     "name": "両急性結膜炎",
     "counts": {
       "male": 1,
@@ -3572,6 +3580,14 @@
     "counts": {
       "male": 0,
       "female": 1,
+      "sum": 1
+    }
+  },
+  {
+    "name": "両手関節・手指関節痛",
+    "counts": {
+      "male": 1,
+      "female": 0,
       "sum": 1
     }
   },
@@ -4945,6 +4961,14 @@
   },
   {
     "name": "前頭部痛",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
+    "name": "前頸部・前頭部・前胸部皮疹",
     "counts": {
       "male": 0,
       "female": 1,
@@ -7040,6 +7064,14 @@
     }
   },
   {
+    "name": "呼吸機能障害",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
     "name": "呼吸筋麻痺",
     "counts": {
       "male": 0,
@@ -7179,8 +7211,8 @@
     "name": "咽頭痛",
     "counts": {
       "male": 12,
-      "female": 16,
-      "sum": 28
+      "female": 17,
+      "sum": 29
     }
   },
   {
@@ -8235,8 +8267,8 @@
     "name": "多発関節炎",
     "counts": {
       "male": 5,
-      "female": 4,
-      "sum": 9
+      "female": 5,
+      "sum": 10
     }
   },
   {
@@ -9114,9 +9146,9 @@
   {
     "name": "左上肢疼痛",
     "counts": {
-      "male": 2,
+      "male": 3,
       "female": 6,
-      "sum": 8
+      "sum": 9
     }
   },
   {
@@ -9968,6 +10000,14 @@
     }
   },
   {
+    "name": "左内頸動脈閉塞症",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
     "name": "左前大脳動脈瘤",
     "counts": {
       "male": 0,
@@ -10537,6 +10577,14 @@
   },
   {
     "name": "左手部痛",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
+    "name": "左手部発赤・腫脹・熱感",
     "counts": {
       "male": 1,
       "female": 0,
@@ -11386,9 +11434,9 @@
   {
     "name": "左肩関節炎",
     "counts": {
-      "male": 1,
+      "male": 2,
       "female": 2,
-      "sum": 3
+      "sum": 4
     }
   },
   {
@@ -12971,8 +13019,8 @@
     "name": "急性尿細管間質性腎炎",
     "counts": {
       "male": 0,
-      "female": 2,
-      "sum": 2
+      "female": 3,
+      "sum": 3
     }
   },
   {
@@ -13403,8 +13451,8 @@
     "name": "急性肺血栓塞栓症",
     "counts": {
       "male": 0,
-      "female": 3,
-      "sum": 3
+      "female": 4,
+      "sum": 4
     }
   },
   {
@@ -14459,8 +14507,8 @@
     "name": "掌蹠膿疱症",
     "counts": {
       "male": 0,
-      "female": 1,
-      "sum": 1
+      "female": 2,
+      "sum": 2
     }
   },
   {
@@ -14995,8 +15043,8 @@
     "name": "歩行障害",
     "counts": {
       "male": 4,
-      "female": 6,
-      "sum": 10
+      "female": 7,
+      "sum": 11
     }
   },
   {
@@ -15341,6 +15389,14 @@
       "male": 5,
       "female": 12,
       "sum": 17
+    }
+  },
+  {
+    "name": "混合性結合組織病の再燃",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
     }
   },
   {
@@ -15819,8 +15875,8 @@
     "name": "発熱",
     "counts": {
       "male": 195,
-      "female": 284,
-      "sum": 479
+      "female": 285,
+      "sum": 480
     }
   },
   {
@@ -15920,6 +15976,14 @@
     }
   },
   {
+    "name": "白質脳症",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
     "name": "皮下出血",
     "counts": {
       "male": 0,
@@ -16004,6 +16068,14 @@
     "counts": {
       "male": 0,
       "female": 1,
+      "sum": 1
+    }
+  },
+  {
+    "name": "皮膚白血球破砕性血管炎",
+    "counts": {
+      "male": 1,
+      "female": 0,
       "sum": 1
     }
   },
@@ -16193,6 +16265,14 @@
   },
   {
     "name": "硬膜下出血",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
+    "name": "神経Sweet病",
     "counts": {
       "male": 1,
       "female": 0,
@@ -16472,6 +16552,14 @@
     }
   },
   {
+    "name": "精神機能障害",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
     "name": "糖尿病",
     "counts": {
       "male": 0,
@@ -16669,6 +16757,14 @@
       "male": 0,
       "female": 2,
       "sum": 2
+    }
+  },
+  {
+    "name": "続発性緑内障",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
     }
   },
   {
@@ -18072,6 +18168,14 @@
     }
   },
   {
+    "name": "腎梗塞",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
     "name": "腎機能不全",
     "counts": {
       "male": 0,
@@ -18451,8 +18555,16 @@
     "name": "自己免疫介在性脳炎・脳症",
     "counts": {
       "male": 0,
-      "female": 2,
-      "sum": 2
+      "female": 3,
+      "sum": 3
+    }
+  },
+  {
+    "name": "自己免疫性GFAPアストロサイトパチー",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
     }
   },
   {
@@ -18483,8 +18595,8 @@
     "name": "自己免疫性脳炎",
     "counts": {
       "male": 2,
-      "female": 0,
-      "sum": 2
+      "female": 1,
+      "sum": 3
     }
   },
   {
@@ -19400,6 +19512,14 @@
     }
   },
   {
+    "name": "認知機能障害",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
     "name": "認知症の増悪",
     "counts": {
       "male": 0,
@@ -19529,6 +19649,14 @@
   },
   {
     "name": "軽度知能障害",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
+    "name": "辺縁系脳炎の疑い",
     "counts": {
       "male": 1,
       "female": 0,
@@ -19794,9 +19922,9 @@
   {
     "name": "間質性肺炎の急性増悪",
     "counts": {
-      "male": 12,
+      "male": 13,
       "female": 5,
-      "sum": 17
+      "sum": 18
     }
   },
   {
@@ -19899,8 +20027,8 @@
     "name": "関節炎",
     "counts": {
       "male": 1,
-      "female": 3,
-      "sum": 4
+      "female": 4,
+      "sum": 5
     }
   },
   {
@@ -20792,6 +20920,14 @@
     }
   },
   {
+    "name": "髄膜脳炎による四肢麻痺",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
     "name": "高CK 血症",
     "counts": {
       "male": 0,
@@ -20858,9 +20994,9 @@
   {
     "name": "高次脳機能障害",
     "counts": {
-      "male": 6,
+      "male": 7,
       "female": 1,
-      "sum": 7
+      "sum": 8
     }
   },
   {
