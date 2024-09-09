@@ -10,15 +10,15 @@
     },
     {
       "name": "急性アレルギー反応",
-      "count": 270
+      "count": 272
     },
     {
       "name": "頭痛",
-      "count": 221
+      "count": 222
     },
     {
       "name": "左肩関節周囲炎",
-      "count": 179
+      "count": 180
     },
     {
       "name": "アナフィラキシー様症状",
@@ -26,11 +26,11 @@
     },
     {
       "name": "倦怠感",
-      "count": 156
+      "count": 157
     },
     {
       "name": "嘔気",
-      "count": 98
+      "count": 99
     },
     {
       "name": "中毒疹",
@@ -38,7 +38,7 @@
     },
     {
       "name": "嘔吐",
-      "count": 80
+      "count": 81
     }
   ],
   "male_counts": [
@@ -48,23 +48,23 @@
     },
     {
       "name": "発熱",
-      "count": 195
+      "count": 196
     },
     {
       "name": "頭痛",
-      "count": 140
+      "count": 141
     },
     {
       "name": "アナフィラキシー",
-      "count": 123
+      "count": 124
+    },
+    {
+      "name": "突然死",
+      "count": 117
     },
     {
       "name": "急性心筋炎",
       "count": 113
-    },
-    {
-      "name": "突然死",
-      "count": 111
     },
     {
       "name": "倦怠感",
@@ -76,7 +76,7 @@
     },
     {
       "name": "脳梗塞",
-      "count": 97
+      "count": 98
     },
     {
       "name": "急性心膜炎",
@@ -86,43 +86,43 @@
   "sum_counts": [
     {
       "name": "アナフィラキシー",
-      "count": 688
+      "count": 689
     },
     {
       "name": "発熱",
-      "count": 480
+      "count": 481
     },
     {
       "name": "頭痛",
-      "count": 361
+      "count": 363
     },
     {
       "name": "急性アレルギー反応",
-      "count": 337
+      "count": 339
     },
     {
       "name": "左肩関節周囲炎",
-      "count": 280
+      "count": 281
     },
     {
       "name": "倦怠感",
-      "count": 262
+      "count": 263
     },
     {
       "name": "急性心膜心筋炎",
       "count": 248
     },
     {
+      "name": "突然死",
+      "count": 198
+    },
+    {
       "name": "アナフィラキシー様症状",
       "count": 192
     },
     {
-      "name": "突然死",
-      "count": 190
-    },
-    {
       "name": "脳梗塞",
-      "count": 163
+      "count": 165
     }
   ]
 }
