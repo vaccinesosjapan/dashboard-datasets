@@ -144,6 +144,14 @@
     }
   },
   {
+    "name": "IgA腎症の再燃",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
     "name": "IgA腎症の再発",
     "counts": {
       "male": 0,
@@ -219,8 +227,8 @@
     "name": "I型糖尿病",
     "counts": {
       "male": 2,
-      "female": 4,
-      "sum": 6
+      "female": 5,
+      "sum": 7
     }
   },
   {
@@ -410,9 +418,9 @@
   {
     "name": "くも膜下出血",
     "counts": {
-      "male": 20,
-      "female": 42,
-      "sum": 62
+      "male": 22,
+      "female": 44,
+      "sum": 66
     }
   },
   {
@@ -1368,6 +1376,14 @@
     }
   },
   {
+    "name": "パニック障害の悪化",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
     "name": "パーキンソニズム増悪",
     "counts": {
       "male": 0,
@@ -1555,8 +1571,8 @@
     "name": "リウマチ性多発筋痛症",
     "counts": {
       "male": 12,
-      "female": 17,
-      "sum": 29
+      "female": 18,
+      "sum": 30
     }
   },
   {
@@ -1869,6 +1885,14 @@
       "male": 0,
       "female": 2,
       "sum": 2
+    }
+  },
+  {
+    "name": "一過性視力低下",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
     }
   },
   {
@@ -4242,9 +4266,9 @@
   {
     "name": "倦怠感",
     "counts": {
-      "male": 106,
-      "female": 158,
-      "sum": 264
+      "male": 107,
+      "female": 159,
+      "sum": 266
     }
   },
   {
@@ -4299,8 +4323,8 @@
     "name": "免疫性血小板減少性紫斑病",
     "counts": {
       "male": 25,
-      "female": 38,
-      "sum": 63
+      "female": 39,
+      "sum": 64
     }
   },
   {
@@ -4427,8 +4451,8 @@
     "name": "全身の疼痛",
     "counts": {
       "male": 0,
-      "female": 1,
-      "sum": 1
+      "female": 2,
+      "sum": 2
     }
   },
   {
@@ -4658,9 +4682,9 @@
   {
     "name": "全身疼痛",
     "counts": {
-      "male": 2,
+      "male": 3,
       "female": 5,
-      "sum": 7
+      "sum": 8
     }
   },
   {
@@ -5138,9 +5162,9 @@
   {
     "name": "動悸",
     "counts": {
-      "male": 30,
+      "male": 31,
       "female": 54,
-      "sum": 84
+      "sum": 85
     }
   },
   {
@@ -7426,9 +7450,9 @@
   {
     "name": "嘔吐",
     "counts": {
-      "male": 51,
-      "female": 81,
-      "sum": 132
+      "male": 52,
+      "female": 82,
+      "sum": 134
     }
   },
   {
@@ -7451,8 +7475,8 @@
     "name": "嘔気",
     "counts": {
       "male": 50,
-      "female": 99,
-      "sum": 149
+      "female": 100,
+      "sum": 150
     }
   },
   {
@@ -7885,6 +7909,14 @@
       "male": 0,
       "female": 2,
       "sum": 2
+    }
+  },
+  {
+    "name": "四肢脱力・感覚障害",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
     }
   },
   {
@@ -8578,9 +8610,9 @@
   {
     "name": "好酸球性多発血管炎性肉芽腫症",
     "counts": {
-      "male": 5,
+      "male": 6,
       "female": 3,
-      "sum": 8
+      "sum": 9
     }
   },
   {
@@ -8944,6 +8976,14 @@
     }
   },
   {
+    "name": "左上下肢筋力低下・感覚障害",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
     "name": "左上下肢脱力",
     "counts": {
       "male": 1,
@@ -9011,8 +9051,8 @@
     "name": "左上肢のしびれ",
     "counts": {
       "male": 1,
-      "female": 7,
-      "sum": 8
+      "female": 8,
+      "sum": 9
     }
   },
   {
@@ -12626,9 +12666,9 @@
   {
     "name": "心室細動",
     "counts": {
-      "male": 35,
+      "male": 36,
       "female": 3,
-      "sum": 38
+      "sum": 39
     }
   },
   {
@@ -12834,9 +12874,9 @@
   {
     "name": "心肺停止",
     "counts": {
-      "male": 44,
+      "male": 46,
       "female": 36,
-      "sum": 80
+      "sum": 82
     }
   },
   {
@@ -13435,8 +13475,8 @@
     "name": "急性心臓死",
     "counts": {
       "male": 11,
-      "female": 4,
-      "sum": 15
+      "female": 5,
+      "sum": 16
     }
   },
   {
@@ -14954,9 +14994,9 @@
   {
     "name": "易疲労感",
     "counts": {
-      "male": 1,
+      "male": 2,
       "female": 2,
-      "sum": 3
+      "sum": 4
     }
   },
   {
@@ -16130,9 +16170,9 @@
   {
     "name": "発熱",
     "counts": {
-      "male": 197,
+      "male": 199,
       "female": 288,
-      "sum": 485
+      "sum": 487
     }
   },
   {
@@ -17978,9 +18018,9 @@
   {
     "name": "脳出血",
     "counts": {
-      "male": 30,
+      "male": 32,
       "female": 23,
-      "sum": 53
+      "sum": 55
     }
   },
   {
@@ -18704,6 +18744,14 @@
     }
   },
   {
+    "name": "腹部・四肢の紫斑",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
     "name": "腹部・臀部の紅色丘疹",
     "counts": {
       "male": 0,
@@ -18714,9 +18762,9 @@
   {
     "name": "腹部大動脈瘤破裂",
     "counts": {
-      "male": 1,
+      "male": 4,
       "female": 0,
-      "sum": 1
+      "sum": 4
     }
   },
   {
@@ -19226,9 +19274,9 @@
   {
     "name": "虚血性心不全の疑い",
     "counts": {
-      "male": 2,
+      "male": 3,
       "female": 1,
-      "sum": 3
+      "sum": 4
     }
   },
   {
@@ -19866,9 +19914,9 @@
   {
     "name": "誤嚥性肺炎",
     "counts": {
-      "male": 20,
+      "male": 22,
       "female": 11,
-      "sum": 31
+      "sum": 33
     }
   },
   {
@@ -20634,9 +20682,9 @@
   {
     "name": "頭痛",
     "counts": {
-      "male": 142,
-      "female": 222,
-      "sum": 364
+      "male": 143,
+      "female": 223,
+      "sum": 366
     }
   },
   {
