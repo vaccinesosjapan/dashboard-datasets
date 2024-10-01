@@ -1330,8 +1330,8 @@ settings: [
     output: '001266553.json',
     pages: '',
     expected_count: {
-      certified: 46,
-      repudiation: 58
+      certified: 93,
+      repudiation: 24
     },
     reason-type: 'TypeB',
     script-version: v2,
