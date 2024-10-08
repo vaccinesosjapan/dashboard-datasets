@@ -418,9 +418,9 @@
   {
     "name": "くも膜下出血",
     "counts": {
-      "male": 22,
-      "female": 44,
-      "sum": 66
+      "male": 23,
+      "female": 45,
+      "sum": 68
     }
   },
   {
@@ -555,8 +555,8 @@
     "name": "せん妄",
     "counts": {
       "male": 1,
-      "female": 2,
-      "sum": 3
+      "female": 3,
+      "sum": 4
     }
   },
   {
@@ -586,9 +586,9 @@
   {
     "name": "てんかん発作",
     "counts": {
-      "male": 4,
+      "male": 5,
       "female": 6,
-      "sum": 10
+      "sum": 11
     }
   },
   {
@@ -3930,9 +3930,9 @@
   {
     "name": "中毒疹",
     "counts": {
-      "male": 54,
+      "male": 55,
       "female": 93,
-      "sum": 147
+      "sum": 148
     }
   },
   {
@@ -4266,9 +4266,9 @@
   {
     "name": "倦怠感",
     "counts": {
-      "male": 107,
+      "male": 108,
       "female": 159,
-      "sum": 266
+      "sum": 267
     }
   },
   {
@@ -4779,8 +4779,8 @@
     "name": "全身脱毛症",
     "counts": {
       "male": 1,
-      "female": 0,
-      "sum": 1
+      "female": 1,
+      "sum": 2
     }
   },
   {
@@ -4820,6 +4820,14 @@
     "counts": {
       "male": 0,
       "female": 1,
+      "sum": 1
+    }
+  },
+  {
+    "name": "内因性心臓死",
+    "counts": {
+      "male": 1,
+      "female": 0,
       "sum": 1
     }
   },
@@ -5106,17 +5114,17 @@
   {
     "name": "劇症1型糖尿病",
     "counts": {
-      "male": 1,
+      "male": 2,
       "female": 0,
-      "sum": 1
+      "sum": 2
     }
   },
   {
     "name": "劇症型心筋炎",
     "counts": {
-      "male": 10,
+      "male": 11,
       "female": 13,
-      "sum": 23
+      "sum": 24
     }
   },
   {
@@ -7144,6 +7152,14 @@
     }
   },
   {
+    "name": "呼吸停止状態",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
     "name": "呼吸困難",
     "counts": {
       "male": 5,
@@ -8290,9 +8306,9 @@
   {
     "name": "多発性関節痛",
     "counts": {
-      "male": 4,
+      "male": 5,
       "female": 3,
-      "sum": 7
+      "sum": 8
     }
   },
   {
@@ -11563,8 +11579,8 @@
     "name": "左肩関節周囲炎",
     "counts": {
       "male": 101,
-      "female": 182,
-      "sum": 283
+      "female": 183,
+      "sum": 284
     }
   },
   {
@@ -11595,8 +11611,8 @@
     "name": "左肩関節拘縮",
     "counts": {
       "male": 12,
-      "female": 39,
-      "sum": 51
+      "female": 40,
+      "sum": 52
     }
   },
   {
@@ -12499,8 +12515,8 @@
     "name": "心タンポナーデ",
     "counts": {
       "male": 4,
-      "female": 4,
-      "sum": 8
+      "female": 6,
+      "sum": 10
     }
   },
   {
@@ -12666,9 +12682,9 @@
   {
     "name": "心室細動",
     "counts": {
-      "male": 36,
+      "male": 37,
       "female": 3,
-      "sum": 39
+      "sum": 40
     }
   },
   {
@@ -12874,9 +12890,9 @@
   {
     "name": "心肺停止",
     "counts": {
-      "male": 46,
+      "male": 50,
       "female": 36,
-      "sum": 82
+      "sum": 86
     }
   },
   {
@@ -13053,6 +13069,14 @@
       "male": 67,
       "female": 272,
       "sum": 339
+    }
+  },
+  {
+    "name": "急性上腸間膜動脈閉塞症",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
     }
   },
   {
@@ -13290,17 +13314,17 @@
   {
     "name": "急性循環不全",
     "counts": {
-      "male": 5,
+      "male": 6,
       "female": 8,
-      "sum": 13
+      "sum": 14
     }
   },
   {
     "name": "急性心不全",
     "counts": {
       "male": 28,
-      "female": 21,
-      "sum": 49
+      "female": 24,
+      "sum": 52
     }
   },
   {
@@ -13363,8 +13387,8 @@
     "name": "急性心筋梗塞",
     "counts": {
       "male": 69,
-      "female": 23,
-      "sum": 92
+      "female": 24,
+      "sum": 93
     }
   },
   {
@@ -13588,6 +13612,14 @@
     "counts": {
       "male": 0,
       "female": 1,
+      "sum": 1
+    }
+  },
+  {
+    "name": "急性湿疹(カオ・耳)",
+    "counts": {
+      "male": 1,
+      "female": 0,
       "sum": 1
     }
   },
@@ -14138,9 +14170,9 @@
   {
     "name": "慢性心不全急性増悪",
     "counts": {
-      "male": 3,
+      "male": 4,
       "female": 3,
-      "sum": 6
+      "sum": 7
     }
   },
   {
@@ -14403,8 +14435,8 @@
     "name": "成人スティル病",
     "counts": {
       "male": 0,
-      "female": 1,
-      "sum": 1
+      "female": 2,
+      "sum": 2
     }
   },
   {
@@ -14908,6 +14940,14 @@
     "counts": {
       "male": 0,
       "female": 1,
+      "sum": 1
+    }
+  },
+  {
+    "name": "掻破性湿疹(頭・上肢)",
+    "counts": {
+      "male": 1,
+      "female": 0,
       "sum": 1
     }
   },
@@ -15848,6 +15888,14 @@
     }
   },
   {
+    "name": "特発性じんま疹",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
     "name": "特発性器質化肺炎",
     "counts": {
       "male": 1,
@@ -15881,6 +15929,14 @@
   },
   {
     "name": "特発性間質性肺炎の急性増悪",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
+    "name": "特発性間質性肺炎急性増悪",
     "counts": {
       "male": 1,
       "female": 0,
@@ -16170,9 +16226,9 @@
   {
     "name": "発熱",
     "counts": {
-      "male": 199,
+      "male": 200,
       "female": 288,
-      "sum": 487
+      "sum": 488
     }
   },
   {
@@ -16674,9 +16730,9 @@
   {
     "name": "突然死",
     "counts": {
-      "male": 121,
-      "female": 84,
-      "sum": 205
+      "male": 124,
+      "female": 88,
+      "sum": 212
     }
   },
   {
@@ -17274,9 +17330,9 @@
   {
     "name": "肝機能障害",
     "counts": {
-      "male": 17,
+      "male": 18,
       "female": 46,
-      "sum": 63
+      "sum": 64
     }
   },
   {
@@ -17363,8 +17419,8 @@
     "name": "肩関節周囲炎",
     "counts": {
       "male": 7,
-      "female": 6,
-      "sum": 13
+      "female": 7,
+      "sum": 14
     }
   },
   {
@@ -17475,8 +17531,8 @@
     "name": "肺炎",
     "counts": {
       "male": 9,
-      "female": 12,
-      "sum": 21
+      "female": 13,
+      "sum": 22
     }
   },
   {
@@ -17987,8 +18043,8 @@
     "name": "脱水症",
     "counts": {
       "male": 37,
-      "female": 46,
-      "sum": 83
+      "female": 47,
+      "sum": 84
     }
   },
   {
@@ -18122,9 +18178,9 @@
   {
     "name": "脳幹梗塞",
     "counts": {
-      "male": 4,
+      "male": 5,
       "female": 5,
-      "sum": 9
+      "sum": 10
     }
   },
   {
@@ -18212,6 +18268,14 @@
     "counts": {
       "male": 0,
       "female": 1,
+      "sum": 1
+    }
+  },
+  {
+    "name": "脳梗塞(右中大脳動脈)",
+    "counts": {
+      "male": 1,
+      "female": 0,
       "sum": 1
     }
   },
@@ -18939,8 +19003,8 @@
     "name": "自己免疫性肝炎",
     "counts": {
       "male": 2,
-      "female": 8,
-      "sum": 10
+      "female": 9,
+      "sum": 11
     }
   },
   {
@@ -19002,9 +19066,9 @@
   {
     "name": "致死性不整脈",
     "counts": {
-      "male": 17,
+      "male": 19,
       "female": 5,
-      "sum": 22
+      "sum": 24
     }
   },
   {
@@ -19824,6 +19888,14 @@
     }
   },
   {
+    "name": "解離性大動脈瘤",
+    "counts": {
+      "male": 0,
+      "female": 2,
+      "sum": 2
+    }
+  },
+  {
     "name": "触覚過敏",
     "counts": {
       "male": 0,
@@ -20282,9 +20354,9 @@
   {
     "name": "間質性肺炎",
     "counts": {
-      "male": 41,
+      "male": 42,
       "female": 25,
-      "sum": 66
+      "sum": 67
     }
   },
   {
@@ -20298,9 +20370,9 @@
   {
     "name": "間質性肺炎の急性増悪",
     "counts": {
-      "male": 13,
+      "male": 15,
       "female": 5,
-      "sum": 18
+      "sum": 20
     }
   },
   {
@@ -20707,8 +20779,8 @@
     "name": "頭痛の増悪",
     "counts": {
       "male": 3,
-      "female": 3,
-      "sum": 6
+      "female": 4,
+      "sum": 7
     }
   },
   {
@@ -20787,8 +20859,8 @@
     "name": "頭部円形脱毛症",
     "counts": {
       "male": 6,
-      "female": 9,
-      "sum": 15
+      "female": 10,
+      "sum": 16
     }
   },
   {
