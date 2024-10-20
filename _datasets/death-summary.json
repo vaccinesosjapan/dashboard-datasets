@@ -76,6 +76,24 @@
           "gamma": 1
         }
       }
+    ],
+    "sum_by_manufacturer": [
+      {
+        "manufacturer": "アストラゼネカ株式会社",
+        "death_count": 1
+      },
+      {
+        "manufacturer": "ファイザー株式会社",
+        "death_count": 1941
+      },
+      {
+        "manufacturer": "モデルナ・ジャパン株式会社",
+        "death_count": 257
+      },
+      {
+        "manufacturer": "武田薬品工業株式会社",
+        "death_count": 3
+      }
     ]
   },
   "death_issues": {
