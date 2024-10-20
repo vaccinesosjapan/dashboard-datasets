@@ -13,6 +13,11 @@
     "date": "2024/04/21",
     "issues_with_vaccine_name": [
       {
+        "vaccine_name": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)",
+        "myocarditis_count": 7,
+        "pericarditis_count": 1
+      },
+      {
         "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.1)",
         "myocarditis_count": 4,
         "pericarditis_count": 3
@@ -26,11 +31,6 @@
         "vaccine_name": "コミナティ筋注",
         "myocarditis_count": 312,
         "pericarditis_count": 106
-      },
-      {
-        "vaccine_name": "コミナティ筋注(1価:オミクロン株XBB.1.5)",
-        "myocarditis_count": 7,
-        "pericarditis_count": 1
       },
       {
         "vaccine_name": "コミナティ筋注5~11歳用",
@@ -67,6 +67,73 @@
         "myocarditis_count": 2,
         "pericarditis_count": 0
       }
-    ]
+    ],
+    "issues_by_manufacturers": [
+      {
+        "manufacturer": "ファイザー株式会社",
+        "myocarditis_count": 351,
+        "pericarditis_count": 118
+      },
+      {
+        "manufacturer": "モデルナ・ジャパン株式会社",
+        "myocarditis_count": 192,
+        "pericarditis_count": 42
+      },
+      {
+        "manufacturer": "武田薬品工業株式会社",
+        "myocarditis_count": 2,
+        "pericarditis_count": 0
+      }
+    ],
+    "issues_by_ages": {
+      "ages_count": 667,
+      "unknown_ages_count": 38,
+      "issues": [
+        {
+          "age": "0代",
+          "count": 12
+        },
+        {
+          "age": "10代",
+          "count": 244
+        },
+        {
+          "age": "20代",
+          "count": 145
+        },
+        {
+          "age": "30代",
+          "count": 53
+        },
+        {
+          "age": "40代",
+          "count": 40
+        },
+        {
+          "age": "50代",
+          "count": 33
+        },
+        {
+          "age": "60代",
+          "count": 30
+        },
+        {
+          "age": "70代",
+          "count": 53
+        },
+        {
+          "age": "80代",
+          "count": 45
+        },
+        {
+          "age": "90代",
+          "count": 12
+        },
+        {
+          "age": "100代",
+          "count": 0
+        }
+      ]
+    }
   }
 }
