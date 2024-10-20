@@ -689,6 +689,81 @@
     }
   },
   {
+    "no": 16451,
+    "age": "13",
+    "gender": "男性",
+    "vaccinated_date": "2021/10/30",
+    "onset_dates": [
+      "2021/11/02",
+      "2021/11/02",
+      "2021/11/02",
+      "2021/11/02",
+      "2021/11/01",
+      "2021/11/02",
+      "2021/11/02",
+      "2021/11/01",
+      "2021/11/01",
+      "2021/11/01",
+      "2021/11/01"
+    ],
+    "days_to_onset": "2",
+    "vaccine_name": "コミナティ筋注",
+    "manufacturer": "ファイザー",
+    "lot_no": "FK0108",
+    "vaccinated_times": "2回目",
+    "pre_existing_disease_names": [
+      "ポイツ・イェガース症候群"
+    ],
+    "PT_names": [
+      "Ｃ－反応性蛋白増加",
+      "胸部不快感",
+      "心筋炎",
+      "心膜炎",
+      "ウイルス性心膜炎",
+      "胸痛",
+      "呼吸困難",
+      "トロポニンＴ増加",
+      "心電図ＳＴ部分上昇",
+      "血中クレアチンホスホキナーゼ増加",
+      "発熱"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "不明",
+      "不明",
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快"
+    ],
+    "evaluated_PT": "心膜炎\n心筋炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "2 2",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198218.pdf"
+    }
+  },
+  {
     "no": 16452,
     "age": "16",
     "gender": "男性",
@@ -1406,6 +1481,65 @@
     }
   },
   {
+    "no": 16562,
+    "age": "15",
+    "gender": "男性",
+    "vaccinated_date": "2021/10/31",
+    "onset_dates": [
+      "2021/11/02",
+      "2021/11/02",
+      "2021/11/02",
+      "2021/11/02",
+      "2021/11/02",
+      "2021/11/02",
+      "2021/11/01"
+    ],
+    "days_to_onset": "1",
+    "vaccine_name": "コミナティ筋注",
+    "manufacturer": "ファイザー",
+    "lot_no": "不明",
+    "vaccinated_times": "2回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心筋炎",
+      "心膜炎",
+      "胸痛",
+      "トロポニンＴ増加",
+      "血中クレアチンホスホキナーゼ増加",
+      "炎症",
+      "発熱"
+    ],
+    "gross_result_dates": [
+      "2021/11/08",
+      "2021/11/08",
+      "2021/11/08",
+      "2021/11/08",
+      "2021/11/08",
+      "2021/11/08",
+      "2021/11/08"
+    ],
+    "gross_results": [
+      "回復",
+      "回復",
+      "回復",
+      "回復",
+      "回復",
+      "回復",
+      "回復"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "1 4",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198218.pdf"
+    }
+  },
+  {
     "no": 16591,
     "age": "",
     "gender": "",
@@ -1925,6 +2059,81 @@
     "evaluated_PT": "心筋炎",
     "evaluated_result": "γ",
     "brighton_classification": "1",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198218.pdf"
+    }
+  },
+  {
+    "no": 16759,
+    "age": "22",
+    "gender": "男性",
+    "vaccinated_date": "2021/12/01",
+    "onset_dates": [
+      "2021/12/04",
+      "2021/12/04",
+      "2021/12/04",
+      "2021/12/04",
+      "2021/12/04",
+      "2021/12/04",
+      "2021/12/04",
+      "2021/12/04",
+      "2021/12/04",
+      "2021/12/04",
+      "2021/12/04"
+    ],
+    "days_to_onset": "3",
+    "vaccine_name": "コミナティ筋注",
+    "manufacturer": "ファイザー",
+    "lot_no": "FK6302",
+    "vaccinated_times": "2回目",
+    "pre_existing_disease_names": [
+      "自然気胸"
+    ],
+    "PT_names": [
+      "心筋炎",
+      "心膜炎",
+      "Ｃ－反応性蛋白増加",
+      "呼吸困難",
+      "動悸",
+      "トロポニンＴ増加",
+      "心電図Ｔ波逆転",
+      "心電図ＳＴ部分上昇",
+      "トロポニンＩ増加",
+      "血中クレアチンホスホキナーゼＭＢ増加",
+      "血中クレアチンホスホキナーゼ増加"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "4 4",
     "expert_opinion": "",
     "remarks": "",
     "source": {
@@ -2629,6 +2838,49 @@
     }
   },
   {
+    "no": 16821,
+    "age": "20",
+    "gender": "男性",
+    "vaccinated_date": "2021/11",
+    "onset_dates": [
+      "2021/11/01",
+      "2021/11/01",
+      "2021/11"
+    ],
+    "days_to_onset": "不明",
+    "vaccine_name": "コミナティ筋注",
+    "manufacturer": "ファイザー",
+    "lot_no": "不明",
+    "vaccinated_times": "2回目",
+    "pre_existing_disease_names": [
+      "有害事象なし"
+    ],
+    "PT_names": [
+      "心筋炎",
+      "心膜炎",
+      "胸痛"
+    ],
+    "gross_result_dates": [
+      "2021",
+      "2021",
+      "2021"
+    ],
+    "gross_results": [
+      "回復",
+      "回復",
+      "回復"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "4 4",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198218.pdf"
+    }
+  },
+  {
     "no": 16833,
     "age": "40",
     "gender": "男性",
@@ -3016,6 +3268,90 @@
     }
   },
   {
+    "no": 16886,
+    "age": "19",
+    "gender": "男性",
+    "vaccinated_date": "2021/12/04",
+    "onset_dates": [
+      "2021/12/07",
+      "2021/12/07",
+      "2021/12/07",
+      "2021/12/07",
+      "2021/12/07",
+      "2021/12/07",
+      "2021/12/07",
+      "2021/12/07",
+      "2021/12/07",
+      "2021/12/07",
+      "2021/12/08",
+      "2021/12/07",
+      "2021/12/07"
+    ],
+    "days_to_onset": "3",
+    "vaccine_name": "コミナティ筋注",
+    "manufacturer": "ファイザー",
+    "lot_no": "FL1839",
+    "vaccinated_times": "2回目",
+    "pre_existing_disease_names": [
+      "ダニアレルギー",
+      "小児喘息"
+    ],
+    "PT_names": [
+      "心筋炎",
+      "心膜炎",
+      "多汗症",
+      "関節痛",
+      "胸痛",
+      "背部痛",
+      "呼吸困難",
+      "胸部不快感",
+      "下痢",
+      "嘔吐|悪心",
+      "運動低下",
+      "倦怠感",
+      "発熱"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "1 2",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198218.pdf"
+    }
+  },
+  {
     "no": 16894,
     "age": "14",
     "gender": "男性",
@@ -3261,7 +3597,84 @@
   },
   {
     "no": 16907,
-    "age": "13歲",
+    "age": "13歳",
+    "gender": "男性",
+    "vaccinated_date": "2021/11/19",
+    "onset_dates": [
+      "2021",
+      "2021/11/21",
+      "2021/11/21",
+      "2021/11/21",
+      "2021/11/21",
+      "2021/11/21",
+      "2021/11/21",
+      "2021/11/21",
+      "2021/11/21",
+      "2021/11/21",
+      "2021/11/20"
+    ],
+    "days_to_onset": "不明",
+    "vaccine_name": "コミナティ筋注",
+    "manufacturer": "ファイザー",
+    "lot_no": "FK7441",
+    "vaccinated_times": "2回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心膜炎(心膜炎)",
+      "胸痛(胸痛)",
+      "活動性低下(活動性低下)",
+      "心筋炎(心筋心膜炎)",
+      "胸部不快感(胸部不快感)",
+      "トロポニンT増加(トロポニンT増加)",
+      "心電図ST部分上昇(心電図ST部分上昇)",
+      "血中クレアチンホスホキナーゼMB増加(血",
+      "中クレアチンホスホキナーゼMB増加)",
+      "血中クレアチンホスホキナーゼ増加(血中ク",
+      "レアチンホスホキナーゼ増加)",
+      "倦怠感(倦怠感)",
+      "発熱(発熱)"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入",
+      "2021/11/26",
+      "2021/11/26",
+      "2021/11/26",
+      "2021/11/26",
+      "2021/11/26",
+      "2021/11/26",
+      "2021/11/26",
+      "2021/11/26"
+    ],
+    "gross_results": [
+      "不明",
+      "不明",
+      "不明",
+      "回復",
+      "回復",
+      "回復",
+      "回復",
+      "回復",
+      "回復",
+      "回復",
+      "回街"
+    ],
+    "evaluated_PT": "心膜炎\n心筋心膜炎",
+    "evaluated_result": "γ\nγ",
+    "brighton_classification": "4\n4",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198218.pdf"
+    }
+  },
+  {
+    "no": 16907,
+    "age": "13歳",
     "gender": "男性",
     "vaccinated_date": "2021/11/19",
     "onset_dates": [
@@ -3631,6 +4044,57 @@
     }
   },
   {
+    "no": 16960,
+    "age": "26",
+    "gender": "女性",
+    "vaccinated_date": "2021/12/03",
+    "onset_dates": [
+      "2021/12/04",
+      "2021/12/04",
+      "2021/12/04",
+      "2021/12/04",
+      "2021/12/04"
+    ],
+    "days_to_onset": "1",
+    "vaccine_name": "コミナティ筋注",
+    "manufacturer": "ファイザー",
+    "lot_no": "不明",
+    "vaccinated_times": "2回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心筋炎",
+      "心膜炎",
+      "胸痛",
+      "頻脈",
+      "脈圧異常"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "4 4",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198218.pdf"
+    }
+  },
+  {
     "no": 16965,
     "age": "12",
     "gender": "女性",
@@ -3713,6 +4177,123 @@
     "evaluated_PT": "心筋炎",
     "evaluated_result": "γ",
     "brighton_classification": "1",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198218.pdf"
+    }
+  },
+  {
+    "no": 17002,
+    "age": "57",
+    "gender": "女性",
+    "vaccinated_date": "2021/08/21",
+    "onset_dates": [
+      "2021/08/24",
+      "2021",
+      "2021/08/24",
+      "2021/08/24",
+      "2021/09/22",
+      "2021/08/24",
+      "2021/08/24",
+      "2021/09/28",
+      "2021/08/24",
+      "2021/10/14",
+      "2021/09/15",
+      "2021",
+      "2021",
+      "未記入",
+      "2021/09/15",
+      "2021/09/15",
+      "2021/08/24",
+      "2021/09/15",
+      "2021/08/28",
+      "2021/08/28",
+      "2021/08/24"
+    ],
+    "days_to_onset": "不明",
+    "vaccine_name": "コミナティ筋注",
+    "manufacturer": "ファイザー",
+    "lot_no": "FD1945",
+    "vaccinated_times": "1回目",
+    "pre_existing_disease_names": [
+      "蕁麻疹",
+      "薬物過敏症",
+      "過敏症"
+    ],
+    "PT_names": [
+      "高コレステロール血症",
+      "不眠症",
+      "胸痛",
+      "呼吸困難",
+      "胸水",
+      "胸部不快感",
+      "動悸",
+      "食欲減退",
+      "傾眠",
+      "体重減少",
+      "倦怠感",
+      "心筋炎",
+      "心膜炎",
+      "日常活動における個人の自立の喪失",
+      "頭痛",
+      "上腹部痛",
+      "高血圧",
+      "腹部不快感",
+      "浮動性めまい",
+      "異常感",
+      "発熱"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "未回復",
+      "未回復",
+      "未回復",
+      "未回復",
+      "未回復",
+      "未回復",
+      "未回復",
+      "未回復",
+      "未回復",
+      "未回復",
+      "未回復",
+      "不明",
+      "不明",
+      "不明",
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "4 4",
     "expert_opinion": "",
     "remarks": "",
     "source": {
@@ -3973,6 +4554,57 @@
     "evaluated_PT": "心筋心膜炎",
     "evaluated_result": "γ",
     "brighton_classification": "1",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198218.pdf"
+    }
+  },
+  {
+    "no": 17060,
+    "age": "30",
+    "gender": "男性",
+    "vaccinated_date": "2021/12/15",
+    "onset_dates": [
+      "2021/12/19",
+      "2021/12/19",
+      "2021/12/19",
+      "2021/12/19",
+      "2021/12/19"
+    ],
+    "days_to_onset": "4",
+    "vaccine_name": "コミナティ筋注",
+    "manufacturer": "ファイザー",
+    "lot_no": "不明",
+    "vaccinated_times": "2回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心電図ＳＴ部分上昇",
+      "トロポニンＩ増加",
+      "心筋炎",
+      "心膜炎",
+      "胸痛"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "2021",
+      "2021",
+      "2021/12"
+    ],
+    "gross_results": [
+      "軽快",
+      "軽快",
+      "回復",
+      "回復",
+      "回復"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "1 2",
     "expert_opinion": "",
     "remarks": "",
     "source": {
@@ -4852,6 +5484,49 @@
     }
   },
   {
+    "no": 17277,
+    "age": "23",
+    "gender": "男性",
+    "vaccinated_date": "2021/12/25",
+    "onset_dates": [
+      "2021/12/28",
+      "2021/12/27",
+      "2021/12/27"
+    ],
+    "days_to_onset": "2",
+    "vaccine_name": "コミナティ筋注",
+    "manufacturer": "ファイザー",
+    "lot_no": "不明",
+    "vaccinated_times": "2回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心膜炎",
+      "胸痛",
+      "心筋炎"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "2022/01/07"
+    ],
+    "gross_results": [
+      "不明",
+      "軽快",
+      "回復"
+    ],
+    "evaluated_PT": "心膜炎\n心筋炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "4 4",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198218.pdf"
+    }
+  },
+  {
     "no": 17281,
     "age": "52",
     "gender": "男性",
@@ -4887,6 +5562,81 @@
     "evaluated_PT": "心筋炎",
     "evaluated_result": "γ",
     "brighton_classification": "4",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198218.pdf"
+    }
+  },
+  {
+    "no": 17297,
+    "age": "36",
+    "gender": "男性",
+    "vaccinated_date": "2021/11/04",
+    "onset_dates": [
+      "2022/01/11",
+      "2022/01/11",
+      "未記入",
+      "未記入",
+      "2022/01/11",
+      "2022/01/11",
+      "2022/01/11",
+      "2021/12",
+      "2022/01/11",
+      "未記入",
+      "2021/11/29"
+    ],
+    "days_to_onset": "25",
+    "vaccine_name": "コミナティ筋注",
+    "manufacturer": "ファイザー",
+    "lot_no": "不明",
+    "vaccinated_times": "1回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心停止|心肺停止",
+      "心筋炎",
+      "心膜炎",
+      "上咽頭炎",
+      "心筋梗塞",
+      "肺塞栓症",
+      "急性冠動脈症候群",
+      "尿閉",
+      "異常感",
+      "体調不良",
+      "排尿困難"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "死亡",
+      "死亡",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "回復"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "2 4",
     "expert_opinion": "",
     "remarks": "",
     "source": {
@@ -5312,6 +6062,57 @@
     "evaluated_PT": "心筋炎",
     "evaluated_result": "γ",
     "brighton_classification": "4",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198218.pdf"
+    }
+  },
+  {
+    "no": 17373,
+    "age": "73",
+    "gender": "男性",
+    "vaccinated_date": "2022/01/07",
+    "onset_dates": [
+      "2022/01/07",
+      "2022/01/13",
+      "2022/01/13",
+      "2022/01/13",
+      "2022/01/13"
+    ],
+    "days_to_onset": "0",
+    "vaccine_name": "コミナティ筋注",
+    "manufacturer": "ファイザー",
+    "lot_no": "FK6302",
+    "vaccinated_times": "3回目",
+    "pre_existing_disease_names": [
+      "眼筋麻痺"
+    ],
+    "PT_names": [
+      "免疫",
+      "心筋炎",
+      "心膜炎",
+      "胸痛",
+      "背部痛"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "2022/01/18",
+      "2022/01/18",
+      "2022/01/18",
+      "2022/01/18"
+    ],
+    "gross_results": [
+      "不明",
+      "回復",
+      "回復",
+      "回復",
+      "回復"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "4 4",
     "expert_opinion": "",
     "remarks": "",
     "source": {
@@ -5840,6 +6641,92 @@
     }
   },
   {
+    "no": 17603,
+    "age": "22",
+    "gender": "女性",
+    "vaccinated_date": "2022/01/18",
+    "onset_dates": [
+      "2022/01/18",
+      "2022/01/18",
+      "2022/01/21",
+      "2022",
+      "2022/01/18",
+      "2022/01/21",
+      "2022/01/21",
+      "2022/01/18",
+      "2022",
+      "2022/01/21",
+      "2022/01/21",
+      "2022/01/21",
+      "2022/01/21"
+    ],
+    "days_to_onset": "不明",
+    "vaccine_name": "コミナティ筋注",
+    "manufacturer": "ファイザー",
+    "lot_no": "FJ5929",
+    "vaccinated_times": "3回目",
+    "pre_existing_disease_names": [
+      "アトピー性皮膚炎",
+      "ウイルス性心筋炎",
+      "子宮内膜症",
+      "非タバコ使用者"
+    ],
+    "PT_names": [
+      "心筋炎",
+      "心膜炎",
+      "好中球数減少",
+      "無力症",
+      "胸痛",
+      "Ｃ－反応性蛋白増加",
+      "呼吸困難",
+      "胸部不快感",
+      "動悸",
+      "心音異常",
+      "心膜摩擦音",
+      "ＱＲＳ軸異常",
+      "倦怠感"
+    ],
+    "gross_result_dates": [
+      "2022",
+      "2022",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "後遺症あり",
+      "後遺症あり",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "4 2",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198218.pdf"
+    }
+  },
+  {
     "no": 17628,
     "age": "60歳代",
     "gender": "女性",
@@ -6127,6 +7014,50 @@
     }
   },
   {
+    "no": 17672,
+    "age": "83歳",
+    "gender": "男性",
+    "vaccinated_date": "2022/2/2",
+    "onset_dates": [
+      "2022/02/04",
+      "2022/02/04",
+      "2022/02/04"
+    ],
+    "days_to_onset": "2",
+    "vaccine_name": "コミナティ筋注",
+    "manufacturer": "ファイザー",
+    "lot_no": "FH0151",
+    "vaccinated_times": "3回目",
+    "pre_existing_disease_names": [
+      "胃食道逆流性疾患",
+      "脂質異常症"
+    ],
+    "PT_names": [
+      "心筋炎(心筋炎)",
+      "心膜炎(心膜炎)",
+      "胸痛(胸痛)"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "未回復",
+      "未回復",
+      "不明"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ\nγ",
+    "brighton_classification": "4\n4",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198218.pdf"
+    }
+  },
+  {
     "no": 17716,
     "age": "72",
     "gender": "女性",
@@ -6335,6 +7266,77 @@
     "evaluated_PT": "心筋炎",
     "evaluated_result": "γ",
     "brighton_classification": "4",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198218.pdf"
+    }
+  },
+  {
+    "no": 17796,
+    "age": "16",
+    "gender": "男性",
+    "vaccinated_date": "2021/09/25",
+    "onset_dates": [
+      "2021/09/27",
+      "2021/09/28",
+      "2021/09/28",
+      "2021/09/28",
+      "2021/09/28",
+      "2021/09/28",
+      "2021/09/28",
+      "2021/09/28",
+      "2021/09/28",
+      "2021/09/26"
+    ],
+    "days_to_onset": "1",
+    "vaccine_name": "コミナティ筋注",
+    "manufacturer": "ファイザー",
+    "lot_no": "FH0151",
+    "vaccinated_times": "2回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "口腔咽頭痛",
+      "歯肉痛",
+      "歯痛",
+      "心筋炎",
+      "心膜炎",
+      "胸痛",
+      "胸部不快感",
+      "トロポニンＩ増加",
+      "血中クレアチンホスホキナーゼ増加",
+      "発熱"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入",
+      "2021/10/29",
+      "2021/10/29",
+      "2021/10/29",
+      "2021/10/29",
+      "2021/10/29",
+      "2021/10/29",
+      "2021/10/29"
+    ],
+    "gross_results": [
+      "不明",
+      "不明",
+      "不明",
+      "回復",
+      "回復",
+      "回復",
+      "回復",
+      "回復",
+      "回復",
+      "回復"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "4 2",
     "expert_opinion": "",
     "remarks": "",
     "source": {
@@ -6762,6 +7764,143 @@
     }
   },
   {
+    "no": 17917,
+    "age": "17",
+    "gender": "男性",
+    "vaccinated_date": "2021/08/17",
+    "onset_dates": [
+      "2021/08/19",
+      "2021/08/19",
+      "2021/08/19",
+      "2021/08/19",
+      "2021/08/20",
+      "2021/08/20",
+      "2021/08/19",
+      "2021/08/20",
+      "2021/08/20",
+      "未記入",
+      "2021/08/20",
+      "2021/08/19"
+    ],
+    "days_to_onset": "2",
+    "vaccine_name": "コミナティ筋注",
+    "manufacturer": "ファイザー",
+    "lot_no": "不明",
+    "vaccinated_times": "2回目",
+    "pre_existing_disease_names": [
+      "ウイルス性心筋炎"
+    ],
+    "PT_names": [
+      "心筋炎",
+      "心膜炎",
+      "心筋症",
+      "胸痛|胸痛",
+      "Ｃ－反応性蛋白増加",
+      "トロポニンＴ増加",
+      "心電図ＳＴ部分上昇",
+      "駆出率減少",
+      "血中クレアチンホスホキナーゼＭＢ増加",
+      "心筋損傷",
+      "血中クレアチンホスホキナーゼ増加"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "1 4",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198218.pdf"
+    }
+  },
+  {
+    "no": 17928,
+    "age": "26",
+    "gender": "男性",
+    "vaccinated_date": "2021",
+    "onset_dates": [
+      "2021",
+      "2021",
+      "2021",
+      "2021",
+      "2021",
+      "2021",
+      "2021"
+    ],
+    "days_to_onset": "不明",
+    "vaccine_name": "コミナティ筋注",
+    "manufacturer": "ファイザー",
+    "lot_no": "不明",
+    "vaccinated_times": "1回目",
+    "pre_existing_disease_names": [
+      "レクリエーション薬物の断薬"
+    ],
+    "PT_names": [
+      "頭痛",
+      "疲労",
+      "心停止",
+      "心筋炎",
+      "心膜炎",
+      "意識消失",
+      "心室細動"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "2021",
+      "2021",
+      "2021",
+      "2021",
+      "2021"
+    ],
+    "gross_results": [
+      "不明",
+      "不明",
+      "回復",
+      "回復",
+      "回復",
+      "回復",
+      "回復"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "1 4",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198218.pdf"
+    }
+  },
+  {
     "no": 17928,
     "age": "26",
     "gender": "男性",
@@ -7031,6 +8170,53 @@
     "evaluated_PT": "心筋炎",
     "evaluated_result": "γ",
     "brighton_classification": "4",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198218.pdf"
+    }
+  },
+  {
+    "no": 18026,
+    "age": "36",
+    "gender": "女性",
+    "vaccinated_date": "2021/08/19",
+    "onset_dates": [
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "days_to_onset": "不明",
+    "vaccine_name": "コミナティ筋注",
+    "manufacturer": "ファイザー",
+    "lot_no": "FF4204",
+    "vaccinated_times": "2回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心筋炎",
+      "心膜炎",
+      "胸痛",
+      "発熱"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "不明",
+      "不明",
+      "不明",
+      "回復"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "4 4",
     "expert_opinion": "",
     "remarks": "",
     "source": {
@@ -8542,6 +9728,71 @@
     }
   },
   {
+    "no": 18191,
+    "age": "18歳",
+    "gender": "男性",
+    "vaccinated_date": "2022/2/19",
+    "onset_dates": [
+      "2022/02/20",
+      "2022/02/20",
+      "2022/02/20",
+      "2022/02/20",
+      "2022/02/20",
+      "2022/02/20",
+      "2022/02/20",
+      "2022/02/20"
+    ],
+    "days_to_onset": "1",
+    "vaccine_name": "コミナティ筋注",
+    "manufacturer": "ファイザー",
+    "lot_no": "FK7441",
+    "vaccinated_times": "3回目",
+    "pre_existing_disease_names": [
+      "川崎病",
+      "心室中隔欠損症",
+      "肺動脈狭窄"
+    ],
+    "PT_names": [
+      "心筋梗塞(心筋梗塞)",
+      "胸部不快感(胸部不快感)",
+      "発熱(発熱)",
+      "心筋炎(心筋炎)",
+      "心膜炎(心膜炎)",
+      "胸痛(胸痛)",
+      "呼吸障害·呼吸不全(呼吸困難)",
+      "咳嗽(咳嗽)"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入",
+      "2022/02/25",
+      "2022/02/25",
+      "2022/02/25",
+      "2022/02/25",
+      "2022/02/25"
+    ],
+    "gross_results": [
+      "軽快",
+      "軽快",
+      "軽快",
+      "回復",
+      "回復",
+      "回復",
+      "回復",
+      "回復"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ\nγ",
+    "brighton_classification": "4\n4",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198218.pdf"
+    }
+  },
+  {
     "no": 18203,
     "age": "91",
     "gender": "男性",
@@ -8732,6 +9983,93 @@
     "evaluated_PT": "心筋炎",
     "evaluated_result": "γ",
     "brighton_classification": "4",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198218.pdf"
+    }
+  },
+  {
+    "no": 18225,
+    "age": "77",
+    "gender": "男性",
+    "vaccinated_date": "2021/07/21",
+    "onset_dates": [
+      "2021/08/27",
+      "2021/08/30",
+      "未記入",
+      "2021/08/27",
+      "2021/08/27",
+      "2021/08/26",
+      "2021/08/26",
+      "2021/08/18",
+      "2021/08/27",
+      "未記入",
+      "未記入",
+      "2021/08/26",
+      "2021/08/30"
+    ],
+    "days_to_onset": "28",
+    "vaccine_name": "コミナティ筋注",
+    "manufacturer": "ファイザー",
+    "lot_no": "不明",
+    "vaccinated_times": "2回目",
+    "pre_existing_disease_names": [
+      "末期腎疾患",
+      "直腸癌",
+      "糖尿病",
+      "結腸癌",
+      "血液透析"
+    ],
+    "PT_names": [
+      "ヘモグロビン減少|貧血",
+      "心筋炎",
+      "心膜炎",
+      "心房細動",
+      "Ｃ－反応性蛋白増加",
+      "労作性呼吸困難|呼吸困難",
+      "動悸",
+      "心拡大",
+      "血清フェリチン増加",
+      "炎症",
+      "倦怠感",
+      "発熱",
+      "心嚢液貯留"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "未回復",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "回復"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "4 2",
     "expert_opinion": "",
     "remarks": "",
     "source": {
@@ -9237,6 +10575,65 @@
     }
   },
   {
+    "no": 18348,
+    "age": "18",
+    "gender": "男性",
+    "vaccinated_date": "2022/03/03",
+    "onset_dates": [
+      "2022/03/06",
+      "2022/03/06",
+      "2022/03/05",
+      "2022/03/06",
+      "2022/03/06",
+      "2022/03/06",
+      "2022/03/06"
+    ],
+    "days_to_onset": "2",
+    "vaccine_name": "コミナティ筋注",
+    "manufacturer": "ファイザー",
+    "lot_no": "不明",
+    "vaccinated_times": "3回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心筋炎",
+      "心膜炎",
+      "胸痛",
+      "心電図ＳＴ部分上昇",
+      "トロポニンＩ増加",
+      "血中クレアチンホスホキナーゼＭＢ増加",
+      "血中クレアチンホスホキナーゼ増加"
+    ],
+    "gross_result_dates": [
+      "2022/03/09",
+      "2022/03/09",
+      "2022/03/09",
+      "2022/03/09",
+      "2022/03/09",
+      "2022/03/09",
+      "2022/03/09"
+    ],
+    "gross_results": [
+      "回復",
+      "回復",
+      "回復",
+      "回復",
+      "回復",
+      "回復",
+      "回復"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "2 4",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198218.pdf"
+    }
+  },
+  {
     "no": 18399,
     "age": "29歳",
     "gender": "女性",
@@ -9319,6 +10716,45 @@
     "evaluated_PT": "心筋炎",
     "evaluated_result": "γ",
     "brighton_classification": "1",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198218.pdf"
+    }
+  },
+  {
+    "no": 18419,
+    "age": "20歳代",
+    "gender": "男性",
+    "vaccinated_date": "不明",
+    "onset_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "days_to_onset": "不明",
+    "vaccine_name": "コミナティ筋注",
+    "manufacturer": "ファイザー",
+    "lot_no": "不明",
+    "vaccinated_times": "2回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心筋炎",
+      "心膜炎"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "不明",
+      "不明"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "1 4",
     "expert_opinion": "",
     "remarks": "",
     "source": {
@@ -9573,6 +11009,77 @@
     }
   },
   {
+    "no": 18513,
+    "age": "14",
+    "gender": "男性",
+    "vaccinated_date": "2021/10/24",
+    "onset_dates": [
+      "2021/10/26",
+      "2021/10/26",
+      "2021/10/25",
+      "2021/10/26",
+      "2021/10/26",
+      "2021/10/26",
+      "2021/10/26",
+      "2021/11/01",
+      "2021/10/29",
+      "2021/10/25"
+    ],
+    "days_to_onset": "1",
+    "vaccine_name": "コミナティ筋注",
+    "manufacturer": "ファイザー",
+    "lot_no": "FG0978",
+    "vaccinated_times": "2回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心筋炎",
+      "心膜炎",
+      "頭痛",
+      "胸痛",
+      "労作性呼吸困難",
+      "胸部不快感",
+      "動悸",
+      "心嚢液貯留",
+      "トロポニンＩ増加",
+      "倦怠感"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "4 2",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198218.pdf"
+    }
+  },
+  {
     "no": 18577,
     "age": "22",
     "gender": "男性",
@@ -9647,6 +11154,68 @@
     "evaluated_PT": "心膜炎",
     "evaluated_result": "γ",
     "brighton_classification": "4",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198218.pdf"
+    }
+  },
+  {
+    "no": 18610,
+    "age": "19",
+    "gender": "男性",
+    "vaccinated_date": "2021/09/05",
+    "onset_dates": [
+      "未記入",
+      "2021/09/06",
+      "2021/09/06",
+      "2021/09/07",
+      "2021/09/07",
+      "2021/09/05",
+      "2021/09/06",
+      "2021/09/06"
+    ],
+    "days_to_onset": "0",
+    "vaccine_name": "コミナティ筋注",
+    "manufacturer": "ファイザー",
+    "lot_no": "不明",
+    "vaccinated_times": "1回目",
+    "pre_existing_disease_names": [
+      "腸炎"
+    ],
+    "PT_names": [
+      "心筋炎",
+      "胸痛",
+      "胸部不快感",
+      "心電図Ｔ波逆転",
+      "心電図ＳＴ部分上昇",
+      "熱感",
+      "発熱"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "軽快"
+    ],
+    "evaluated_PT": "心膜炎\n心筋炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "4 4",
     "expert_opinion": "",
     "remarks": "",
     "source": {
@@ -9871,7 +11440,7 @@
   },
   {
     "no": 18695,
-    "age": "58歲",
+    "age": "58歳",
     "gender": "男性",
     "vaccinated_date": "2022/03/10",
     "onset_dates": [
@@ -10041,6 +11610,58 @@
     }
   },
   {
+    "no": 18743,
+    "age": "19",
+    "gender": "男性",
+    "vaccinated_date": "2022/03/25",
+    "onset_dates": [
+      "2022/03",
+      "2022/03/26",
+      "2022/03/27",
+      "2022/03/26",
+      "2022/03/27"
+    ],
+    "days_to_onset": "不明",
+    "vaccine_name": "コミナティ筋注",
+    "manufacturer": "ファイザー",
+    "lot_no": "FL7646",
+    "vaccinated_times": "2回目",
+    "pre_existing_disease_names": [
+      "アテトーゼ",
+      "心膜炎"
+    ],
+    "PT_names": [
+      "心筋炎",
+      "頭痛",
+      "胸痛",
+      "発熱",
+      "心膜炎"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "回復"
+    ],
+    "evaluated_PT": "心膜炎\n心筋炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "2 4",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198218.pdf"
+    }
+  },
+  {
     "no": 18757,
     "age": "82歳",
     "gender": "男性",
@@ -10147,6 +11768,53 @@
     "evaluated_PT": "心筋炎",
     "evaluated_result": "γ",
     "brighton_classification": "4",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198218.pdf"
+    }
+  },
+  {
+    "no": 18826,
+    "age": "12",
+    "gender": "男性",
+    "vaccinated_date": "2021/11/21",
+    "onset_dates": [
+      "2021/11/23",
+      "2021/11/23",
+      "2021/11/23",
+      "2021/11/22"
+    ],
+    "days_to_onset": "1",
+    "vaccine_name": "コミナティ筋注",
+    "manufacturer": "ファイザー",
+    "lot_no": "FJ1763",
+    "vaccinated_times": "2回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心筋炎",
+      "心膜炎",
+      "胸痛",
+      "発熱"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "不明",
+      "不明",
+      "不明",
+      "回復"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "4 2",
     "expert_opinion": "",
     "remarks": "",
     "source": {
@@ -10910,6 +12578,65 @@
     }
   },
   {
+    "no": 19003,
+    "age": "23",
+    "gender": "男性",
+    "vaccinated_date": "2022/02/28",
+    "onset_dates": [
+      "2022/03/03",
+      "2022/03/01",
+      "2022/03/01",
+      "2022/03/02",
+      "2022/03/02",
+      "2022/03/02",
+      "2022/03/01"
+    ],
+    "days_to_onset": "1",
+    "vaccine_name": "コミナティ筋注",
+    "manufacturer": "ファイザー",
+    "lot_no": "不明",
+    "vaccinated_times": "2回目",
+    "pre_existing_disease_names": [
+      "くも膜下出血"
+    ],
+    "PT_names": [
+      "Ｃ－反応性蛋白増加",
+      "心筋炎",
+      "心膜炎",
+      "頭痛",
+      "関節痛",
+      "胸痛",
+      "発熱"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "2022/03/08",
+      "2022/03/08",
+      "2022/03/08",
+      "2022/03/08",
+      "2022/03/08",
+      "2022/03/08"
+    ],
+    "gross_results": [
+      "不明",
+      "回復",
+      "回復",
+      "回復",
+      "回復",
+      "回復",
+      "回復"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "4 4",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198218.pdf"
+    }
+  },
+  {
     "no": 19018,
     "age": "59",
     "gender": "男性",
@@ -11548,6 +13275,101 @@
     }
   },
   {
+    "no": 19079,
+    "age": "92",
+    "gender": "男性",
+    "vaccinated_date": "2022/03",
+    "onset_dates": [
+      "2022/03",
+      "2022/03/08",
+      "2022/03/18",
+      "2022/03/18",
+      "2022/03",
+      "2022/03",
+      "2022/03",
+      "2022/03/15",
+      "2022/03/15",
+      "2022/03/15",
+      "2022/03/15",
+      "2022/03/15",
+      "2022/03/15",
+      "2022/03/15",
+      "2022/03/15",
+      "2022/03"
+    ],
+    "days_to_onset": "不明",
+    "vaccine_name": "コミナティ筋注",
+    "manufacturer": "ファイザー",
+    "lot_no": "不明",
+    "vaccinated_times": "3回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心膜炎",
+      "心不全",
+      "大動脈解離",
+      "心タンポナーデ",
+      "心肺停止",
+      "心筋炎",
+      "心膜線維症",
+      "貧血",
+      "Ｃ－反応性蛋白増加",
+      "呼吸困難",
+      "胸水",
+      "心拡大",
+      "脳性ナトリウム利尿ペプチド増加",
+      "浮腫|末梢性浮腫",
+      "倦怠感",
+      "体調不良"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "死亡",
+      "死亡",
+      "死亡",
+      "死亡",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "1 1",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198218.pdf"
+    }
+  },
+  {
     "no": 19191,
     "age": "25",
     "gender": "女性",
@@ -11641,6 +13463,105 @@
     "evaluated_PT": "心膜炎",
     "evaluated_result": "γ",
     "brighton_classification": "2",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198218.pdf"
+    }
+  },
+  {
+    "no": 19233,
+    "age": "13歳",
+    "gender": "男性",
+    "vaccinated_date": "2022/4/19",
+    "onset_dates": [
+      "2022/04/20",
+      "2022/04/20",
+      "2022/04/20",
+      "2022/04/20",
+      "2022/04/20",
+      "2022/04/20",
+      "2022/04/20",
+      "2022/04/20",
+      "2022/04/20",
+      "2022/04/20",
+      "2022/04/20",
+      "2022/04/20",
+      "2022/04/20",
+      "2022/04/20",
+      "2022/04/20",
+      "2022/04/20",
+      "2022/04/20"
+    ],
+    "days_to_onset": "1",
+    "vaccine_name": "コミナティ筋注",
+    "manufacturer": "ファイザー",
+    "lot_no": "FN2726",
+    "vaccinated_times": "3回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "関節痛(関節痛)",
+      "心筋炎(心筋炎)",
+      "心膜炎(心膜炎)",
+      "無力症(無力症)",
+      "頭痛(頭痛)",
+      "胸痛(胸痛)",
+      "CRP値の異常(C一反応性蛋白増加)",
+      "呼吸障害·呼吸不全(労作性呼吸困難)",
+      "胸部不快感(胸部不快感)",
+      "動悸(動悸)",
+      "下痢·軟便(下痢)",
+      "悪心·嘔吐(嘔吐|悪心)",
+      "感覚常(感覚鈍麻)",
+      "歩行障害(歩行障害)",
+      "倦怠感(倦怠感)",
+      "発熱(発熱)",
+      "高体温症(高体温症)"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "2022/04/25",
+      "2022/04/25",
+      "2022/04/25",
+      "2022/04/25",
+      "2022/04/25",
+      "2022/04/25",
+      "2022/04/25",
+      "2022/04/25",
+      "2022/04/25",
+      "2022/04/25",
+      "2022/04/25",
+      "2022/04/25",
+      "2022/04/25",
+      "2022/04/25",
+      "2022/04/22",
+      "2022/04/25"
+    ],
+    "gross_results": [
+      "不明",
+      "回復",
+      "回復",
+      "回復",
+      "回復",
+      "回復",
+      "回復",
+      "回復",
+      "回復",
+      "回復",
+      "回復",
+      "回復",
+      "回復",
+      "回復",
+      "回復",
+      "回復",
+      "回復"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ\nγ",
+    "brighton_classification": "4\n4",
     "expert_opinion": "",
     "remarks": "",
     "source": {
@@ -12062,6 +13983,53 @@
     }
   },
   {
+    "no": 19407,
+    "age": "12",
+    "gender": "男性",
+    "vaccinated_date": "2022/04/17",
+    "onset_dates": [
+      "2022/04/19",
+      "2022/04/17",
+      "2022/04/19",
+      "2022/04/17"
+    ],
+    "days_to_onset": "0",
+    "vaccine_name": "コミナティ筋注",
+    "manufacturer": "ファイザー",
+    "lot_no": "FN2723",
+    "vaccinated_times": "2回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心筋炎",
+      "心膜炎",
+      "胸痛",
+      "発熱"
+    ],
+    "gross_result_dates": [
+      "2022/04/26",
+      "2022/04/26",
+      "2022/04/26",
+      "2022/04/26"
+    ],
+    "gross_results": [
+      "回復",
+      "回復",
+      "回復",
+      "回復"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "4 4",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198218.pdf"
+    }
+  },
+  {
     "no": 19416,
     "age": "",
     "gender": "女性",
@@ -12141,6 +14109,117 @@
       "死亡",
       "死亡",
       "死亡"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "4 4",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198218.pdf"
+    }
+  },
+  {
+    "no": 19418,
+    "age": "43",
+    "gender": "男性",
+    "vaccinated_date": "2022/05/07",
+    "onset_dates": [
+      "2022/05/07",
+      "未記入",
+      "未記入"
+    ],
+    "days_to_onset": "0",
+    "vaccine_name": "コミナティ筋注",
+    "manufacturer": "ファイザー",
+    "lot_no": "FP9647",
+    "vaccinated_times": "3回目",
+    "pre_existing_disease_names": [
+      "糖尿病",
+      "肥満"
+    ],
+    "PT_names": [
+      "突然死",
+      "心筋炎",
+      "心膜炎"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "死亡",
+      "死亡",
+      "死亡"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "4 4",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198218.pdf"
+    }
+  },
+  {
+    "no": 19429,
+    "age": "24",
+    "gender": "男性",
+    "vaccinated_date": "2022/05/06",
+    "onset_dates": [
+      "2022/05/08",
+      "2022/05/08",
+      "2022/05/09",
+      "2022/05/09",
+      "2022/05/09",
+      "2022/05/08",
+      "2022/05/08",
+      "2022/05/07",
+      "2022/05/07"
+    ],
+    "days_to_onset": "1",
+    "vaccine_name": "コミナティ筋注",
+    "manufacturer": "ファイザー",
+    "lot_no": "FT8584",
+    "vaccinated_times": "3回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心膜炎",
+      "呼吸困難",
+      "脳性ナトリウム利尿ペプチド前駆体Ｎ端フラグメント増加",
+      "アラニンアミノトランスフェフェラーゼ増加",
+      "血中クレアチンホスホキナーゼ増加",
+      "心筋炎",
+      "胸痛",
+      "胸部不快感",
+      "発熱"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "2022",
+      "2022",
+      "2022",
+      "2022"
+    ],
+    "gross_results": [
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "回復",
+      "回復",
+      "回復",
+      "回復"
     ],
     "evaluated_PT": "心筋炎\n心膜炎",
     "evaluated_result": "γ γ",
@@ -12403,6 +14482,76 @@
     }
   },
   {
+    "no": 19439,
+    "age": "61",
+    "gender": "女性",
+    "vaccinated_date": "2022/02/08",
+    "onset_dates": [
+      "2022/02/19",
+      "2022/02/19",
+      "2022/02/19",
+      "2022/02/19",
+      "2022/02/19",
+      "未記入",
+      "2022/02/19",
+      "2022/02/19",
+      "未記入"
+    ],
+    "days_to_onset": "11",
+    "vaccine_name": "コミナティ筋注",
+    "manufacturer": "ファイザー",
+    "lot_no": "FJ5929",
+    "vaccinated_times": "3回目",
+    "pre_existing_disease_names": [
+      "失神",
+      "胸腺癌",
+      "胸腺腫",
+      "脳血管発作"
+    ],
+    "PT_names": [
+      "突然死",
+      "心肺停止",
+      "心筋炎",
+      "心膜炎",
+      "心内膜炎",
+      "冠動脈狭窄",
+      "右室不全",
+      "転倒",
+      "不快感"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "死亡",
+      "死亡",
+      "死亡",
+      "死亡",
+      "死亡",
+      "死亡",
+      "死亡",
+      "不明",
+      "不明"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "1 1",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198218.pdf"
+    }
+  },
+  {
     "no": 19451,
     "age": "15",
     "gender": "男性",
@@ -12442,6 +14591,128 @@
     "evaluated_PT": "心筋炎\n心膜炎",
     "evaluated_result": "γ γ",
     "brighton_classification": "1 2",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198218.pdf"
+    }
+  },
+  {
+    "no": 19451,
+    "age": "15",
+    "gender": "男性",
+    "vaccinated_date": "2022/05/07",
+    "onset_dates": [
+      "2022/05/10",
+      "2022/05/10",
+      "2022/05/10",
+      "2022/05/10"
+    ],
+    "days_to_onset": "3",
+    "vaccine_name": "コミナティ筋注",
+    "manufacturer": "ファイザー",
+    "lot_no": "FN9607",
+    "vaccinated_times": "3回目",
+    "pre_existing_disease_names": [
+      "上咽頭炎"
+    ],
+    "PT_names": [
+      "心筋炎",
+      "心膜炎",
+      "胸痛",
+      "呼吸困難"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "不明",
+      "不明",
+      "不明",
+      "不明"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "1 2",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198218.pdf"
+    }
+  },
+  {
+    "no": 19459,
+    "age": "32",
+    "gender": "女性",
+    "vaccinated_date": "2021/10/03",
+    "onset_dates": [
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "days_to_onset": "不明",
+    "vaccine_name": "コミナティ筋注",
+    "manufacturer": "ファイザー",
+    "lot_no": "不明",
+    "vaccinated_times": "2回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "頚部痛",
+      "筋肉痛",
+      "関節痛",
+      "注射による四肢の運動低下",
+      "疲労",
+      "異常感",
+      "ワクチン接種部位疼痛",
+      "心筋炎",
+      "心膜炎",
+      "頭痛",
+      "発熱"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "回復",
+      "回復",
+      "回復",
+      "回復"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "4 4",
     "expert_opinion": "",
     "remarks": "",
     "source": {
@@ -13463,6 +15734,45 @@
     }
   },
   {
+    "no": 19625,
+    "age": "50",
+    "gender": "男性",
+    "vaccinated_date": "不明",
+    "onset_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "days_to_onset": "不明",
+    "vaccine_name": "コミナティ筋注",
+    "manufacturer": "ファイザー",
+    "lot_no": "不明",
+    "vaccinated_times": "1回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心筋炎",
+      "心膜炎"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "回復",
+      "回復"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "4 4",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198218.pdf"
+    }
+  },
+  {
     "no": 19691,
     "age": "41",
     "gender": "男性",
@@ -13529,6 +15839,53 @@
     "evaluated_PT": "心筋炎",
     "evaluated_result": "γ",
     "brighton_classification": "1",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198218.pdf"
+    }
+  },
+  {
+    "no": 19738,
+    "age": "16",
+    "gender": "男性",
+    "vaccinated_date": "2022/05/27",
+    "onset_dates": [
+      "2022/05/29",
+      "2022/05/29",
+      "2022/05/28",
+      "2022/05/28"
+    ],
+    "days_to_onset": "1",
+    "vaccine_name": "コミナティ筋注",
+    "manufacturer": "ファイザー",
+    "lot_no": "不明",
+    "vaccinated_times": "3回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心筋心膜炎|心筋炎",
+      "心膜炎",
+      "頭痛",
+      "発熱"
+    ],
+    "gross_result_dates": [
+      "2022/05/31",
+      "2022/05/31",
+      "2022/05/31",
+      "2022/05/29"
+    ],
+    "gross_results": [
+      "回復",
+      "回復",
+      "回復",
+      "回復"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎\n心筋心膜炎",
+    "evaluated_result": "γ γ γ",
+    "brighton_classification": "4 2 4",
     "expert_opinion": "",
     "remarks": "",
     "source": {
@@ -14228,6 +16585,69 @@
     }
   },
   {
+    "no": 19883,
+    "age": "36",
+    "gender": "男性",
+    "vaccinated_date": "2022/05/10",
+    "onset_dates": [
+      "2022/05/11",
+      "2022/05/12",
+      "2022/05/12",
+      "2022/05/12",
+      "未記入",
+      "未記入",
+      "2022/05/17",
+      "2022/05/17"
+    ],
+    "days_to_onset": "1",
+    "vaccine_name": "コミナティ筋注",
+    "manufacturer": "ファイザー",
+    "lot_no": "FN2726",
+    "vaccinated_times": "3回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "胸痛",
+      "呼吸困難",
+      "動悸",
+      "不快感",
+      "心筋炎",
+      "心膜炎",
+      "アラニンアミノトランスフェラーゼ増加",
+      "好酸球数増加"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "未回復",
+      "未回復",
+      "未回復",
+      "未回復",
+      "不明",
+      "不明",
+      "不明",
+      "不明"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "4 4",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198218.pdf"
+    }
+  },
+  {
     "no": 19897,
     "age": "83歳",
     "gender": "男性",
@@ -14748,6 +17168,49 @@
     }
   },
   {
+    "no": 20054,
+    "age": "76",
+    "gender": "男性",
+    "vaccinated_date": "2022/01/29",
+    "onset_dates": [
+      "未記入",
+      "未記入",
+      "2022"
+    ],
+    "days_to_onset": "不明",
+    "vaccine_name": "コミナティ筋注",
+    "manufacturer": "ファイザー",
+    "lot_no": "FH0151",
+    "vaccinated_times": "3回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心筋炎",
+      "心膜炎",
+      "筋骨格系胸痛|胸痛"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "不明",
+      "不明",
+      "不明"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "4 4",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198218.pdf"
+    }
+  },
+  {
     "no": 20100,
     "age": "79",
     "gender": "男性",
@@ -15004,6 +17467,57 @@
     }
   },
   {
+    "no": 20144,
+    "age": "14",
+    "gender": "男性",
+    "vaccinated_date": "2022/06/02",
+    "onset_dates": [
+      "2022/06/03",
+      "2022/06/03",
+      "2022/06/03",
+      "2022/06/03",
+      "2022/06/03"
+    ],
+    "days_to_onset": "1",
+    "vaccine_name": "コミナティ筋注",
+    "manufacturer": "ファイザー",
+    "lot_no": "FP9647",
+    "vaccinated_times": "3回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心筋炎|心筋心膜炎",
+      "心膜炎",
+      "頭痛",
+      "胸痛",
+      "発熱"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快"
+    ],
+    "evaluated_PT": "心筋炎\n心筋心膜炎\n心膜炎",
+    "evaluated_result": "γ γ γ",
+    "brighton_classification": "1 1 2",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198218.pdf"
+    }
+  },
+  {
     "no": 20147,
     "age": "27歳",
     "gender": "女性",
@@ -15189,7 +17703,7 @@
   },
   {
     "no": 20219,
-    "age": "15歲",
+    "age": "15歳",
     "gender": "男性",
     "vaccinated_date": "2022/6/14",
     "onset_dates": [
@@ -16328,6 +18842,69 @@
     }
   },
   {
+    "no": 20565,
+    "age": "16",
+    "gender": "男性",
+    "vaccinated_date": "2022/05/07",
+    "onset_dates": [
+      "2022/05/10",
+      "2022/05/10",
+      "2022/05/07",
+      "2022/05/10",
+      "2022/05/10",
+      "2022/05/07",
+      "2022/05/07",
+      "2022/05/10"
+    ],
+    "days_to_onset": "0",
+    "vaccine_name": "コミナティ筋注",
+    "manufacturer": "ファイザー",
+    "lot_no": "FN2897",
+    "vaccinated_times": "3回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心筋炎",
+      "心膜炎",
+      "頭痛",
+      "胸痛",
+      "呼吸困難",
+      "悪寒",
+      "発熱",
+      "心電図再分極異常"
+    ],
+    "gross_result_dates": [
+      "2022/07/25",
+      "2022/07/25",
+      "2022/07/25",
+      "2022/07/25",
+      "2022/07/25",
+      "2022/07/25",
+      "2022/07/25",
+      "2022/07/25"
+    ],
+    "gross_results": [
+      "回復",
+      "回復",
+      "回復",
+      "回復",
+      "回復",
+      "回復",
+      "回復",
+      "回復"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "4 4",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198218.pdf"
+    }
+  },
+  {
     "no": 20609,
     "age": "14",
     "gender": "男性",
@@ -16683,6 +19260,45 @@
     "evaluated_PT": "心筋炎",
     "evaluated_result": "γ",
     "brighton_classification": "1",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198218.pdf"
+    }
+  },
+  {
+    "no": 20744,
+    "age": "14",
+    "gender": "男性",
+    "vaccinated_date": "2022/06/02",
+    "onset_dates": [
+      "2022",
+      "2022/06/03"
+    ],
+    "days_to_onset": "不明",
+    "vaccine_name": "コミナティ筋注",
+    "manufacturer": "ファイザー",
+    "lot_no": "FP9647",
+    "vaccinated_times": "3回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心筋心膜炎|心筋炎",
+      "心膜炎"
+    ],
+    "gross_result_dates": [
+      "2022/06/11",
+      "2022/06/11"
+    ],
+    "gross_results": [
+      "回復",
+      "回復"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎\n心筋心膜炎",
+    "evaluated_result": "γ γ γ",
+    "brighton_classification": "1 2 1",
     "expert_opinion": "",
     "remarks": "",
     "source": {
@@ -18270,6 +20886,53 @@
     }
   },
   {
+    "no": 21546,
+    "age": "",
+    "gender": "女性",
+    "vaccinated_date": "不明",
+    "onset_dates": [
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "days_to_onset": "不明",
+    "vaccine_name": "コミナティ筋注",
+    "manufacturer": "ファイザー",
+    "lot_no": "不明",
+    "vaccinated_times": "3回目",
+    "pre_existing_disease_names": [
+      "胸痛"
+    ],
+    "PT_names": [
+      "心筋炎",
+      "心膜炎",
+      "心障害",
+      "ワクチンの互換"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "不明",
+      "不明",
+      "不明",
+      "不明"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "4 4",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198218.pdf"
+    }
+  },
+  {
     "no": 21646,
     "age": "38",
     "gender": "",
@@ -19282,6 +21945,45 @@
     }
   },
   {
+    "no": 22193,
+    "age": "14",
+    "gender": "男性",
+    "vaccinated_date": "不明",
+    "onset_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "days_to_onset": "不明",
+    "vaccine_name": "コミナティ筋注",
+    "manufacturer": "ファイザー",
+    "lot_no": "不明",
+    "vaccinated_times": "1回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心筋炎",
+      "心膜炎"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "不明",
+      "不明"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "4 4",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198218.pdf"
+    }
+  },
+  {
     "no": 22197,
     "age": "53",
     "gender": "女性",
@@ -19370,6 +22072,86 @@
     "evaluated_result": "γ",
     "brighton_classification": "4",
     "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198218.pdf"
+    }
+  },
+  {
+    "no": 22279,
+    "age": "14歳",
+    "gender": "女性",
+    "vaccinated_date": "2022/8/10",
+    "onset_dates": [
+      "2022/08/12",
+      "2022/08",
+      "2022/08/12",
+      "2022/08",
+      "2022/08",
+      "2022/08",
+      "2022/08",
+      "2022/08",
+      "2022/08",
+      "2022/08",
+      "2022/08",
+      "2022/08"
+    ],
+    "days_to_onset": "不明",
+    "vaccine_name": "コミナティ筋注",
+    "manufacturer": "ファイザー",
+    "lot_no": "FP9654",
+    "vaccinated_times": "3回目",
+    "pre_existing_disease_names": [
+      "全身健康状態正常",
+      "起立不耐性"
+    ],
+    "PT_names": [
+      "突然死(实然死)",
+      "心筋炎(心筋心膜炎|心筋炎)",
+      "心膜炎(心膜炎)",
+      "心不全(心不全)",
+      "不整脈(不整脈)",
+      "上室性不整脈(上室性不整脈)",
+      "膀胱炎(膀胱炎)",
+      "肺炎(肺炎)",
+      "胃腸炎(胃腸炎)",
+      "肝炎·肝不全(肝炎)",
+      "腎炎(腎炎)",
+      "筋炎·筋膜炎(筋炎)"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "死亡",
+      "死亡",
+      "死亡",
+      "死亡",
+      "死亡",
+      "死亡",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明"
+    ],
+    "evaluated_PT": "心筋炎\n心筋心膜炎\n心膜炎",
+    "evaluated_result": "α\nα\nγ",
+    "brighton_classification": "1\n1\n1",
+    "expert_opinion": "本症例では、アレルギー、薬物曝露、先行する感染症が否定されており、接種後短期間のうちに心臓を含む多臓器に炎症が生じている。患者の基礎情報や接種から症状の発現時期等を総合的に踏まえると、ワクチン接種により心筋心膜炎が生じたと考えて矛盾しない。本症例は、心臓における炎症所見は心房領域が中心と報告され、論文においては、心房由来の不整脈が死亡の原因として想定されたと報告されているが、心筋炎では致死的経過をたどることもあり、心室性の致死性不整脈が生じた可能性も否定できない。本症例が基礎疾患がなく、健康な若年者であることも踏まえると、心筋炎から不整脈を生じ、死亡に至ったと考えたとしても得られている情報と矛盾しない。なお、心臓以外の複数の臓器における炎症が死因に寄与している可能性については、他臓器における炎症所見の詳細が得られておらず、影響の程度は不明である。",
     "remarks": "",
     "source": {
       "name": "第100回",
@@ -19657,6 +22439,45 @@
     }
   },
   {
+    "no": 22463,
+    "age": "59",
+    "gender": "男性",
+    "vaccinated_date": "不明",
+    "onset_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "days_to_onset": "不明",
+    "vaccine_name": "コミナティ筋注",
+    "manufacturer": "ファイザー",
+    "lot_no": "不明",
+    "vaccinated_times": "1回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心筋炎",
+      "心膜炎"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快",
+      "軽快"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "1 4",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198218.pdf"
+    }
+  },
+  {
     "no": 22467,
     "age": "17",
     "gender": "男性",
@@ -19684,6 +22505,61 @@
     "evaluated_PT": "心筋炎",
     "evaluated_result": "γ",
     "brighton_classification": "4",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198218.pdf"
+    }
+  },
+  {
+    "no": 22480,
+    "age": "22",
+    "gender": "男性",
+    "vaccinated_date": "2022/05/21",
+    "onset_dates": [
+      "2022/05/25",
+      "2022/05/25",
+      "2022/05/21",
+      "2022/05/25",
+      "2022/05/25",
+      "2022/05/25"
+    ],
+    "days_to_onset": "0",
+    "vaccine_name": "コミナティ筋注",
+    "manufacturer": "ファイザー",
+    "lot_no": "不明",
+    "vaccinated_times": "3回目",
+    "pre_existing_disease_names": [
+      "肥満"
+    ],
+    "PT_names": [
+      "心筋炎",
+      "心膜炎",
+      "発熱",
+      "トランスアミナーゼ上昇",
+      "脂肪肝",
+      "非アルコール性脂肪性肝炎"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入",
+      "2022/05/26",
+      "2022/05/26",
+      "2022/08/05"
+    ],
+    "gross_results": [
+      "未回復",
+      "未回復",
+      "軽快",
+      "回復",
+      "回復",
+      "回復"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "1 4",
     "expert_opinion": "",
     "remarks": "",
     "source": {
@@ -20133,6 +23009,116 @@
     "evaluated_result": "γ\nγ",
     "brighton_classification": "4\n2",
     "expert_opinion": "心筋炎及び心膜炎に関しては市中感染症などを契機として自然発生することが知られている疾患であり、ワクチンによる心筋炎·心膜炎なのか、ワクチンとは関係の無い自然発生した心筋炎·心膜炎なのかを判別することは困難である。",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198218.pdf"
+    }
+  },
+  {
+    "no": 22789,
+    "age": "16歳",
+    "gender": "男性",
+    "vaccinated_date": "2022/5/6",
+    "onset_dates": [
+      "2022/05/10",
+      "2022/05/10",
+      "2022/05/06"
+    ],
+    "days_to_onset": "0",
+    "vaccine_name": "コミナティ筋注",
+    "manufacturer": "ファイザー",
+    "lot_no": "FM7534",
+    "vaccinated_times": "3回目",
+    "pre_existing_disease_names": [
+      "小児喘息"
+    ],
+    "PT_names": [
+      "心筋炎(心筋炎)",
+      "心膜炎(心膜炎)",
+      "発熱(発熱)"
+    ],
+    "gross_result_dates": [
+      "2022/05/18",
+      "2022/05/18",
+      "2022/05/18"
+    ],
+    "gross_results": [
+      "回復",
+      "回復",
+      "回復"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ\nγ",
+    "brighton_classification": "4\n2",
+    "expert_opinion": "心筋炎及び心膜炎に関しては市中感染症などを契機として自然発生することが知られている疾患であり、ワクチンによる心筋炎·心膜炎なのか、ワクチンとは関係の無い自然発生した心筋炎·心膜炎なのかを判別することは困難である。",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198218.pdf"
+    }
+  },
+  {
+    "no": 22791,
+    "age": "66歳",
+    "gender": "女性",
+    "vaccinated_date": "2022/8/12",
+    "onset_dates": [
+      "2022/08/12",
+      "2022/08/12",
+      "未記入",
+      "未記入",
+      "未記入",
+      "2022",
+      "2022",
+      "2022",
+      "2022"
+    ],
+    "days_to_onset": "不明",
+    "vaccine_name": "コミナティ筋注",
+    "manufacturer": "ファイザー",
+    "lot_no": "不明",
+    "vaccinated_times": "4回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心不全(心不全)",
+      "腎機能障害·腎不全(腎不全|腎機能障害)",
+      "心筋炎(心筋炎)",
+      "心膜炎(心膜炎)",
+      "尿細管間質性腎炎(尿細管間質性腎炎)",
+      "呼吸障害·呼吸不全(呼吸困難)",
+      "浮腫(末梢性浮腫)",
+      "倦怠感(倦怠感)",
+      "発熱(発熱)"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "後遺症あり",
+      "後遺症あり",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ\nγ",
+    "brighton_classification": "4\n2",
+    "expert_opinion": "心筋炎と診断するには情報が少なく、困難である。また、心膜炎に関しては、自覚症状および心膜液貯留を認め、その可能性が高い。心筋炎·心筋炎は市中感染症などを契機として自然発生することが知られている疾患であり、ワクチンによるものなのか、ワクチンとは関係の無い自然発生したものなのかを判別することは困難である。以上から、ワクチンとの因果関係を有と判断することはできないと考えた。",
     "remarks": "",
     "source": {
       "name": "第100回",
@@ -22947,6 +25933,61 @@
     }
   },
   {
+    "no": 26375,
+    "age": "38",
+    "gender": "男性",
+    "vaccinated_date": "2021/09/02",
+    "onset_dates": [
+      "2021/09/09",
+      "2021/09/09",
+      "未記入",
+      "2021/09/09",
+      "2021/09/09"
+    ],
+    "days_to_onset": "7",
+    "vaccine_name": "スパイクバックス筋注",
+    "manufacturer": "モデルナ",
+    "lot_no": "不明",
+    "vaccinated_times": "1回目",
+    "pre_existing_disease_names": [
+      "糖尿病",
+      "糖尿病性腎症",
+      "糖尿病網膜症",
+      "脂質異常症",
+      "高血圧"
+    ],
+    "PT_names": [
+      "心筋炎",
+      "心膜炎",
+      "多臓器機能不全症候群",
+      "心タンポナーデ",
+      "心肺停止"
+    ],
+    "gross_result_dates": [
+      "2021/09/13",
+      "2021/09/13",
+      "2021/09/13",
+      "2021/09/13",
+      "未記入"
+    ],
+    "gross_results": [
+      "死亡",
+      "死亡",
+      "死亡",
+      "死亡",
+      "不明"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "1 1",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
+    }
+  },
+  {
     "no": 26376,
     "age": "19",
     "gender": "男性",
@@ -23573,6 +26614,47 @@
     }
   },
   {
+    "no": 26437,
+    "age": "20",
+    "gender": "男性",
+    "vaccinated_date": "不明\n不明",
+    "onset_dates": [
+      "未記入",
+      "2021/07/28"
+    ],
+    "days_to_onset": "不明\n不明",
+    "vaccine_name": "スパイクバックス筋注\nスパイクバックス筋注",
+    "manufacturer": "モデルナ\nモデルナ",
+    "lot_no": "不明\n不明",
+    "vaccinated_times": "2回目\n1回目",
+    "pre_existing_disease_names": [
+      "心筋心膜炎"
+    ],
+    "PT_names": [
+      "心膜炎",
+      "心筋心膜炎",
+      "心膜炎",
+      "心筋心膜炎"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "2021/08/02"
+    ],
+    "gross_results": [
+      "不明",
+      "回復"
+    ],
+    "evaluated_PT": "心筋心膜炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "1 2",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
+    }
+  },
+  {
     "no": 26439,
     "age": "39",
     "gender": "男性",
@@ -23746,6 +26828,52 @@
     "evaluated_PT": "心筋炎",
     "evaluated_result": "γ",
     "brighton_classification": "4",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
+    }
+  },
+  {
+    "no": 26449,
+    "age": "20",
+    "gender": "女性",
+    "vaccinated_date": "不明\n不明",
+    "onset_dates": [
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "days_to_onset": "不明\n不明",
+    "vaccine_name": "スパイクバックス筋注\nスパイクバックス筋注",
+    "manufacturer": "モデルナ\nモデルナ",
+    "lot_no": "不明\n不明",
+    "vaccinated_times": "2回目\n1回目",
+    "pre_existing_disease_names": [
+      "川崎病"
+    ],
+    "PT_names": [
+      "心筋炎",
+      "心膜炎",
+      "心筋損傷",
+      "心筋炎",
+      "心膜炎",
+      "心筋損傷"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "不明",
+      "不明",
+      "不明"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "1 4",
     "expert_opinion": "",
     "remarks": "",
     "source": {
@@ -24703,6 +27831,47 @@
     }
   },
   {
+    "no": 26596,
+    "age": "24",
+    "gender": "男性",
+    "vaccinated_date": "2022/02/06\n不明",
+    "onset_dates": [
+      "2022/02/08",
+      "2022/02/08"
+    ],
+    "days_to_onset": "2\n不明",
+    "vaccine_name": "スパイクバックス筋注\nスパイクバックス筋注",
+    "manufacturer": "モデルナ\nモデルナ",
+    "lot_no": "不明\n不明",
+    "vaccinated_times": "2回目\n1回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心筋炎",
+      "心膜炎",
+      "心筋炎",
+      "心膜炎"
+    ],
+    "gross_result_dates": [
+      "2022/02/15",
+      "2022/02/15"
+    ],
+    "gross_results": [
+      "回復",
+      "回復"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "4 2",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
+    }
+  },
+  {
     "no": 26607,
     "age": "72",
     "gender": "男性",
@@ -25079,6 +28248,50 @@
     "evaluated_PT": "心筋炎",
     "evaluated_result": "γ",
     "brighton_classification": "1",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
+    }
+  },
+  {
+    "no": 26701,
+    "age": "19",
+    "gender": "男性",
+    "vaccinated_date": "2022/03/07",
+    "onset_dates": [
+      "2022/03/08",
+      "2022/03/08"
+    ],
+    "days_to_onset": "1",
+    "vaccine_name": "スパイクバックス筋注",
+    "manufacturer": "モデルナ",
+    "lot_no": "不明",
+    "vaccinated_times": "3回目",
+    "pre_existing_disease_names": [
+      "メニエール病",
+      "知的能力障害",
+      "突発性難聴",
+      "肺動脈弁狭窄",
+      "血尿",
+      "近視"
+    ],
+    "PT_names": [
+      "心筋炎",
+      "心膜炎"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快",
+      "軽快"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "1 2",
     "expert_opinion": "",
     "remarks": "",
     "source": {
@@ -25668,6 +28881,45 @@
     }
   },
   {
+    "no": 26831,
+    "age": "20",
+    "gender": "男性",
+    "vaccinated_date": "2022/03/12",
+    "onset_dates": [
+      "2022/03/15",
+      "2022/03/15"
+    ],
+    "days_to_onset": "3",
+    "vaccine_name": "スパイクバックス筋注",
+    "manufacturer": "モデルナ",
+    "lot_no": "000006A",
+    "vaccinated_times": "3回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心筋炎",
+      "心膜炎"
+    ],
+    "gross_result_dates": [
+      "2022/04/13",
+      "2022/04/13"
+    ],
+    "gross_results": [
+      "回復",
+      "回復"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "4 4",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
+    }
+  },
+  {
     "no": 26837,
     "age": "57",
     "gender": "男性",
@@ -25855,6 +29107,45 @@
     "evaluated_result": "γ",
     "brighton_classification": "1",
     "expert_opinion": "心筋炎は市中感染症などを契機として自然発生することも知られている疾患であり、ワクチン接種による心筋炎なのか、ワクチン接種とは関係なく自然発生した心筋炎なのかを判別することは困難である。",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
+    }
+  },
+  {
+    "no": 26862,
+    "age": "24",
+    "gender": "男性",
+    "vaccinated_date": "2022/03/18",
+    "onset_dates": [
+      "2022/03/28",
+      "2022/03/28"
+    ],
+    "days_to_onset": "10",
+    "vaccine_name": "スパイクバックス筋注",
+    "manufacturer": "モデルナ",
+    "lot_no": "不明",
+    "vaccinated_times": "3回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心筋炎",
+      "心膜炎"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "不明",
+      "不明"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "4 4",
+    "expert_opinion": "",
     "remarks": "",
     "source": {
       "name": "第100回",
@@ -26499,6 +29790,49 @@
     }
   },
   {
+    "no": 26983,
+    "age": "21",
+    "gender": "男性",
+    "vaccinated_date": "2022/04/22",
+    "onset_dates": [
+      "2022/04/23",
+      "2022/04/23",
+      "2022/04/28"
+    ],
+    "days_to_onset": "1",
+    "vaccine_name": "スパイクバックス筋注",
+    "manufacturer": "モデルナ",
+    "lot_no": "000026A",
+    "vaccinated_times": "3回目",
+    "pre_existing_disease_names": [
+      "ＣＯＶＩＤ－１９"
+    ],
+    "PT_names": [
+      "心筋炎",
+      "心膜炎",
+      "肺水腫"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快",
+      "軽快",
+      "軽快"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "4 4",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
+    }
+  },
+  {
     "no": 26985,
     "age": "19",
     "gender": "男性",
@@ -27041,6 +30375,45 @@
     }
   },
   {
+    "no": 27040,
+    "age": "19",
+    "gender": "男性",
+    "vaccinated_date": "2022/05/07",
+    "onset_dates": [
+      "2022/05/07",
+      "2022/05/07"
+    ],
+    "days_to_onset": "0",
+    "vaccine_name": "スパイクバックス筋注",
+    "manufacturer": "モデルナ",
+    "lot_no": "不明",
+    "vaccinated_times": "3回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心筋炎",
+      "心膜炎"
+    ],
+    "gross_result_dates": [
+      "2022/05/16",
+      "2022/05/16"
+    ],
+    "gross_results": [
+      "回復",
+      "回復"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "4 2",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
+    }
+  },
+  {
     "no": 27042,
     "age": "18",
     "gender": "男性",
@@ -27235,6 +30608,84 @@
     "vaccinated_times": "2回目",
     "pre_existing_disease_names": [
       "川崎病"
+    ],
+    "PT_names": [
+      "心筋炎",
+      "心膜炎"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "不明",
+      "不明"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "1 4",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
+    }
+  },
+  {
+    "no": 27113,
+    "age": "20歳代",
+    "gender": "女性",
+    "vaccinated_date": "不明",
+    "onset_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "days_to_onset": "不明",
+    "vaccine_name": "スパイクバックス筋注",
+    "manufacturer": "モデルナ",
+    "lot_no": "不明",
+    "vaccinated_times": "2回目",
+    "pre_existing_disease_names": [
+      "川崎病"
+    ],
+    "PT_names": [
+      "心筋炎",
+      "心膜炎"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "不明",
+      "不明"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "1 4",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
+    }
+  },
+  {
+    "no": 27114,
+    "age": "10歳代",
+    "gender": "男性",
+    "vaccinated_date": "不明",
+    "onset_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "days_to_onset": "不明",
+    "vaccine_name": "スパイクバックス筋注",
+    "manufacturer": "モデルナ",
+    "lot_no": "不明",
+    "vaccinated_times": "2回目",
+    "pre_existing_disease_names": [
+      "報告なし"
     ],
     "PT_names": [
       "心筋炎",
@@ -28527,6 +31978,89 @@
     }
   },
   {
+    "no": 27258,
+    "age": "27",
+    "gender": "男性",
+    "vaccinated_date": "2022/07/02",
+    "onset_dates": [
+      "2022/07/07",
+      "2022/07/07"
+    ],
+    "days_to_onset": "5",
+    "vaccine_name": "スパイクバックス筋注",
+    "manufacturer": "モデルナ",
+    "lot_no": "不明",
+    "vaccinated_times": "3回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心膜炎",
+      "心筋炎"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快",
+      "回復"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "4 2",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
+    }
+  },
+  {
+    "no": 27259,
+    "age": "25",
+    "gender": "男性",
+    "vaccinated_date": "2022/05/16",
+    "onset_dates": [
+      "2022/05/17",
+      "2022/05/17",
+      "2022/05/17"
+    ],
+    "days_to_onset": "1",
+    "vaccine_name": "スパイクバックス筋注",
+    "manufacturer": "モデルナ",
+    "lot_no": "不明",
+    "vaccinated_times": "3回目",
+    "pre_existing_disease_names": [
+      "喘息",
+      "小児喘息"
+    ],
+    "PT_names": [
+      "心筋炎",
+      "心膜炎",
+      "肝機能異常"
+    ],
+    "gross_result_dates": [
+      "2022/06/02",
+      "2022/06/02",
+      "2022/06/02"
+    ],
+    "gross_results": [
+      "回復",
+      "回復",
+      "回復"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "4 1",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
+    }
+  },
+  {
     "no": 27259,
     "age": "25",
     "gender": "男性",
@@ -28604,6 +32138,88 @@
     "evaluated_PT": "心筋炎\n心膜炎",
     "evaluated_result": "γ γ",
     "brighton_classification": "1 2",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
+    }
+  },
+  {
+    "no": 27272,
+    "age": "18",
+    "gender": "男性",
+    "vaccinated_date": "不明\n不明",
+    "onset_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "days_to_onset": "不明\n不明",
+    "vaccine_name": "スパイクバックス筋注\nスパイクバックス筋注",
+    "manufacturer": "モデルナ\nモデルナ",
+    "lot_no": "不明\n不明",
+    "vaccinated_times": "2回目\n1回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心筋炎",
+      "心膜炎",
+      "心筋炎",
+      "心膜炎"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快",
+      "軽快"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "1 2",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
+    }
+  },
+  {
+    "no": 27273,
+    "age": "18",
+    "gender": "男性",
+    "vaccinated_date": "不明\n不明",
+    "onset_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "days_to_onset": "不明\n不明",
+    "vaccine_name": "スパイクバックス筋注\nスパイクバックス筋注",
+    "manufacturer": "モデルナ\nモデルナ",
+    "lot_no": "不明\n不明",
+    "vaccinated_times": "2回目\n1回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心膜炎",
+      "心筋炎",
+      "心膜炎",
+      "心筋炎"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "不明",
+      "軽快"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "1 4",
     "expert_opinion": "",
     "remarks": "",
     "source": {
@@ -28809,6 +32425,45 @@
     "evaluated_PT": "心膜炎",
     "evaluated_result": "γ",
     "brighton_classification": "2",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
+    }
+  },
+  {
+    "no": 27291,
+    "age": "10歳代",
+    "gender": "男性",
+    "vaccinated_date": "不明",
+    "onset_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "days_to_onset": "不明",
+    "vaccine_name": "スパイクバックス筋注",
+    "manufacturer": "モデルナ",
+    "lot_no": "不明",
+    "vaccinated_times": "2回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心筋炎",
+      "心膜炎"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "不明",
+      "不明"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "1 4",
     "expert_opinion": "",
     "remarks": "",
     "source": {
@@ -30674,6 +34329,53 @@
     }
   },
   {
+    "no": 27863,
+    "age": "23",
+    "gender": "男性",
+    "vaccinated_date": "2022/05/24",
+    "onset_dates": [
+      "2022/05/27",
+      "2022/05/27",
+      "2022/05/27",
+      "2022/05/27"
+    ],
+    "days_to_onset": "3",
+    "vaccine_name": "スパイクバックス筋注",
+    "manufacturer": "モデルナ",
+    "lot_no": "不明",
+    "vaccinated_times": "3回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心筋炎",
+      "心膜炎",
+      "狭心症",
+      "心筋梗塞"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "不明",
+      "不明",
+      "不明",
+      "不明"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "1 4",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
+    }
+  },
+  {
     "no": 27883,
     "age": "",
     "gender": "男性",
@@ -31024,6 +34726,137 @@
     "source": {
       "name": "第100回",
       "url": "https://www.mhlw.go.jp/content/10601000/001198223.pdf"
+    }
+  },
+  {
+    "no": 28173,
+    "age": "7",
+    "gender": "",
+    "vaccinated_date": "2022/03/13",
+    "onset_dates": [
+      "未記入",
+      "2022/03/14",
+      "2022/03/14",
+      "2022/03/14",
+      "2022/03",
+      "2022/03/16",
+      "2022/03",
+      "2022/03/18",
+      "2022/03/18",
+      "2022/03/18",
+      "2022/03/18",
+      "未記入",
+      "2022/03/18",
+      "2022/03/14",
+      "2022/03/18",
+      "2022/03/18",
+      "2022/03/18",
+      "2022/03/17",
+      "2022/03/14",
+      "2022/03/14",
+      "2022/03/18",
+      "2022/03/14",
+      "2022/03/14",
+      "2022/03/14",
+      "2022/03/14"
+    ],
+    "days_to_onset": "不明",
+    "vaccine_name": "コミナティ筋注５～11歳用",
+    "manufacturer": "ファイザー",
+    "lot_no": "FN5988",
+    "vaccinated_times": "1回目",
+    "pre_existing_disease_names": [
+      "ＣＯＶＩＤ－１９"
+    ],
+    "PT_names": [
+      "ウイルス性咽頭炎",
+      "無力症",
+      "腹痛",
+      "胸痛",
+      "口腔咽頭痛",
+      "咽頭紅斑",
+      "咽頭腫脹",
+      "トロポニンＴ増加",
+      "心電図ＳＴ部分上昇",
+      "トロポニンＩ増加",
+      "フィブリンＤダイマー増加",
+      "栄養状態異常",
+      "心筋症",
+      "咳嗽",
+      "心拡大",
+      "心電図異常",
+      "トロポニン増加",
+      "食欲減退",
+      "下痢",
+      "嘔吐",
+      "血中クレアチンホスホキナーゼ増加",
+      "倦怠感",
+      "発熱",
+      "心筋炎",
+      "心膜炎"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "2022",
+      "2022"
+    ],
+    "gross_results": [
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快",
+      "回復",
+      "回復"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "1 2",
+    "expert_opinion": "新型コロナウイルスワクチン接種後に急性心筋炎を発症した7歳男児の症例。時間的経過からはワクチン接種後の心膜炎の可能性が高いが、自然発生した心膜炎も完全には否定はできない。",
+    "remarks": "",
+    "source": {
+      "name": "第100回",
+      "url": "https://www.mhlw.go.jp/content/10601000/001197964.pdf"
     }
   },
   {
