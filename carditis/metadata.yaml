@@ -33,6 +33,7 @@
     expected_issues: [
       {
         file_name_prefix: '001198218',
+        manufacturer: 'ファイザー株式会社',
         myocarditis: [
           {
             name: "コミナティ筋注",
@@ -64,21 +65,23 @@
       },
       {
         file_name_prefix: '001280774',
+        manufacturer: 'ファイザー株式会社',
         myocarditis: [
           {
-            name: "コミナティ筋注（1価：オミクロン株XBB.1.5）",
+            name: "コミナティRTU筋注（1価：オミクロン株XBB.1.5）",
             count: 7
           }
         ],
         pericarditis: [
           {
-            name: "コミナティ筋注（1価：オミクロン株XBB.1.5）",
+            name: "コミナティRTU筋注（1価：オミクロン株XBB.1.5）",
             count: 1
           }
         ]
       },
       {
         file_name_prefix: '001198223',
+        manufacturer: 'モデルナ・ジャパン株式会社',
         myocarditis: [
           {
             name: "スパイクバックス筋注",
@@ -110,6 +113,7 @@
       },
       {
         file_name_prefix: '001280775',
+        manufacturer: 'モデルナ・ジャパン株式会社',
         myocarditis: [
           {
             name: "スパイクバックス筋注（1価:オミクロン株XBB.1.5）",
@@ -125,6 +129,7 @@
       },
       {
         file_name_prefix: '001280776',
+        manufacturer: '武田薬品工業株式会社',
         myocarditis: [
           {
             name: "ヌバキソビッド筋注",
@@ -138,9 +143,9 @@
           }
         ]
       },
-      # 001197012 は上記と同じ内容なので抽出不要。
       {
         file_name_prefix: '001197964',
+        manufacturer: 'ファイザー株式会社',
         myocarditis: [
           {
             name: "コミナティ筋注5～11歳用",
@@ -156,6 +161,7 @@
       },
       {
         file_name_prefix: '001280777',
+        manufacturer: 'ファイザー株式会社',
         myocarditis: [
           {
             name: "コミナティ筋注5～11歳用（1価:オミクロン株XBB.1.5）",
@@ -165,21 +171,6 @@
         pericarditis: [
           {
             name: "コミナティ筋注5～11歳用（1価:オミクロン株XBB.1.5）",
-            count: 0
-          }
-        ]
-      },
-      {
-        file_name_prefix: '001197467',
-        myocarditis: [
-          {
-            name: "コミナティ筋注6ヵ月～4歳用（1価:オミクロン株XBB.1.5）",
-            count: 0
-          }
-        ],
-        pericarditis: [
-          {
-            name: "コミナティ筋注6ヵ月～4歳用（1価:オミクロン株XBB.1.5）",
             count: 0
           }
         ]
