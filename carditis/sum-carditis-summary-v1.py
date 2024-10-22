@@ -1,7 +1,6 @@
-import json, os, unicodedata
+import json, os, unicodedata, math
 import yaml
 import pandas as pd
-import numpy as np
 
 with open('metadata.yaml', "r", encoding='utf-8') as f:
     metadata_root = yaml.safe_load(f) 
@@ -42,19 +41,23 @@ def sum_carditis_by_manufacturers(issues):
 def sum_carditis_by_ages(data):
     df = pd.json_normalize(data)
     df['age'] = df['age'].map(lambda x: str(x).replace('歳代','').replace('歳','').replace('代',''))
-    df = df[["age", "gender", "evaluated_PT"]]
+    df = df[["age"]]
     
-    unknown_ages_count = df[df['age'] == ''].shape[0]
+    unknown_ages_count = df[~df['age'].str.isdecimal()].shape[0]
 
-    df = df[df['age'] != '']
+    df = df[df['age'].str.isdecimal()]
     df['age'] = df['age'].astype(int)
     ages_count = df.shape[0]
     
-    labels = [ "{0}代".format(i) for i in range(0, 110, 10) ]
-    c = pd.cut(df['age'], bins=np.arange(0, 111, 10), labels=labels)
+    df['generation'] = df['age'].apply(lambda x:math.floor(x/10)*10)
+    df['count'] = 1
+    df = df.drop(columns=['age'])
     
-    aged_df = df.groupby(c, as_index=False).agg(['count'])['age']
+    aged_df = df.groupby('generation').sum()
     aged_df = aged_df.reset_index()
+    aged_df['generation'] = aged_df['generation'].map(lambda x: str(x) + '代')
+    aged_df = aged_df.rename(columns={'generation': 'x'})
+    aged_df = aged_df.rename(columns={'count': 'y'})
     aged_df.to_dict(orient='records')
 
     return (aged_df, unknown_ages_count, ages_count)

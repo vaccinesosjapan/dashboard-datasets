@@ -15,7 +15,8 @@ def sum_by_manufacturer():
     df['death_count'] = 1
     
     merged_df = df.groupby(['manufacturer', 'causal_relationship_by_expert'], as_index=False).sum()
-    merged_df = merged_df[(merged_df['causal_relationship_by_expert'] == 'β') | (merged_df['causal_relationship_by_expert'] == 'γ')]
+    # 新型コロナワクチンと死亡との関係が否定されたβだけを除外する
+    merged_df = merged_df[(merged_df['causal_relationship_by_expert'] != 'β')]
     merged_df = merged_df.drop(columns=['causal_relationship_by_expert'])
     
     return merged_df.groupby('manufacturer', as_index=False).sum()
