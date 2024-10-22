@@ -1,10 +1,6 @@
-import glob, json, os, sys
+import glob, json, os, math
 import yaml
 import pandas as pd
-sys.path.append("../libraries")
-from exdeath import (
-	create_graph_data_list_by_age
-)
 
 output_dir = '../_datasets'
 death_issues = []
@@ -28,6 +24,30 @@ def convert_data(d):
 	for dIndex, day in enumerate(onset_dates):
 		onset_dates[dIndex] = day.replace('年', '/').replace('月', '/').replace('日', '')
 	return d
+
+def sum_death_by_ages(data):
+    df = pd.json_normalize(data)
+    df['age'] = df['age'].map(lambda x: str(x).replace('歳代','').replace('歳','').replace('代',''))
+    df = df[["age", "causal_relationship_by_expert"]]
+    df = df[df['causal_relationship_by_expert'] != 'β']
+    
+    unknown_ages_count = df[~df['age'].str.isdecimal()].shape[0]
+    df = df[df['age'].str.isdecimal()]
+    df = df.drop(columns=['causal_relationship_by_expert'])
+    ages_count = df.shape[0]
+    
+    df['age'] = df['age'].astype(int)
+    df['generation'] = df['age'].apply(lambda x:math.floor(x/10)*10)
+    df['count'] = 1
+    df = df.drop(columns=['age'])
+    
+    aged_df = df.groupby('generation').sum()
+    aged_df = aged_df.reset_index()
+    aged_df['generation'] = aged_df['generation'].map(lambda x: str(x) + '代')
+    aged_df = aged_df.rename(columns={'generation': 'x'})
+    aged_df = aged_df.rename(columns={'count': 'y'})
+    
+    return (aged_df, ages_count, unknown_ages_count)
 
 
 json_file_path_list = glob.glob('reports-data/*.json')
@@ -72,7 +92,9 @@ with open( output_file_path, "w", encoding='utf-8') as f:
 with open('summary-metadata.yaml', "r", encoding='utf-8') as json_file_path:
     metadata_root = yaml.safe_load(json_file_path)
 metadata = metadata_root['metadata']
-sum_by_age = create_graph_data_list_by_age(sorted_issues)
+
+(aged_df, ages_count, unknown_ages_count) = sum_death_by_ages(sorted_issues)
+
 
 ## ロットNoの集計結果を保存する処理
 invalid_lotno_df = df[df['lot_no'].map(lambda x: str(x).__contains__('不明') or not str(x))]
@@ -99,7 +121,9 @@ for k,v in moderna_lotno_dict.items():
 summary_data = {
 	"death_summary_from_reports": {
 		"date": metadata['issues']['date'],
-		"sum_by_age": sum_by_age,
+		"ages_count": ages_count,
+		"unknown_ages_count": unknown_ages_count,
+		"sum_by_age": aged_df.to_dict(orient='records'),
 		"lot_no_info": {
 			"top_ten_list": valid_lotno_list,
 			"top_ten_list_moderna": moderna_lotno_list,
