@@ -1223,5 +1223,38 @@ settings: [
       url: https://www.mhlw.go.jp/content/11120000/001280751.pdf
     },
     script-version: ex1
+  },
+  {
+    file: '104th/001321049.pdf',
+    output: '001321049.json',
+    pages: '2',
+    expected_count: 3,
+    source: {
+      name: 第104回,
+      url: https://www.mhlw.go.jp/content/11120000/001321049.pdf
+    },
+    script-version: v2
+  },
+  {
+    file: '104th/001321051.csv',
+    output: '001321051.json',
+    pages: '',
+    expected_count: 1,
+    source: {
+      name: 第104回,
+      url: https://www.mhlw.go.jp/content/11120000/001321051.pdf
+    },
+    script-version: ex1
+  },
+  {
+    file: '104th/001321102.pdf',
+    output: '001321102.json',
+    pages: '2',
+    expected_count: 22,
+    source: {
+      name: 第104回,
+      url: https://www.mhlw.go.jp/content/11120000/001321102.pdf
+    },
+    script-version: v2
   }
 ]

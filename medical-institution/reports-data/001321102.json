@@ -1,0 +1,774 @@
+[
+  {
+    "no": 153,
+    "age": 71,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2023/11/28"
+    ],
+    "onset_dates": [
+      "2024/02"
+    ],
+    "days_to_onset": [],
+    "vaccine_name": "コミナティ筋注（１価：オ\nミクロン株XBB.1.5）",
+    "concurrent_vaccination": "",
+    "manufacturer": "ファイザー",
+    "lot_no": "HH1299",
+    "PT_names": [
+      "注射部位疼痛"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "未回復"
+    ],
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001321102.pdf"
+    }
+  },
+  {
+    "no": 154,
+    "age": 93,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2023/10/26"
+    ],
+    "onset_dates": [
+      "2023/10/26"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "コミナティ筋注（１価：オ\nミクロン株XBB.1.5）",
+    "concurrent_vaccination": "",
+    "manufacturer": "ファイザー",
+    "lot_no": "HG2352",
+    "PT_names": [
+      "誤嚥性肺炎"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "死亡"
+    ],
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001321102.pdf"
+    }
+  },
+  {
+    "no": 155,
+    "age": 49,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2023/12"
+    ],
+    "onset_dates": [
+      "2023/12"
+    ],
+    "days_to_onset": [],
+    "vaccine_name": "コミナティ筋注（１価：オ\nミクロン株XBB.1.5）",
+    "concurrent_vaccination": "",
+    "manufacturer": "ファイザー",
+    "lot_no": "99999",
+    "PT_names": [
+      "関節炎"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "未回復"
+    ],
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001321102.pdf"
+    }
+  },
+  {
+    "no": 156,
+    "age": 60,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2023/10/14"
+    ],
+    "onset_dates": [
+      "2023/10/14"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "コミナティ筋注（１価：オ\nミクロン株XBB.1.5）",
+    "concurrent_vaccination": "",
+    "manufacturer": "ファイザー",
+    "lot_no": "HG2273",
+    "PT_names": [
+      "筋肉痛"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "未回復"
+    ],
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001321102.pdf"
+    }
+  },
+  {
+    "no": 157,
+    "age": 61,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2023/12/06"
+    ],
+    "onset_dates": [
+      "2023/12/09"
+    ],
+    "days_to_onset": [
+      3
+    ],
+    "vaccine_name": "コミナティ筋注（１価：オ\nミクロン株XBB.1.5）",
+    "concurrent_vaccination": "",
+    "manufacturer": "ファイザー",
+    "lot_no": "HG2348",
+    "PT_names": [
+      "徐脈"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001321102.pdf"
+    }
+  },
+  {
+    "no": 158,
+    "age": 72,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2023/12/08"
+    ],
+    "onset_dates": [
+      "2023/12/11"
+    ],
+    "days_to_onset": [
+      3
+    ],
+    "vaccine_name": "コミナティ筋注（１価：オ\nミクロン株XBB.1.5）",
+    "concurrent_vaccination": "",
+    "manufacturer": "ファイザー",
+    "lot_no": "HG2348",
+    "PT_names": [
+      "呼吸異常"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "死亡"
+    ],
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001321102.pdf"
+    }
+  },
+  {
+    "no": 159,
+    "age": 60,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2023/11/23"
+    ],
+    "onset_dates": [
+      "2023/11/27"
+    ],
+    "days_to_onset": [
+      4
+    ],
+    "vaccine_name": "コミナティ筋注（１価：オ\nミクロン株XBB.1.5）",
+    "concurrent_vaccination": "",
+    "manufacturer": "ファイザー",
+    "lot_no": "99999",
+    "PT_names": [
+      "末梢性ニューロパチー"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "2024/02/15"
+    ],
+    "gross_results": [
+      "回復"
+    ],
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001321102.pdf"
+    }
+  },
+  {
+    "no": 160,
+    "age": 83,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2023/11/15"
+    ],
+    "onset_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "days_to_onset": [],
+    "vaccine_name": "コミナティ筋注（１価：オ\nミクロン株XBB.1.5）",
+    "concurrent_vaccination": "",
+    "manufacturer": "ファイザー",
+    "lot_no": "HG2348",
+    "PT_names": [
+      "疼痛",
+      "四肢痛"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "未回復",
+      "未回復"
+    ],
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001321102.pdf"
+    }
+  },
+  {
+    "no": 161,
+    "age": 63,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2023/10/14"
+    ],
+    "onset_dates": [
+      "2023/10/15",
+      "2023/10/15"
+    ],
+    "days_to_onset": [
+      1
+    ],
+    "vaccine_name": "コミナティ筋注（１価：オ\nミクロン株XBB.1.5）",
+    "concurrent_vaccination": "",
+    "manufacturer": "ファイザー",
+    "lot_no": "HG2251",
+    "PT_names": [
+      "大動脈解離",
+      "転倒"
+    ],
+    "causal_relationship": "関連なし",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "死亡",
+      "死亡"
+    ],
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001321102.pdf"
+    }
+  },
+  {
+    "no": 162,
+    "age": 88,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2023/10/10"
+    ],
+    "onset_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "days_to_onset": [],
+    "vaccine_name": "コミナティ筋注（１価：オ\nミクロン株XBB.1.5）",
+    "concurrent_vaccination": "",
+    "manufacturer": "ファイザー",
+    "lot_no": "HG2346",
+    "PT_names": [
+      "筋肉痛",
+      "倦怠感"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "未回復",
+      "未回復"
+    ],
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001321102.pdf"
+    }
+  },
+  {
+    "no": 163,
+    "age": 68,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2023/11/29"
+    ],
+    "onset_dates": [
+      "2023/12/08"
+    ],
+    "days_to_onset": [
+      9
+    ],
+    "vaccine_name": "コミナティ筋注（１価：オ\nミクロン株XBB.1.5）",
+    "concurrent_vaccination": "",
+    "manufacturer": "ファイザー",
+    "lot_no": "HG2352",
+    "PT_names": [
+      "リンパ腫"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001321102.pdf"
+    }
+  },
+  {
+    "no": 164,
+    "age": 67,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2024/02/02"
+    ],
+    "onset_dates": [
+      "2024/04/09",
+      "2024/04/09"
+    ],
+    "days_to_onset": [
+      67
+    ],
+    "vaccine_name": "コミナティ筋注（１価：オ\nミクロン株XBB.1.5）",
+    "concurrent_vaccination": "",
+    "manufacturer": "ファイザー",
+    "lot_no": "HH3284",
+    "PT_names": [
+      "血小板減少症を伴う血栓症",
+      "ギラン・バレー症候群"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快",
+      "軽快"
+    ],
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001321102.pdf"
+    }
+  },
+  {
+    "no": 165,
+    "age": 52,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2024/01/30"
+    ],
+    "onset_dates": [
+      "2024/02/01"
+    ],
+    "days_to_onset": [
+      2
+    ],
+    "vaccine_name": "コミナティ筋注（１価：オ\nミクロン株XBB.1.5）",
+    "concurrent_vaccination": "",
+    "manufacturer": "ファイザー",
+    "lot_no": "99999",
+    "PT_names": [
+      "血管炎"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "未回復"
+    ],
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001321102.pdf"
+    }
+  },
+  {
+    "no": 166,
+    "age": 75,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2023/10/27"
+    ],
+    "onset_dates": [
+      "2023/11/02",
+      "2023/11/02",
+      "2023/11/02",
+      "2023/11/02",
+      "2023/11/02",
+      "2023/11/02",
+      "2023/11/02",
+      "2023/11/02"
+    ],
+    "days_to_onset": [
+      6
+    ],
+    "vaccine_name": "コミナティ筋注（１価：オ\nミクロン株XBB.1.5）",
+    "concurrent_vaccination": "",
+    "manufacturer": "ファイザー",
+    "lot_no": "HG2251",
+    "PT_names": [
+      "血圧上昇",
+      "頻脈",
+      "多尿",
+      "血中ブドウ糖増加",
+      "疲労",
+      "末梢冷感",
+      "倦怠感",
+      "発熱"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快",
+      "軽快"
+    ],
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001321102.pdf"
+    }
+  },
+  {
+    "no": 167,
+    "age": 78,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2023/10/24"
+    ],
+    "onset_dates": [
+      "2023/10/24",
+      "2023/10/24"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "コミナティ筋注（１価：オ\nミクロン株XBB.1.5）",
+    "concurrent_vaccination": "",
+    "manufacturer": "ファイザー",
+    "lot_no": "HG2352",
+    "PT_names": [
+      "関節痛",
+      "ワクチン投与関連肩損傷"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "2024/06/18",
+      "2024/06/18"
+    ],
+    "gross_results": [
+      "後遺症あり",
+      "後遺症あり"
+    ],
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001321102.pdf"
+    }
+  },
+  {
+    "no": 168,
+    "age": 53,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2023/10/03"
+    ],
+    "onset_dates": [
+      "2023/10/03"
+    ],
+    "days_to_onset": [
+      0
+    ],
+    "vaccine_name": "コミナティ筋注（１価：オ\nミクロン株XBB.1.5）",
+    "concurrent_vaccination": "",
+    "manufacturer": "ファイザー",
+    "lot_no": "99999",
+    "PT_names": [
+      "脊髄出血"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "2024/06/28"
+    ],
+    "gross_results": [
+      "後遺症あり"
+    ],
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001321102.pdf"
+    }
+  },
+  {
+    "no": 169,
+    "age": 43,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2023/10/11"
+    ],
+    "onset_dates": [
+      "2023/10/14"
+    ],
+    "days_to_onset": [
+      3
+    ],
+    "vaccine_name": "コミナティ筋注（１価：オ\nミクロン株XBB.1.5）",
+    "concurrent_vaccination": "",
+    "manufacturer": "ファイザー",
+    "lot_no": "HG2346",
+    "PT_names": [
+      "ギラン・バレー症候群"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "未回復"
+    ],
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001321102.pdf"
+    }
+  },
+  {
+    "no": 170,
+    "age": 61,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2023/12/22"
+    ],
+    "onset_dates": [
+      "2024/01/07"
+    ],
+    "days_to_onset": [
+      16
+    ],
+    "vaccine_name": "コミナティ筋注（１価：オ\nミクロン株XBB.1.5）",
+    "concurrent_vaccination": "",
+    "manufacturer": "ファイザー",
+    "lot_no": "99999",
+    "PT_names": [
+      "ギラン・バレー症候群"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "未回復"
+    ],
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001321102.pdf"
+    }
+  },
+  {
+    "no": 171,
+    "age": 85,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2023/10/06"
+    ],
+    "onset_dates": [
+      "2023/10"
+    ],
+    "days_to_onset": [],
+    "vaccine_name": "コミナティ筋注（１価：オ\nミクロン株XBB.1.5）",
+    "concurrent_vaccination": "",
+    "manufacturer": "ファイザー",
+    "lot_no": "99999",
+    "PT_names": [
+      "関節炎"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "2024/06/26"
+    ],
+    "gross_results": [
+      "後遺症あり"
+    ],
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001321102.pdf"
+    }
+  },
+  {
+    "no": 172,
+    "age": 75,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2023/11/30"
+    ],
+    "onset_dates": [
+      "2024/01",
+      "2024/01"
+    ],
+    "days_to_onset": [],
+    "vaccine_name": "コミナティ筋注（１価：オ\nミクロン株XBB.1.5）",
+    "concurrent_vaccination": "",
+    "manufacturer": "ファイザー",
+    "lot_no": "HG2347",
+    "PT_names": [
+      "疼痛",
+      "筋力低下"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "未回復",
+      "未回復"
+    ],
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001321102.pdf"
+    }
+  },
+  {
+    "no": 173,
+    "age": 74,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2023/12/06"
+    ],
+    "onset_dates": [
+      "2023/12/07",
+      "2023/12/07"
+    ],
+    "days_to_onset": [
+      1
+    ],
+    "vaccine_name": "コミナティ筋注（１価：オ\nミクロン株XBB.1.5）",
+    "concurrent_vaccination": "",
+    "manufacturer": "ファイザー",
+    "lot_no": "99999",
+    "PT_names": [
+      "頭痛",
+      "頚部痛"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "未回復",
+      "未回復"
+    ],
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001321102.pdf"
+    }
+  },
+  {
+    "no": 174,
+    "age": 60,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2023/12/15"
+    ],
+    "onset_dates": [
+      "2023/12",
+      "2023/12"
+    ],
+    "days_to_onset": [],
+    "vaccine_name": "コミナティ筋注（１価：オ\nミクロン株XBB.1.5）",
+    "concurrent_vaccination": "",
+    "manufacturer": "ファイザー",
+    "lot_no": "HG5983",
+    "PT_names": [
+      "肺炎",
+      "上気道の炎症"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "死亡",
+      "死亡"
+    ],
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001321102.pdf"
+    }
+  }
+]
