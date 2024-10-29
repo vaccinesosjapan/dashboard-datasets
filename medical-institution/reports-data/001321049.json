@@ -1,0 +1,121 @@
+[
+  {
+    "no": 225,
+    "age": 74,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2023/10/21"
+    ],
+    "onset_dates": [
+      "2024/04/12"
+    ],
+    "days_to_onset": [
+      174
+    ],
+    "vaccine_name": "スパイクバックス筋注（１価：オミ\nクロン株XBB.1.5）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "710015A",
+    "PT_names": [
+      "脳症|脳炎"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001321049.pdf"
+    }
+  },
+  {
+    "no": 226,
+    "age": 63,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2023/10/24"
+    ],
+    "onset_dates": [
+      "2023/11/14"
+    ],
+    "days_to_onset": [
+      21
+    ],
+    "vaccine_name": "スパイクバックス筋注（１価：オミ\nクロン株XBB.1.5）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "710004A",
+    "PT_names": [
+      "間質性肺疾患"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "死亡"
+    ],
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001321049.pdf"
+    }
+  },
+  {
+    "no": 227,
+    "age": 34,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2023/11/01"
+    ],
+    "onset_dates": [
+      "2023/11/07 ",
+      "2023/11/07 ",
+      "2023/11/07 ",
+      "2023/11/07 ",
+      "2023/11/07 ",
+      "2023/11/07"
+    ],
+    "days_to_onset": [
+      6
+    ],
+    "vaccine_name": "スパイクバックス筋注（１価：オミ\nクロン株XBB.1.5）",
+    "concurrent_vaccination": "",
+    "manufacturer": "モデルナ",
+    "lot_no": "710011A",
+    "PT_names": [
+      "心肺停止",
+      "意識消失",
+      "くも膜下出血",
+      "嘔吐",
+      "運動機能障害",
+      "蒼白"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入 ",
+      "未記入 ",
+      "未記入 ",
+      "未記入 ",
+      "未記入 ",
+      "未記入"
+    ],
+    "gross_results": [
+      "死亡 ",
+      "死亡 ",
+      "死亡 ",
+      "死亡 ",
+      "死亡 ",
+      "死亡"
+    ],
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001321049.pdf"
+    }
+  }
+]

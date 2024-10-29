@@ -1,12 +1,19 @@
+# script-versionについて:
+#  v1: 昔のPDFから抽出する処理
+#  v2: 比較的最近のPDFから抽出する処理
+#  ex1: PDFからの抽出が無理な場合に、手作業でcsvに保存してjson化する処理
+#
+#  まずv2ためして、抽出不可なら手作業で抽出してex1使う感じ。
+#
 settings: [
   {
-    file: '102nd/001280751.csv',
-    output: '001280751.json',
-    pages: '2',
+    file: '104th/001321051.csv',
+    output: '001321051.json',
+    pages: '',
     expected_count: 1,
     source: {
-      name: 第102回,
-      url: https://www.mhlw.go.jp/content/11120000/001280751.pdf
+      name: 第104回,
+      url: https://www.mhlw.go.jp/content/11120000/001321051.pdf
     },
     script-version: ex1
   }

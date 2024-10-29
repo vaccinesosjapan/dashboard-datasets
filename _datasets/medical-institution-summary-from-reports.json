@@ -1,16 +1,16 @@
 {
   "medical_institution_summary_from_reports": {
-    "date": "2024/04/21",
-    "total_count": 37229,
+    "date": "2024/08/04",
+    "total_count": 37255,
     "sum_causal_relationship": {
-      "関連あり": 21246,
-      "評価不能": 10412,
+      "関連あり": 21251,
+      "評価不能": 10432,
       "(空白)": 4041,
-      "関連なし": 1530
+      "関連なし": 1531
     },
     "sum_severities_of_related": {
       "重くない": 16685,
-      "重い": 4561
+      "重い": 4566
     },
     "lot_no_info": {
       "top_ten_list": [
