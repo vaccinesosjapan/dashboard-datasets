@@ -28,15 +28,16 @@ def sum_carditis_by_vaccine_name(issues):
 
 def sum_carditis_by_manufacturers(issues):
     df_m = pd.json_normalize(issues, meta='manufacturer', record_path='myocarditis')
+    df_m = df_m.groupby('manufacturer', as_index=False).sum()
+    df_m = df_m.drop(['name'], axis=1)
+    df_m = df_m.sort_values('count', ascending=False)
+
     df_p = pd.json_normalize(issues, meta='manufacturer', record_path='pericarditis')
-    df_m = df_m.rename(columns={'count': 'myocarditis_count'})
-    df_p = df_p.rename(columns={'count': 'pericarditis_count'})
+    df_p = df_p.groupby('manufacturer', as_index=False).sum()
+    df_p = df_p.drop(['name'], axis=1)
+    df_p = df_p.sort_values('count', ascending=False)
     
-    merged_df = pd.merge(df_m, df_p, on=['name', 'manufacturer'])
-    merged_df = merged_df.groupby('manufacturer', as_index=False).sum()
-    merged_df = merged_df.drop(['name'], axis=1)
-    
-    return merged_df
+    return (df_m, df_p)
 
 def sum_carditis_by_ages(data):
     df = pd.json_normalize(data)
@@ -62,9 +63,9 @@ def sum_carditis_by_ages(data):
 
     return (aged_df, unknown_ages_count, ages_count)
 
-df_by_m = sum_carditis_by_manufacturers(expected_issues)
-myocarditis_sum = int(df_by_m['myocarditis_count'].sum())
-pericarditis_sum = int(df_by_m['pericarditis_count'].sum())
+(df_m, df_p) = sum_carditis_by_manufacturers(expected_issues)
+myocarditis_sum = int(df_m['count'].sum())
+pericarditis_sum = int(df_p['count'].sum())
 total_sum = myocarditis_sum + pericarditis_sum
 
 df_by_v = sum_carditis_by_vaccine_name(expected_issues)
@@ -82,7 +83,8 @@ summary_data = {
 	"carditis_issues": {
         "date": metadata['summary']['data_end_date'],
 		"issues_with_vaccine_name": df_by_v.to_dict(orient='records'),
-        "issues_by_manufacturers": df_by_m.to_dict(orient='records'),
+        "issues_m_by_manufacturers": df_m.to_dict(orient='records'),
+        "issues_p_by_manufacturers": df_p.to_dict(orient='records'),
         "issues_by_ages": {
             "ages_count": ages_count,
             "unknown_ages_count": unknown_ages_count,
