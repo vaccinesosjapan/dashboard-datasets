@@ -79,20 +79,20 @@
     ],
     "sum_by_manufacturer": [
       {
-        "manufacturer": "アストラゼネカ株式会社",
-        "death_count": 1
-      },
-      {
-        "manufacturer": "ノババックス／武田",
-        "death_count": 3
-      },
-      {
         "manufacturer": "ファイザー株式会社",
         "death_count": 1933
       },
       {
         "manufacturer": "モデルナ・ジャパン株式会社",
         "death_count": 256
+      },
+      {
+        "manufacturer": "ノババックス／武田",
+        "death_count": 3
+      },
+      {
+        "manufacturer": "アストラゼネカ株式会社",
+        "death_count": 1
       }
     ]
   },
