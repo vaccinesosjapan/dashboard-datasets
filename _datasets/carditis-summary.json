@@ -70,6 +70,11 @@
     ],
     "issues_by_manufacturers": [
       {
+        "manufacturer": "ノババックス／武田",
+        "myocarditis_count": 2,
+        "pericarditis_count": 0
+      },
+      {
         "manufacturer": "ファイザー株式会社",
         "myocarditis_count": 351,
         "pericarditis_count": 118
@@ -78,11 +83,6 @@
         "manufacturer": "モデルナ・ジャパン株式会社",
         "myocarditis_count": 192,
         "pericarditis_count": 42
-      },
-      {
-        "manufacturer": "武田薬品工業株式会社",
-        "myocarditis_count": 2,
-        "pericarditis_count": 0
       }
     ],
     "issues_by_ages": {
