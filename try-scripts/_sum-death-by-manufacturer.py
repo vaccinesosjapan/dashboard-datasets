@@ -10,11 +10,10 @@ df = df[["manufacturer", "causal_relationship_by_expert"]]
 df['death_count'] = 1
 
 merged_df = df.groupby(['manufacturer', 'causal_relationship_by_expert'], as_index=False).sum()
-merged_df = merged_df[(merged_df['causal_relationship_by_expert'] == 'β') | (merged_df['causal_relationship_by_expert'] == 'γ')]
+merged_df = merged_df[(merged_df['causal_relationship_by_expert'] != 'β')]
 merged_df = merged_df.drop(columns=['causal_relationship_by_expert'])
 merged_df = merged_df.groupby('manufacturer', as_index=False).sum()
+merged_df = merged_df.sort_values('death_count', ascending=False)
 
 # %%
-merged_df.to_dict(orient='records')
-
-
+print(merged_df.to_dict(orient='records'))

@@ -18,8 +18,9 @@ def sum_by_manufacturer():
     # 新型コロナワクチンと死亡との関係が否定されたβだけを除外する
     merged_df = merged_df[(merged_df['causal_relationship_by_expert'] != 'β')]
     merged_df = merged_df.drop(columns=['causal_relationship_by_expert'])
-    
-    return merged_df.groupby('manufacturer', as_index=False).sum()
+
+    merged_df = merged_df.groupby('manufacturer', as_index=False).sum()
+    return merged_df.sort_values('death_count', ascending=False)
 
 def sum_evaluations():
     death_issues = []

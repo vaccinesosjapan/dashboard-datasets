@@ -68,21 +68,32 @@
         "pericarditis_count": 0
       }
     ],
-    "issues_by_manufacturers": [
+    "issues_m_by_manufacturers": [
       {
         "manufacturer": "ファイザー株式会社",
-        "myocarditis_count": 351,
-        "pericarditis_count": 118
+        "count": 351
       },
       {
         "manufacturer": "モデルナ・ジャパン株式会社",
-        "myocarditis_count": 192,
-        "pericarditis_count": 42
+        "count": 192
       },
       {
-        "manufacturer": "武田薬品工業株式会社",
-        "myocarditis_count": 2,
-        "pericarditis_count": 0
+        "manufacturer": "ノババックス／武田",
+        "count": 2
+      }
+    ],
+    "issues_p_by_manufacturers": [
+      {
+        "manufacturer": "ファイザー株式会社",
+        "count": 118
+      },
+      {
+        "manufacturer": "モデルナ・ジャパン株式会社",
+        "count": 42
+      },
+      {
+        "manufacturer": "ノババックス／武田",
+        "count": 0
       }
     ],
     "issues_by_ages": {
