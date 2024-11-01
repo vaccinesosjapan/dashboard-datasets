@@ -138,9 +138,9 @@
   {
     "name": "IgA腎症",
     "counts": {
-      "male": 11,
+      "male": 12,
       "female": 34,
-      "sum": 45
+      "sum": 46
     }
   },
   {
@@ -216,6 +216,14 @@
     }
   },
   {
+    "name": "IgG4関連リンパ節症の疑い",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
     "name": "IgG4関連疾患",
     "counts": {
       "male": 1,
@@ -268,6 +276,22 @@
     "counts": {
       "male": 0,
       "female": 1,
+      "sum": 1
+    }
+  },
+  {
+    "name": "RS3PE症候群",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
+    "name": "RS3PE症候群の増悪",
+    "counts": {
+      "male": 1,
+      "female": 0,
       "sum": 1
     }
   },
@@ -763,8 +787,8 @@
     "name": "めまい症の増悪",
     "counts": {
       "male": 0,
-      "female": 3,
-      "sum": 3
+      "female": 4,
+      "sum": 4
     }
   },
   {
@@ -995,8 +1019,8 @@
     "name": "ギラン・バレー症候群",
     "counts": {
       "male": 48,
-      "female": 56,
-      "sum": 104
+      "female": 57,
+      "sum": 105
     }
   },
   {
@@ -1096,6 +1120,14 @@
     }
   },
   {
+    "name": "シェーグレン症候群",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
     "name": "シェーグレン症候群の増悪",
     "counts": {
       "male": 0,
@@ -1105,6 +1137,14 @@
   },
   {
     "name": "シェーグレン症候群の憎悪",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
+    "name": "シェーグレン症候群の疑い",
     "counts": {
       "male": 0,
       "female": 1,
@@ -1224,6 +1264,22 @@
     }
   },
   {
+    "name": "ステロイド性大腿骨頭壊死",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
+    "name": "ステロイド治療に伴う両急性網膜壊死・左失明",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
     "name": "ステロイド痤瘡",
     "counts": {
       "male": 0,
@@ -1267,8 +1323,8 @@
     "name": "トロサ・ハント症候群",
     "counts": {
       "male": 1,
-      "female": 2,
-      "sum": 3
+      "female": 3,
+      "sum": 4
     }
   },
   {
@@ -2976,6 +3032,14 @@
     }
   },
   {
+    "name": "両上肢脱力感・しびれ",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
     "name": "両上腕発赤・紅斑",
     "counts": {
       "male": 0,
@@ -4107,8 +4171,8 @@
     "name": "低ナトリウム血症",
     "counts": {
       "male": 4,
-      "female": 9,
-      "sum": 13
+      "female": 10,
+      "sum": 14
     }
   },
   {
@@ -4307,8 +4371,8 @@
     "name": "倦怠感",
     "counts": {
       "male": 110,
-      "female": 162,
-      "sum": 272
+      "female": 163,
+      "sum": 273
     }
   },
   {
@@ -7226,9 +7290,9 @@
   {
     "name": "呼吸機能障害",
     "counts": {
-      "male": 1,
+      "male": 2,
       "female": 0,
-      "sum": 1
+      "sum": 2
     }
   },
   {
@@ -8498,9 +8562,9 @@
   {
     "name": "多臓器不全",
     "counts": {
-      "male": 12,
+      "male": 13,
       "female": 11,
-      "sum": 23
+      "sum": 24
     }
   },
   {
@@ -9168,6 +9232,14 @@
     }
   },
   {
+    "name": "左上肢の一過性末梢神経障害・レイノー現象",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
     "name": "左上肢の不随意運動",
     "counts": {
       "male": 0,
@@ -9225,6 +9297,14 @@
   },
   {
     "name": "左上肢・両下肢のしびれ",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
+    "name": "左上肢・左前胸部痛",
     "counts": {
       "male": 0,
       "female": 1,
@@ -9459,8 +9539,8 @@
     "name": "左上肢痛",
     "counts": {
       "male": 5,
-      "female": 23,
-      "sum": 28
+      "female": 24,
+      "sum": 29
     }
   },
   {
@@ -12819,8 +12899,8 @@
     "name": "心室細動",
     "counts": {
       "male": 37,
-      "female": 3,
-      "sum": 40
+      "female": 4,
+      "sum": 41
     }
   },
   {
@@ -13690,9 +13770,9 @@
   {
     "name": "急性散在性脳脊髄炎",
     "counts": {
-      "male": 15,
+      "male": 16,
       "female": 35,
-      "sum": 50
+      "sum": 51
     }
   },
   {
@@ -13930,9 +14010,9 @@
   {
     "name": "急性脳症",
     "counts": {
-      "male": 1,
+      "male": 2,
       "female": 1,
-      "sum": 2
+      "sum": 3
     }
   },
   {
@@ -14866,9 +14946,9 @@
   {
     "name": "抗ARS抗体症候群",
     "counts": {
-      "male": 1,
+      "male": 2,
       "female": 0,
-      "sum": 1
+      "sum": 2
     }
   },
   {
@@ -14893,6 +14973,14 @@
       "male": 0,
       "female": 2,
       "sum": 2
+    }
+  },
+  {
+    "name": "抗リン脂質抗体症候群",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
     }
   },
   {
@@ -15896,6 +15984,14 @@
     }
   },
   {
+    "name": "混合性結合組織病",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
     "name": "混合性結合組織病の再燃",
     "counts": {
       "male": 0,
@@ -16434,9 +16530,9 @@
   {
     "name": "発熱",
     "counts": {
-      "male": 200,
+      "male": 201,
       "female": 290,
-      "sum": 490
+      "sum": 491
     }
   },
   {
@@ -16643,8 +16739,8 @@
     "name": "皮膚筋炎",
     "counts": {
       "male": 4,
-      "female": 7,
-      "sum": 11
+      "female": 8,
+      "sum": 12
     }
   },
   {
@@ -16722,9 +16818,9 @@
   {
     "name": "眼球運動障害",
     "counts": {
-      "male": 1,
+      "male": 2,
       "female": 0,
-      "sum": 1
+      "sum": 2
     }
   },
   {
@@ -17034,9 +17130,9 @@
   {
     "name": "筋力低下",
     "counts": {
-      "male": 5,
+      "male": 6,
       "female": 6,
-      "sum": 11
+      "sum": 12
     }
   },
   {
@@ -17053,6 +17149,14 @@
       "male": 4,
       "female": 1,
       "sum": 5
+    }
+  },
+  {
+    "name": "筋炎の疑い",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
     }
   },
   {
@@ -17186,9 +17290,9 @@
   {
     "name": "糖尿病性ケトアシドーシス",
     "counts": {
-      "male": 2,
+      "male": 3,
       "female": 3,
-      "sum": 5
+      "sum": 6
     }
   },
   {
@@ -17425,6 +17529,14 @@
   },
   {
     "name": "線維筋痛症の悪化",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
+    "name": "羞明",
     "counts": {
       "male": 0,
       "female": 1,
@@ -18250,9 +18362,9 @@
   {
     "name": "脱水症",
     "counts": {
-      "male": 37,
+      "male": 38,
       "female": 47,
-      "sum": 84
+      "sum": 85
     }
   },
   {
@@ -19016,6 +19128,14 @@
     }
   },
   {
+    "name": "腹腔動脈解離",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
     "name": "腹膜炎",
     "counts": {
       "male": 1,
@@ -19209,6 +19329,14 @@
   },
   {
     "name": "自己免疫性GFAPアストロサイトパチー",
+    "counts": {
+      "male": 2,
+      "female": 0,
+      "sum": 2
+    }
+  },
+  {
+    "name": "自己免疫性GFAPアストロサイトパチーによる意識障害及び四肢筋力低下・筋萎縮",
     "counts": {
       "male": 1,
       "female": 0,
@@ -19562,9 +19690,9 @@
   {
     "name": "虚血性心不全",
     "counts": {
-      "male": 2,
+      "male": 3,
       "female": 2,
-      "sum": 4
+      "sum": 5
     }
   },
   {
@@ -20602,9 +20730,17 @@
   {
     "name": "間質性肺炎",
     "counts": {
-      "male": 43,
+      "male": 44,
       "female": 25,
-      "sum": 68
+      "sum": 69
+    }
+  },
+  {
+    "name": "間質性肺炎による呼吸機能障害",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
     }
   },
   {
@@ -20796,6 +20932,14 @@
     "counts": {
       "male": 0,
       "female": 1,
+      "sum": 1
+    }
+  },
+  {
+    "name": "難治性痒疹",
+    "counts": {
+      "male": 1,
+      "female": 0,
       "sum": 1
     }
   },
@@ -21002,9 +21146,9 @@
   {
     "name": "頭痛",
     "counts": {
-      "male": 143,
+      "male": 144,
       "female": 225,
-      "sum": 368
+      "sum": 369
     }
   },
   {
