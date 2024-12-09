@@ -159,12 +159,22 @@ df.loc[p5_df.index, p5_columns] = p5_df
 
 # %%
 # 処理が不可能なデータをログ出力する
-# 複数行からなるデータの2行目以降の場合などが多いデータだが、自動処理にするよりも
-# 目視で確認しながら手作業で修正したほうが良いデータ。
-invalid_df = df[df['no'].isna()]
-if not invalid_df.empty:
+
+## 複数行からなるデータの2行目以降の場合などが多いデータだが、自動処理にするよりも
+## 目視で確認しながら手作業で修正したほうが良いデータ。
+no_empty_df = df[df['no'].isna()]
+if not no_empty_df.empty:
 	print('No.列が空の項目があります。No.列の値に「Invalid」という文字列を適用しますので、手作業での修正をお願いします。')
-	df.loc[invalid_df.index, 'no'] = 'Invalid'
+	print()
+	df.loc[no_empty_df.index, 'no'] = 'Invalid'
+
+## 種々の処理を行ったが manufacturer が空文字列のデータ。これも目視しながら手作業で修正した方が良いデータ。
+manufacturer_empty_df = df[df['manufacturer'] == '']
+if not manufacturer_empty_df.empty:
+	print('Manufacturer 列が空の項目があります。以下のNo.のデータについて、手作業での修正をお願いします。')
+	for _, row in manufacturer_empty_df.iterrows():
+		print(f' - No. {row.no}')
+	print()
 
 # %%
 csv_file_name_without_ext = os.path.splitext(csv_file_name)[0]
