@@ -4,8 +4,8 @@ import pandas as pd
 
 csv_folder = 'intermediate-files'
 csv_file_name = sys.argv[1] # eg) '001325489-myocarditis.csv'
-source_name = sys.args[2] # eg) '第104回'
-source_url = sys.args[3] # eg) 'https://www.mhlw.go.jp/content/11120000/001325489.pdf'
+source_name = sys.argv[2] # eg) '第104回'
+source_url = sys.argv[3] # eg) 'https://www.mhlw.go.jp/content/11120000/001325489.pdf'
 
 csv_file_path = os.path.join(csv_folder, csv_file_name)
 original_df = pd.read_csv(csv_file_path, encoding='utf-8')

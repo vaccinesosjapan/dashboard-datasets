@@ -1,10 +1,10 @@
 import yaml, subprocess
 
 with open('reports-settings.yaml', "r", encoding='utf-8') as file:
-    settings_root = yaml.safe_load(file)
-settings = settings_root['settings']
+    settings = yaml.safe_load(file)
 
 # 1. PDFからデータを抽出し、CSVファイルに保存する
-print(f'{settings["name"]} のデータを "{settings["file"]}" から抽出中: ', end='', flush=True)
-subprocess.run([ "python", f"extract-pdf-to-csv.py", f'{settings['file_id']}.pdf', settings['pages'], settings['symptoms'] ])
+pdf_file_name = f'{settings["file_id"]}.pdf'
+print(f'{settings["name"]} のデータを "{pdf_file_name}" から抽出中: ', end='', flush=True)
+subprocess.run([ "python", f"extract-pdf-to-csv.py", pdf_file_name, settings['pages'], settings['symptoms'] ])
 print()
