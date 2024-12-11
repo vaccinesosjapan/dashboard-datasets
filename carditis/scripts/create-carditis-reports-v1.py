@@ -12,5 +12,5 @@ settings = settings_root['settings']
 for s in settings:
     print(f'{s["name"]} のデータを "{s["file"]}" から抽出中: ', end='', flush=True)
     script_version = s['script-version'].lower()
-    subprocess.run([ "python", f"extract-carditis-reports-{script_version}.py", s['file'], s['pages'], s['source']['name'], s['source']['url'] ])
+    subprocess.run([ "python", f"extract-pdf-to-csv.py", s['file'], s['pages'], s['source']['name'], s['source']['url'] ])
     print()

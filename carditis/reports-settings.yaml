@@ -9,15 +9,14 @@
 #  source: 使用するPDFが扱われている審議会の名称と、PDFのURL
 #  script-version: 使用するextractスクリプトのバージョン
 #
-settings: [
-  {
-    name: 'コミナティ筋注５～11歳用（1価：オミクロン株XBB.1.5）',
-    file: '001280777-myocarditis.csv',
-    pages: '',
-    source: {
-      name: '第102回',
-      url: 'https://www.mhlw.go.jp/content/11120000/001280777.pdf',
-    },
-    script-version: ex2
+settings: {
+  name: 'コミナティ筋注',
+  file_id: '001325489',
+  pages: '30-45',
+  symptoms: 'myocarditis',
+  count: 380
+  source: {
+    name: '第104回',
+    url: 'https://www.mhlw.go.jp/content/11120000/001325489.pdf',
   }
-]
+}

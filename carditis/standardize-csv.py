@@ -1,9 +1,11 @@
 # %%
-import os, re, sys
+import os, re, sys, json
 import pandas as pd
 
 csv_folder = 'intermediate-files'
-csv_file_name = sys.argv[1] # 'eg) 001325489-myocarditis.csv'
+csv_file_name = sys.argv[1] # eg) '001325489-myocarditis.csv'
+source_name = sys.args[2] # eg) '第104回'
+source_url = sys.args[3] # eg) 'https://www.mhlw.go.jp/content/11120000/001325489.pdf'
 
 csv_file_path = os.path.join(csv_folder, csv_file_name)
 original_df = pd.read_csv(csv_file_path, encoding='utf-8')
@@ -175,6 +177,10 @@ if not manufacturer_empty_df.empty:
 	for _, row in manufacturer_empty_df.iterrows():
 		print(f' - No. {row.no}')
 	print()
+
+# %%
+# 元情報を一覧のsource列に追加する
+df['source'] = json.dumps({ "name": source_name, "url": source_url}, ensure_ascii=False)
 
 # %%
 csv_file_name_without_ext = os.path.splitext(csv_file_name)[0]
