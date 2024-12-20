@@ -32,12 +32,26 @@
     },
     expected_issues: [
       {
-        file_name_prefix: '001198218',
+        file_name_prefix: '001325489',
         manufacturer: 'ファイザー株式会社',
         myocarditis: [
           {
             name: "コミナティ筋注",
-            count: 312
+            count: 350
+          },
+          {
+            name: "コミナティRTU筋注（２価：起源株/オミクロン株BA.1）",
+            count: 8
+          },
+          {
+            name: "コミナティRTU筋注（２価：起源株/オミクロン株BA.4-5）",
+            count: 22
+          }
+        ],
+        pericarditis: [
+          {
+            name: "コミナティ筋注",
+            count: 117
           },
           {
             name: "コミナティRTU筋注（２価：起源株/オミクロン株BA.1）",
@@ -45,21 +59,7 @@
           },
           {
             name: "コミナティRTU筋注（２価：起源株/オミクロン株BA.4-5）",
-            count: 20
-          }
-        ],
-        pericarditis: [
-          {
-            name: "コミナティ筋注",
-            count: 106
-          },
-          {
-            name: "コミナティRTU筋注（２価：起源株/オミクロン株BA.1）",
-            count: 3
-          },
-          {
-            name: "コミナティRTU筋注（２価：起源株/オミクロン株BA.4-5）",
-            count: 6
+            count: 9
           }
         ]
       },
