@@ -43,6 +43,8 @@ def remove_empty_lines(source_path, target_path):
 
 remove_empty_lines(csv_file_path, csv_file_path)
 
+print(f'{csv_file_path} に抽出結果を保存しました。')
+
 # %% [markdown]
 # PDFからデータを抽出して、Excelなどを使ってテーブル形式で見ながら列が変な箇所を修正できるようにする。
 # 一度の抽出で、400件弱でも6分半かかったりするので、抽出工程の頻度を極力減らした方が良い。

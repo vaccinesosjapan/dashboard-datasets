@@ -4,29 +4,21 @@
 
 ## 実行方法
 
-### 報告一覧の抽出（新）
+### 報告一覧の抽出
 
-どう頑張って上手に抽出しようとしても、表の表示の塩梅によって「このPDFは◯◯データと□□データが5番目の列にでるが、こっちはまた別のパターンで・・」というように際限がない。一旦CSVファイルに抽出して、人が確認しながら表データを調整する方が結果的に短時間でできる気がした。
+以下の手順で行う。
 
-1. `_extract-pdf-to-csv.py {pdf名} {ページ番号}` を実行して、シンプルなcsvファイルを`extracted-csv-files`に出力する
-1. VSCodeの`Edit CSV`拡張やExcelを使って、「値が入っていないセル」を見つけて左右のセルとデータを調整する
-1. csvファイルを`intermediate-files`フォルダに移動し、`ex`系のスクリプトを使うよう`reports-settings.yaml`に記載する
-
-```sh
-python create-carditis-reports-v1.py
-```
-
-### 報告一覧の抽出（旧）
-
-1. 事前に心筋炎や心膜炎の報告が記載されたPDFファイルをダウンロードして`pdf-files`フォルダ以下に配置する。
-1. `reports-settings.yaml`にデータ抽出のために必要な情報を記載する。
-    - プログラムなどによる抽出が困難なPDFファイルの場合があり、その場合はWindowsの`Snipping tool`などのOCR機能（画像内の文字を認識してテキストデータ化する機能）を駆使した手作業が必要になる。
-    - 手作業でCSVファイルに抽出した場合は、`intermediate-files`フォルダに置く。
-1. 以下のコマンドを実行する。結果は`reports-data`フォルダにJSON形式で保存される。
-
-```sh
-python create-carditis-reports-v1.py
-```
+1. `reports-settings.yaml`に設定情報を記載する
+1. PDFからCSVファイルにデータ抽出する（`pdf-files`から`intermediate-files`へ）
+    * python _1-extract-pdf-to-csv.py
+1. プログラムで表形式データの整形を行う（列とデータの対応がおかしい箇所への対応など）
+    * python _2-standardize-csv.py
+    * `intermediate-files`フォルダに、`*-converted.csv`ファイルが作られる
+1. プログラムでは対応が難しい表崩れを手作業で整形する
+    * `*-converted.csv`ファイルをExcelなどで開き、手作業で表形式がおかしい箇所のデータを整形する
+    * 整形完了したら`*-manually-fixed.csv`ファイルに保存する
+1. 最終的な整形を行ってJSONデータを出力する（`intermediate-files`から`reports-files`へ）
+    * _3-save-to-json.py
 
 ### 集計情報のデータを作成
 

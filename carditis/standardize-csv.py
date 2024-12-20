@@ -1,11 +1,9 @@
 # %%
-import os, re, sys, json
+import os, re, json, sys
 import pandas as pd
 
 csv_folder = 'intermediate-files'
-csv_file_name = sys.argv[1] # eg) '001325489-myocarditis.csv'
-source_name = sys.argv[2] # eg) '第104回'
-source_url = sys.argv[3] # eg) 'https://www.mhlw.go.jp/content/11120000/001325489.pdf'
+csv_file_name = sys.argv[1]
 
 csv_file_path = os.path.join(csv_folder, csv_file_name)
 original_df = pd.read_csv(csv_file_path, encoding='utf-8')
@@ -28,17 +26,20 @@ df = df.drop(0, axis=0)
 ###
 def standardize_pattern_one(df):
 	p1_df = df[df['days_to_onset'].isna()]
+	p1_can_not_fix_df = pd.DataFrame()
 
-	p1_days_df = p1_df['vaccine_name'].str.split(' ', expand=True)
-	p1_days_df.columns = ['days_to_onset', 'others']
-	p1_df.loc[p1_days_df.index, 'days_to_onset'] = p1_days_df['days_to_onset']
+	# 半角スペース区切りの場合もあれば、改行区切りの場合もあり。データによってまちまちのようなので全て改行「\n」に変換してから区切る。
+	p1_days_df = p1_df['vaccine_name'].str.replace('\r\n', '\n').str.replace(' ', '\n').str.split('\n', expand=True)
 
-	p1_va_df = p1_days_df['others'].str.split('\r\n', expand=True)
-	va_columns = ['vaccine_name', 'manufacturer', 'lot_no', 'vaccinated_times']
-	p1_va_df.columns = va_columns
-	p1_df.loc[p1_va_df.index, va_columns] = p1_va_df
+	if p1_days_df.shape[1] == 5:
+		days_columns = ['days_to_onset', 'vaccine_name', 'manufacturer', 'lot_no', 'vaccinated_times']
+		p1_days_df.columns = days_columns
+		p1_df.loc[p1_days_df.index, days_columns] = p1_days_df
+	else:
+		# 意図しているデータではないので、ログ出力を行うようにする。
+		p1_can_not_fix_df = pd.concat([p1_can_not_fix_df, p1_days_df])
 
-	return p1_df
+	return p1_df, p1_can_not_fix_df
 
 ###
 # パターン2:
@@ -50,7 +51,10 @@ def standardize_pattern_two(df):
 	p2_df = df[df['gender'].isna()]
 
 	p2_age_df = p2_df['age'].str.split(' ', expand=True)
-	p2_age_df.columns = ['age', 'gender']
+	if(p2_age_df.shape[1] < 1):
+		p2_age_df = pd.DataFrame()
+	else:
+		p2_age_df.columns = ['age', 'gender']
 
 	return p2_age_df
 
@@ -89,29 +93,57 @@ def standardize_pattern_four(df):
 	p4_df = df[df['days_to_onset'].str.contains('[0-9] .*', na=False)]
 
 	p4_days_df = p4_df['days_to_onset'].str.split('\r\n', expand=True)
-	p4_days_df.columns = ['days', 'second_days']
+	if(p4_days_df.shape[1] == 1):
+		p4_days_df.columns = ['days']
+		# 修正不可のデータは無し、という判定
+		p4_can_not_fix_df = p4_df.loc[[]]
+		p4_fix_df = p4_df
+	else:
+		p4_days_df.columns = ['days', 'second_days']
 
-	# 複数行がまとまったデータは、days_to_onsetにさらに他の数字や文字列が続くため、second_daysがNaNではなくなる
-	# それらのややこしいデータは手作業で修正するため、修正不可データとして返す
-	p4_can_not_fix_sub_df = p4_days_df[p4_days_df['second_days'].isna().map(lambda x: not x)]
-	p4_can_not_fix_df = p4_df.loc[p4_can_not_fix_sub_df.index]
+		# 複数行がまとまったデータは、days_to_onsetにさらに他の数字や文字列が続くため、second_daysがNaNではなくなる
+		# それらのややこしいデータは手作業で修正するため、修正不可データとして返す
+		p4_can_not_fix_sub_df = p4_days_df[p4_days_df['second_days'].isna().map(lambda x: not x)]
+		p4_can_not_fix_df = p4_df.loc[p4_can_not_fix_sub_df.index]
 
-	# 修正可能なデータたちの、列入れ替えを行う
-	p4_fix_df = p4_df[p4_days_df['second_days'].isna()]
+		# 修正可能なデータたちの、列入れ替えを行う
+		p4_fix_df = p4_df[p4_days_df['second_days'].isna()]
+
 	p4_fix_df.loc[p4_fix_df.index, 'manufacturer'] = p4_df['vaccine_name']
 	p4_fix_df.loc[p4_fix_df.index, 'vaccine_name'] = ''
 
 	## days_to_onset 列のデータが日数の数字とワクチン名の組み合わせになっているデータなので、これを分離して別々の列に適用する
 	p4_day_vac_df = p4_fix_df['days_to_onset'].str.split(' ', expand=True)
-	day_vac_columns = ['days_to_onset', 'vaccine_name']
-	p4_day_vac_df.columns = day_vac_columns
-	p4_fix_df.loc[p4_day_vac_df.index, day_vac_columns] = p4_day_vac_df
+	if p4_day_vac_df.shape[1] == 2:
+		day_vac_columns = ['days_to_onset', 'vaccine_name']
+		p4_day_vac_df.columns = day_vac_columns
+		p4_fix_df.loc[p4_day_vac_df.index, day_vac_columns] = p4_day_vac_df
+	else:
+		p4_can_not_fix_df = pd.concat([p4_can_not_fix_df, p4_df.loc[p4_day_vac_df.index]])
 
 	## manufacturer にlot_noなど複数のデータが含まれているデータなので、これらを分離して別々の列に適用する
-	p4_man_lot_df = p4_fix_df['manufacturer'].str.split('\r\n', expand=True)
-	man_lot_columns = ['manufacturer', 'lot_no', 'vaccinated_times']
-	p4_man_lot_df.columns = man_lot_columns
-	p4_fix_df.loc[p4_man_lot_df.index, man_lot_columns] = p4_man_lot_df
+	p4_man_lot_df = p4_fix_df['manufacturer'].str.replace('\r\n', '\n').str.split('\n', expand=True)
+	if p4_man_lot_df.shape[1] < 3:
+		# うまく分離できていないデータのため、想定と異なるデータと思われる。
+		# 手作業で修正してもらえるようにログ出力を行う。
+		p4_can_not_fix_df = pd.concat([p4_can_not_fix_df, p4_df.loc[p4_man_lot_df.index]])
+	elif p4_man_lot_df.shape[1] == 3:
+		man_lot_columns = ['manufacturer', 'lot_no', 'vaccinated_times']
+		p4_man_lot_df.columns = man_lot_columns
+		p4_fix_df.loc[p4_man_lot_df.index, man_lot_columns] = p4_man_lot_df
+	else:
+		# たくさんのデータが含まれている場合にここにくる。
+		# 列インデックス0〜2がNaNではなく、それ以降の列がNaNのデータだけは上述の処理と同様に処理可能。
+		# それ以外は手作業でないと難しいのでログ出力する。
+		p4_man_lot_can_fix = p4_man_lot_df[0].notna() & p4_man_lot_df[1].notna() & p4_man_lot_df[2].notna() & p4_man_lot_df[3].isna()
+		p4_man_lot_can_fix_df = p4_man_lot_df[p4_man_lot_can_fix].loc[:, [0,1,2]]
+		man_lot_columns = ['manufacturer', 'lot_no', 'vaccinated_times']
+		p4_man_lot_can_fix_df.columns = man_lot_columns
+		p4_fix_df.loc[p4_man_lot_can_fix_df.index, man_lot_columns] = p4_man_lot_can_fix_df
+
+		p4_man_lot_can_not_fix = ~p4_man_lot_can_fix
+		p4_man_lot_can_not_fix_df = p4_df[p4_man_lot_can_not_fix]
+		p4_can_not_fix_df = pd.concat([p4_can_not_fix_df, p4_man_lot_can_not_fix_df])
 
 	p4_df.loc[p4_fix_df.index, :] = p4_fix_df
 
@@ -123,13 +155,42 @@ def standardize_pattern_four(df):
 ###
 def standardize_pattern_five(df):
 	p5_df = df[df['days_to_onset'] == '不明']
-
-	p5_man_df = p5_df['vaccine_name'].str.split('\r\n', expand=True)
 	man_columns = ['vaccine_name', 'manufacturer', 'lot_no', 'vaccinated_times']
-	p5_man_df.columns = man_columns
-	p5_df.loc[p5_man_df.index, man_columns] = p5_man_df
+	p5_can_not_fix_df = pd.DataFrame()
 
-	return p5_df, man_columns
+	p5_man_df = p5_df['vaccine_name'].str.replace('\r\n', '\n').str.split('\n', expand=True)
+	if p5_man_df.shape[1] < 4:
+		p5_can_not_fix_df = pd.concat([p5_can_not_fix_df, p5_man_df])
+	elif p5_man_df.shape[1] == 4:
+		p5_man_df.columns = man_columns
+		p5_df.loc[p5_man_df.index, man_columns] = p5_man_df
+	else:
+		p5_man_can_fix = p5_man_df[0].notna() & p5_man_df[1].notna() & p5_man_df[2].notna() & p5_man_df[3].notna() & p5_man_df[4].isna()
+		p5_man_can_fix_df = p5_man_df[p5_man_can_fix].loc[:, [0,1,2,3]]
+
+		p5_man_can_fix_df.columns = man_columns
+		p5_df.loc[p5_man_can_fix_df.index, man_columns] = p5_man_can_fix_df
+
+		p5_man_can_not_fix = ~p5_man_can_fix
+		p5_man_can_not_fix_df = p5_df[p5_man_can_not_fix]
+		p5_can_not_fix_df = pd.concat([p5_can_not_fix_df, p5_man_can_not_fix_df])
+
+	return p5_df, man_columns, p5_can_not_fix_df
+
+###
+# パターン6:
+# gender 列に年齢や接種日の情報がまとまっている場合の処理。
+###
+def standardize_pattern_six(df):
+	p6_df = df['gender'].str.split(' ', expand=True)
+	if(p6_df.shape[1] != 3):
+		return pd.DataFrame(), pd.Series()
+	
+	p6_columns = ['age', 'gender', 'vaccinated_date']
+	p6_df.columns = p6_columns
+	p6_df = p6_df[p6_df.notna().all(axis=1)]
+	
+	return p6_df, p6_columns
 
 # %%
 # パターン3の処理（列がズレており、大きく修正が必要なパターン。この修正の後、もっと普通の修正が必要な状態になるため先に処理する。）
@@ -140,14 +201,19 @@ df.loc[p3_df.index, :] = p3_df
 # パターン4の処理
 p4_df, p4_can_not_fix_df = standardize_pattern_four(df)
 df.loc[p4_df.index, :] = p4_df
-print('以下のNo.の項目は、days_to_onsetに複数項目が含まれているため手作業での修正が必要です。')
-for item in p4_can_not_fix_df['no']:
-	print(f' - No: {item}')
+if not p4_can_not_fix_df.empty:
+	print('以下のNo.の項目は、days_to_onset に複数項目が含まれているため手作業での修正が必要です。')
+	for index, row in p4_can_not_fix_df.iterrows():
+		print(f' - No. {row.no} (Index: {index})')
 
 # %%
 # パターン1の処理
-p1_df = standardize_pattern_one(df)
-df.loc[p1_df.index, ['days_to_onset', 'vaccine_name', 'manufacturer', 'lot_no', 'vaccinated_times']] = p1_df
+p1_df, p1_can_not_fix_df = standardize_pattern_one(df)
+df.loc[p1_df.index, :] = p1_df
+if not p1_can_not_fix_df.empty:
+	print('以下のNo.の項目は、days_to_onset をうまく分割できなかったため手作業での修正が必要です。')
+	for index, row in p1_can_not_fix_df.iterrows():
+		print(f' - No. {row.no} (Index: {index})')
 
 # %%
 # パターン2の処理
@@ -156,8 +222,18 @@ df.loc[p2_df.index, ['age', 'gender']] = p2_df
 
 # %%
 # パターン5の処理
-p5_df, p5_columns = standardize_pattern_five(df)
-df.loc[p5_df.index, p5_columns] = p5_df
+p5_df, p5_columns, p5_can_not_fix_df = standardize_pattern_five(df)
+if not p5_df.empty:
+	df.loc[p5_df.index, p5_columns] = p5_df
+if not p5_can_not_fix_df.empty:
+	print('以下のNo.の項目は、days_to_onset が「不明」のデータを整形できなかったため手作業での修正が必要です。')
+	for index, row in p5_can_not_fix_df.iterrows():
+		print(f' - No. {row.no} (Index: {index})')
+
+# %%
+# パターン6の処理
+p6_df, p6_columns = standardize_pattern_six(df)
+df.loc[p6_df.index, p6_columns] = p6_df
 
 # %%
 # 処理が不可能なデータをログ出力する
@@ -170,6 +246,22 @@ if not no_empty_df.empty:
 	print()
 	df.loc[no_empty_df.index, 'no'] = 'Invalid'
 
+## 種々の処理を行ったが age がN/Aのデータ。目視の手作業で修正が必要なデータ。
+age_na_df = df[df['age'].isna()]
+if not age_na_df.empty:
+	print('age 列がNAの項目があります。以下のNo.のデータについて、手作業での修正をお願いします。')
+	for index, row in age_na_df.iterrows():
+		print(f' - No. {row.no} (Index: {index})')
+	print()
+
+## 種々の処理を行ったが vaccinated_date がN/Aのデータ。目視の手作業で修正が必要なデータ。
+vaccinated_date_na_df = df[df['vaccinated_date'].isna()]
+if not vaccinated_date_na_df.empty:
+	print('vaccinated_date 列がNAの項目があります。以下のNo.のデータについて、手作業での修正をお願いします。')
+	for index, row in vaccinated_date_na_df.iterrows():
+		print(f' - No. {row.no} (Index: {index})')
+	print()
+
 ## 種々の処理を行ったが manufacturer が空文字列のデータ。これも目視しながら手作業で修正した方が良いデータ。
 manufacturer_empty_df = df[df['manufacturer'] == '']
 if not manufacturer_empty_df.empty:
@@ -177,10 +269,6 @@ if not manufacturer_empty_df.empty:
 	for _, row in manufacturer_empty_df.iterrows():
 		print(f' - No. {row.no}')
 	print()
-
-# %%
-# 元情報を一覧のsource列に追加する
-df['source'] = json.dumps({ "name": source_name, "url": source_url}, ensure_ascii=False)
 
 # %%
 csv_file_name_without_ext = os.path.splitext(csv_file_name)[0]
@@ -207,5 +295,3 @@ def remove_empty_lines(source_path, target_path):
 
 # %%
 remove_empty_lines(csv_file_path, csv_file_path)
-
-
