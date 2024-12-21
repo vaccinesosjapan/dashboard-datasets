@@ -3,7 +3,7 @@
 #  実際にデータ抽出に使った設定のメモ用。
 #
 
-## 001325489
+## コミナティ筋注
 name: 'コミナティ筋注'
 file_id: '001325489'
 pages: '30-45'
@@ -24,7 +24,28 @@ source: {
   url: 'https://www.mhlw.go.jp/content/11120000/001325489.pdf'
 }
 
-## 001325490
+## コミナティ筋注5～11歳用
+name: 'コミナティ筋注5～11歳用'
+file_id: '001325499'
+pages: '29'
+symptoms: 'myocarditis'
+count: '7'
+source: {
+  name: '第104回',
+  url: 'https://www.mhlw.go.jp/content/11120000/001325499.pdf'
+}
+
+name: 'コミナティ筋注5～11歳用'
+file_id: '001325499'
+pages: '30'
+symptoms: 'pericarditis'
+count: '2'
+source: {
+  name: '第104回',
+  url: 'https://www.mhlw.go.jp/content/11120000/001325499.pdf'
+}
+
+## スパイクバックス筋注
 name: 'スパイクバックス筋注'
 file_id: '001325490'
 pages: '30-34'
@@ -34,4 +55,3 @@ source: {
   name: '第104回',
   url: 'https://www.mhlw.go.jp/content/11120000/001325490.pdf'
 }
-

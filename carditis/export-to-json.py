@@ -38,6 +38,7 @@ df.loc[:, 'onset_dates'] = df['onset_dates'].str.replace(' ', '').str.replace('\
 df.loc[:, 'pre_existing_disease_names'] = df['pre_existing_disease_names'].str.replace(' ', '').str.replace('\r\n', '\n').str.split('; \n')
 df.loc[:, 'gross_result_dates'] = df['gross_result_dates'].str.replace(' ', '').str.replace('\r\n', '\n').str.split('\n')
 df.loc[:, 'gross_results'] = df['gross_results'].str.replace(' ', '').str.replace('\r\n', '\n').str.split('\n')
+df.loc[:, 'evaluated_PT'] = df['evaluated_PT'].str.replace('\r\n', '\n')
 df.loc[:, 'expert_opinion'] = df['expert_opinion'].str.replace('\r\n', '').str.replace('\n', '')
 df.loc[:, 'remarks'] = df['remarks'].str.replace('\r\n', '\n').str.replace('\n', '')
 

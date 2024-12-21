@@ -51,10 +51,14 @@ def standardize_pattern_two(df):
 	p2_df = df[df['gender'].isna()]
 
 	p2_age_df = p2_df['age'].str.split(' ', expand=True)
-	if(p2_age_df.shape[1] < 1):
-		p2_age_df = pd.DataFrame()
-	else:
+	if(p2_age_df.shape[1] == 2):
 		p2_age_df.columns = ['age', 'gender']
+	else:
+		p2_age_df = pd.DataFrame()
+		print('パターン2: age,gender 情報をうまく分割できなかったため手作業での修正が必要です。')
+		for index, row in p2_df.iterrows():
+			print(f' - No. {row.no} (Index: {index})')
+		print()
 
 	return p2_age_df
 
@@ -75,9 +79,15 @@ def standardize_pattern_three(df):
 	p3_shift_df['manufacturer'] = ''
 
 	p3_shift_no_df = p3_shift_df['no'].str.split(' ', expand=True)
-	no_columns = ['no', 'age', 'gender']
-	p3_shift_no_df.columns = no_columns
-	p3_shift_df.loc[p3_shift_no_df.index, no_columns] = p3_shift_no_df
+	if p3_shift_no_df.shape[1] == 3:
+		no_columns = ['no', 'age', 'gender']
+		p3_shift_no_df.columns = no_columns
+		p3_shift_df.loc[p3_shift_no_df.index, no_columns] = p3_shift_no_df
+	else:
+		print('パターン3: no列のデータをうまく分割できなかったため手作業での修正が必要です。')
+		for index, row in p3_shift_df.iterrows():
+			print(f' - No. {row.no} (Index: {index})')
+		print()
 
 	return p3_shift_df
 
@@ -92,13 +102,14 @@ def standardize_pattern_three(df):
 def standardize_pattern_four(df):
 	p4_df = df[df['days_to_onset'].str.contains('[0-9] .*', na=False)]
 
+	p4_fix_df = pd.DataFrame()
 	p4_days_df = p4_df['days_to_onset'].str.split('\r\n', expand=True)
-	if(p4_days_df.shape[1] == 1):
+	if p4_days_df.shape[1] == 1:
 		p4_days_df.columns = ['days']
 		# 修正不可のデータは無し、という判定
 		p4_can_not_fix_df = p4_df.loc[[]]
 		p4_fix_df = p4_df
-	else:
+	elif p4_days_df.shape[1] == 2:
 		p4_days_df.columns = ['days', 'second_days']
 
 		# 複数行がまとまったデータは、days_to_onsetにさらに他の数字や文字列が続くため、second_daysがNaNではなくなる
@@ -108,6 +119,12 @@ def standardize_pattern_four(df):
 
 		# 修正可能なデータたちの、列入れ替えを行う
 		p4_fix_df = p4_df[p4_days_df['second_days'].isna()]
+	else:
+		p4_can_not_fix_df = p4_df
+
+	# ここでは修正できるデータが無い
+	if p4_fix_df.empty:
+		return pd.DataFrame(), p4_can_not_fix_df
 
 	p4_fix_df.loc[p4_fix_df.index, 'manufacturer'] = p4_df['vaccine_name']
 	p4_fix_df.loc[p4_fix_df.index, 'vaccine_name'] = ''
