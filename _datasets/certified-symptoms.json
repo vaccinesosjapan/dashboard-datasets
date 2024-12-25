@@ -66,9 +66,9 @@
   {
     "name": "ANCA関連血管炎",
     "counts": {
-      "male": 6,
+      "male": 7,
       "female": 6,
-      "sum": 12
+      "sum": 13
     }
   },
   {
@@ -506,9 +506,9 @@
   {
     "name": "けいれん重積",
     "counts": {
-      "male": 0,
+      "male": 1,
       "female": 2,
-      "sum": 2
+      "sum": 3
     }
   },
   {
@@ -664,11 +664,27 @@
     }
   },
   {
+    "name": "てんかん重積後脳症",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
     "name": "てんかん重積状態",
     "counts": {
       "male": 1,
       "female": 1,
       "sum": 2
+    }
+  },
+  {
+    "name": "てんかん重積発作",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
     }
   },
   {
@@ -826,9 +842,9 @@
   {
     "name": "アテローム血栓性脳梗塞",
     "counts": {
-      "male": 6,
+      "male": 7,
       "female": 7,
-      "sum": 13
+      "sum": 14
     }
   },
   {
@@ -1284,6 +1300,14 @@
     "counts": {
       "male": 0,
       "female": 1,
+      "sum": 1
+    }
+  },
+  {
+    "name": "ステロイド治療に伴う両側緑内障の疑い",
+    "counts": {
+      "male": 1,
+      "female": 0,
       "sum": 1
     }
   },
@@ -4314,9 +4338,9 @@
   {
     "name": "低酸素脳症",
     "counts": {
-      "male": 18,
+      "male": 20,
       "female": 9,
-      "sum": 27
+      "sum": 29
     }
   },
   {
@@ -5336,6 +5360,14 @@
     }
   },
   {
+    "name": "副鼻腔炎の増悪",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
     "name": "副鼻腔炎の急性増悪",
     "counts": {
       "male": 0,
@@ -5354,9 +5386,9 @@
   {
     "name": "劇症型心筋炎",
     "counts": {
-      "male": 11,
+      "male": 12,
       "female": 13,
-      "sum": 24
+      "sum": 25
     }
   },
   {
@@ -6065,6 +6097,14 @@
   },
   {
     "name": "右上腕紅斑・腫脹",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
+    "name": "右上腕部血腫",
     "counts": {
       "male": 1,
       "female": 0,
@@ -7770,9 +7810,9 @@
   {
     "name": "嗄声",
     "counts": {
-      "male": 0,
+      "male": 1,
       "female": 3,
-      "sum": 3
+      "sum": 4
     }
   },
   {
@@ -8818,9 +8858,9 @@
   {
     "name": "大動脈炎",
     "counts": {
-      "male": 1,
+      "male": 2,
       "female": 0,
-      "sum": 1
+      "sum": 2
     }
   },
   {
@@ -9931,8 +9971,8 @@
     "name": "左上肢脱力",
     "counts": {
       "male": 1,
-      "female": 1,
-      "sum": 2
+      "female": 2,
+      "sum": 3
     }
   },
   {
@@ -9987,8 +10027,8 @@
     "name": "左上肢運動障害",
     "counts": {
       "male": 1,
-      "female": 3,
-      "sum": 4
+      "female": 4,
+      "sum": 5
     }
   },
   {
@@ -10139,8 +10179,8 @@
     "name": "左上腕痛",
     "counts": {
       "male": 15,
-      "female": 21,
-      "sum": 36
+      "female": 22,
+      "sum": 37
     }
   },
   {
@@ -11435,8 +11475,8 @@
     "name": "左橈骨神経麻痺",
     "counts": {
       "male": 1,
-      "female": 4,
-      "sum": 5
+      "female": 5,
+      "sum": 6
     }
   },
   {
@@ -12019,8 +12059,8 @@
     "name": "左肩石灰性腱炎",
     "counts": {
       "male": 0,
-      "female": 1,
-      "sum": 1
+      "female": 2,
+      "sum": 2
     }
   },
   {
@@ -12114,9 +12154,9 @@
   {
     "name": "左肩関節周囲炎",
     "counts": {
-      "male": 104,
-      "female": 189,
-      "sum": 293
+      "male": 105,
+      "female": 190,
+      "sum": 295
     }
   },
   {
@@ -13184,11 +13224,19 @@
     }
   },
   {
+    "name": "心停止後症候群",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
     "name": "心原性ショック",
     "counts": {
-      "male": 3,
+      "male": 4,
       "female": 3,
-      "sum": 6
+      "sum": 7
     }
   },
   {
@@ -13315,8 +13363,8 @@
     "name": "心室頻拍",
     "counts": {
       "male": 7,
-      "female": 0,
-      "sum": 7
+      "female": 1,
+      "sum": 8
     }
   },
   {
@@ -13442,9 +13490,9 @@
   {
     "name": "心筋梗塞",
     "counts": {
-      "male": 9,
+      "male": 10,
       "female": 10,
-      "sum": 19
+      "sum": 20
     }
   },
   {
@@ -13514,9 +13562,9 @@
   {
     "name": "心肺停止",
     "counts": {
-      "male": 56,
+      "male": 58,
       "female": 39,
-      "sum": 95
+      "sum": 97
     }
   },
   {
@@ -13962,9 +14010,9 @@
   {
     "name": "急性心不全",
     "counts": {
-      "male": 32,
+      "male": 33,
       "female": 27,
-      "sum": 59
+      "sum": 60
     }
   },
   {
@@ -14706,9 +14754,9 @@
   {
     "name": "意識障害",
     "counts": {
-      "male": 19,
+      "male": 20,
       "female": 18,
-      "sum": 37
+      "sum": 38
     }
   },
   {
@@ -14777,6 +14825,14 @@
   },
   {
     "name": "慢性収縮性心膜炎",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
+    "name": "慢性呼吸不全",
     "counts": {
       "male": 1,
       "female": 0,
@@ -15090,9 +15146,9 @@
   {
     "name": "慢性閉塞性肺疾患の急性増悪",
     "counts": {
-      "male": 3,
+      "male": 5,
       "female": 0,
-      "sum": 3
+      "sum": 5
     }
   },
   {
@@ -15449,6 +15505,14 @@
   },
   {
     "name": "抗NMDA受容体抗体脳炎",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
+    "name": "抗contactin-1抗体陽性nodopachy",
     "counts": {
       "male": 1,
       "female": 0,
@@ -16779,8 +16843,8 @@
     "name": "狭心症",
     "counts": {
       "male": 3,
-      "female": 3,
-      "sum": 6
+      "female": 4,
+      "sum": 7
     }
   },
   {
@@ -16923,8 +16987,8 @@
     "name": "症候性てんかん",
     "counts": {
       "male": 6,
-      "female": 4,
-      "sum": 10
+      "female": 5,
+      "sum": 11
     }
   },
   {
@@ -17626,9 +17690,9 @@
   {
     "name": "突然死",
     "counts": {
-      "male": 133,
+      "male": 134,
       "female": 93,
-      "sum": 226
+      "sum": 227
     }
   },
   {
@@ -17713,6 +17777,14 @@
   },
   {
     "name": "第6頸椎損傷",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
+    "name": "第9・10胸椎圧迫骨折",
     "counts": {
       "male": 1,
       "female": 0,
@@ -18488,6 +18560,14 @@
     }
   },
   {
+    "name": "肺線維症の急性増悪",
+    "counts": {
+      "male": 2,
+      "female": 0,
+      "sum": 2
+    }
+  },
+  {
     "name": "肺胞出血",
     "counts": {
       "male": 6,
@@ -18651,8 +18731,8 @@
     "name": "胸痛",
     "counts": {
       "male": 34,
-      "female": 37,
-      "sum": 71
+      "female": 38,
+      "sum": 72
     }
   },
   {
@@ -19280,6 +19360,14 @@
     }
   },
   {
+    "name": "脳梗塞及び脳出血による右上下肢運動機能障害",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
     "name": "脳梗塞後の右上下肢麻痺",
     "counts": {
       "male": 0,
@@ -19331,8 +19419,8 @@
     "name": "脳炎",
     "counts": {
       "male": 6,
-      "female": 14,
-      "sum": 20
+      "female": 15,
+      "sum": 21
     }
   },
   {
@@ -21200,6 +21288,14 @@
     }
   },
   {
+    "name": "運動失調",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
     "name": "運動機能障害",
     "counts": {
       "male": 2,
@@ -21858,9 +21954,9 @@
   {
     "name": "頭痛",
     "counts": {
-      "male": 148,
+      "male": 149,
       "female": 228,
-      "sum": 376
+      "sum": 377
     }
   },
   {
@@ -22571,8 +22667,8 @@
     "name": "高次脳機能障害",
     "counts": {
       "male": 13,
-      "female": 5,
-      "sum": 18
+      "female": 6,
+      "sum": 19
     }
   },
   {
