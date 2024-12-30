@@ -9,7 +9,7 @@ json_file_name = sys.argv[3] # eg) '001325489-myocarditis.json'
 source_name = sys.argv[4] # '第104回'
 source_url = sys.argv[5] # 'https://www.mhlw.go.jp/content/11120000/001325490.pdf'
 
-csv_file_path = os.path.join(csv_folder, csv_file_name)
+csv_file_path = os.path.join('..', csv_folder, csv_file_name)
 df = pd.read_csv(csv_file_path, delimiter=',')
 
 # %%
@@ -64,7 +64,7 @@ df_dict = df.to_dict("records")
 df_string = json.dumps(df_dict, ensure_ascii=False, indent=2)
 
 json_folder = 'reports-data'
-json_file_path = os.path.join(json_folder, json_file_name)
+json_file_path = os.path.join('..', json_folder, json_file_name)
 with open(json_file_path, encoding='utf-8', mode='w') as f:
 	f.write(df_string)
 

@@ -6,7 +6,7 @@ pdf_file_name = sys.argv[1] # '001325489.pdf'
 pages = sys.argv[2] # '30-45'
 symptoms = sys.argv[3] # 'myocarditis'
 
-pdf_file_path = os.path.join('pdf-files', pdf_file_name)
+pdf_file_path = os.path.join('..', 'pdf-files', pdf_file_name)
 tables = camelot.read_pdf(pdf_file_path, pages=pages, encoding='utf-8')
 
 print(f"症状: {symptoms}")
@@ -23,7 +23,7 @@ for index, table in enumerate(tables):
 csv_data = merged_df.to_csv(index=False)
 
 pdf_file_name_without_ext = os.path.splitext(pdf_file_name)[0]
-csv_file_path = os.path.join('intermediate-files', f'{pdf_file_name_without_ext}-{symptoms}.csv')
+csv_file_path = os.path.join('..', 'intermediate-files', f'{pdf_file_name_without_ext}-{symptoms}.csv')
 with open(csv_file_path, "w", encoding='utf-8') as f:
 	f.write(csv_data)
 

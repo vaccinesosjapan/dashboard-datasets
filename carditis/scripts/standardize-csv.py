@@ -5,7 +5,7 @@ import pandas as pd
 csv_folder = 'intermediate-files'
 csv_file_name = sys.argv[1]
 
-csv_file_path = os.path.join(csv_folder, csv_file_name)
+csv_file_path = os.path.join('..', csv_folder, csv_file_name)
 original_df = pd.read_csv(csv_file_path, encoding='utf-8')
 
 # %%
@@ -35,9 +35,14 @@ def standardize_pattern_one(df):
 		days_columns = ['days_to_onset', 'vaccine_name', 'manufacturer', 'lot_no', 'vaccinated_times']
 		p1_days_df.columns = days_columns
 		p1_df.loc[p1_days_df.index, days_columns] = p1_days_df
+	elif p1_days_df.shape[1] == 3:
+		# こういうパターンもある
+		days_columns = ['days_to_onset', 'vaccine_name', 'manufacturer']
+		p1_days_df.columns = days_columns
+		p1_df.loc[p1_days_df.index, days_columns] = p1_days_df
 	else:
 		# 意図しているデータではないので、ログ出力を行うようにする。
-		p1_can_not_fix_df = pd.concat([p1_can_not_fix_df, p1_days_df])
+		p1_can_not_fix_df = pd.concat([p1_can_not_fix_df, p1_df.loc[p1_days_df.index,:]])
 
 	return p1_df, p1_can_not_fix_df
 
@@ -177,7 +182,7 @@ def standardize_pattern_five(df):
 
 	p5_man_df = p5_df['vaccine_name'].str.replace('\r\n', '\n').str.split('\n', expand=True)
 	if p5_man_df.shape[1] < 4:
-		p5_can_not_fix_df = pd.concat([p5_can_not_fix_df, p5_man_df])
+		p5_can_not_fix_df = pd.concat([p5_can_not_fix_df, p5_df.loc[p5_man_df.index, :]])
 	elif p5_man_df.shape[1] == 4:
 		p5_man_df.columns = man_columns
 		p5_df.loc[p5_man_df.index, man_columns] = p5_man_df
@@ -190,7 +195,7 @@ def standardize_pattern_five(df):
 
 		p5_man_can_not_fix = ~p5_man_can_fix
 		p5_man_can_not_fix_df = p5_df[p5_man_can_not_fix]
-		p5_can_not_fix_df = pd.concat([p5_can_not_fix_df, p5_man_can_not_fix_df])
+		p5_can_not_fix_df = pd.concat([p5_can_not_fix_df, p5_df.loc[p5_man_can_not_fix_df.index, :]])
 
 	return p5_df, man_columns, p5_can_not_fix_df
 
@@ -222,6 +227,7 @@ if not p4_can_not_fix_df.empty:
 	print('以下のNo.の項目は、days_to_onset に複数項目が含まれているため手作業での修正が必要です。')
 	for index, row in p4_can_not_fix_df.iterrows():
 		print(f' - No. {row.no} (Index: {index})')
+	print()
 
 # %%
 # パターン1の処理
@@ -231,6 +237,7 @@ if not p1_can_not_fix_df.empty:
 	print('以下のNo.の項目は、days_to_onset をうまく分割できなかったため手作業での修正が必要です。')
 	for index, row in p1_can_not_fix_df.iterrows():
 		print(f' - No. {row.no} (Index: {index})')
+	print()
 
 # %%
 # パターン2の処理
@@ -246,6 +253,7 @@ if not p5_can_not_fix_df.empty:
 	print('以下のNo.の項目は、days_to_onset が「不明」のデータを整形できなかったため手作業での修正が必要です。')
 	for index, row in p5_can_not_fix_df.iterrows():
 		print(f' - No. {row.no} (Index: {index})')
+	print()
 
 # %%
 # パターン6の処理
@@ -289,7 +297,7 @@ if not manufacturer_empty_df.empty:
 
 # %%
 csv_file_name_without_ext = os.path.splitext(csv_file_name)[0]
-csv_file_path = os.path.join(csv_folder, f'{csv_file_name_without_ext}-converted.csv')
+csv_file_path = os.path.join('..', csv_folder, f'{csv_file_name_without_ext}-converted.csv')
 with open(csv_file_path, encoding='utf-8', mode='w') as f:
 	f.write(df.to_csv(index=False))
 
