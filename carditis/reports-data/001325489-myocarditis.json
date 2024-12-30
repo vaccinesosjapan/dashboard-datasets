@@ -64,7 +64,7 @@
       "軽快",
       "軽快"
     ],
-    "evaluated_PT": "心膜炎\r\n心筋炎",
+    "evaluated_PT": "心膜炎\n心筋炎",
     "evaluated_result": "γ γ",
     "brighton_classification": "2 2",
     "expert_opinion": "",
@@ -468,7 +468,8 @@
     "lot_no": "FK0108",
     "vaccinated_times": "2回目",
     "pre_existing_disease_names": [
-      "アナフィラキシー反応;\n食物アレルギー"
+      "アナフィラキシー反応",
+      "食物アレルギー"
     ],
     "PT_names": [
       "心筋炎",
@@ -591,7 +592,7 @@
       "回復",
       "回復"
     ],
-    "evaluated_PT": "心筋炎\r\n心筋心膜炎",
+    "evaluated_PT": "心筋炎\n心筋心膜炎",
     "evaluated_result": "γ γ",
     "brighton_classification": "4 4",
     "expert_opinion": "",
@@ -650,7 +651,7 @@
       "回復",
       "回復"
     ],
-    "evaluated_PT": "心筋炎\r\n心膜炎",
+    "evaluated_PT": "心筋炎\n心膜炎",
     "evaluated_result": "γ γ",
     "brighton_classification": "1 4",
     "expert_opinion": "",
@@ -1207,7 +1208,7 @@
       "不明",
       "不明"
     ],
-    "evaluated_PT": "心筋炎\r\n心膜炎",
+    "evaluated_PT": "心筋炎\n心膜炎",
     "evaluated_result": "γ γ",
     "brighton_classification": "4 4",
     "expert_opinion": "",
@@ -1466,7 +1467,7 @@
       "回復",
       "回復"
     ],
-    "evaluated_PT": "心筋炎\r\n心膜炎",
+    "evaluated_PT": "心筋炎\n心膜炎",
     "evaluated_result": "γ γ",
     "brighton_classification": "4 4",
     "expert_opinion": "",
@@ -1503,7 +1504,11 @@
     "lot_no": "不明",
     "vaccinated_times": "2回目",
     "pre_existing_disease_names": [
-      "心室障害;\n心房細動;\n肥大型心筋症;\n脂質異常症;\n高血圧"
+      "心室障害",
+      "心房細動",
+      "肥大型心筋症",
+      "脂質異常症",
+      "高血圧"
     ],
     "PT_names": [
       "心筋炎",
@@ -1626,7 +1631,11 @@
     "lot_no": "EW0207",
     "vaccinated_times": "2回目",
     "pre_existing_disease_names": [
-      "ステント留置;\n心障害;\n狭心症;\n高脂血症;\n２型糖尿病"
+      "ステント留置",
+      "心障害",
+      "狭心症",
+      "高脂血症",
+      "２型糖尿病"
     ],
     "PT_names": [
       "死亡",
@@ -1761,7 +1770,7 @@
       "回復",
       "回復"
     ],
-    "evaluated_PT": "心筋炎\r\n心筋心膜炎",
+    "evaluated_PT": "心筋炎\n心筋心膜炎",
     "evaluated_result": "γ γ",
     "brighton_classification": "1 1",
     "expert_opinion": "",
@@ -1797,7 +1806,8 @@
     "lot_no": "FL1839",
     "vaccinated_times": "2回目",
     "pre_existing_disease_names": [
-      "ダニアレルギー;\n小児喘息"
+      "ダニアレルギー",
+      "小児喘息"
     ],
     "PT_names": [
       "心筋炎",
@@ -1844,7 +1854,7 @@
       "軽快",
       "軽快"
     ],
-    "evaluated_PT": "心筋炎\r\n心膜炎",
+    "evaluated_PT": "心筋炎\n心膜炎",
     "evaluated_result": "γ γ",
     "brighton_classification": "1 2",
     "expert_opinion": "",
@@ -2163,7 +2173,7 @@
       "回復",
       "回復"
     ],
-    "evaluated_PT": "心膜炎\r\n心筋心膜炎",
+    "evaluated_PT": "心膜炎\n心筋心膜炎",
     "evaluated_result": "γ γ",
     "brighton_classification": "4 4",
     "expert_opinion": "",
@@ -2418,7 +2428,7 @@
       "不明",
       "不明"
     ],
-    "evaluated_PT": "心筋炎\r\n心膜炎",
+    "evaluated_PT": "心筋炎\n心膜炎",
     "evaluated_result": "γ γ",
     "brighton_classification": "4 4",
     "expert_opinion": "",
@@ -2552,7 +2562,9 @@
     "lot_no": "FD1945",
     "vaccinated_times": "1回目",
     "pre_existing_disease_names": [
-      "蕁麻疹;\n薬物過敏症;\n過敏症"
+      "蕁麻疹",
+      "薬物過敏症",
+      "過敏症"
     ],
     "PT_names": [
       "高コレステロール血症",
@@ -2623,7 +2635,7 @@
       "軽快",
       "軽快"
     ],
-    "evaluated_PT": "心筋炎\r\n心膜炎",
+    "evaluated_PT": "心筋炎\n心膜炎",
     "evaluated_result": "γ γ",
     "brighton_classification": "4 4",
     "expert_opinion": "",
@@ -2655,7 +2667,9 @@
     "lot_no": "不明",
     "vaccinated_times": "2回目",
     "pre_existing_disease_names": [
-      "ポリメラーゼ連鎖反応陽性;\n拡張型心筋症;\n食物アレルギー"
+      "ポリメラーゼ連鎖反応陽性",
+      "拡張型心筋症",
+      "食物アレルギー"
     ],
     "PT_names": [
       "胸痛|筋骨格系胸痛",
@@ -2723,7 +2737,10 @@
     "lot_no": "不明",
     "vaccinated_times": "2回目",
     "pre_existing_disease_names": [
-      "ざ瘡;\nアトピー性皮膚炎;\n心障害;\n皮膚乾燥"
+      "ざ瘡",
+      "アトピー性皮膚炎",
+      "心障害",
+      "皮膚乾燥"
     ],
     "PT_names": [
       "心筋心膜炎",
@@ -2812,7 +2829,7 @@
       "回復",
       "回復"
     ],
-    "evaluated_PT": "心筋炎\r\n心膜炎",
+    "evaluated_PT": "心筋炎\n心膜炎",
     "evaluated_result": "γ γ",
     "brighton_classification": "1 2",
     "expert_opinion": "",
@@ -3143,7 +3160,10 @@
     "lot_no": "FD0889",
     "vaccinated_times": "2回目",
     "pre_existing_disease_names": [
-      "リウマチ性障害;\n狭心症;\n脂質異常症;\n高血圧"
+      "リウマチ性障害",
+      "狭心症",
+      "脂質異常症",
+      "高血圧"
     ],
     "PT_names": [
       "心筋炎",
@@ -3202,7 +3222,9 @@
     "lot_no": "FD0348",
     "vaccinated_times": "2回目",
     "pre_existing_disease_names": [
-      "心筋炎;\n高尿酸血症;\n高血圧"
+      "心筋炎",
+      "高尿酸血症",
+      "高血圧"
     ],
     "PT_names": [
       "心不全",
@@ -3562,7 +3584,7 @@
       "軽快",
       "回復"
     ],
-    "evaluated_PT": "心膜炎\r\n心筋炎",
+    "evaluated_PT": "心膜炎\n心筋炎",
     "evaluated_result": "γ γ",
     "brighton_classification": "4 4",
     "expert_opinion": "",
@@ -3680,7 +3702,7 @@
       "不明",
       "回復"
     ],
-    "evaluated_PT": "心筋炎\r\n心膜炎",
+    "evaluated_PT": "心筋炎\n心膜炎",
     "evaluated_result": "γ γ",
     "brighton_classification": "2 4",
     "expert_opinion": "",
@@ -3751,7 +3773,8 @@
     "lot_no": "不明",
     "vaccinated_times": "2回目",
     "pre_existing_disease_names": [
-      "アレルギー性大腸炎;\nグレーブス病"
+      "アレルギー性大腸炎",
+      "グレーブス病"
     ],
     "PT_names": [
       "肝機能異常",
@@ -3839,7 +3862,8 @@
     "lot_no": "FJ1763",
     "vaccinated_times": "3回目",
     "pre_existing_disease_names": [
-      "慢性腎臓病;\n脂質異常症"
+      "慢性腎臓病",
+      "脂質異常症"
     ],
     "PT_names": [
       "心筋炎",
@@ -3991,7 +4015,7 @@
       "回復",
       "回復"
     ],
-    "evaluated_PT": "心筋炎\r\n心膜炎",
+    "evaluated_PT": "心筋炎\n心膜炎",
     "evaluated_result": "γ γ",
     "brighton_classification": "4 4",
     "expert_opinion": "",
@@ -4099,7 +4123,8 @@
     "lot_no": "FJ7489",
     "vaccinated_times": "3回目",
     "pre_existing_disease_names": [
-      "そう痒症;\n胸痛"
+      "そう痒症",
+      "胸痛"
     ],
     "PT_names": [
       "心筋炎",
@@ -4281,7 +4306,10 @@
     "lot_no": "FJ5929",
     "vaccinated_times": "3回目",
     "pre_existing_disease_names": [
-      "アトピー性皮膚炎;\nウイルス性心筋炎;\n子宮内膜症;\n非タバコ使用者"
+      "アトピー性皮膚炎",
+      "ウイルス性心筋炎",
+      "子宮内膜症",
+      "非タバコ使用者"
     ],
     "PT_names": [
       "心筋炎",
@@ -4328,7 +4356,7 @@
       "不明",
       "不明"
     ],
-    "evaluated_PT": "心筋炎\r\n心膜炎",
+    "evaluated_PT": "心筋炎\n心膜炎",
     "evaluated_result": "γ γ",
     "brighton_classification": "4 2",
     "expert_opinion": "",
@@ -4546,7 +4574,8 @@
     "lot_no": "FH0151",
     "vaccinated_times": "3回目",
     "pre_existing_disease_names": [
-      "胃食道逆流性疾患;\n脂質異常症"
+      "胃食道逆流性疾患",
+      "脂質異常症"
     ],
     "PT_names": [
       "心筋炎",
@@ -4563,7 +4592,7 @@
       "未回復",
       "不明"
     ],
-    "evaluated_PT": "心筋炎\r\n心膜炎",
+    "evaluated_PT": "心筋炎\n心膜炎",
     "evaluated_result": "γ γ",
     "brighton_classification": "4 4",
     "expert_opinion": "",
@@ -4850,7 +4879,7 @@
       "回復",
       "回復"
     ],
-    "evaluated_PT": "心筋炎\r\n心膜炎",
+    "evaluated_PT": "心筋炎\n心膜炎",
     "evaluated_result": "γ γ",
     "brighton_classification": "4 2",
     "expert_opinion": "",
@@ -4882,7 +4911,21 @@
     "lot_no": "FJ5929",
     "vaccinated_times": "3回目",
     "pre_existing_disease_names": [
-      "うつ病;\n不眠症;\n便秘;\n僧帽弁修復;\n大腿骨頚部骨折;\n心房細動;\n心血管障害;\n心障害;\n慢性心不全;\n歩行補助用具使用者;\n胃食道逆流性疾患;\n脂質異常症;\n頭位性回転性めまい;\n駆出率減少;\n高血圧"
+      "うつ病",
+      "不眠症",
+      "便秘",
+      "僧帽弁修復",
+      "大腿骨頚部骨折",
+      "心房細動",
+      "心血管障害",
+      "心障害",
+      "慢性心不全",
+      "歩行補助用具使用者",
+      "胃食道逆流性疾患",
+      "脂質異常症",
+      "頭位性回転性めまい",
+      "駆出率減少",
+      "高血圧"
     ],
     "PT_names": [
       "心筋炎",
@@ -4989,7 +5032,8 @@
     "lot_no": "不明",
     "vaccinated_times": "1回目",
     "pre_existing_disease_names": [
-      "大動脈手術;\n心内膜炎"
+      "大動脈手術",
+      "心内膜炎"
     ],
     "PT_names": [
       "心停止",
@@ -5133,7 +5177,7 @@
       "軽快",
       "軽快"
     ],
-    "evaluated_PT": "心筋炎\r\n心膜炎",
+    "evaluated_PT": "心筋炎\n心膜炎",
     "evaluated_result": "γ γ",
     "brighton_classification": "1 4",
     "expert_opinion": "",
@@ -5192,7 +5236,7 @@
       "回復",
       "回復"
     ],
-    "evaluated_PT": "心筋炎\r\n心膜炎",
+    "evaluated_PT": "心筋炎\n心膜炎",
     "evaluated_result": "γ γ",
     "brighton_classification": "1 4",
     "expert_opinion": "",
@@ -5345,7 +5389,7 @@
       "不明",
       "回復"
     ],
-    "evaluated_PT": "心筋炎\r\n心膜炎",
+    "evaluated_PT": "心筋炎\n心膜炎",
     "evaluated_result": "γ γ",
     "brighton_classification": "4 4",
     "expert_opinion": "",
@@ -5528,7 +5572,8 @@
     "lot_no": "EY5422",
     "vaccinated_times": "2回目",
     "pre_existing_disease_names": [
-      "心不全;\n心筋虚血"
+      "心不全",
+      "心筋虚血"
     ],
     "PT_names": [
       "心筋炎",
@@ -5645,7 +5690,8 @@
     "lot_no": "不明",
     "vaccinated_times": "2回目",
     "pre_existing_disease_names": [
-      "大動脈弁狭窄;\n心不全"
+      "大動脈弁狭窄",
+      "心不全"
     ],
     "PT_names": [
       "心筋炎",
@@ -5970,7 +6016,9 @@
     "lot_no": "EY3860",
     "vaccinated_times": "2回目",
     "pre_existing_disease_names": [
-      "大動脈弁狭窄;\n心不全;\n心筋梗塞"
+      "大動脈弁狭窄",
+      "心不全",
+      "心筋梗塞"
     ],
     "PT_names": [
       "心筋炎",
@@ -6018,7 +6066,8 @@
     "lot_no": "FA4597",
     "vaccinated_times": "2回目",
     "pre_existing_disease_names": [
-      "心不全;\n心筋梗塞"
+      "心不全",
+      "心筋梗塞"
     ],
     "PT_names": [
       "心筋炎",
@@ -6127,7 +6176,9 @@
     "lot_no": "不明",
     "vaccinated_times": "1回目",
     "pre_existing_disease_names": [
-      "心不全;\n脳性ナトリウム利尿ペプチド前\n駆体Ｎ端フラグメント増加;\n虚血性心筋症"
+      "心不全",
+      "脳性ナトリウム利尿ペプチド前\n駆体Ｎ端フラグメント増加",
+      "虚血性心筋症"
     ],
     "PT_names": [
       "心筋炎",
@@ -6183,7 +6234,8 @@
     "lot_no": "FA4597",
     "vaccinated_times": "2回目",
     "pre_existing_disease_names": [
-      "大動脈障害;\n心不全"
+      "大動脈障害",
+      "心不全"
     ],
     "PT_names": [
       "心筋炎",
@@ -6261,7 +6313,8 @@
     "lot_no": "FA4597",
     "vaccinated_times": "2回目",
     "pre_existing_disease_names": [
-      "心不全;\n心肥大"
+      "心不全",
+      "心肥大"
     ],
     "PT_names": [
       "心筋炎",
@@ -6354,7 +6407,8 @@
     "lot_no": "FA4597",
     "vaccinated_times": "2回目",
     "pre_existing_disease_names": [
-      "心不全;\n心障害"
+      "心不全",
+      "心障害"
     ],
     "PT_names": [
       "脳性ナトリウム利尿ペプチド前駆体Ｎ端フラグメント増加",
@@ -6490,7 +6544,8 @@
     "lot_no": "FA2453",
     "vaccinated_times": "2回目",
     "pre_existing_disease_names": [
-      "心房中隔欠損症;\n肺高血圧症"
+      "心房中隔欠損症",
+      "肺高血圧症"
     ],
     "PT_names": [
       "心筋炎",
@@ -6620,7 +6675,9 @@
     "lot_no": "EY2173\r\nFA4597",
     "vaccinated_times": "1回目\r\n2回目",
     "pre_existing_disease_names": [
-      "三尖弁閉鎖不全症;\n僧帽弁閉鎖不全症;\n心不全"
+      "三尖弁閉鎖不全症",
+      "僧帽弁閉鎖不全症",
+      "心不全"
     ],
     "PT_names": [
       "心筋炎",
@@ -6695,7 +6752,9 @@
     "lot_no": "FK7441",
     "vaccinated_times": "3回目",
     "pre_existing_disease_names": [
-      "川崎病;\n心室中隔欠損症;\n肺動脈狭窄"
+      "川崎病",
+      "心室中隔欠損症",
+      "肺動脈狭窄"
     ],
     "PT_names": [
       "心筋梗塞",
@@ -6727,7 +6786,7 @@
       "回復",
       "回復"
     ],
-    "evaluated_PT": "心筋炎\r\n心膜炎",
+    "evaluated_PT": "心筋炎\n心膜炎",
     "evaluated_result": "γ γ",
     "brighton_classification": "4 4",
     "expert_opinion": "",
@@ -6816,7 +6875,9 @@
     "lot_no": "不明",
     "vaccinated_times": "2回目",
     "pre_existing_disease_names": [
-      "禁酒;\n非タバコ使用者;\n高血圧"
+      "禁酒",
+      "非タバコ使用者",
+      "高血圧"
     ],
     "PT_names": [
       "心筋炎",
@@ -6890,7 +6951,8 @@
     "lot_no": "FD1945",
     "vaccinated_times": "2回目",
     "pre_existing_disease_names": [
-      "慢性心不全;\n糖尿病"
+      "慢性心不全",
+      "糖尿病"
     ],
     "PT_names": [
       "心筋炎",
@@ -6964,7 +7026,11 @@
     "lot_no": "不明",
     "vaccinated_times": "2回目",
     "pre_existing_disease_names": [
-      "末期腎疾患;\n直腸癌;\n糖尿病;\n結腸癌;\n血液透析"
+      "末期腎疾患",
+      "直腸癌",
+      "糖尿病",
+      "結腸癌",
+      "血液透析"
     ],
     "PT_names": [
       "ヘモグロビン減少|貧血",
@@ -7011,7 +7077,7 @@
       "不明",
       "回復"
     ],
-    "evaluated_PT": "心筋炎\r\n心膜炎",
+    "evaluated_PT": "心筋炎\n心膜炎",
     "evaluated_result": "γ γ",
     "brighton_classification": "4 2",
     "expert_opinion": "",
@@ -7111,7 +7177,11 @@
     "lot_no": "EW0207",
     "vaccinated_times": "1回目",
     "pre_existing_disease_names": [
-      "浮動性めまい;\n硬膜下血腫;\n腹部症状;\n高尿酸血症;\n高血圧"
+      "浮動性めまい",
+      "硬膜下血腫",
+      "腹部症状",
+      "高尿酸血症",
+      "高血圧"
     ],
     "PT_names": [
       "心筋炎",
@@ -7318,7 +7388,7 @@
       "回復",
       "回復"
     ],
-    "evaluated_PT": "心筋炎\r\n心膜炎",
+    "evaluated_PT": "心筋炎\n心膜炎",
     "evaluated_result": "γ γ",
     "brighton_classification": "2 4",
     "expert_opinion": "",
@@ -7396,7 +7466,7 @@
       "不明",
       "不明"
     ],
-    "evaluated_PT": "心筋炎\r\n心膜炎",
+    "evaluated_PT": "心筋炎\n心膜炎",
     "evaluated_result": "γ γ",
     "brighton_classification": "1 4",
     "expert_opinion": "",
@@ -7471,7 +7541,10 @@
     "lot_no": "FL1839",
     "vaccinated_times": "3回目",
     "pre_existing_disease_names": [
-      "心筋炎;\n持続的血液透析濾過;\n気管内挿管;\n肺補助デバイス治療"
+      "心筋炎",
+      "持続的血液透析濾過",
+      "気管内挿管",
+      "肺補助デバイス治療"
     ],
     "PT_names": [
       "心肺停止|心停止",
@@ -7600,7 +7673,7 @@
       "軽快",
       "軽快"
     ],
-    "evaluated_PT": "心筋炎\r\n心膜炎",
+    "evaluated_PT": "心筋炎\n心膜炎",
     "evaluated_result": "γ γ",
     "brighton_classification": "4 2",
     "expert_opinion": "",
@@ -7706,7 +7779,7 @@
       "不明",
       "軽快"
     ],
-    "evaluated_PT": "心膜炎\r\n心筋炎",
+    "evaluated_PT": "心膜炎\n心筋炎",
     "evaluated_result": "γ γ",
     "brighton_classification": "4 4",
     "expert_opinion": "",
@@ -7738,7 +7811,11 @@
     "lot_no": "FJ5929",
     "vaccinated_times": "3回目",
     "pre_existing_disease_names": [
-      "心血管障害;\n狭心症;\n脂質異常症;\n高脂血症;\n高血圧"
+      "心血管障害",
+      "狭心症",
+      "脂質異常症",
+      "高脂血症",
+      "高血圧"
     ],
     "PT_names": [
       "脳性ナトリウム利尿ペプチド増加",
@@ -7942,7 +8019,8 @@
     "lot_no": "FL7646",
     "vaccinated_times": "2回目",
     "pre_existing_disease_names": [
-      "アテトーゼ;\n心膜炎"
+      "アテトーゼ",
+      "心膜炎"
     ],
     "PT_names": [
       "心筋炎",
@@ -7965,7 +8043,7 @@
       "不明",
       "回復"
     ],
-    "evaluated_PT": "心膜炎\r\n心筋炎",
+    "evaluated_PT": "心膜炎\n心筋炎",
     "evaluated_result": "γ γ",
     "brighton_classification": "2 4",
     "expert_opinion": "",
@@ -7990,7 +8068,12 @@
     "lot_no": "ER9480",
     "vaccinated_times": "1回目",
     "pre_existing_disease_names": [
-      "便秘;\n心血管障害;\n胃炎;\n胃食道逆流性疾患;\n骨粗鬆症;\n高血圧"
+      "便秘",
+      "心血管障害",
+      "胃炎",
+      "胃食道逆流性疾患",
+      "骨粗鬆症",
+      "高血圧"
     ],
     "PT_names": [
       "心筋炎",
@@ -8086,7 +8169,7 @@
       "不明",
       "回復"
     ],
-    "evaluated_PT": "心筋炎\r\n心膜炎",
+    "evaluated_PT": "心筋炎\n心膜炎",
     "evaluated_result": "γ γ",
     "brighton_classification": "4 2",
     "expert_opinion": "",
@@ -8159,7 +8242,9 @@
     "lot_no": "FJ1763",
     "vaccinated_times": "2回目",
     "pre_existing_disease_names": [
-      "ダニアレルギー;\n小児喘息;\n結膜炎"
+      "ダニアレルギー",
+      "小児喘息",
+      "結膜炎"
     ],
     "PT_names": [
       "心筋炎",
@@ -8684,7 +8769,7 @@
       "回復",
       "回復"
     ],
-    "evaluated_PT": "心筋炎\r\n心膜炎",
+    "evaluated_PT": "心筋炎\n心膜炎",
     "evaluated_result": "γ γ",
     "brighton_classification": "4 4",
     "expert_opinion": "",
@@ -8716,7 +8801,14 @@
     "lot_no": "FL1116",
     "vaccinated_times": "3回目",
     "pre_existing_disease_names": [
-      "ヘリコバクター性胃炎;\n湿疹;\n糖尿病;\n胃炎;\n薬物過敏症;\n薬疹;\n高血圧;\n２型糖尿病"
+      "ヘリコバクター性胃炎",
+      "湿疹",
+      "糖尿病",
+      "胃炎",
+      "薬物過敏症",
+      "薬疹",
+      "高血圧",
+      "２型糖尿病"
     ],
     "PT_names": [
       "急性心筋梗塞|心筋梗塞",
@@ -8786,7 +8878,31 @@
     "lot_no": "FL7646",
     "vaccinated_times": "3回目",
     "pre_existing_disease_names": [
-      "しゃっくり;\nタバコ使用者;\n中心静脈カテーテル留置;\n体位性めまい;\n便秘;\n嘔吐;\n嚥下障害;\n多系統萎縮症;\n夜間頻尿;\n失神;\n心筋梗塞;\n息詰まり;\n構語障害;\n歩行障害;\n気管切開;\n痰貯留;\n神経因性膀胱;\n聴力低下;\n胃瘻造設術;\n脂質異常症;\n腎新生物;\n膀胱カテーテル留置;\n良性前立腺肥大症;\n誤嚥性肺炎;\n転倒"
+      "しゃっくり",
+      "タバコ使用者",
+      "中心静脈カテーテル留置",
+      "体位性めまい",
+      "便秘",
+      "嘔吐",
+      "嚥下障害",
+      "多系統萎縮症",
+      "夜間頻尿",
+      "失神",
+      "心筋梗塞",
+      "息詰まり",
+      "構語障害",
+      "歩行障害",
+      "気管切開",
+      "痰貯留",
+      "神経因性膀胱",
+      "聴力低下",
+      "胃瘻造設術",
+      "脂質異常症",
+      "腎新生物",
+      "膀胱カテーテル留置",
+      "良性前立腺肥大症",
+      "誤嚥性肺炎",
+      "転倒"
     ],
     "PT_names": [
       "突然死",
@@ -8933,7 +9049,9 @@
     "lot_no": "FP8795",
     "vaccinated_times": "3回目",
     "pre_existing_disease_names": [
-      "アレルギー性鼻炎;\n喘息;\n肥満"
+      "アレルギー性鼻炎",
+      "喘息",
+      "肥満"
     ],
     "PT_names": [
       "心筋炎",
@@ -9180,7 +9298,7 @@
       "不明",
       "不明"
     ],
-    "evaluated_PT": "心筋炎\r\n心膜炎",
+    "evaluated_PT": "心筋炎\n心膜炎",
     "evaluated_result": "γ γ",
     "brighton_classification": "1 1",
     "expert_opinion": "",
@@ -9338,7 +9456,7 @@
       "回復",
       "回復"
     ],
-    "evaluated_PT": "心筋炎\r\n心膜炎",
+    "evaluated_PT": "心筋炎\n心膜炎",
     "evaluated_result": "γ γ",
     "brighton_classification": "4 4",
     "expert_opinion": "",
@@ -9601,7 +9719,7 @@
       "回復",
       "回復"
     ],
-    "evaluated_PT": "心筋炎\r\n心膜炎",
+    "evaluated_PT": "心筋炎\n心膜炎",
     "evaluated_result": "γ γ",
     "brighton_classification": "4 4",
     "expert_opinion": "",
@@ -9674,7 +9792,8 @@
     "lot_no": "FP9647",
     "vaccinated_times": "3回目",
     "pre_existing_disease_names": [
-      "糖尿病;\n肥満"
+      "糖尿病",
+      "肥満"
     ],
     "PT_names": [
       "突然死",
@@ -9691,7 +9810,7 @@
       "死亡",
       "死亡"
     ],
-    "evaluated_PT": "心筋炎\r\n心膜炎",
+    "evaluated_PT": "心筋炎\n心膜炎",
     "evaluated_result": "γ γ",
     "brighton_classification": "4 4",
     "expert_opinion": "",
@@ -9758,7 +9877,7 @@
       "回復",
       "回復"
     ],
-    "evaluated_PT": "心筋炎\r\n心膜炎",
+    "evaluated_PT": "心筋炎\n心膜炎",
     "evaluated_result": "γ γ",
     "brighton_classification": "4 4",
     "expert_opinion": "",
@@ -9801,7 +9920,9 @@
     "lot_no": "FN9605",
     "vaccinated_times": "3回目",
     "pre_existing_disease_names": [
-      "アレルギー性鼻炎;\n喘息;\nＣＯＶＩＤ－１９"
+      "アレルギー性鼻炎",
+      "喘息",
+      "ＣＯＶＩＤ－１９"
     ],
     "PT_names": [
       "突然死",
@@ -9901,7 +10022,10 @@
     "lot_no": "FJ5929",
     "vaccinated_times": "3回目",
     "pre_existing_disease_names": [
-      "失神;\n胸腺癌;\n胸腺腫;\n脳卒中"
+      "失神",
+      "胸腺癌",
+      "胸腺腫",
+      "脳卒中"
     ],
     "PT_names": [
       "突然死",
@@ -9936,7 +10060,7 @@
       "不明",
       "不明"
     ],
-    "evaluated_PT": "心筋炎\r\n心膜炎",
+    "evaluated_PT": "心筋炎\n心膜炎",
     "evaluated_result": "γ γ",
     "brighton_classification": "1 1",
     "expert_opinion": "",
@@ -9983,7 +10107,7 @@
       "不明",
       "不明"
     ],
-    "evaluated_PT": "心筋炎\r\n心膜炎",
+    "evaluated_PT": "心筋炎\n心膜炎",
     "evaluated_result": "γ γ",
     "brighton_classification": "1 2",
     "expert_opinion": "",
@@ -10058,7 +10182,7 @@
       "回復",
       "回復"
     ],
-    "evaluated_PT": "心筋炎\r\n心膜炎",
+    "evaluated_PT": "心筋炎\n心膜炎",
     "evaluated_result": "γ γ",
     "brighton_classification": "4 4",
     "expert_opinion": "",
@@ -10189,7 +10313,8 @@
     "lot_no": "不明",
     "vaccinated_times": "3回目",
     "pre_existing_disease_names": [
-      "季節性アレルギー;\n片頭痛"
+      "季節性アレルギー",
+      "片頭痛"
     ],
     "PT_names": [
       "痙攣発作",
@@ -10478,7 +10603,7 @@
       "不明",
       "不明"
     ],
-    "evaluated_PT": "心筋炎\r\n心筋心膜炎",
+    "evaluated_PT": "心筋炎\n心筋心膜炎",
     "evaluated_result": "γ γ",
     "brighton_classification": "1 1",
     "expert_opinion": "心筋炎は自然発生することも知られている疾患であるため、ワクチンによる心筋炎なのか、ワクチンとは無関係に発生した心筋炎なのかを鑑別することは困難である。",
@@ -10517,7 +10642,11 @@
     "lot_no": "不明",
     "vaccinated_times": "3回目",
     "pre_existing_disease_names": [
-      "慢性腎臓病;\n浮腫;\n糖尿病;\n肥満;\n高血圧"
+      "慢性腎臓病",
+      "浮腫",
+      "糖尿病",
+      "肥満",
+      "高血圧"
     ],
     "PT_names": [
       "心筋炎",
@@ -10607,7 +10736,8 @@
     "lot_no": "不明",
     "vaccinated_times": "2回目",
     "pre_existing_disease_names": [
-      "糖尿病;\n高血圧"
+      "糖尿病",
+      "高血圧"
     ],
     "PT_names": [
       "心筋炎",
@@ -10774,7 +10904,7 @@
       "回復",
       "回復"
     ],
-    "evaluated_PT": "心筋炎\r\n心膜炎",
+    "evaluated_PT": "心筋炎\n心膜炎",
     "evaluated_result": "γ γ",
     "brighton_classification": "4 4",
     "expert_opinion": "",
@@ -10895,7 +11025,7 @@
       "回復",
       "回復"
     ],
-    "evaluated_PT": "心筋炎\r\n心膜炎\r\n心筋心膜炎",
+    "evaluated_PT": "心筋炎\n心膜炎\n心筋心膜炎",
     "evaluated_result": "γ γ γ",
     "brighton_classification": "4 2 4",
     "expert_opinion": "",
@@ -11019,7 +11149,8 @@
     "lot_no": "不明",
     "vaccinated_times": "1回目",
     "pre_existing_disease_names": [
-      "末梢動脈閉塞性疾患;\n高血圧"
+      "末梢動脈閉塞性疾患",
+      "高血圧"
     ],
     "PT_names": [
       "心室細動",
@@ -11192,7 +11323,9 @@
     "lot_no": "不明",
     "vaccinated_times": "2回目",
     "pre_existing_disease_names": [
-      "乳癌;\n癌手術;\n非タバコ使用者"
+      "乳癌",
+      "癌手術",
+      "非タバコ使用者"
     ],
     "PT_names": [
       "心筋炎",
@@ -11275,7 +11408,7 @@
       "不明",
       "不明"
     ],
-    "evaluated_PT": "心筋炎\r\n心膜炎",
+    "evaluated_PT": "心筋炎\n心膜炎",
     "evaluated_result": "γ γ",
     "brighton_classification": "4 4",
     "expert_opinion": "",
@@ -11432,7 +11565,9 @@
     "lot_no": "FM3289",
     "vaccinated_times": "3回目",
     "pre_existing_disease_names": [
-      "心筋梗塞;\n慢性心不全;\n慢性腎臓病"
+      "心筋梗塞",
+      "慢性心不全",
+      "慢性腎臓病"
     ],
     "PT_names": [
       "心筋炎",
@@ -11711,7 +11846,7 @@
       "不明",
       "不明"
     ],
-    "evaluated_PT": "心筋炎\r\n心膜炎",
+    "evaluated_PT": "心筋炎\n心膜炎",
     "evaluated_result": "γ γ",
     "brighton_classification": "4 4",
     "expert_opinion": "",
@@ -11967,7 +12102,7 @@
       "軽快",
       "軽快"
     ],
-    "evaluated_PT": "心筋炎\r\n心筋心膜炎\r\n心膜炎",
+    "evaluated_PT": "心筋炎\n心筋心膜炎\n心膜炎",
     "evaluated_result": "γ γ γ",
     "brighton_classification": "1 1 2",
     "expert_opinion": "",
@@ -12030,7 +12165,8 @@
     "lot_no": "不明",
     "vaccinated_times": "1回目",
     "pre_existing_disease_names": [
-      "喘息;\n肺腫瘤"
+      "喘息",
+      "肺腫瘤"
     ],
     "PT_names": [
       "心筋炎",
@@ -12352,7 +12488,7 @@
       "軽快",
       "回復"
     ],
-    "evaluated_PT": "好酸球性心筋炎\r\n心筋炎",
+    "evaluated_PT": "好酸球性心筋炎\n心筋炎",
     "evaluated_result": "γ γ",
     "brighton_classification": "1 1",
     "expert_opinion": "心筋炎と好酸球性心筋炎は、事象としては同一である。",
@@ -12652,7 +12788,8 @@
     "lot_no": "不明",
     "vaccinated_times": "4回目",
     "pre_existing_disease_names": [
-      "そう痒症;\nてんかん"
+      "そう痒症",
+      "てんかん"
     ],
     "PT_names": [
       "心原性ショック",
@@ -12732,7 +12869,9 @@
     "lot_no": "FP9654",
     "vaccinated_times": "4回目",
     "pre_existing_disease_names": [
-      "強皮症;\n自己免疫障害;\n骨粗鬆症"
+      "強皮症",
+      "自己免疫障害",
+      "骨粗鬆症"
     ],
     "PT_names": [
       "心肺停止",
@@ -12858,7 +12997,9 @@
     "lot_no": "不明",
     "vaccinated_times": "4回目",
     "pre_existing_disease_names": [
-      "胸腺腫;\n腰部脊柱管狭窄症;\n関節リウマチ"
+      "胸腺腫",
+      "腰部脊柱管狭窄症",
+      "関節リウマチ"
     ],
     "PT_names": [
       "ワクチンの互換",
@@ -12997,7 +13138,12 @@
     "lot_no": "不明",
     "vaccinated_times": "2回目",
     "pre_existing_disease_names": [
-      "そう痒症;\nアトピー性皮膚炎;\n心臓ペースメーカー挿入;\n糖尿病;\n肥満;\n高血圧"
+      "そう痒症",
+      "アトピー性皮膚炎",
+      "心臓ペースメーカー挿入",
+      "糖尿病",
+      "肥満",
+      "高血圧"
     ],
     "PT_names": [
       "心筋炎",
@@ -13136,7 +13282,7 @@
       "回復",
       "回復"
     ],
-    "evaluated_PT": "心筋炎\r\n心膜炎",
+    "evaluated_PT": "心筋炎\n心膜炎",
     "evaluated_result": "γ γ",
     "brighton_classification": "4 4",
     "expert_opinion": "",
@@ -13162,7 +13308,10 @@
     "lot_no": "FR1790",
     "vaccinated_times": "3回目",
     "pre_existing_disease_names": [
-      "ダニアレルギー;\n入院;\n心筋心膜炎;\n食物アレルギー"
+      "ダニアレルギー",
+      "入院",
+      "心筋心膜炎",
+      "食物アレルギー"
     ],
     "PT_names": [
       "心筋心膜炎|心筋炎",
@@ -13179,7 +13328,7 @@
       "回復",
       "回復"
     ],
-    "evaluated_PT": "心筋炎\r\n心筋心膜炎",
+    "evaluated_PT": "心筋炎\n心筋心膜炎",
     "evaluated_result": "γ γ",
     "brighton_classification": "4 4",
     "expert_opinion": "",
@@ -13262,7 +13411,13 @@
     "lot_no": "不明",
     "vaccinated_times": "3回目",
     "pre_existing_disease_names": [
-      "喘息;\n心不全;\n慢性腎臓病;\n糖尿病;\n肥満;\n自己免疫障害;\n駆出率減少"
+      "喘息",
+      "心不全",
+      "慢性腎臓病",
+      "糖尿病",
+      "肥満",
+      "自己免疫障害",
+      "駆出率減少"
     ],
     "PT_names": [
       "心筋炎",
@@ -13383,7 +13538,12 @@
     "lot_no": "FN9605",
     "vaccinated_times": "4回目",
     "pre_existing_disease_names": [
-      "不眠症;\n多発ニューロパチー;\n状態悪化;\n皮膚筋炎;\n自己免疫障害;\n間質性肺疾患"
+      "不眠症",
+      "多発ニューロパチー",
+      "状態悪化",
+      "皮膚筋炎",
+      "自己免疫障害",
+      "間質性肺疾患"
     ],
     "PT_names": [
       "突然死",
@@ -13442,7 +13602,7 @@
       "回復",
       "回復"
     ],
-    "evaluated_PT": "心筋炎\r\n心膜炎\r\n心筋心膜炎",
+    "evaluated_PT": "心筋炎\n心膜炎\n心筋心膜炎",
     "evaluated_result": "γ γ γ",
     "brighton_classification": "1 2 1",
     "expert_opinion": "",
@@ -13471,7 +13631,8 @@
     "lot_no": "FJ1763",
     "vaccinated_times": "1回目",
     "pre_existing_disease_names": [
-      "アトピー性皮膚炎;\nＣＯＶＩＤ－１９"
+      "アトピー性皮膚炎",
+      "ＣＯＶＩＤ－１９"
     ],
     "PT_names": [
       "心筋炎",
@@ -13633,7 +13794,8 @@
     "lot_no": "FM7534",
     "vaccinated_times": "3回目",
     "pre_existing_disease_names": [
-      "肥満;\n自閉症スペクトラム障害"
+      "肥満",
+      "自閉症スペクトラム障害"
     ],
     "PT_names": [
       "発熱",
@@ -13771,7 +13933,7 @@
     "gross_results": [
       "回復"
     ],
-    "evaluated_PT": "心筋炎\r\n心筋心膜炎",
+    "evaluated_PT": "心筋炎\n心筋心膜炎",
     "evaluated_result": "γ γ",
     "brighton_classification": "2 2",
     "expert_opinion": "",
@@ -14032,7 +14194,13 @@
     "lot_no": "不明",
     "vaccinated_times": "4回目",
     "pre_existing_disease_names": [
-      "マイコバクテリウム・アビウム\nコンプレックス感染;\n前立腺癌;\n硬膜下血腫;\n糖尿病;\n肺炎;\n間質性肺疾患;\n高血圧"
+      "マイコバクテリウム・アビウム\nコンプレックス感染",
+      "前立腺癌",
+      "硬膜下血腫",
+      "糖尿病",
+      "肺炎",
+      "間質性肺疾患",
+      "高血圧"
     ],
     "PT_names": [
       "突然死",
@@ -14425,7 +14593,7 @@
       "不明",
       "不明"
     ],
-    "evaluated_PT": "心筋炎\r\n心筋炎",
+    "evaluated_PT": "心筋炎\n心筋炎",
     "evaluated_result": "γ γ",
     "brighton_classification": "1 1",
     "expert_opinion": "肺と顎下腺よりパルボウイルスB19が検出されたが、心筋の情報は不明。剖検報告に心筋繊維の萎縮とあるが、萎縮が数日で発生するかは疑問。ただし、別の事象をこう表現している可能性もある。",
@@ -14540,7 +14708,9 @@
     "lot_no": "不明",
     "vaccinated_times": "1回目",
     "pre_existing_disease_names": [
-      "肺気腫;\n食道手術;\n食道癌"
+      "肺気腫",
+      "食道手術",
+      "食道癌"
     ],
     "PT_names": [
       "突然死",
@@ -14592,7 +14762,8 @@
     "lot_no": "不明",
     "vaccinated_times": "3回目",
     "pre_existing_disease_names": [
-      "不整脈;\n動悸"
+      "不整脈",
+      "動悸"
     ],
     "PT_names": [
       "心筋炎",
@@ -14699,7 +14870,7 @@
       "不明",
       "不明"
     ],
-    "evaluated_PT": "心筋炎\r\n心膜炎",
+    "evaluated_PT": "心筋炎\n心膜炎",
     "evaluated_result": "γ γ",
     "brighton_classification": "4 4",
     "expert_opinion": "",
@@ -14801,7 +14972,8 @@
     "lot_no": "FN2726",
     "vaccinated_times": "4回目",
     "pre_existing_disease_names": [
-      "高脂血症;\n高血圧"
+      "高脂血症",
+      "高血圧"
     ],
     "PT_names": [
       "肺炎",
@@ -15088,7 +15260,9 @@
     "lot_no": "不明",
     "vaccinated_times": "2回目",
     "pre_existing_disease_names": [
-      "ヘノッホ・シェーンライン紫斑\n病;\n発熱;\n胸痛"
+      "ヘノッホ・シェーンライン紫斑\n病",
+      "発熱",
+      "胸痛"
     ],
     "PT_names": [
       "心筋炎",
@@ -15285,7 +15459,8 @@
     "lot_no": "FC3661",
     "vaccinated_times": "1回目",
     "pre_existing_disease_names": [
-      "癌手術;\n肺の悪性新生物"
+      "癌手術",
+      "肺の悪性新生物"
     ],
     "PT_names": [
       "胸痛",
@@ -15389,7 +15564,8 @@
     "lot_no": "不明",
     "vaccinated_times": "1回目",
     "pre_existing_disease_names": [
-      "本態性高血圧症;\n２型糖尿病"
+      "本態性高血圧症",
+      "２型糖尿病"
     ],
     "PT_names": [
       "完全房室ブロック",
@@ -15575,7 +15751,7 @@
       "不明",
       "不明"
     ],
-    "evaluated_PT": "心筋炎\r\n心膜炎",
+    "evaluated_PT": "心筋炎\n心膜炎",
     "evaluated_result": "γ γ",
     "brighton_classification": "4 4",
     "expert_opinion": "",
@@ -15649,7 +15825,8 @@
     "lot_no": "FK6302",
     "vaccinated_times": "3回目",
     "pre_existing_disease_names": [
-      "心不全;\n心血管障害"
+      "心不全",
+      "心血管障害"
     ],
     "PT_names": [
       "多臓器機能不全症候群",
@@ -15705,7 +15882,8 @@
     "lot_no": "FP9654",
     "vaccinated_times": "3回目",
     "pre_existing_disease_names": [
-      "全身健康状態正常;\n起立不耐性"
+      "全身健康状態正常",
+      "起立不耐性"
     ],
     "PT_names": [
       "突然死",
@@ -15752,7 +15930,7 @@
       "不明",
       "不明"
     ],
-    "evaluated_PT": "心筋炎\r\n心筋心膜炎\r\n心膜炎",
+    "evaluated_PT": "心筋炎\n心筋心膜炎\n心膜炎",
     "evaluated_result": "α α γ",
     "brighton_classification": "1 1 1",
     "expert_opinion": "",
@@ -15899,7 +16077,10 @@
     "lot_no": "FN2723",
     "vaccinated_times": "3回目",
     "pre_existing_disease_names": [
-      "ベッカー型筋ジストロフィー;\n心不全;\n適応障害;\n食物アレルギー"
+      "ベッカー型筋ジストロフィー",
+      "心不全",
+      "適応障害",
+      "食物アレルギー"
     ],
     "PT_names": [
       "心筋炎",
@@ -15968,7 +16149,7 @@
       "回復",
       "回復"
     ],
-    "evaluated_PT": "心筋炎\r\n心膜炎",
+    "evaluated_PT": "心筋炎\n心膜炎",
     "evaluated_result": "γ γ",
     "brighton_classification": "1 4",
     "expert_opinion": "",
@@ -16211,7 +16392,9 @@
     "lot_no": "不明",
     "vaccinated_times": "4回目",
     "pre_existing_disease_names": [
-      "治療食;\n肥満;\n高血圧"
+      "治療食",
+      "肥満",
+      "高血圧"
     ],
     "PT_names": [
       "心筋炎",
@@ -16359,7 +16542,7 @@
       "回復",
       "回復"
     ],
-    "evaluated_PT": "心筋炎\r\n心膜炎",
+    "evaluated_PT": "心筋炎\n心膜炎",
     "evaluated_result": "γ γ",
     "brighton_classification": "4 2",
     "expert_opinion": "心筋炎及び心膜炎に関しては市中感染症などを契機として自然発生することが知られている疾患であり、ワクチンによる心筋炎・心膜炎なのか、ワクチンとは関係の無い自然発生した心筋炎・心膜炎なのかを判別することは困難である。",
@@ -16426,7 +16609,7 @@
       "不明",
       "不明"
     ],
-    "evaluated_PT": "心筋炎\r\n心膜炎",
+    "evaluated_PT": "心筋炎\n心膜炎",
     "evaluated_result": "γ γ",
     "brighton_classification": "4 2",
     "expert_opinion": "心筋炎と診断するには情報が少なく、困難である。また、心膜炎に関しては、自覚症状および心膜液貯留を認め、その可能性が高い。心筋炎・心筋炎は市中感染症などを契機として自然発生することが知られている疾患であり、ワクチンによるものなのか、ワクチンとは関係の無い自然発生したものなのかを判別することは困難である。以上から、ワクチンとの因果関係を有と判断することはできないと考えた。",
@@ -16452,7 +16635,9 @@
     "lot_no": "EY5420",
     "vaccinated_times": "2回目",
     "pre_existing_disease_names": [
-      "糖尿病;\n胃食道逆流性疾患;\n良性前立腺肥大症"
+      "糖尿病",
+      "胃食道逆流性疾患",
+      "良性前立腺肥大症"
     ],
     "PT_names": [
       "心肺停止|心停止",
@@ -16506,7 +16691,9 @@
     "lot_no": "不明",
     "vaccinated_times": "4回目",
     "pre_existing_disease_names": [
-      "脂質異常症;\n高尿酸血症;\n高血圧"
+      "脂質異常症",
+      "高尿酸血症",
+      "高血圧"
     ],
     "PT_names": [
       "心肺停止|心停止",
@@ -16580,7 +16767,13 @@
     "lot_no": "不明",
     "vaccinated_times": "1回目",
     "pre_existing_disease_names": [
-      "心不全;\n心筋炎;\n植込み型除細動器挿入;\n機械的換気;\n注意欠如・多動性障害;\n肺補助デバイス治療;\nＣＯＶＩＤ－１９"
+      "心不全",
+      "心筋炎",
+      "植込み型除細動器挿入",
+      "機械的換気",
+      "注意欠如・多動性障害",
+      "肺補助デバイス治療",
+      "ＣＯＶＩＤ－１９"
     ],
     "PT_names": [
       "心筋炎"
@@ -16799,7 +16992,7 @@
       "軽快",
       "回復"
     ],
-    "evaluated_PT": "心筋炎\r\n心膜炎",
+    "evaluated_PT": "心筋炎\n心膜炎",
     "evaluated_result": "γ γ",
     "brighton_classification": "3 2",
     "expert_opinion": "",
@@ -16824,7 +17017,10 @@
     "lot_no": "不明",
     "vaccinated_times": "3回目",
     "pre_existing_disease_names": [
-      "発育遅延;\n起立性低血圧;\n非タバコ使用者;\n食物アレルギー"
+      "発育遅延",
+      "起立性低血圧",
+      "非タバコ使用者",
+      "食物アレルギー"
     ],
     "PT_names": [
       "心筋心膜炎",
@@ -17148,7 +17344,8 @@
     "lot_no": "FM3289",
     "vaccinated_times": "3回目",
     "pre_existing_disease_names": [
-      "胃癌;\n高血圧"
+      "胃癌",
+      "高血圧"
     ],
     "PT_names": [
       "心筋炎",
@@ -17436,7 +17633,7 @@
       "回復",
       "回復"
     ],
-    "evaluated_PT": "心筋炎\r\n心膜炎",
+    "evaluated_PT": "心筋炎\n心膜炎",
     "evaluated_result": "γ γ",
     "brighton_classification": "1 4",
     "expert_opinion": "",
@@ -17575,7 +17772,10 @@
     "lot_no": "不明",
     "vaccinated_times": "5回目",
     "pre_existing_disease_names": [
-      "上室性頻脈;\n心拍数異常;\n悪性新生物;\n骨髄異形成症候群"
+      "上室性頻脈",
+      "心拍数異常",
+      "悪性新生物",
+      "骨髄異形成症候群"
     ],
     "PT_names": [
       "心肺停止|心停止",
@@ -18015,7 +18215,9 @@
     "lot_no": "不明",
     "vaccinated_times": "1回目",
     "pre_existing_disease_names": [
-      "ヘノッホ・シェーンライン紫斑\n病;\n呼吸困難;\n自己免疫障害"
+      "ヘノッホ・シェーンライン紫斑\n病",
+      "呼吸困難",
+      "自己免疫障害"
     ],
     "PT_names": [
       "心筋炎",
@@ -18220,7 +18422,9 @@
     "lot_no": "不明",
     "vaccinated_times": "2回目",
     "pre_existing_disease_names": [
-      "タバコ使用者;\n喘息;\n肥満"
+      "タバコ使用者",
+      "喘息",
+      "肥満"
     ],
     "PT_names": [
       "心筋炎"
@@ -18255,7 +18459,8 @@
     "lot_no": "不明",
     "vaccinated_times": "2回目",
     "pre_existing_disease_names": [
-      "タバコ使用者;\n季節性アレルギー"
+      "タバコ使用者",
+      "季節性アレルギー"
     ],
     "PT_names": [
       "心筋炎"
@@ -18394,7 +18599,8 @@
     "lot_no": "EY0573",
     "vaccinated_times": "2回目",
     "pre_existing_disease_names": [
-      "うつ病;\n注意欠如・多動性障害"
+      "うつ病",
+      "注意欠如・多動性障害"
     ],
     "PT_names": [
       "心筋炎",
@@ -18529,7 +18735,8 @@
     "lot_no": "不明",
     "vaccinated_times": "2回目",
     "pre_existing_disease_names": [
-      "禁酒;\n非タバコ使用者"
+      "禁酒",
+      "非タバコ使用者"
     ],
     "PT_names": [
       "心筋炎"
@@ -18647,7 +18854,9 @@
     "lot_no": "GD9568",
     "vaccinated_times": "4回目",
     "pre_existing_disease_names": [
-      "子宮障害;\n骨折;\n骨粗鬆症"
+      "子宮障害",
+      "骨折",
+      "骨粗鬆症"
     ],
     "PT_names": [
       "心肺停止",
@@ -18673,7 +18882,7 @@
       "軽快",
       "軽快"
     ],
-    "evaluated_PT": "好酸球性心筋炎\r\n心筋炎",
+    "evaluated_PT": "好酸球性心筋炎\n心筋炎",
     "evaluated_result": "γ γ",
     "brighton_classification": "1 1",
     "expert_opinion": "",
@@ -18741,7 +18950,17 @@
     "lot_no": "不明",
     "vaccinated_times": "6回目",
     "pre_existing_disease_names": [
-      "上室性期外収縮;\n不整脈;\n僧帽弁閉鎖不全症;\n動悸;\n外科手術;\n心不全;\n心臓弁膜疾患;\n結腸癌;\n非タバコ使用者;\n高脂血症;\n高血圧"
+      "上室性期外収縮",
+      "不整脈",
+      "僧帽弁閉鎖不全症",
+      "動悸",
+      "外科手術",
+      "心不全",
+      "心臓弁膜疾患",
+      "結腸癌",
+      "非タバコ使用者",
+      "高脂血症",
+      "高血圧"
     ],
     "PT_names": [
       "心筋炎",
@@ -18779,7 +18998,7 @@
       "軽快",
       "回復"
     ],
-    "evaluated_PT": "心筋炎\r\n心膜炎",
+    "evaluated_PT": "心筋炎\n心膜炎",
     "evaluated_result": "γ γ",
     "brighton_classification": "4 4",
     "expert_opinion": "",
@@ -18803,7 +19022,11 @@
     "lot_no": "不明",
     "vaccinated_times": "6回目",
     "pre_existing_disease_names": [
-      "レイノー現象;\n全身性強皮症;\n疼痛;\n胃潰瘍;\n間質性肺疾患"
+      "レイノー現象",
+      "全身性強皮症",
+      "疼痛",
+      "胃潰瘍",
+      "間質性肺疾患"
     ],
     "PT_names": [
       "心筋炎"
@@ -18996,7 +19219,8 @@
     "lot_no": "GJ7139",
     "vaccinated_times": "4回目",
     "pre_existing_disease_names": [
-      "季節性アレルギー;\n発育遅延"
+      "季節性アレルギー",
+      "発育遅延"
     ],
     "PT_names": [
       "圧痛",
@@ -19258,7 +19482,14 @@
     "lot_no": "GJ2674",
     "vaccinated_times": "5回目",
     "pre_existing_disease_names": [
-      "アルツハイマー型認知症;\n便秘;\n変形性関節症;\n潰瘍性大腸炎;\n神経痛;\n胃食道逆流性疾患;\n脊椎靱帯骨化症;\n高血圧"
+      "アルツハイマー型認知症",
+      "便秘",
+      "変形性関節症",
+      "潰瘍性大腸炎",
+      "神経痛",
+      "胃食道逆流性疾患",
+      "脊椎靱帯骨化症",
+      "高血圧"
     ],
     "PT_names": [
       "心筋炎",
@@ -19381,7 +19612,9 @@
     "lot_no": "GJ1852",
     "vaccinated_times": "5回目",
     "pre_existing_disease_names": [
-      "糖尿病;\n高尿酸血症;\n高血圧"
+      "糖尿病",
+      "高尿酸血症",
+      "高血圧"
     ],
     "PT_names": [
       "心肺停止|心停止",
@@ -19542,7 +19775,8 @@
     "lot_no": "GJ9259",
     "vaccinated_times": "5回目",
     "pre_existing_disease_names": [
-      "肥満;\n認知症"
+      "肥満",
+      "認知症"
     ],
     "PT_names": [
       "心筋炎",
@@ -19719,7 +19953,7 @@
       "回復",
       "回復"
     ],
-    "evaluated_PT": "心筋炎\r\n心筋心膜炎",
+    "evaluated_PT": "心筋炎\n心筋心膜炎",
     "evaluated_result": "γ γ",
     "brighton_classification": "4 4",
     "expert_opinion": "",
@@ -19750,7 +19984,10 @@
     "lot_no": "GJ2675",
     "vaccinated_times": "5回目",
     "pre_existing_disease_names": [
-      "心筋梗塞;\n経皮的冠インターベンション;\n腎硬化症;\n透析"
+      "心筋梗塞",
+      "経皮的冠インターベンション",
+      "腎硬化症",
+      "透析"
     ],
     "PT_names": [
       "心停止|心肺停止",
@@ -19813,7 +20050,9 @@
     "lot_no": "GJ7141",
     "vaccinated_times": "5回目",
     "pre_existing_disease_names": [
-      "心拡大;\n慢性心不全;\n胸水"
+      "心拡大",
+      "慢性心不全",
+      "胸水"
     ],
     "PT_names": [
       "右脚ブロック",
@@ -19875,7 +20114,14 @@
     "lot_no": "GJ1857",
     "vaccinated_times": "5回目",
     "pre_existing_disease_names": [
-      "心障害;\n末梢性ニューロパチー;\n痛風;\n睡眠障害;\n胃炎;\n脳梗塞;\n高脂血症;\n高血圧"
+      "心障害",
+      "末梢性ニューロパチー",
+      "痛風",
+      "睡眠障害",
+      "胃炎",
+      "脳梗塞",
+      "高脂血症",
+      "高血圧"
     ],
     "PT_names": [
       "脳梗塞",
@@ -20147,7 +20393,10 @@
     "lot_no": "不明",
     "vaccinated_times": "5回目",
     "pre_existing_disease_names": [
-      "入院;\n左室機能不全;\n心不全;\n高血圧"
+      "入院",
+      "左室機能不全",
+      "心不全",
+      "高血圧"
     ],
     "PT_names": [
       "サイトカインストーム",
@@ -20195,7 +20444,12 @@
     "lot_no": "GL1585",
     "vaccinated_times": "5回目",
     "pre_existing_disease_names": [
-      "アルコール摂取;\nタバコ使用者;\n冠動脈バイパス;\n大腸ポリープ切除;\n急性冠動脈症候群;\n結腸直腸腺腫"
+      "アルコール摂取",
+      "タバコ使用者",
+      "冠動脈バイパス",
+      "大腸ポリープ切除",
+      "急性冠動脈症候群",
+      "結腸直腸腺腫"
     ],
     "PT_names": [
       "心筋炎",
@@ -20227,7 +20481,7 @@
       "後遺症あり",
       "不明"
     ],
-    "evaluated_PT": "心筋炎\r\n心膜炎",
+    "evaluated_PT": "心筋炎\n心膜炎",
     "evaluated_result": "γ γ",
     "brighton_classification": "4 4",
     "expert_opinion": "",

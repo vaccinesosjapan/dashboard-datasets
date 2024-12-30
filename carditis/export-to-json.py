@@ -35,7 +35,7 @@ s2 = s1.str.replace('\r\n', '\n').str.split('\n')
 # %%
 # 改行を除去して配列にする処理
 df.loc[:, 'onset_dates'] = df['onset_dates'].str.replace(' ', '').str.replace('\r\n', '\n').str.split('\n')
-df.loc[:, 'pre_existing_disease_names'] = df['pre_existing_disease_names'].str.replace(' ', '').str.replace('\r\n', '\n').str.split('; \n')
+df.loc[:, 'pre_existing_disease_names'] = df['pre_existing_disease_names'].str.replace(' ', '').str.replace('\r\n', '\n').str.split(';\n')
 df.loc[:, 'gross_result_dates'] = df['gross_result_dates'].str.replace(' ', '').str.replace('\r\n', '\n').str.split('\n')
 df.loc[:, 'gross_results'] = df['gross_results'].str.replace(' ', '').str.replace('\r\n', '\n').str.split('\n')
 df.loc[:, 'evaluated_PT'] = df['evaluated_PT'].str.replace('\r\n', '\n')

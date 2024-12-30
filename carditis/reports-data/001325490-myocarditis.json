@@ -343,7 +343,11 @@
     "lot_no": "不明",
     "vaccinated_times": "1回目",
     "pre_existing_disease_names": [
-      "糖尿病;\n糖尿病性腎症;\n糖尿病網膜症;\n脂質異常症;\n高血圧"
+      "糖尿病",
+      "糖尿病性腎症",
+      "糖尿病網膜症",
+      "脂質異常症",
+      "高血圧"
     ],
     "PT_names": [
       "心筋炎",
@@ -761,7 +765,9 @@
     "lot_no": "不明\n不明",
     "vaccinated_times": "1回目\n2回目",
     "pre_existing_disease_names": [
-      "季節性アレルギー;\n心障害;\n糖尿病"
+      "季節性アレルギー",
+      "心障害",
+      "糖尿病"
     ],
     "PT_names": [
       "心筋炎",
@@ -980,7 +986,8 @@
     "lot_no": "3005685\n不明",
     "vaccinated_times": "2回目\n1回目",
     "pre_existing_disease_names": [
-      "痛風;\n睡眠時無呼吸症候群"
+      "痛風",
+      "睡眠時無呼吸症候群"
     ],
     "PT_names": [
       "心筋炎",
@@ -1665,7 +1672,9 @@
     "lot_no": "3005839\n3006278",
     "vaccinated_times": "1回目\n2回目",
     "pre_existing_disease_names": [
-      "うつ病;\n盲腸手術;\n虫垂炎"
+      "うつ病",
+      "盲腸手術",
+      "虫垂炎"
     ],
     "PT_names": [
       "心筋心膜炎",
@@ -2010,7 +2019,8 @@
     "lot_no": "000020A",
     "vaccinated_times": "3回目",
     "pre_existing_disease_names": [
-      "うつ病;\n２型糖尿病"
+      "うつ病",
+      "２型糖尿病"
     ],
     "PT_names": [
       "悪性症候群",
@@ -2083,7 +2093,8 @@
     "lot_no": "不明\n不明",
     "vaccinated_times": "2回目\n1回目",
     "pre_existing_disease_names": [
-      "糖尿病;\n虫垂炎"
+      "糖尿病",
+      "虫垂炎"
     ],
     "PT_names": [
       "心筋炎",
@@ -2192,7 +2203,12 @@
     "lot_no": "不明",
     "vaccinated_times": "3回目",
     "pre_existing_disease_names": [
-      "メニエール病;\n知的能力障害;\n突発性難聴;\n肺動脈弁狭窄;\n血尿;\n近視"
+      "メニエール病",
+      "知的能力障害",
+      "突発性難聴",
+      "肺動脈弁狭窄",
+      "血尿",
+      "近視"
     ],
     "PT_names": [
       "心筋炎",
@@ -2273,7 +2289,17 @@
     "lot_no": "不明",
     "vaccinated_times": "3回目",
     "pre_existing_disease_names": [
-      "アレルギー性鼻炎;\nフォンタン手術;\n上室性期外収縮;\n口腔咽頭痛;\n大静脈肺動脈吻合;\n心室性期外収縮;\n神経症;\n肺動脈閉鎖;\n胸痛;\n血管シャント;\n食物アレルギー"
+      "アレルギー性鼻炎",
+      "フォンタン手術",
+      "上室性期外収縮",
+      "口腔咽頭痛",
+      "大静脈肺動脈吻合",
+      "心室性期外収縮",
+      "神経症",
+      "肺動脈閉鎖",
+      "胸痛",
+      "血管シャント",
+      "食物アレルギー"
     ],
     "PT_names": [
       "心筋心膜炎"
@@ -2309,7 +2335,8 @@
     "lot_no": "不明",
     "vaccinated_times": "3回目",
     "pre_existing_disease_names": [
-      "アトピー;\n骨折"
+      "アトピー",
+      "骨折"
     ],
     "PT_names": [
       "糖尿病",
@@ -2483,7 +2510,8 @@
     "lot_no": "不明",
     "vaccinated_times": "3回目",
     "pre_existing_disease_names": [
-      "アトピー性皮膚炎;\n喘息"
+      "アトピー性皮膚炎",
+      "喘息"
     ],
     "PT_names": [
       "心筋炎"
@@ -2556,7 +2584,13 @@
     "lot_no": "3004230\n3005292",
     "vaccinated_times": "1回目\n2回目",
     "pre_existing_disease_names": [
-      "ダニアレルギー;\n子宮平滑筋腫;\n季節性アレルギー;\n小児喘息;\n植物アレルギー;\n食物アレルギー;\n高血圧"
+      "ダニアレルギー",
+      "子宮平滑筋腫",
+      "季節性アレルギー",
+      "小児喘息",
+      "植物アレルギー",
+      "食物アレルギー",
+      "高血圧"
     ],
     "PT_names": [
       "うっ血性心不全",
@@ -2760,7 +2794,8 @@
     "lot_no": "不明\n不明\n不明",
     "vaccinated_times": "1回目\n2回目\n3回目",
     "pre_existing_disease_names": [
-      "季節性アレルギー;\n鼡径部膿瘍"
+      "季節性アレルギー",
+      "鼡径部膿瘍"
     ],
     "PT_names": [
       "心筋炎",
@@ -3208,7 +3243,17 @@
     "lot_no": "3004228\n3005239",
     "vaccinated_times": "1回目\n2回目",
     "pre_existing_disease_names": [
-      "アルコール症;\nパーキンソン病;\nレム睡眠行動障害;\n喘息;\n脂肪肝;\n脂質異常症;\n頻脈;\n食道炎;\n高尿酸血症;\n高血圧;\n２型糖尿病"
+      "アルコール症",
+      "パーキンソン病",
+      "レム睡眠行動障害",
+      "喘息",
+      "脂肪肝",
+      "脂質異常症",
+      "頻脈",
+      "食道炎",
+      "高尿酸血症",
+      "高血圧",
+      "２型糖尿病"
     ],
     "PT_names": [
       "心停止",
@@ -3423,7 +3468,8 @@
     "lot_no": "不明",
     "vaccinated_times": "3回目",
     "pre_existing_disease_names": [
-      "肥満;\n自閉症スペクトラム障害"
+      "肥満",
+      "自閉症スペクトラム障害"
     ],
     "PT_names": [
       "心筋炎"
@@ -3458,7 +3504,8 @@
     "lot_no": "不明",
     "vaccinated_times": "3回目",
     "pre_existing_disease_names": [
-      "心筋梗塞;\n狭心症"
+      "心筋梗塞",
+      "狭心症"
     ],
     "PT_names": [
       "心筋炎"
@@ -3536,7 +3583,8 @@
     "lot_no": "000025A",
     "vaccinated_times": "3回目",
     "pre_existing_disease_names": [
-      "アトピー性皮膚炎;\nウイルス性心筋炎"
+      "アトピー性皮膚炎",
+      "ウイルス性心筋炎"
     ],
     "PT_names": [
       "心筋炎"
@@ -3645,7 +3693,9 @@
     "lot_no": "000049A",
     "vaccinated_times": "3回目",
     "pre_existing_disease_names": [
-      "虚血性大腸炎;\n高尿酸血症;\n高血圧"
+      "虚血性大腸炎",
+      "高尿酸血症",
+      "高血圧"
     ],
     "PT_names": [
       "心筋炎",
@@ -3906,7 +3956,9 @@
     "lot_no": "不明\n不明",
     "vaccinated_times": "1回目\n1回目",
     "pre_existing_disease_names": [
-      "ダニアレルギー;\n周期性嘔吐症候群;\n季節性アレルギー"
+      "ダニアレルギー",
+      "周期性嘔吐症候群",
+      "季節性アレルギー"
     ],
     "PT_names": [
       "心筋炎",
@@ -5142,7 +5194,8 @@
     "lot_no": "不明",
     "vaccinated_times": "3回目",
     "pre_existing_disease_names": [
-      "喘息;\n小児喘息"
+      "喘息",
+      "小児喘息"
     ],
     "PT_names": [
       "心筋炎",
@@ -5848,7 +5901,8 @@
     "lot_no": "000278A",
     "vaccinated_times": "3回目",
     "pre_existing_disease_names": [
-      "尿管結石症;\n痛風"
+      "尿管結石症",
+      "痛風"
     ],
     "PT_names": [
       "心筋炎",
@@ -6009,7 +6063,9 @@
     "lot_no": "不明",
     "vaccinated_times": "1回目",
     "pre_existing_disease_names": [
-      "大動脈硬化症;\n心筋梗塞;\n糖尿病性腎症"
+      "大動脈硬化症",
+      "心筋梗塞",
+      "糖尿病性腎症"
     ],
     "PT_names": [
       "心筋炎",
@@ -6127,7 +6183,17 @@
     "lot_no": "000277A",
     "vaccinated_times": "4回目",
     "pre_existing_disease_names": [
-      "うっ血性心不全;\nタバコ使用者;\n喘息;\n好酸球増加症候群;\n心室性頻脈;\n心筋梗塞;\n慢性腎臓病;\n糖尿病;\n糖尿病性脂質異常症;\n肝炎;\n脂質異常症"
+      "うっ血性心不全",
+      "タバコ使用者",
+      "喘息",
+      "好酸球増加症候群",
+      "心室性頻脈",
+      "心筋梗塞",
+      "慢性腎臓病",
+      "糖尿病",
+      "糖尿病性脂質異常症",
+      "肝炎",
+      "脂質異常症"
     ],
     "PT_names": [
       "心筋炎",
@@ -6491,7 +6557,8 @@
     "lot_no": "不明",
     "vaccinated_times": "4回目",
     "pre_existing_disease_names": [
-      "心筋炎;\n記憶障害"
+      "心筋炎",
+      "記憶障害"
     ],
     "PT_names": [
       "心筋炎",
@@ -6538,7 +6605,8 @@
     "lot_no": "不明",
     "vaccinated_times": "2回目",
     "pre_existing_disease_names": [
-      "糖尿病;\n高血圧"
+      "糖尿病",
+      "高血圧"
     ],
     "PT_names": [
       "心筋炎"
@@ -6574,7 +6642,11 @@
     "lot_no": "000232A",
     "vaccinated_times": "4回目",
     "pre_existing_disease_names": [
-      "入院;\n失語症;\n寝たきり;\n片麻痺;\n脳卒中"
+      "入院",
+      "失語症",
+      "寝たきり",
+      "片麻痺",
+      "脳卒中"
     ],
     "PT_names": [
       "心筋炎",
@@ -6647,7 +6719,8 @@
     "lot_no": "000236A",
     "vaccinated_times": "4回目",
     "pre_existing_disease_names": [
-      "脂質異常症;\n骨粗鬆症"
+      "脂質異常症",
+      "骨粗鬆症"
     ],
     "PT_names": [
       "心筋炎"
@@ -6756,7 +6829,11 @@
     "lot_no": "000249A",
     "vaccinated_times": "4回目",
     "pre_existing_disease_names": [
-      "そう痒症;\n好酸球増加症;\n心不全;\n浮腫;\n血管炎"
+      "そう痒症",
+      "好酸球増加症",
+      "心不全",
+      "浮腫",
+      "血管炎"
     ],
     "PT_names": [
       "心筋炎",
@@ -7448,7 +7525,8 @@
     "lot_no": "不明",
     "vaccinated_times": "1回目",
     "pre_existing_disease_names": [
-      "タバコ使用者;\n禁酒"
+      "タバコ使用者",
+      "禁酒"
     ],
     "PT_names": [
       "心筋炎"
@@ -7978,7 +8056,9 @@
     "lot_no": "不明",
     "vaccinated_times": "2回目",
     "pre_existing_disease_names": [
-      "肥満;\n非タバコ使用者;\n高血圧"
+      "肥満",
+      "非タバコ使用者",
+      "高血圧"
     ],
     "PT_names": [
       "関節痛",
@@ -8107,7 +8187,8 @@
     "lot_no": "不明",
     "vaccinated_times": "3回目",
     "pre_existing_disease_names": [
-      "動悸;\n心電図異常"
+      "動悸",
+      "心電図異常"
     ],
     "PT_names": [
       "心筋炎",
@@ -8151,7 +8232,8 @@
     "lot_no": "000007A",
     "vaccinated_times": "3回目",
     "pre_existing_disease_names": [
-      "双極性障害;\n子宮脱"
+      "双極性障害",
+      "子宮脱"
     ],
     "PT_names": [
       "心筋炎",
