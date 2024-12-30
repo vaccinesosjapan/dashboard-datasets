@@ -8,6 +8,6 @@ file_id = settings['file_id']
 symptoms = settings['symptoms']
 csv_file_name = f'{file_id}-{symptoms}.csv'
 
-print(f'{csv_file_name} のデータを整形します。手作業が必要な箇所についてログが出力されます。\n', end='', flush=True)
+print(f'{csv_file_name} のデータを整形します。手作業が必要な箇所についてログが出力されます。\n\n', end='', flush=True)
 subprocess.run(["python", "standardize-csv.py", csv_file_name ])
 print()
