@@ -56,6 +56,16 @@ source: {
   url: 'https://www.mhlw.go.jp/content/11120000/001325490.pdf'
 }
 
+name: 'スパイクバックス筋注'
+file_id: '001325490'
+pages: '35-36'
+symptoms: 'pericarditis'
+count: '52'
+source: {
+  name: '第104回',
+  url: 'https://www.mhlw.go.jp/content/11120000/001325490.pdf'
+}
+
 ## ダイチロナ筋注（1価：オミクロン株XBB.1.5）
 name: 'ダイチロナ筋注（1価：オミクロン株XBB.1.5）'
 file_id: '001321075'

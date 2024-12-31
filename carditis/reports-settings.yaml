@@ -10,12 +10,13 @@
 #  count: symptoms で記載した症状に関して、PDFから抽出されると想定される件数
 #  source: 使用するPDFが扱われている審議会の名称と、PDFのURL
 #
-name: 'コミナティ筋注5～11歳用'
-file_id: '001325499'
-pages: '30'
+
+name: 'スパイクバックス筋注'
+file_id: '001325490'
+pages: '35-36'
 symptoms: 'pericarditis'
-count: '2'
+count: '52'
 source: {
   name: '第104回',
-  url: 'https://www.mhlw.go.jp/content/11120000/001325499.pdf'
+  url: 'https://www.mhlw.go.jp/content/11120000/001325490.pdf'
 }
