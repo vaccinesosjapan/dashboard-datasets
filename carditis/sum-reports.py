@@ -10,47 +10,34 @@ for file in jsonFileList:
 		data = json.load(f)
 		carditis_reports += data
 
-sorted_reports = sorted(carditis_reports, key=lambda issue: issue['no'])
+# 心筋炎、心膜炎の全症例をひとつにまとめて carditis-reports.json に保存する処理。
+## No列が「####」になっていてソートできないデータがあったので、3項演算子で大きな数字を返して末尾にする。
+##  https://www.mhlw.go.jp/content/11120000/001325489.pdf#page=46
+sorted_reports = sorted(carditis_reports, key=lambda issue: issue['no'] if isinstance(issue['no'], int) else 99999)
 
-
-def delete_duplecates(reports):
-	# 心筋炎と心膜炎で重複している案件もあるため、noとvaccine_nameが同じものは
-	# 同一案件とみなして片方だけを保存するようにする、という処理をかつては使っていた。
-	previous_no = 0
-	previous_vaccine_name = ''
-	deleted_duplecates_reports = []
-	for report in sorted_reports:
-		if previous_no == report['no'] and previous_vaccine_name == report['vaccine_name']:
-			continue
-		deleted_duplecates_reports.append(report)
-		previous_no = report['no']
-		previous_vaccine_name = report['vaccine_name']
-	return deleted_duplecates_reports
-
-
-# json_string = json.dumps(delete_duplecates(sorted_reports), ensure_ascii=False, indent=2)
 json_string = json.dumps(sorted_reports, ensure_ascii=False, indent=2)
-
 output_path = os.path.join(output_dir, 'carditis-reports.json')
 with open( output_path, "w", encoding='utf-8') as f:
     f.write(json_string)
 
 
-# 性別などの一覧データを作成して、ダッシュボードで表示するためのメタデータとして保存する処理
-json_file_path = os.path.join(output_dir, 'carditis-reports.json')
-df = pd.read_json(json_file_path)
+# 性別などの一覧データを作成して、ダッシュボードで表示するためのメタデータとして
+# carditis-metadata.json に保存する処理。
+df = pd.DataFrame(sorted_reports)
 carditis_metadata = {
 	"gender_list": sorted(df['gender'].unique().tolist(), reverse=True),
 }
-output_file_path = os.path.join(output_dir, 'carditis-metadata.json')
+
 json_string = json.dumps(carditis_metadata, ensure_ascii=False, indent=2)
+output_file_path = os.path.join(output_dir, 'carditis-metadata.json')
 with open( output_file_path, "w", encoding='utf-8') as f:
 	f.write(json_string)
 
 
-# ロットNoの集計結果を保存する処理
-invalid_lotno_df = df[df['lot_no'].map(lambda x: str(x).__contains__('不明') or not str(x))]
-valid_lotno_df = df[df['lot_no'].map(lambda x: not str(x).__contains__('不明'))]
+# ロットNoの集計結果を保存する処理。
+valid_lotno_series = df['lot_no'].map(lambda x: not str(x).__contains__('不明'))
+valid_lotno_df = df[valid_lotno_series]
+invalid_lotno_df = df[~valid_lotno_series] # 先頭に「~」をつけるとbooleanが反転したSeriesを得られる
 
 valid_lotno_dict = valid_lotno_df.groupby(['lot_no'])['no'].count().nlargest(10).to_dict()
 valid_lotno_list = []

@@ -76,3 +76,57 @@ source: {
   name: '第104回',
   url: 'https://www.mhlw.go.jp/content/11120000/001321075.pdf'
 }
+
+## コミナティ筋注（1価：オミクロン株XBB.1.5）
+name: 'コミナティ筋注'
+file_id: '001321070'
+pages: '7'
+symptoms: 'myocarditis'
+count: '8'
+source: {
+  name: '第104回',
+  url: 'https://www.mhlw.go.jp/content/11120000/001321070.pdf'
+}
+
+name: 'コミナティ筋注'
+file_id: '001321070'
+pages: '8'
+symptoms: 'pericarditis'
+count: '2'
+source: {
+  name: '第104回',
+  url: 'https://www.mhlw.go.jp/content/11120000/001321070.pdf'
+}
+
+## コミナティ筋注5～11歳用（1価：オミクロン株XBB.1.5）
+name: 'コミナティ筋注５～11歳用（１価：オミクロン株XBB.1.5）'
+file_id: '001321073'
+pages: '7'
+symptoms: 'myocarditis'
+count: '1'
+source: {
+  name: '第104回',
+  url: 'https://www.mhlw.go.jp/content/11120000/001321073.pdf'
+}
+
+## スパイクバックス筋注 （1価：オミクロン株XBB.1.5）
+name: 'スパイクバックス筋注 （1価：オミクロン株XBB.1.5）'
+file_id: '001321071'
+pages: '9'
+symptoms: 'myocarditis'
+count: '1'
+source: {
+  name: '第104回',
+  url: 'https://www.mhlw.go.jp/content/11120000/001321071.pdf'
+}
+
+## ヌバキソビッド筋注
+name: 'ヌバキソビッド筋注'
+file_id: '001321072'
+pages: '7'
+symptoms: 'myocarditis'
+count: '2'
+source: {
+  name: '第104回',
+  url: 'https://www.mhlw.go.jp/content/11120000/001321072.pdf'
+}

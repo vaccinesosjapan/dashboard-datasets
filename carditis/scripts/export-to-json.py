@@ -2,14 +2,16 @@
 import os, re, unicodedata, json, sys
 import pandas as pd
 
-csv_folder = 'intermediate-files'
-csv_file_name = sys.argv[1] # eg) '001325489-myocarditis-manually-fixed.csv'
-expected_issue_count = int(sys.argv[2]) # eg) int('380')
-json_file_name = sys.argv[3] # eg) '001325489-myocarditis.json'
-source_name = sys.argv[4] # '第104回'
-source_url = sys.argv[5] # 'https://www.mhlw.go.jp/content/11120000/001325490.pdf'
+# スクリプトをエクスポートした際に調整が必要な各種パス情報
+csv_folder = os.path.join('..', 'intermediate-files')
+csv_file_name = sys.argv[1]
+expected_issue_count = int(sys.argv[2])
+json_folder = os.path.join('..', 'reports-data')
+json_file_name = sys.argv[3]
+source_name = sys.argv[4]
+source_url = sys.argv[5]
 
-csv_file_path = os.path.join('..', csv_folder, csv_file_name)
+csv_file_path = os.path.join(csv_folder, csv_file_name)
 df = pd.read_csv(csv_file_path, delimiter=',')
 
 # %%
@@ -33,8 +35,18 @@ s1 = df['onset_dates'].str.replace(' ', '')
 s2 = s1.str.replace('\r\n', '\n').str.split('\n')
 
 # %%
-# 改行を除去して配列にする処理
+if df['days_to_onset'].dtype != type(str):
+	print('days_to_onset 列が数字のみのため文字列型に変更します')
+	df['days_to_onset'] = df['days_to_onset'].astype(str)
+
+# %%
+# 改行を除去して配列にする処理と、Windowsの改行（\r\n）を（\n）に変換する処理
 df.loc[:, 'onset_dates'] = df['onset_dates'].str.replace(' ', '').str.replace('\r\n', '\n').str.split('\n')
+df.loc[:, 'days_to_onset'] = df['days_to_onset'].str.replace('\r\n', '\n')
+df.loc[:, 'vaccine_name'] = df['vaccine_name'].str.replace('\r\n', '\n')
+df.loc[:, 'manufacturer'] = df['manufacturer'].str.replace('\r\n', '\n')
+df.loc[:, 'lot_no'] = df['lot_no'].str.replace('\r\n', '\n')
+df.loc[:, 'vaccinated_times'] = df['vaccinated_times'].str.replace('\r\n', '\n')
 df.loc[:, 'pre_existing_disease_names'] = df['pre_existing_disease_names'].str.replace(' ', '').str.replace('\r\n', '\n').str.split(';\n')
 df.loc[:, 'gross_result_dates'] = df['gross_result_dates'].str.replace(' ', '').str.replace('\r\n', '\n').str.split('\n')
 df.loc[:, 'gross_results'] = df['gross_results'].str.replace(' ', '').str.replace('\r\n', '\n').str.split('\n')
@@ -63,9 +75,10 @@ df['source'] = source_array
 df_dict = df.to_dict("records")
 df_string = json.dumps(df_dict, ensure_ascii=False, indent=2)
 
-json_folder = 'reports-data'
-json_file_path = os.path.join('..', json_folder, json_file_name)
+json_file_path = os.path.join(json_folder, json_file_name)
 with open(json_file_path, encoding='utf-8', mode='w') as f:
 	f.write(df_string)
 
 print(f'{json_file_path} にJSON形式で保存しました。')
+
+

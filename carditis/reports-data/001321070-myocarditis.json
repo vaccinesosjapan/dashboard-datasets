@@ -1,0 +1,337 @@
+[
+  {
+    "no": 82,
+    "age": 79,
+    "gender": "男性",
+    "vaccinated_date": "2023/10/27",
+    "onset_dates": [
+      "2023/10",
+      "2023/10/27",
+      "2023/10/27",
+      "2023/10/27"
+    ],
+    "days_to_onset": "不明",
+    "vaccine_name": "コミナティ筋注(1価:オミクロン株XBB.1.5)",
+    "manufacturer": "ファイザー",
+    "vaccinated_times": "",
+    "lot_no": "不明",
+    "pre_existing_disease_names": [
+      "心房細動",
+      "心筋梗塞"
+    ],
+    "PT_names": [
+      "心停止",
+      "アナフィラキシー反応",
+      "心筋炎",
+      "熱性痙攣"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "死亡",
+      "死亡",
+      "死亡",
+      "死亡"
+    ],
+    "evaluated_PT": "心筋炎",
+    "evaluated_result": "γ",
+    "brighton_classification": 4,
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001321070.pdf"
+    }
+  },
+  {
+    "no": 94,
+    "age": 74,
+    "gender": "男性",
+    "vaccinated_date": "2023/10/26",
+    "onset_dates": [
+      "2023/11/20",
+      "2023/11/20"
+    ],
+    "days_to_onset": "25",
+    "vaccine_name": "コミナティ筋注(1価:オミクロン株XBB.1.5)",
+    "manufacturer": "ファイザー",
+    "vaccinated_times": "",
+    "lot_no": "HG2346",
+    "pre_existing_disease_names": [
+      "アルコール摂取",
+      "タバコ使用者",
+      "慢性心不全",
+      "直腸癌"
+    ],
+    "PT_names": [
+      "心不全",
+      "心筋炎"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "不明",
+      "軽快"
+    ],
+    "evaluated_PT": "心筋炎",
+    "evaluated_result": "γ",
+    "brighton_classification": 4,
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001321070.pdf"
+    }
+  },
+  {
+    "no": 105,
+    "age": "20歳代",
+    "gender": "不明",
+    "vaccinated_date": "未記入",
+    "onset_dates": [
+      "未記入"
+    ],
+    "days_to_onset": "不明",
+    "vaccine_name": "コミナティ筋注(1価:オミクロン株XBB.1.5)",
+    "manufacturer": "ファイザー",
+    "vaccinated_times": "",
+    "lot_no": "不明",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心筋炎",
+      "心機能障害"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "回復",
+      "回復"
+    ],
+    "evaluated_PT": "心筋炎",
+    "evaluated_result": "γ",
+    "brighton_classification": 4,
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001321070.pdf"
+    }
+  },
+  {
+    "no": 173,
+    "age": 70,
+    "gender": "男性",
+    "vaccinated_date": "2023/10/12",
+    "onset_dates": [
+      "2023/10/22",
+      "2023/10/24",
+      "2023/10/22",
+      "2023/10/15",
+      "2023/10/19",
+      "2023/10/19",
+      "2023/10/22",
+      "2023/10/19"
+    ],
+    "days_to_onset": "3",
+    "vaccine_name": "コミナティ筋注(1価:オミクロン株XBB.1.5)",
+    "manufacturer": "ファイザー",
+    "vaccinated_times": "",
+    "lot_no": "不明",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心不全",
+      "肺うっ血",
+      "心嚢液貯留",
+      "発熱",
+      "ワクチン接種部位発疹",
+      "スチル病",
+      "心筋炎",
+      "多形紅斑"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "2023/10/27",
+      "2023/12/14"
+    ],
+    "gross_results": [
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "軽快",
+      "回復",
+      "回復"
+    ],
+    "evaluated_PT": "心筋炎",
+    "evaluated_result": "γ",
+    "brighton_classification": 4,
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001321070.pdf"
+    }
+  },
+  {
+    "no": 185,
+    "age": 17,
+    "gender": "男性",
+    "vaccinated_date": "2023/12/09",
+    "onset_dates": [
+      "2023/12/12"
+    ],
+    "days_to_onset": "3",
+    "vaccine_name": "コミナティ筋注(1価:オミクロン株XBB.1.5)",
+    "manufacturer": "ファイザー",
+    "vaccinated_times": "",
+    "lot_no": "不明",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心筋炎"
+    ],
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "evaluated_PT": "心筋炎",
+    "evaluated_result": "γ",
+    "brighton_classification": 4,
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001321070.pdf"
+    }
+  },
+  {
+    "no": 214,
+    "age": "",
+    "gender": "男性",
+    "vaccinated_date": "不明",
+    "onset_dates": [
+      "未記入"
+    ],
+    "days_to_onset": "不明",
+    "vaccine_name": "コミナティ筋注(1価:オミクロン株XBB.1.5)",
+    "manufacturer": "ファイザー",
+    "vaccinated_times": "",
+    "lot_no": "不明",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心筋炎"
+    ],
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "回復"
+    ],
+    "evaluated_PT": "心筋炎",
+    "evaluated_result": "γ",
+    "brighton_classification": 4,
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001321070.pdf"
+    }
+  },
+  {
+    "no": 218,
+    "age": "",
+    "gender": "女性",
+    "vaccinated_date": "不明",
+    "onset_dates": [
+      "未記入"
+    ],
+    "days_to_onset": "不明",
+    "vaccine_name": "コミナティ筋注(1価:オミクロン株XBB.1.5)",
+    "manufacturer": "ファイザー",
+    "vaccinated_times": "",
+    "lot_no": "不明",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心筋炎"
+    ],
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "不明"
+    ],
+    "evaluated_PT": "心筋炎",
+    "evaluated_result": "γ",
+    "brighton_classification": 4,
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001321070.pdf"
+    }
+  },
+  {
+    "no": 237,
+    "age": "60歳代",
+    "gender": "女性",
+    "vaccinated_date": "不明",
+    "onset_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "days_to_onset": "不明",
+    "vaccine_name": "コミナティ筋注(1価:オミクロン株XBB.1.5)",
+    "manufacturer": "ファイザー",
+    "vaccinated_times": "",
+    "lot_no": "不明",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心不全",
+      "巨細胞性心筋炎"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "不明",
+      "回復"
+    ],
+    "evaluated_PT": "巨細胞性心筋炎",
+    "evaluated_result": "γ",
+    "brighton_classification": 1,
+    "expert_opinion": "心筋炎は、ウイルスを含めた何らかの原因により自己免疫による心筋傷害をきたすと考えられるが、特に巨細胞性心筋炎では、自己免疫疾患の関与が推定されている。移植を行っても移植心臓にも巨細胞の浸潤を認めることもある。本症例ではエンテロウイルスやアデノウイルス、SARS-CoV-2感染の有無、薬剤、膠原病などの併存症などの情報が限定的であり、本ワクチンが直接原因であったかについては、肯定も否定もできない。",
+    "remarks": "",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001321070.pdf"
+    }
+  }
+]
