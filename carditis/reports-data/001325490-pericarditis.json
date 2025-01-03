@@ -1,0 +1,2064 @@
+[
+  {
+    "no": 26982,
+    "age": 38,
+    "gender": "男性",
+    "vaccinated_date": "2021/09/02",
+    "onset_dates": [
+      "2021/09/09",
+      "2021/09/09",
+      "未記入",
+      "2021/09/09",
+      "2021/09/09",
+      "未記入"
+    ],
+    "days_to_onset": "7",
+    "vaccine_name": "スパイクバックス筋注",
+    "manufacturer": "モデルナ",
+    "lot_no": "不明",
+    "vaccinated_times": "1回目",
+    "pre_existing_disease_names": [
+      "糖尿病",
+      "糖尿病性腎症",
+      "糖尿病網膜症",
+      "脂質異常症",
+      "高血圧"
+    ],
+    "PT_names": [
+      "心筋炎",
+      "心膜炎",
+      "多臓器機能不全症候群",
+      "心タンポナーデ",
+      "心肺停止",
+      "低酸素性虚血性脳症"
+    ],
+    "gross_result_dates": [
+      "2021/09/13",
+      "2021/09/13",
+      "2021/09/13",
+      "2021/09/13",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "死亡",
+      "死亡",
+      "死亡",
+      "死亡",
+      "不明",
+      "不明"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "1 1",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325490.pdf"
+    }
+  },
+  {
+    "no": 27008,
+    "age": 17,
+    "gender": "男性",
+    "vaccinated_date": "2021/10/16\r\n不明",
+    "onset_dates": [
+      "2021/10/18"
+    ],
+    "days_to_onset": "2\n不明",
+    "vaccine_name": "スパイクバックス筋注\nスパイクバックス筋注",
+    "manufacturer": "モデルナ\nモデルナ",
+    "lot_no": "不明\n不明",
+    "vaccinated_times": "2回目\n1回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心膜炎",
+      "心膜炎"
+    ],
+    "gross_result_dates": [
+      "2021/10/21"
+    ],
+    "gross_results": [
+      "回復"
+    ],
+    "evaluated_PT": "心膜炎",
+    "evaluated_result": "γ",
+    "brighton_classification": "4",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325490.pdf"
+    }
+  },
+  {
+    "no": 27044,
+    "age": 20,
+    "gender": "男性",
+    "vaccinated_date": "不明\r\n不明",
+    "onset_dates": [
+      "未記入",
+      "2021/07/28"
+    ],
+    "days_to_onset": "不明\n不明",
+    "vaccine_name": "スパイクバックス筋注\nスパイクバックス筋注",
+    "manufacturer": "モデルナ\nモデルナ",
+    "lot_no": "不明\n不明",
+    "vaccinated_times": "2回目\n1回目",
+    "pre_existing_disease_names": [
+      "心筋心膜炎"
+    ],
+    "PT_names": [
+      "心膜炎",
+      "心筋心膜炎",
+      "心膜炎",
+      "心筋心膜炎"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "2021/08/02"
+    ],
+    "gross_results": [
+      "不明",
+      "回復"
+    ],
+    "evaluated_PT": "心筋心膜炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "1 2",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325490.pdf"
+    }
+  },
+  {
+    "no": 27051,
+    "age": 29,
+    "gender": "男性",
+    "vaccinated_date": "2022/01/09",
+    "onset_dates": [
+      "2022/01/12"
+    ],
+    "days_to_onset": "3",
+    "vaccine_name": "スパイクバックス筋注",
+    "manufacturer": "モデルナ",
+    "lot_no": "3006326",
+    "vaccinated_times": "3回目",
+    "pre_existing_disease_names": [
+      "側頭葉てんかん",
+      "季節性アレルギー",
+      "星細胞腫",
+      "開頭"
+    ],
+    "PT_names": [
+      "心膜炎"
+    ],
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "evaluated_PT": "心膜炎",
+    "evaluated_result": "γ",
+    "brighton_classification": "2",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325490.pdf"
+    }
+  },
+  {
+    "no": 27056,
+    "age": 20,
+    "gender": "女性",
+    "vaccinated_date": "不明\r\n不明",
+    "onset_dates": [
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "days_to_onset": "不明\n不明",
+    "vaccine_name": "スパイクバックス筋注\nスパイクバックス筋注",
+    "manufacturer": "モデルナ\nモデルナ",
+    "lot_no": "不明\n不明",
+    "vaccinated_times": "2回目\n1回目",
+    "pre_existing_disease_names": [
+      "川崎病"
+    ],
+    "PT_names": [
+      "心筋炎",
+      "心膜炎",
+      "心筋損傷",
+      "心筋炎",
+      "心膜炎",
+      "心筋損傷"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "不明",
+      "不明",
+      "不明"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "1 4",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325490.pdf"
+    }
+  },
+  {
+    "no": 27078,
+    "age": 94,
+    "gender": "女性",
+    "vaccinated_date": "2021/06/09\r\n2021/06/30\r\n2022/01/07",
+    "onset_dates": [
+      "2022/01/11",
+      "2022/01/10",
+      "2022/01/11",
+      "2022/01/11",
+      "2022/01/11"
+    ],
+    "days_to_onset": "215\n194\n3",
+    "vaccine_name": "スパイクバックス筋注\nスパイクバックス筋注\nスパイクバックス筋注",
+    "manufacturer": "モデルナ\nモデルナ\nモデルナ",
+    "lot_no": "不明\n不明\n3005840",
+    "vaccinated_times": "1回目\n2回目\n3回目",
+    "pre_existing_disease_names": [
+      "慢性心不全",
+      "慢性気管支炎",
+      "慢性腎臓病",
+      "狭心症",
+      "糖尿病",
+      "脊椎手術",
+      "認知症",
+      "高尿酸血症\nくも膜下出血",
+      "便秘",
+      "慢性副鼻腔炎;"
+    ],
+    "PT_names": [
+      "心停止",
+      "心膜炎",
+      "胸水",
+      "肺うっ血",
+      "アシドーシス",
+      "心停止",
+      "心膜炎",
+      "胸水",
+      "肺うっ血",
+      "アシドーシス",
+      "心停止",
+      "心膜炎",
+      "胸水",
+      "肺うっ血",
+      "アシドーシス"
+    ],
+    "gross_result_dates": [
+      "2022/01/11",
+      "2022/01/11",
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "死亡",
+      "死亡",
+      "不明",
+      "不明",
+      "不明"
+    ],
+    "evaluated_PT": "心膜炎",
+    "evaluated_result": "γ",
+    "brighton_classification": "4",
+    "expert_opinion": "慢性気管支炎、慢性腎臓病、慢性心不全を基礎疾患に持つ高齢女性。急性心膜炎と診断するには、情報が乏しく困難である。また、基礎疾患の心不全の増悪の可能性があることや、心膜炎は市中感染症などを契機として自然発生することが知られている疾患であることから、因果関係を有と判断することはできないと考えた。",
+    "remarks": "",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325490.pdf"
+    }
+  },
+  {
+    "no": 27169,
+    "age": 27,
+    "gender": "男性",
+    "vaccinated_date": "2021/10/19\r\n不明",
+    "onset_dates": [
+      "2021/10/20"
+    ],
+    "days_to_onset": "1\n不明",
+    "vaccine_name": "スパイクバックス筋注\nスパイクバックス筋注",
+    "manufacturer": "モデルナ\nモデルナ",
+    "lot_no": "不明\n不明",
+    "vaccinated_times": "2回目\n1回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心膜炎",
+      "心膜炎"
+    ],
+    "gross_result_dates": [
+      "2021/12/16"
+    ],
+    "gross_results": [
+      "回復"
+    ],
+    "evaluated_PT": "心膜炎",
+    "evaluated_result": "γ",
+    "brighton_classification": "2",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325490.pdf"
+    }
+  },
+  {
+    "no": 27191,
+    "age": 30,
+    "gender": "女性",
+    "vaccinated_date": "2022/02/11",
+    "onset_dates": [
+      "2022/02/13"
+    ],
+    "days_to_onset": "2",
+    "vaccine_name": "スパイクバックス筋注",
+    "manufacturer": "モデルナ",
+    "lot_no": "3006279",
+    "vaccinated_times": "3回目",
+    "pre_existing_disease_names": [
+      "妊娠"
+    ],
+    "PT_names": [
+      "心膜炎"
+    ],
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "evaluated_PT": "心膜炎",
+    "evaluated_result": "γ",
+    "brighton_classification": "2",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325490.pdf"
+    }
+  },
+  {
+    "no": 27203,
+    "age": 24,
+    "gender": "男性",
+    "vaccinated_date": "2022/02/06\r\n不明",
+    "onset_dates": [
+      "2022/02/08",
+      "2022/02/08"
+    ],
+    "days_to_onset": "2\n不明",
+    "vaccine_name": "スパイクバックス筋注\nスパイクバックス筋注",
+    "manufacturer": "モデルナ\nモデルナ",
+    "lot_no": "不明\n不明",
+    "vaccinated_times": "2回目\n1回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心筋炎",
+      "心膜炎",
+      "心筋炎",
+      "心膜炎"
+    ],
+    "gross_result_dates": [
+      "2022/02/15",
+      "2022/02/15"
+    ],
+    "gross_results": [
+      "回復",
+      "回復"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "4 2",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325490.pdf"
+    }
+  },
+  {
+    "no": 27214,
+    "age": 72,
+    "gender": "男性",
+    "vaccinated_date": "2022/02/19",
+    "onset_dates": [
+      "2022/02/22"
+    ],
+    "days_to_onset": "3",
+    "vaccine_name": "スパイクバックス筋注",
+    "manufacturer": "モデルナ",
+    "lot_no": "不明",
+    "vaccinated_times": "3回目",
+    "pre_existing_disease_names": [
+      "冠動脈バイパス",
+      "糖尿病",
+      "高脂血症"
+    ],
+    "PT_names": [
+      "心膜炎"
+    ],
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "evaluated_PT": "心膜炎",
+    "evaluated_result": "γ",
+    "brighton_classification": "4",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325490.pdf"
+    }
+  },
+  {
+    "no": 27273,
+    "age": 52,
+    "gender": "男性",
+    "vaccinated_date": "2022/02/28\r\n不明\r\n不明",
+    "onset_dates": [
+      "未記入"
+    ],
+    "days_to_onset": "不明\n不明\n不明",
+    "vaccine_name": "スパイクバックス筋注\nスパイクバックス筋注\nスパイクバックス筋注",
+    "manufacturer": "モデルナ\nモデルナ\nモデルナ",
+    "lot_no": "不明\n不明\n不明",
+    "vaccinated_times": "3回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心膜炎",
+      "心膜炎",
+      "心膜炎"
+    ],
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "不明"
+    ],
+    "evaluated_PT": "心膜炎",
+    "evaluated_result": "γ",
+    "brighton_classification": "4",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325490.pdf"
+    }
+  },
+  {
+    "no": 27289,
+    "age": 31,
+    "gender": "女性",
+    "vaccinated_date": "2022/03/05",
+    "onset_dates": [
+      "2022/03/05",
+      "2022/03/06",
+      "2022/03/05"
+    ],
+    "days_to_onset": "0",
+    "vaccine_name": "スパイクバックス筋注",
+    "manufacturer": "モデルナ",
+    "lot_no": "3006279",
+    "vaccinated_times": "3回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心膜炎",
+      "感覚鈍麻",
+      "リンパ節症"
+    ],
+    "gross_result_dates": [
+      "2022/03/09",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "後遺症あり",
+      "未回復",
+      "不明"
+    ],
+    "evaluated_PT": "心膜炎",
+    "evaluated_result": "γ",
+    "brighton_classification": "4",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325490.pdf"
+    }
+  },
+  {
+    "no": 27308,
+    "age": 19,
+    "gender": "男性",
+    "vaccinated_date": "2022/03/07",
+    "onset_dates": [
+      "2022/03/08",
+      "2022/03/08"
+    ],
+    "days_to_onset": "1",
+    "vaccine_name": "スパイクバックス筋注",
+    "manufacturer": "モデルナ",
+    "lot_no": "不明",
+    "vaccinated_times": "3回目",
+    "pre_existing_disease_names": [
+      "メニエール病",
+      "知的能力障害",
+      "突発性難聴",
+      "肺動脈弁狭窄",
+      "血尿",
+      "近視"
+    ],
+    "PT_names": [
+      "心筋炎",
+      "心膜炎"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快",
+      "軽快"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "1 2",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325490.pdf"
+    }
+  },
+  {
+    "no": 27328,
+    "age": 35,
+    "gender": "男性",
+    "vaccinated_date": "2022/02/26",
+    "onset_dates": [
+      "2022/03/02"
+    ],
+    "days_to_onset": "4",
+    "vaccine_name": "スパイクバックス筋注",
+    "manufacturer": "モデルナ",
+    "lot_no": "3005785",
+    "vaccinated_times": "3回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心膜炎"
+    ],
+    "gross_result_dates": [
+      "2022/04/07"
+    ],
+    "gross_results": [
+      "回復"
+    ],
+    "evaluated_PT": "心膜炎",
+    "evaluated_result": "γ",
+    "brighton_classification": "4",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325490.pdf"
+    }
+  },
+  {
+    "no": 27398,
+    "age": 19,
+    "gender": "男性",
+    "vaccinated_date": "2022/03/09\r\n不明",
+    "onset_dates": [
+      "2022/03/13"
+    ],
+    "days_to_onset": "4\n不明",
+    "vaccine_name": "スパイクバックス筋注\nスパイクバックス筋注",
+    "manufacturer": "モデルナ\nモデルナ",
+    "lot_no": "3005890\n3005786",
+    "vaccinated_times": "2回目\n1回目",
+    "pre_existing_disease_names": [
+      "季節性アレルギー",
+      "肺炎"
+    ],
+    "PT_names": [
+      "心膜炎",
+      "心膜炎"
+    ],
+    "gross_result_dates": [
+      "2022/03/24"
+    ],
+    "gross_results": [
+      "回復"
+    ],
+    "evaluated_PT": "心膜炎",
+    "evaluated_result": "γ",
+    "brighton_classification": "2",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325490.pdf"
+    }
+  },
+  {
+    "no": 27400,
+    "age": 19,
+    "gender": "男性",
+    "vaccinated_date": "2021/07/14\r\n2021/08/11\r\n2022/03/03",
+    "onset_dates": [
+      "2022/03/13"
+    ],
+    "days_to_onset": "242\n214\n10",
+    "vaccine_name": "スパイクバックス筋注\nスパイクバックス筋注\nスパイクバックス筋注",
+    "manufacturer": "モデルナ\nモデルナ\nモデルナ",
+    "lot_no": "3002181\n3004221\n000204A",
+    "vaccinated_times": "1回目\n2回目\n3回目",
+    "pre_existing_disease_names": [
+      "中耳炎",
+      "扁桃摘出"
+    ],
+    "PT_names": [
+      "心膜炎",
+      "心膜炎",
+      "心膜炎"
+    ],
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "evaluated_PT": "心膜炎",
+    "evaluated_result": "γ",
+    "brighton_classification": "1",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325490.pdf"
+    }
+  },
+  {
+    "no": 27438,
+    "age": 20,
+    "gender": "男性",
+    "vaccinated_date": "2022/03/12",
+    "onset_dates": [
+      "2022/03/15",
+      "2022/03/15"
+    ],
+    "days_to_onset": "3",
+    "vaccine_name": "スパイクバックス筋注",
+    "manufacturer": "モデルナ",
+    "lot_no": "000006A",
+    "vaccinated_times": "3回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心筋炎",
+      "心膜炎"
+    ],
+    "gross_result_dates": [
+      "2022/04/13",
+      "2022/04/13"
+    ],
+    "gross_results": [
+      "回復",
+      "回復"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "4 4",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325490.pdf"
+    }
+  },
+  {
+    "no": 27454,
+    "age": 20,
+    "gender": "男性",
+    "vaccinated_date": "2022/03/19",
+    "onset_dates": [
+      "2022/03/20"
+    ],
+    "days_to_onset": "1",
+    "vaccine_name": "スパイクバックス筋注",
+    "manufacturer": "モデルナ",
+    "lot_no": "000234A",
+    "vaccinated_times": "3回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心膜炎"
+    ],
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "回復"
+    ],
+    "evaluated_PT": "心膜炎",
+    "evaluated_result": "γ",
+    "brighton_classification": "2",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325490.pdf"
+    }
+  },
+  {
+    "no": 27469,
+    "age": 24,
+    "gender": "男性",
+    "vaccinated_date": "2022/03/18",
+    "onset_dates": [
+      "2022/03/28",
+      "2022/03/28"
+    ],
+    "days_to_onset": "10",
+    "vaccine_name": "スパイクバックス筋注",
+    "manufacturer": "モデルナ",
+    "lot_no": "不明",
+    "vaccinated_times": "3回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心筋炎",
+      "心膜炎"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "不明",
+      "不明"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "4 4",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325490.pdf"
+    }
+  },
+  {
+    "no": 27590,
+    "age": 21,
+    "gender": "男性",
+    "vaccinated_date": "2022/04/22",
+    "onset_dates": [
+      "2022/04/23",
+      "2022/04/23",
+      "2022/04/28"
+    ],
+    "days_to_onset": "1",
+    "vaccine_name": "スパイクバックス筋注",
+    "manufacturer": "モデルナ",
+    "lot_no": "000026A",
+    "vaccinated_times": "3回目",
+    "pre_existing_disease_names": [
+      "ＣＯＶＩＤ－１９"
+    ],
+    "PT_names": [
+      "心筋炎",
+      "心膜炎",
+      "肺水腫"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快",
+      "軽快",
+      "軽快"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "4 4",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325490.pdf"
+    }
+  },
+  {
+    "no": 27602,
+    "age": 22,
+    "gender": "男性",
+    "vaccinated_date": "2022/04/23",
+    "onset_dates": [
+      "2022/04/27"
+    ],
+    "days_to_onset": "4",
+    "vaccine_name": "スパイクバックス筋注",
+    "manufacturer": "モデルナ",
+    "lot_no": "000017A",
+    "vaccinated_times": "3回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心膜炎"
+    ],
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "不明"
+    ],
+    "evaluated_PT": "心膜炎",
+    "evaluated_result": "γ",
+    "brighton_classification": "4",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325490.pdf"
+    }
+  },
+  {
+    "no": 27607,
+    "age": 51,
+    "gender": "男性",
+    "vaccinated_date": "2022/03/24",
+    "onset_dates": [
+      "2022/04/14"
+    ],
+    "days_to_onset": "21",
+    "vaccine_name": "スパイクバックス筋注",
+    "manufacturer": "モデルナ",
+    "lot_no": "000017A",
+    "vaccinated_times": "3回目",
+    "pre_existing_disease_names": [
+      "季節性アレルギー"
+    ],
+    "PT_names": [
+      "心膜炎"
+    ],
+    "gross_result_dates": [
+      "2022/04/28"
+    ],
+    "gross_results": [
+      "後遺症あり"
+    ],
+    "evaluated_PT": "心膜炎",
+    "evaluated_result": "γ",
+    "brighton_classification": "2",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325490.pdf"
+    }
+  },
+  {
+    "no": 27611,
+    "age": 45,
+    "gender": "女性",
+    "vaccinated_date": "2022/03/31",
+    "onset_dates": [
+      "2022/04/20",
+      "2022/04/25",
+      "2022/04/11"
+    ],
+    "days_to_onset": "11",
+    "vaccine_name": "スパイクバックス筋注",
+    "manufacturer": "モデルナ",
+    "lot_no": "000026A",
+    "vaccinated_times": "3回目",
+    "pre_existing_disease_names": [
+      "平滑筋腫",
+      "強皮症",
+      "適応障害"
+    ],
+    "PT_names": [
+      "肝障害",
+      "肝脾腫大",
+      "心膜炎"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "不明",
+      "不明",
+      "軽快"
+    ],
+    "evaluated_PT": "心膜炎",
+    "evaluated_result": "γ",
+    "brighton_classification": "1",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325490.pdf"
+    }
+  },
+  {
+    "no": 27647,
+    "age": 19,
+    "gender": "男性",
+    "vaccinated_date": "2022/05/07",
+    "onset_dates": [
+      "2022/05/07",
+      "2022/05/07"
+    ],
+    "days_to_onset": "0",
+    "vaccine_name": "スパイクバックス筋注",
+    "manufacturer": "モデルナ",
+    "lot_no": "不明",
+    "vaccinated_times": "3回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心筋炎",
+      "心膜炎"
+    ],
+    "gross_result_dates": [
+      "2022/05/16",
+      "2022/05/16"
+    ],
+    "gross_results": [
+      "回復",
+      "回復"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "4 2",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325490.pdf"
+    }
+  },
+  {
+    "no": 27720,
+    "age": "20歳代",
+    "gender": "女性",
+    "vaccinated_date": "不明",
+    "onset_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "days_to_onset": "不明",
+    "vaccine_name": "スパイクバックス筋注",
+    "manufacturer": "モデルナ",
+    "lot_no": "不明",
+    "vaccinated_times": "2回目",
+    "pre_existing_disease_names": [
+      "川崎病"
+    ],
+    "PT_names": [
+      "心筋炎",
+      "心膜炎"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "不明",
+      "不明"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "1 4",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325490.pdf"
+    }
+  },
+  {
+    "no": 27721,
+    "age": "10歳代",
+    "gender": "男性",
+    "vaccinated_date": "不明",
+    "onset_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "days_to_onset": "不明",
+    "vaccine_name": "スパイクバックス筋注",
+    "manufacturer": "モデルナ",
+    "lot_no": "不明",
+    "vaccinated_times": "2回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心筋炎",
+      "心膜炎"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "不明",
+      "不明"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "1 4",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325490.pdf"
+    }
+  },
+  {
+    "no": 27747,
+    "age": 64,
+    "gender": "男性",
+    "vaccinated_date": "不明\r\n不明",
+    "onset_dates": [
+      "未記入"
+    ],
+    "days_to_onset": "不明\n不明",
+    "vaccine_name": "スパイクバックス筋注\nスパイクバックス筋注",
+    "manufacturer": "モデルナ\nモデルナ",
+    "lot_no": "不明\n不明",
+    "vaccinated_times": "2回目\n1回目",
+    "pre_existing_disease_names": [
+      "高血圧"
+    ],
+    "PT_names": [
+      "心膜炎",
+      "心膜炎"
+    ],
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "回復"
+    ],
+    "evaluated_PT": "心膜炎",
+    "evaluated_result": "γ",
+    "brighton_classification": "1",
+    "expert_opinion": "心膜炎を示唆する最低限の記載はあるものの、ワクチン接種と各種検査の施行時期についての時系列の詳細や、心膜炎の",
+    "remarks": "",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325490.pdf"
+    }
+  },
+  {
+    "no": 27772,
+    "age": 41,
+    "gender": "男性",
+    "vaccinated_date": "2022/04/24",
+    "onset_dates": [
+      "2022/04/27"
+    ],
+    "days_to_onset": "3",
+    "vaccine_name": "スパイクバックス筋注",
+    "manufacturer": "モデルナ",
+    "lot_no": "000278A",
+    "vaccinated_times": "3回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心膜炎"
+    ],
+    "gross_result_dates": [
+      "2022/04/28"
+    ],
+    "gross_results": [
+      "回復"
+    ],
+    "evaluated_PT": "心膜炎",
+    "evaluated_result": "γ",
+    "brighton_classification": "2",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325490.pdf"
+    }
+  },
+  {
+    "no": 27805,
+    "age": 21,
+    "gender": "男性",
+    "vaccinated_date": "不明",
+    "onset_dates": [
+      "未記入"
+    ],
+    "days_to_onset": "不明",
+    "vaccine_name": "スパイクバックス筋注",
+    "manufacturer": "モデルナ",
+    "lot_no": "不明",
+    "vaccinated_times": "1回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心膜炎"
+    ],
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "evaluated_PT": "心膜炎",
+    "evaluated_result": "γ",
+    "brighton_classification": "2",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325490.pdf"
+    }
+  },
+  {
+    "no": 27844,
+    "age": 18,
+    "gender": "男性",
+    "vaccinated_date": "2022/06/18",
+    "onset_dates": [
+      "2022/06/19",
+      "2022/06/19"
+    ],
+    "days_to_onset": "1",
+    "vaccine_name": "スパイクバックス筋注",
+    "manufacturer": "モデルナ",
+    "lot_no": "000243A",
+    "vaccinated_times": "3回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心膜炎",
+      "心嚢液貯留"
+    ],
+    "gross_result_dates": [
+      "2022/06/28",
+      "2022/06/28"
+    ],
+    "gross_results": [
+      "回復",
+      "回復"
+    ],
+    "evaluated_PT": "心膜炎",
+    "evaluated_result": "γ",
+    "brighton_classification": "2",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325490.pdf"
+    }
+  },
+  {
+    "no": 27865,
+    "age": 27,
+    "gender": "男性",
+    "vaccinated_date": "2022/07/02",
+    "onset_dates": [
+      "2022/07/07",
+      "2022/07/07"
+    ],
+    "days_to_onset": "5",
+    "vaccine_name": "スパイクバックス筋注",
+    "manufacturer": "モデルナ",
+    "lot_no": "不明",
+    "vaccinated_times": "3回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心膜炎",
+      "心筋炎"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快",
+      "回復"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "4 2",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325490.pdf"
+    }
+  },
+  {
+    "no": 27866,
+    "age": 25,
+    "gender": "男性",
+    "vaccinated_date": "2022/05/16",
+    "onset_dates": [
+      "2022/05/17",
+      "2022/05/17",
+      "2022/05/17"
+    ],
+    "days_to_onset": "1",
+    "vaccine_name": "スパイクバックス筋注",
+    "manufacturer": "モデルナ",
+    "lot_no": "不明",
+    "vaccinated_times": "3回目",
+    "pre_existing_disease_names": [
+      "喘息",
+      "小児喘息"
+    ],
+    "PT_names": [
+      "心筋炎",
+      "心膜炎",
+      "肝機能異常"
+    ],
+    "gross_result_dates": [
+      "2022/06/02",
+      "2022/06/02",
+      "2022/06/02"
+    ],
+    "gross_results": [
+      "回復",
+      "回復",
+      "回復"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "4 1",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325490.pdf"
+    }
+  },
+  {
+    "no": 27879,
+    "age": 18,
+    "gender": "男性",
+    "vaccinated_date": "不明\r\n不明",
+    "onset_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "days_to_onset": "不明\n不明",
+    "vaccine_name": "スパイクバックス筋注\nスパイクバックス筋注",
+    "manufacturer": "モデルナ\nモデルナ",
+    "lot_no": "不明\n不明",
+    "vaccinated_times": "2回目\n1回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心筋炎",
+      "心膜炎",
+      "心筋炎",
+      "心膜炎"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快",
+      "軽快"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "1 2",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325490.pdf"
+    }
+  },
+  {
+    "no": 27880,
+    "age": 18,
+    "gender": "男性",
+    "vaccinated_date": "不明\r\n不明",
+    "onset_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "days_to_onset": "不明\n不明",
+    "vaccine_name": "スパイクバックス筋注\nスパイクバックス筋注",
+    "manufacturer": "モデルナ\nモデルナ",
+    "lot_no": "不明\n不明",
+    "vaccinated_times": "2回目\n1回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心膜炎",
+      "心筋炎",
+      "心膜炎",
+      "心筋炎"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "不明",
+      "軽快"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "1 4",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325490.pdf"
+    }
+  },
+  {
+    "no": 27891,
+    "age": 41,
+    "gender": "男性",
+    "vaccinated_date": "2022/04/16",
+    "onset_dates": [
+      "未記入",
+      "未記入",
+      "2022/04/17",
+      "2022/04/17",
+      "2022/04/17"
+    ],
+    "days_to_onset": "1",
+    "vaccine_name": "スパイクバックス筋注",
+    "manufacturer": "モデルナ",
+    "lot_no": "3005786",
+    "vaccinated_times": "3回目",
+    "pre_existing_disease_names": [
+      "疾患",
+      "高血圧"
+    ],
+    "PT_names": [
+      "心膜炎",
+      "心電図異常",
+      "胸痛",
+      "胸部不快感",
+      "発熱"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "不明",
+      "不明",
+      "回復",
+      "回復",
+      "回復"
+    ],
+    "evaluated_PT": "心膜炎",
+    "evaluated_result": "γ",
+    "brighton_classification": "2",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325490.pdf"
+    }
+  },
+  {
+    "no": 27898,
+    "age": "10歳代",
+    "gender": "男性",
+    "vaccinated_date": "不明",
+    "onset_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "days_to_onset": "不明",
+    "vaccine_name": "スパイクバックス筋注",
+    "manufacturer": "モデルナ",
+    "lot_no": "不明",
+    "vaccinated_times": "2回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心筋炎",
+      "心膜炎"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "不明",
+      "不明"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "1 4",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325490.pdf"
+    }
+  },
+  {
+    "no": 27931,
+    "age": 20,
+    "gender": "男性",
+    "vaccinated_date": "2022/07/21",
+    "onset_dates": [
+      "2022/07/23"
+    ],
+    "days_to_onset": "2",
+    "vaccine_name": "スパイクバックス筋注",
+    "manufacturer": "モデルナ",
+    "lot_no": "000235A",
+    "vaccinated_times": "3回目",
+    "pre_existing_disease_names": [
+      "疾患",
+      "食物アレルギー"
+    ],
+    "PT_names": [
+      "心膜炎"
+    ],
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "evaluated_PT": "心膜炎",
+    "evaluated_result": "γ",
+    "brighton_classification": "4",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325490.pdf"
+    }
+  },
+  {
+    "no": 28049,
+    "age": 61,
+    "gender": "女性",
+    "vaccinated_date": "2022/08/17",
+    "onset_dates": [
+      "2022/08/20"
+    ],
+    "days_to_onset": "3",
+    "vaccine_name": "スパイクバックス筋注",
+    "manufacturer": "モデルナ",
+    "lot_no": "不明",
+    "vaccinated_times": "4回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心膜炎"
+    ],
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "evaluated_PT": "心膜炎",
+    "evaluated_result": "γ",
+    "brighton_classification": "4",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325490.pdf"
+    }
+  },
+  {
+    "no": 28302,
+    "age": 16,
+    "gender": "男性",
+    "vaccinated_date": "不明",
+    "onset_dates": [
+      "未記入"
+    ],
+    "days_to_onset": "不明",
+    "vaccine_name": "スパイクバックス筋注",
+    "manufacturer": "モデルナ",
+    "lot_no": "不明",
+    "vaccinated_times": "2回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心膜炎"
+    ],
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "不明"
+    ],
+    "evaluated_PT": "心膜炎",
+    "evaluated_result": "γ",
+    "brighton_classification": "2",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325490.pdf"
+    }
+  },
+  {
+    "no": 28417,
+    "age": 36,
+    "gender": "男性",
+    "vaccinated_date": "2022/04/26",
+    "onset_dates": [
+      "2022/05/01"
+    ],
+    "days_to_onset": "5",
+    "vaccine_name": "スパイクバックス筋注",
+    "manufacturer": "モデルナ",
+    "lot_no": "不明",
+    "vaccinated_times": "3回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心膜炎"
+    ],
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "evaluated_PT": "心膜炎",
+    "evaluated_result": "γ",
+    "brighton_classification": "4",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325490.pdf"
+    }
+  },
+  {
+    "no": 28462,
+    "age": 23,
+    "gender": "男性",
+    "vaccinated_date": "2022/05/24",
+    "onset_dates": [
+      "2022/05/27",
+      "2022/05/27",
+      "2022/05/27",
+      "2022/05/27"
+    ],
+    "days_to_onset": "3",
+    "vaccine_name": "スパイクバックス筋注",
+    "manufacturer": "モデルナ",
+    "lot_no": "不明",
+    "vaccinated_times": "3回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心筋炎",
+      "心膜炎",
+      "狭心症",
+      "心筋梗塞"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入",
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "不明",
+      "不明",
+      "不明",
+      "不明"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ γ",
+    "brighton_classification": "1 4",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325490.pdf"
+    }
+  },
+  {
+    "no": 28540,
+    "age": 71,
+    "gender": "男性",
+    "vaccinated_date": "2022/08/05",
+    "onset_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "days_to_onset": "不明",
+    "vaccine_name": "スパイクバックス筋注",
+    "manufacturer": "モデルナ",
+    "lot_no": "不明",
+    "vaccinated_times": "4回目",
+    "pre_existing_disease_names": [
+      "末期腎疾患",
+      "血液透析",
+      "ＩｇＡ腎症"
+    ],
+    "PT_names": [
+      "心膜炎",
+      "心タンポナーデ"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "回復",
+      "回復"
+    ],
+    "evaluated_PT": "心膜炎",
+    "evaluated_result": "γ",
+    "brighton_classification": "2",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325490.pdf"
+    }
+  },
+  {
+    "no": 28598,
+    "age": 22,
+    "gender": "男性",
+    "vaccinated_date": "2022/09/08",
+    "onset_dates": [
+      "2022/09/09"
+    ],
+    "days_to_onset": "1",
+    "vaccine_name": "スパイクバックス筋注",
+    "manufacturer": "モデルナ",
+    "lot_no": "不明",
+    "vaccinated_times": "4回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心膜炎"
+    ],
+    "gross_result_dates": [
+      "2023/11/08"
+    ],
+    "gross_results": [
+      "回復"
+    ],
+    "evaluated_PT": "心膜炎",
+    "evaluated_result": "γ",
+    "brighton_classification": "4",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325490.pdf"
+    }
+  },
+  {
+    "no": 28601,
+    "age": 19,
+    "gender": "男性",
+    "vaccinated_date": "2022/07/12",
+    "onset_dates": [
+      "2022/07/14"
+    ],
+    "days_to_onset": "2",
+    "vaccine_name": "スパイクバックス筋注",
+    "manufacturer": "モデルナ",
+    "lot_no": "000234A",
+    "vaccinated_times": "3回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心膜炎"
+    ],
+    "gross_result_dates": [
+      "2022/07/21"
+    ],
+    "gross_results": [
+      "回復"
+    ],
+    "evaluated_PT": "心膜炎",
+    "evaluated_result": "γ",
+    "brighton_classification": "4",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325490.pdf"
+    }
+  },
+  {
+    "no": 28605,
+    "age": 23,
+    "gender": "男性",
+    "vaccinated_date": "2022/04/03",
+    "onset_dates": [
+      "2022/04/05"
+    ],
+    "days_to_onset": "2",
+    "vaccine_name": "スパイクバックス筋注",
+    "manufacturer": "モデルナ",
+    "lot_no": "000017A",
+    "vaccinated_times": "3回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心膜炎"
+    ],
+    "gross_result_dates": [
+      "2022/05/10"
+    ],
+    "gross_results": [
+      "回復"
+    ],
+    "evaluated_PT": "心膜炎",
+    "evaluated_result": "γ",
+    "brighton_classification": "2",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325490.pdf"
+    }
+  },
+  {
+    "no": 28610,
+    "age": 37,
+    "gender": "男性",
+    "vaccinated_date": "2022/03/12",
+    "onset_dates": [
+      "2022/03/17",
+      "2022/03/17"
+    ],
+    "days_to_onset": "5",
+    "vaccine_name": "スパイクバックス筋注",
+    "manufacturer": "モデルナ",
+    "lot_no": "不明",
+    "vaccinated_times": "3回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心膜炎",
+      "胸痛"
+    ],
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "軽快",
+      "軽快"
+    ],
+    "evaluated_PT": "心膜炎",
+    "evaluated_result": "γ",
+    "brighton_classification": "2",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325490.pdf"
+    }
+  },
+  {
+    "no": 28618,
+    "age": 42,
+    "gender": "女性",
+    "vaccinated_date": "2022/2/25",
+    "onset_dates": [
+      "2022/3/3",
+      "2022/3/3"
+    ],
+    "days_to_onset": "6",
+    "vaccine_name": "スパイクバックス筋注",
+    "manufacturer": "モデルナ",
+    "lot_no": "不明",
+    "vaccinated_times": "3回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心筋炎",
+      "心膜炎"
+    ],
+    "gross_result_dates": [
+      "2022/3/6",
+      "2022/3/6"
+    ],
+    "gross_results": [
+      "回復",
+      "回復"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ\r\nγ",
+    "brighton_classification": "4\r\n4",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325490.pdf"
+    }
+  },
+  {
+    "no": 28619,
+    "age": 21,
+    "gender": "男性",
+    "vaccinated_date": "2022/4/16",
+    "onset_dates": [
+      "2022/04/17",
+      "2022/04/17"
+    ],
+    "days_to_onset": "1",
+    "vaccine_name": "スパイクバックス筋注",
+    "manufacturer": "モデルナ",
+    "lot_no": "不明",
+    "vaccinated_times": "3回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心筋炎",
+      "心膜炎"
+    ],
+    "gross_result_dates": [
+      "2022/08/30",
+      "2022/08/30"
+    ],
+    "gross_results": [
+      "回復",
+      "回復"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ\r\nγ",
+    "brighton_classification": "4\r\n2",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325490.pdf"
+    }
+  },
+  {
+    "no": 28634,
+    "age": 50,
+    "gender": "女性",
+    "vaccinated_date": "2022/2/27",
+    "onset_dates": [
+      "2022/2/28"
+    ],
+    "days_to_onset": "1",
+    "vaccine_name": "スパイクバックス筋注",
+    "manufacturer": "モデルナ",
+    "lot_no": "不明",
+    "vaccinated_times": "1回目",
+    "pre_existing_disease_names": [
+      "関節リウマチ",
+      "高血圧"
+    ],
+    "PT_names": [
+      "心膜炎"
+    ],
+    "gross_result_dates": [
+      "2022/3/10"
+    ],
+    "gross_results": [
+      "回復"
+    ],
+    "evaluated_PT": "心膜炎",
+    "evaluated_result": "γ",
+    "brighton_classification": "2",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325490.pdf"
+    }
+  },
+  {
+    "no": 28637,
+    "age": 29,
+    "gender": "女性",
+    "vaccinated_date": "2022/4/20",
+    "onset_dates": [
+      "2022/4/21"
+    ],
+    "days_to_onset": "1",
+    "vaccine_name": "スパイクバックス筋注",
+    "manufacturer": "モデルナ",
+    "lot_no": "不明",
+    "vaccinated_times": "3回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心膜炎"
+    ],
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "回復"
+    ],
+    "evaluated_PT": "心膜炎",
+    "evaluated_result": "γ",
+    "brighton_classification": "3",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325490.pdf"
+    }
+  },
+  {
+    "no": 28679,
+    "age": 27,
+    "gender": "男性",
+    "vaccinated_date": "2021/8/10",
+    "onset_dates": [
+      "2021/08/13",
+      "2021/08/13"
+    ],
+    "days_to_onset": "3",
+    "vaccine_name": "スパイクバックス筋注",
+    "manufacturer": "モデルナ",
+    "lot_no": "不明",
+    "vaccinated_times": "2回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心筋炎",
+      "心膜炎"
+    ],
+    "gross_result_dates": [
+      "2024/02/22",
+      "2024/02/22"
+    ],
+    "gross_results": [
+      "回復",
+      "回復"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ\r\nγ",
+    "brighton_classification": "1\r\n2",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325490.pdf"
+    }
+  },
+  {
+    "no": 28805,
+    "age": 28,
+    "gender": "男性",
+    "vaccinated_date": "2023/2/22",
+    "onset_dates": [
+      "2023/02/25",
+      "2023/02/25"
+    ],
+    "days_to_onset": "3",
+    "vaccine_name": "スパイクバックス筋注(2価:起源株/オミクロン株BA.4-5)",
+    "manufacturer": "モデルナ",
+    "lot_no": "400089A",
+    "vaccinated_times": "3回目",
+    "pre_existing_disease_names": [
+      "報告なし"
+    ],
+    "PT_names": [
+      "心筋炎",
+      "心膜炎"
+    ],
+    "gross_result_dates": [
+      "2023/03/04",
+      "2023/03/04"
+    ],
+    "gross_results": [
+      "回復",
+      "回復"
+    ],
+    "evaluated_PT": "心筋炎\n心膜炎",
+    "evaluated_result": "γ\r\nγ",
+    "brighton_classification": "4\r\n3",
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325490.pdf"
+    }
+  }
+]

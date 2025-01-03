@@ -1,41 +1,31 @@
 {
   "carditis_summary": {
-    "date": "2024/07/29",
-    "total": 705,
-    "myocarditis": 545,
-    "pericarditis": 160,
+    "date": "2024/10/25",
+    "total": 803,
+    "myocarditis": 617,
+    "pericarditis": 186,
     "source": {
-      "name": "第102回厚生科学審議会予防接種・ワクチン分科会副反応検討部会",
-      "url": "https://www.mhlw.go.jp/stf/shingi2/newpage_00106.html"
+      "name": "第104回厚生科学審議会予防接種・ワクチン分科会副反応検討部会",
+      "url": "https://www.mhlw.go.jp/stf/shingi2/newpage_00109.html"
     }
   },
   "carditis_issues": {
-    "date": "2024/04/21",
+    "date": "2024/08/04",
     "issues_with_vaccine_name": [
       {
         "vaccine_name": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)",
-        "myocarditis_count": 7,
-        "pericarditis_count": 1
-      },
-      {
-        "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.1)",
-        "myocarditis_count": 4,
-        "pericarditis_count": 3
-      },
-      {
-        "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
-        "myocarditis_count": 20,
-        "pericarditis_count": 6
-      },
-      {
-        "vaccine_name": "コミナティ筋注",
-        "myocarditis_count": 312,
-        "pericarditis_count": 106
-      },
-      {
-        "vaccine_name": "コミナティ筋注5~11歳用",
-        "myocarditis_count": 7,
+        "myocarditis_count": 8,
         "pericarditis_count": 2
+      },
+      {
+        "vaccine_name": "スパイクバックス筋注 (1価:オミクロン株XBB.1.5)",
+        "myocarditis_count": 1,
+        "pericarditis_count": 0
+      },
+      {
+        "vaccine_name": "ヌバキソビッド筋注",
+        "myocarditis_count": 2,
+        "pericarditis_count": 0
       },
       {
         "vaccine_name": "コミナティ筋注5~11歳用(1価:オミクロン株XBB.1.5)",
@@ -43,14 +33,29 @@
         "pericarditis_count": 0
       },
       {
-        "vaccine_name": "スパイクバックス筋注",
-        "myocarditis_count": 189,
-        "pericarditis_count": 42
+        "vaccine_name": "コミナティ筋注6ヵ月~4歳用(1価:オミクロン株XBB.1.5)",
+        "myocarditis_count": 0,
+        "pericarditis_count": 0
       },
       {
-        "vaccine_name": "スパイクバックス筋注(1価:オミクロン株XBB.1.5)",
+        "vaccine_name": "ダイチロナ筋注(1価:オミクロン株XBB.1.5)",
         "myocarditis_count": 1,
         "pericarditis_count": 0
+      },
+      {
+        "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.1)",
+        "myocarditis_count": 8,
+        "pericarditis_count": 4
+      },
+      {
+        "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
+        "myocarditis_count": 22,
+        "pericarditis_count": 9
+      },
+      {
+        "vaccine_name": "スパイクバックス筋注",
+        "myocarditis_count": 213,
+        "pericarditis_count": 51
       },
       {
         "vaccine_name": "スパイクバックス筋注(2価:起源株/オミクロン株BA.1)",
@@ -59,46 +64,64 @@
       },
       {
         "vaccine_name": "スパイクバックス筋注(2価:起源株/オミクロン株BA.4-5)",
-        "myocarditis_count": 1,
+        "myocarditis_count": 3,
+        "pericarditis_count": 1
+      },
+      {
+        "vaccine_name": "コミナティ筋注5~11歳用",
+        "myocarditis_count": 7,
+        "pericarditis_count": 2
+      },
+      {
+        "vaccine_name": "コミナティ筋注5~11歳用(2価:起源株/オミクロン株BA.4-5)",
+        "myocarditis_count": 0,
         "pericarditis_count": 0
       },
       {
-        "vaccine_name": "ヌバキソビッド筋注",
-        "myocarditis_count": 2,
+        "vaccine_name": "コミナティ筋注6ヵ月~4歳用",
+        "myocarditis_count": 0,
         "pericarditis_count": 0
       }
     ],
     "issues_m_by_manufacturers": [
       {
-        "manufacturer": "ファイザー株式会社",
-        "count": 351
+        "manufacturer": "ファイザー",
+        "count": 396
       },
       {
-        "manufacturer": "モデルナ・ジャパン株式会社",
-        "count": 192
+        "manufacturer": "モデルナ",
+        "count": 218
       },
       {
         "manufacturer": "ノババックス／武田",
         "count": 2
+      },
+      {
+        "manufacturer": "第一三共",
+        "count": 1
       }
     ],
     "issues_p_by_manufacturers": [
       {
-        "manufacturer": "ファイザー株式会社",
-        "count": 118
+        "manufacturer": "ファイザー",
+        "count": 134
       },
       {
-        "manufacturer": "モデルナ・ジャパン株式会社",
-        "count": 42
+        "manufacturer": "モデルナ",
+        "count": 52
       },
       {
         "manufacturer": "ノババックス／武田",
         "count": 0
+      },
+      {
+        "manufacturer": "第一三共",
+        "count": 0
       }
     ],
     "issues_by_ages": {
-      "ages_count": 667,
-      "unknown_ages_count": 38,
+      "ages_count": 759,
+      "unknown_ages_count": 44,
       "issues": [
         {
           "x": "0代",
@@ -106,19 +129,19 @@
         },
         {
           "x": "10代",
-          "y": 216
+          "y": 240
         },
         {
           "x": "20代",
-          "y": 168
+          "y": 198
         },
         {
           "x": "30代",
-          "y": 60
+          "y": 70
         },
         {
           "x": "40代",
-          "y": 35
+          "y": 44
         },
         {
           "x": "50代",
@@ -126,19 +149,19 @@
         },
         {
           "x": "60代",
-          "y": 30
+          "y": 35
         },
         {
           "x": "70代",
-          "y": 53
+          "y": 60
         },
         {
           "x": "80代",
-          "y": 47
+          "y": 53
         },
         {
           "x": "90代",
-          "y": 17
+          "y": 18
         }
       ]
     }
