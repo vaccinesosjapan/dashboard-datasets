@@ -1,10 +1,22 @@
-settings: [
-  {
-    manufacturer: 'ノババックス／武田',
-    name: 'ヌバキソビッド筋注',
-    file: '001280767.csv',
-    output: '001280767.json',
-    pages: '',
-    script-version: ex1
-  }
-]
+# 心筋炎/心膜炎の報告一覧の表が掲載されているページを指定する設定ファイルです。
+# 
+#  name: ワクチンの名称
+#  file_id: 情報抽出に使うPDFファイルのIDを記載します
+#  pages: 情報を抽出する対象の表が掲載されているページ
+#   例） 1,2,5ページを指定する場合  pages: '1,2,5'
+#   例） 10ページから13ページを指定する場合  pages: '10-13'
+#   例） 27ページ以降の全ページを指定する場合  pages: '27-end'
+#  symptoms: myocarditis or pericarditis
+#  count: symptoms で記載した症状に関して、PDFから抽出されると想定される件数
+#  source: 使用するPDFが扱われている審議会の名称と、PDFのURL
+#
+
+name: 'ヌバキソビッド筋注'
+file_id: '001321072'
+pages: '7'
+symptoms: 'myocarditis'
+count: '2'
+source: {
+  name: '第104回',
+  url: 'https://www.mhlw.go.jp/content/11120000/001321072.pdf'
+}
