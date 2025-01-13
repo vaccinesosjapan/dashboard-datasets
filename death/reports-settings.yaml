@@ -8,15 +8,17 @@
 #   例） 27ページ以降の全ページを指定する場合  pages: '27-end'
 #  symptoms: myocarditis or pericarditis
 #  count: symptoms で記載した症状に関して、PDFから抽出されると想定される件数
+#  has_vaccinated_times: 'true' または 'false'
 #  source: 使用するPDFが扱われている審議会の名称と、PDFのURL
 #
 
-name: 'ヌバキソビッド筋注'
-file_id: '001321072'
-pages: '7'
-symptoms: 'myocarditis'
-count: '2'
+manufacturer: 'ファイザー'
+vaccine_name: 'コミナティRTU筋注（1価：オミクロン株XBB.1.5）'
+file_id: '001320852'
+pages: '2-11'
+count: '40'
+has_vaccinated_times: 'false'
 source: {
   name: '第104回',
-  url: 'https://www.mhlw.go.jp/content/11120000/001321072.pdf'
+  url: 'https://www.mhlw.go.jp/content/11120000/001320852.pdf'
 }

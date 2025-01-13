@@ -8,5 +8,5 @@ pdf_file_name = f'{settings["file_id"]}.pdf'
 
 os.chdir('scripts')
 print(f'{settings["name"]} のデータを "{pdf_file_name}" から抽出中\n\n', end='', flush=True)
-subprocess.run([ "python", f"extract-pdf-to-csv.py", pdf_file_name, settings['pages'], settings['symptoms'] ])
+subprocess.run([ "python", f"extract-pdf-to-csv.py", pdf_file_name, settings['pages'] ])
 print()

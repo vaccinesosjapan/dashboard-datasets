@@ -1,5 +1,5 @@
 # %%
-import os, re, unicodedata, json, sys
+import os, unicodedata, json, sys
 import pandas as pd
 
 # スクリプトをエクスポートした際に調整が必要な各種パス情報
@@ -8,8 +8,6 @@ csv_file_name = sys.argv[1]
 expected_issue_count = int(sys.argv[2])
 json_folder = os.path.join('..', 'reports-data')
 json_file_name = sys.argv[3]
-source_name = sys.argv[4]
-source_url = sys.argv[5]
 
 csv_file_path = os.path.join(csv_folder, csv_file_name)
 df = pd.read_csv(csv_file_path, delimiter=',')
@@ -25,36 +23,6 @@ age_is_number_df.loc[:, 'age'] = age_is_number_df['age'].map(lambda x: int(x.rep
 df.loc[age_is_number_df.index, 'age'] = age_is_number_df
 
 # %%
-# 全角のかっこ（）に囲まれたPT名だけを抽出し、各行にPT名の配列を格納したSeriesを取得する
-regex = re.compile('(?<=（).+?(?=\）)')
-split_PT_names_series = df['PT_names'].map(lambda x: regex.findall(x.replace('\r\n', '')))
-df.loc[split_PT_names_series.index, 'PT_names'] = split_PT_names_series
-
-# %%
-s1 = df['onset_dates'].str.replace(' ', '')
-s2 = s1.str.replace('\r\n', '\n').str.split('\n')
-
-# %%
-if df['days_to_onset'].dtype != type(str):
-	print('days_to_onset 列が数字のみのため文字列型に変更します')
-	df['days_to_onset'] = df['days_to_onset'].astype(str)
-
-# %%
-# 改行を除去して配列にする処理と、Windowsの改行（\r\n）を（\n）に変換する処理
-df.loc[:, 'onset_dates'] = df['onset_dates'].str.replace(' ', '').str.replace('\r\n', '\n').str.split('\n')
-df.loc[:, 'days_to_onset'] = df['days_to_onset'].str.replace('\r\n', '\n')
-df.loc[:, 'vaccine_name'] = df['vaccine_name'].str.replace('\r\n', '\n')
-df.loc[:, 'manufacturer'] = df['manufacturer'].str.replace('\r\n', '\n')
-df.loc[:, 'lot_no'] = df['lot_no'].str.replace('\r\n', '\n')
-df.loc[:, 'vaccinated_times'] = df['vaccinated_times'].str.replace('\r\n', '\n')
-df.loc[:, 'pre_existing_disease_names'] = df['pre_existing_disease_names'].str.replace(' ', '').str.replace('\r\n', '\n').str.split(';\n')
-df.loc[:, 'gross_result_dates'] = df['gross_result_dates'].str.replace(' ', '').str.replace('\r\n', '\n').str.split('\n')
-df.loc[:, 'gross_results'] = df['gross_results'].str.replace(' ', '').str.replace('\r\n', '\n').str.split('\n')
-df.loc[:, 'evaluated_PT'] = df['evaluated_PT'].str.replace('\r\n', '\n')
-df.loc[:, 'expert_opinion'] = df['expert_opinion'].str.replace('\r\n', '').str.replace('\n', '')
-df.loc[:, 'remarks'] = df['remarks'].str.replace('\r\n', '\n').str.replace('\n', '')
-
-# %%
 # ワクチン名に全角の数字が含まれていて検索が困難にあるなど弊害があるため、大文字小文字などの違いも対象に正規化
 df.loc[:, 'vaccine_name'] = df['vaccine_name'].map(lambda x: unicodedata.normalize("NFKC", x))
 
@@ -66,13 +34,34 @@ if result_issue_count != expected_issue_count:
 	print()
 
 # %%
-# ソースの情報を一覧に追加する
-source_array = [{ "name": source_name, "url": source_url }] * df.shape[0]
-df['source'] = source_array
+df['id'] = df['vaccine_name'].str.cat(df['no'].astype(str), sep='-')
+
+# %%
+fixed_df = df.copy()
+fixed_df = fixed_df.rename(columns={'vaccinated_date': 'vaccinated_dates'})
+fixed_df = fixed_df.rename(columns={'onset_date': 'onset_dates'})
+fixed_df = fixed_df.rename(columns={'pre_existing_disease_names': 'pre_existing_conditions'})
+fixed_df = fixed_df.rename(columns={'comment': 'comments_by_expert'})
+
+fixed_df.loc[:, 'vaccinated_dates'] = fixed_df['onset_dates'].str.replace('年', '/').str.replace('月', '/').str.replace('日', '').str.replace('/$', '', regex=True)
+fixed_df.loc[:, 'onset_dates'] = fixed_df['onset_dates'].str.replace('年', '/').str.replace('月', '/').str.replace('日', '').str.replace('/$', '', regex=True).str.replace('\r\n', '\n').str.split('\n')
+fixed_df.loc[:, 'comments_by_expert'] = fixed_df['comments_by_expert'].str.replace('\r\n', '\n').str.replace('\n', '')
+
+fixed_df = fixed_df.drop('reported_desc', axis=1)
+fixed_df = fixed_df.drop('possible_presence_of_other_factors', axis=1)
+fixed_df = fixed_df.drop('causal_relationship_by_expert_previous', axis=1)
+fixed_df = fixed_df.drop('comment_previous', axis=1)
+fixed_df = fixed_df.drop('document_no', axis=1)
+fixed_df = fixed_df.drop('case_no', axis=1)
+
+# %%
+if not 'vaccinated_times' in fixed_df.columns:
+	lot_no_column_index = fixed_df.columns.get_loc('lot_no')
+	fixed_df.insert(lot_no_column_index + 1, 'vaccinated_times', '')
 
 # %%
 # 日付のスラッシュがエスケープされないようにするため、json.dumpsを使って文字列化する
-df_dict = df.to_dict("records")
+df_dict = fixed_df.to_dict("records")
 df_string = json.dumps(df_dict, ensure_ascii=False, indent=2)
 
 json_file_path = os.path.join(json_folder, json_file_name)

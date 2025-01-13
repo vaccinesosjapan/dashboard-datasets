@@ -1,6 +1,33 @@
-# 集計方法
+# Death issues
 
-## 亡くなった方々に関する症例の集計
+製造販売業者が発表した新型コロナウイルスワクチンに関する副反応疑い報告のうち、亡くなった方々に関して`専門家`が評価を行った結果の症例一覧を扱うフォルダです。
+
+## 準備
+
+1. `death-table.csv`に使用するPDFの情報などをまとめる。
+1. 各PDFの冒頭に掲載されている心筋炎/心膜炎の件数を`expected-issues.csv`にまとめる。
+1. 検討部会に関する情報を`metadata.yaml`に記載する。
+
+## 報告一覧の抽出
+
+以下の手順で行う。
+
+1. `reports-settings.yaml`に、特定のPDFの情報を記載する。
+1. PDFからCSVファイルにデータ抽出する（`pdf-files`から`intermediate-files`へ）。
+    * python _1-extract-pdf-to-csv.py
+1. CSVファイルの列ヘッダ部分を手作業で整える
+    * 2段組みにしている箇所があり、プログラムでの整形が困難なため。
+    * 整形完了したら`*-pre.csv`ファイルに保存する
+1. プログラムで表形式データの整形を行う（列とデータの対応がおかしい箇所への対応など）。
+    * python _2-standardize-csv.py
+    * `intermediate-files`フォルダに、`*-converted.csv`ファイルが作られる
+1. プログラムでは対応が難しい表崩れを`手作業`で整形する。
+    * `*-converted.csv`ファイルをExcelなどで開き、手作業で表形式がおかしい箇所のデータを整形する。
+    * 整形完了したら`*-manually-fixed.csv`ファイルに保存する。
+1. 最終的な整形を行ってJSONデータを出力する（`intermediate-files`から`reports-files`へ）。
+    * python _3-save-to-json.py
+
+（以降は古い手順、必要なければ削除する予定）
 
 ### データの抽出と修正
 
