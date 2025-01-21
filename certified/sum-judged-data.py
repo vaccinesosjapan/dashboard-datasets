@@ -22,7 +22,7 @@ for issue in certified_reports:
         repudiation_list.append(1)
 
 df_0 = pd.DataFrame({'Date': date_list, 'CertifiedCount': certified_list, 'RepudiationCount': repudiation_list})
-df = df_0.groupby('Date').agg(sum)
+df = df_0.groupby('Date').sum()
 df['CertifiedRate'] = round(df['CertifiedCount'] / (df['CertifiedCount'] + df['RepudiationCount']) * 100, 2)
 df['CertifiedCountSum'] = df['CertifiedCount'].cumsum()
 df['RepudiationCountSum'] = df['RepudiationCount'].cumsum()

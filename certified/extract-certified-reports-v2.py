@@ -46,11 +46,11 @@ try:
 		for index, cell in enumerate(row):
 			if isinstance(cell, float):
 				if math.isnan(cell):
-					row[index] = ''
+					row.iloc[index] = ''
 				else:
 					# 否認理由が区切り文字ピリオドだった場合にもここにくるため、int型への
 					# キャストは無しでstring型に変換する
-					row[index] = str(cell)
+					row.iloc[index] = str(cell)
 
 		gender = row['性別']
 		age = []
