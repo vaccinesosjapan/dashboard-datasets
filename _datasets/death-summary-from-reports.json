@@ -1,8 +1,8 @@
 {
   "death_summary_from_reports": {
-    "date": "2024/04/21",
-    "ages_count": 2161,
-    "unknown_ages_count": 32,
+    "date": "2024/08/04",
+    "ages_count": 2222,
+    "unknown_ages_count": 39,
     "sum_by_age": [
       {
         "x": "0代",
@@ -14,38 +14,38 @@
       },
       {
         "x": "20代",
-        "y": 47
+        "y": 48
       },
       {
         "x": "30代",
-        "y": 59
+        "y": 62
       },
       {
         "x": "40代",
-        "y": 82
+        "y": 85
       },
       {
         "x": "50代",
-        "y": 147
+        "y": 150
       },
       {
         "x": "60代",
-        "y": 218
+        "y": 228
       },
       {
         "x": "70代",
-        "y": 501
+        "y": 525
       },
       {
         "x": "80代",
-        "y": 698
+        "y": 710
       },
       {
         "x": "90代",
-        "y": 370
+        "y": 375
       },
       {
-        "x": "100代",
+        "x": "100歳以上",
         "y": 22
       }
     ],
@@ -53,108 +53,108 @@
       "top_ten_list": [
         {
           "lot_no": "EX3617",
-          "count": 77,
-          "manufacturer": "ファイザー株式会社"
+          "count": 80,
+          "manufacturer": "ファイザー"
         },
         {
           "lot_no": "FA5765",
-          "count": 57,
-          "manufacturer": "ファイザー株式会社"
+          "count": 59,
+          "manufacturer": "ファイザー"
         },
         {
           "lot_no": "FC3661",
           "count": 56,
-          "manufacturer": "ファイザー株式会社"
-        },
-        {
-          "lot_no": "EY2173",
-          "count": 51,
-          "manufacturer": "ファイザー株式会社"
+          "manufacturer": "ファイザー"
         },
         {
           "lot_no": "EY5420",
-          "count": 51,
-          "manufacturer": "ファイザー株式会社"
+          "count": 54,
+          "manufacturer": "ファイザー"
         },
         {
-          "lot_no": "FA2453",
-          "count": 47,
-          "manufacturer": "ファイザー株式会社"
+          "lot_no": "EY2173",
+          "count": 53,
+          "manufacturer": "ファイザー"
         },
         {
           "lot_no": "EW4811",
-          "count": 45,
-          "manufacturer": "ファイザー株式会社"
+          "count": 48,
+          "manufacturer": "ファイザー"
+        },
+        {
+          "lot_no": "FA2453",
+          "count": 48,
+          "manufacturer": "ファイザー"
         },
         {
           "lot_no": "EY0779",
-          "count": 41,
-          "manufacturer": "ファイザー株式会社"
-        },
-        {
-          "lot_no": "EY4834",
-          "count": 38,
-          "manufacturer": "ファイザー株式会社"
+          "count": 42,
+          "manufacturer": "ファイザー"
         },
         {
           "lot_no": "FA4597",
-          "count": 38,
-          "manufacturer": "ファイザー株式会社"
+          "count": 40,
+          "manufacturer": "ファイザー"
+        },
+        {
+          "lot_no": "FA7338",
+          "count": 39,
+          "manufacturer": "ファイザー"
         }
       ],
       "top_ten_list_moderna": [
         {
           "lot_no": "3005786",
           "count": 8,
-          "manufacturer": "モデルナ・ジャパン株式会社"
+          "manufacturer": "モデルナ"
         },
         {
           "lot_no": "3006279",
           "count": 8,
-          "manufacturer": "モデルナ・ジャパン株式会社"
+          "manufacturer": "モデルナ"
+        },
+        {
+          "lot_no": "000009A",
+          "count": 5,
+          "manufacturer": "モデルナ"
         },
         {
           "lot_no": "000021A",
           "count": 5,
-          "manufacturer": "モデルナ・ジャパン株式会社"
+          "manufacturer": "モデルナ"
         },
         {
-          "lot_no": "000009A",
-          "count": 4,
-          "manufacturer": "モデルナ・ジャパン株式会社"
+          "lot_no": "000126A",
+          "count": 5,
+          "manufacturer": "モデルナ"
         },
         {
           "lot_no": "000018A",
           "count": 4,
-          "manufacturer": "モデルナ・ジャパン株式会社"
+          "manufacturer": "モデルナ"
+        },
+        {
+          "lot_no": "000020A",
+          "count": 4,
+          "manufacturer": "モデルナ"
         },
         {
           "lot_no": "000028A",
           "count": 4,
-          "manufacturer": "モデルナ・ジャパン株式会社"
-        },
-        {
-          "lot_no": "000126A",
-          "count": 4,
-          "manufacturer": "モデルナ・ジャパン株式会社"
+          "manufacturer": "モデルナ"
         },
         {
           "lot_no": "3004734",
           "count": 4,
-          "manufacturer": "モデルナ・ジャパン株式会社"
+          "manufacturer": "モデルナ"
         },
         {
-          "lot_no": "000020A",
-          "count": 3,
-          "manufacturer": "モデルナ・ジャパン株式会社"
-        },
-        {
-          "lot_no": "000025A",
-          "count": 3,
-          "manufacturer": "モデルナ・ジャパン株式会社"
+          "lot_no": "710011A",
+          "count": 4,
+          "manufacturer": "モデルナ"
         }
       ],
-      "invalid_count": 611
+      "invalid_count": 584
     }
   }
 }

@@ -1,0 +1,19 @@
+#
+# 製造販売業の副反応疑い報告のうち、心筋炎/心膜炎の症例に対して専門家の評価などが
+# 行われた一覧の集計結果を照合するためのメタデータを記載する。
+#
+# summary: サマリ情報に関して
+#  commission_of_inquiry_date: 審議会の日付を記載する。
+#  data_end_date: 症例一覧がいつまでの集計なのかを示す日付。P1の「集計期間」を参照。公開データの日付よりも前の場合が多いので注意。
+#  source: 審議会の名称やURLを記載する。
+#
+{
+  metadata: {
+    commission_of_inquiry_date: '2024/10/25',
+    data_end_date: '2024/08/04',
+    source: {
+      name: '第104回厚生科学審議会予防接種・ワクチン分科会副反応検討部会',
+      url: 'https://www.mhlw.go.jp/stf/shingi2/newpage_00109.html',
+    },
+  },
+}

@@ -1,0 +1,113 @@
+[
+  {
+    "no": 1,
+    "manufacturer": "モデルナ",
+    "vaccine_name": "スパイクバックス筋注(2価:起源株/オミクロン株BA.1)",
+    "age": 90,
+    "gender": "男",
+    "vaccinated_dates": "2022/11/29",
+    "onset_dates": [
+      "2022/11/29"
+    ],
+    "lot_no": "200040A",
+    "vaccinated_times": "3回目",
+    "pre_existing_conditions": "2022/11/14　3回目のワクチン接種。11/16　38.2度の発熱有り。カロナール内服。11/17再度発熱有り。来院。来院時血圧が63/42mmHgであり補液開始するも血圧上昇せず、血液検査WBC12300↑、CRP15.14↑AST133、ALT40、LDH1048、BUN40.5、Cre2.65、CK721、トロポニンT(+)、BNP1876.1 であり心電図でST-T異常(1，V1、V2,V4,V5,V6)が見られた。急性心不全により死亡に至ったケースだが、その原因として心筋炎あるいは急性心筋梗塞が不明であるものの可能性は否定できないと思われる。",
+    "PT_names": [
+      "急性心不全"
+    ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "年齢を考慮すると、COVIDワクチン後の心筋炎よりは、動脈硬化性の心筋梗塞が鑑別の上位に来る。どちらにしても情報が不十分である。※～1/26から変更なし。",
+    "id": "スパイクバックス筋注(2価:起源株/オミクロン株BA.1)-1"
+  },
+  {
+    "no": 2,
+    "manufacturer": "モデルナ",
+    "vaccine_name": "スパイクバックス筋注(2価:起源株/オミクロン株BA.1)",
+    "age": 95,
+    "gender": "女",
+    "vaccinated_dates": "2022/11/27",
+    "onset_dates": [
+      "2022/11/27"
+    ],
+    "lot_no": "200044A",
+    "vaccinated_times": "5回目",
+    "pre_existing_conditions": "基礎疾患：慢性呼吸不全慢性呼吸不全で在宅酸療法中で、11/27に集団接種会場に行き、5回目のコロナワクチンを11:13に接種。15分間の経過観察後11:55に帰宅するが、12:10",
+    "PT_names": [
+      "不明"
+    ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "ワクチン接種57分後に呼吸停止が起きたことは明瞭であり、死亡という転帰も明確です。ただし、その事象が起きた機序、経緯については年齢と基礎疾患が関与する可能性が大きく、ワクチンとの関係を判断することはできません。※～1/26から変更なし。",
+    "id": "スパイクバックス筋注(2価:起源株/オミクロン株BA.1)-2"
+  },
+  {
+    "no": 3,
+    "manufacturer": "モデルナ",
+    "vaccine_name": "スパイクバックス筋注(2価:起源株/オミクロン株BA.1)",
+    "age": 51,
+    "gender": "男",
+    "vaccinated_dates": "2022/11/20",
+    "onset_dates": [
+      "2022/11/20"
+    ],
+    "lot_no": "200074A",
+    "vaccinated_times": "4回目",
+    "pre_existing_conditions": "2022年11月19日午前中に本剤を4回目接種した。接種後特に体調不良の訴えなく帰宅した。その日の夜まで妻が連絡を取っていて変わりなかった。2022年11月20日朝、妻が本人と連絡がとれず警察に通報した。夜、警察が本人が死亡しているのを確認した。死亡時刻は2022年11月20日朝頃。",
+    "PT_names": [
+      "心筋梗塞"
+    ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "不明",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "死亡後に発見されており、心筋梗塞の診断根拠も記載なく、基礎疾患なしの根拠となる情報もなく、全体的に詳細不明です。※～1/26から変更なし。",
+    "id": "スパイクバックス筋注(2価:起源株/オミクロン株BA.1)-3"
+  },
+  {
+    "no": 4,
+    "manufacturer": "モデルナ",
+    "vaccine_name": "スパイクバックス筋注(2価:起源株/オミクロン株BA.1)",
+    "age": 87,
+    "gender": "男",
+    "vaccinated_dates": "2022/12/16",
+    "onset_dates": [
+      "2022/12/16"
+    ],
+    "lot_no": "不明",
+    "vaccinated_times": "5回目",
+    "pre_existing_conditions": "2022/11/25 本剤を5回目接種した。2022/11/27 心窩部痛と食欲不振となった。2022/11/30かかりつけ医へ受診し血液検査実施2022/12/2 血液検査で肝機能の悪化と筋酵素高値となり心筋炎疑いで入院となった。2022/12/8 心筋炎は否定されるも二次性血球貪食症候群の可能性とされた。2022/12/9 抗原検査にてCOVID-19陽性となった2022/12/15 転倒し頭部CTより悪性リンパ腫に続発二次性血球貪食症候群の可能性が示された。2022/12/16死亡。剖検は実施されなかった。",
+    "PT_names": [
+      "播種性血管内凝固",
+      "リンパ腫"
+    ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "不明",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "本症例の症状詳記では以下についての情報がないか不足しているーワクチン接種後に発現した自覚症状の経緯や原因、血液検査異常のワクチン接種前の値やその後の経過　　　血球貪食症候群、DIC、悪性リンパ腫等の診断根拠、COVID-19感染による症状、死亡時の状況等。従って本症例でワクチン接種後に発現した事象や死亡とワクチン接種との関係を評価することは困難である。※～1/26から変更なし。",
+    "id": "スパイクバックス筋注(2価:起源株/オミクロン株BA.1)-4"
+  },
+  {
+    "no": 5,
+    "manufacturer": "モデルナ",
+    "vaccine_name": "スパイクバックス筋注(2価:起源株/オミクロン株BA.1)",
+    "age": 81,
+    "gender": "女",
+    "vaccinated_dates": "2022/12/18",
+    "onset_dates": [
+      "2022/12/18"
+    ],
+    "lot_no": "200053A",
+    "vaccinated_times": "5回目",
+    "pre_existing_conditions": "R4.11.23午後0時30分　突然のめまいで発症。18時に病院来院。MRIにて心原性脳梗塞",
+    "PT_names": [
+      "不明"
+    ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "接種後２０日経過、それまでの臨床詳記ない。※～1/26から変更なし。",
+    "id": "スパイクバックス筋注(2価:起源株/オミクロン株BA.1)-5"
+  }
+]
