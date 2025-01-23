@@ -1,23 +1,23 @@
 {
   "death_summary": {
-    "date": "2024/07/29",
+    "date": "2024/10/25",
     "source": {
-      "name": "第102回厚生科学審議会予防接種・ワクチン分科会副反応検討部会",
-      "url": "https://www.mhlw.go.jp/stf/shingi2/newpage_00106.html"
+      "name": "第104回厚生科学審議会予防接種・ワクチン分科会副反応検討部会",
+      "url": "https://www.mhlw.go.jp/stf/shingi2/newpage_00109.html"
     },
     "sum_by_evaluation": {
-      "total": 2204,
+      "total": 2262,
       "alpha": 2,
       "beta": 11,
-      "gamma": 2191
+      "gamma": 2249
     },
     "sum_by_vaccine_name": [
       {
-        "vaccine_name": "コミナティRTU筋注（1価:オミクロン株XBB.1.5）",
+        "vaccine_name": "コミナティRTU筋注（1価：オミクロン株XBB.1.5）",
         "evaluations": {
           "alpha": 0,
           "beta": 0,
-          "gamma": 35
+          "gamma": 40
         }
       },
       {
@@ -25,11 +25,11 @@
         "evaluations": {
           "alpha": 2,
           "beta": 10,
-          "gamma": 1892
+          "gamma": 1933
         }
       },
       {
-        "vaccine_name": "コミナティ筋注5～11歳用",
+        "vaccine_name": "コミナティ筋注５～11歳用",
         "evaluations": {
           "alpha": 0,
           "beta": 0,
@@ -37,7 +37,15 @@
         }
       },
       {
-        "vaccine_name": "コミナティ筋注6ヵ月～4歳用",
+        "vaccine_name": "コミナティ筋注５～11歳用\r\n（1価：オミクロン株XBB.1.5）",
+        "evaluations": {
+          "alpha": 0,
+          "beta": 0,
+          "gamma": 0
+        }
+      },
+      {
+        "vaccine_name": "コミナティ筋注６ヵ月～４歳用",
         "evaluations": {
           "alpha": 0,
           "beta": 0,
@@ -45,19 +53,35 @@
         }
       },
       {
+        "vaccine_name": "コミナティ筋注６ヵ月～４歳用\r\n（1価：オミクロン株XBB.1.5）",
+        "evaluations": {
+          "alpha": 0,
+          "beta": 0,
+          "gamma": 0
+        }
+      },
+      {
         "vaccine_name": "スパイクバックス筋注",
         "evaluations": {
           "alpha": 0,
           "beta": 1,
-          "gamma": 243
+          "gamma": 253
         }
       },
       {
-        "vaccine_name": "スパイクバックス筋注（1価:オミクロン株XBB.1.5）",
+        "vaccine_name": "スパイクバックス筋注（1価：オミクロン株XBB.1.5）",
         "evaluations": {
           "alpha": 0,
           "beta": 0,
-          "gamma": 13
+          "gamma": 15
+        }
+      },
+      {
+        "vaccine_name": "ダイチロナ筋注\r\n（1価：オミクロン株XBB.1.5） ",
+        "evaluations": {
+          "alpha": 0,
+          "beta": 0,
+          "gamma": 0
         }
       },
       {
@@ -79,24 +103,28 @@
     ],
     "sum_by_manufacturer": [
       {
-        "manufacturer": "ファイザー株式会社",
-        "death_count": 1933
+        "manufacturer": "ファイザー",
+        "death_count": 1989
       },
       {
-        "manufacturer": "モデルナ・ジャパン株式会社",
-        "death_count": 256
+        "manufacturer": "モデルナ",
+        "death_count": 269
       },
       {
         "manufacturer": "ノババックス／武田",
         "death_count": 3
       },
       {
-        "manufacturer": "アストラゼネカ株式会社",
+        "manufacturer": "アストラゼネカ",
         "death_count": 1
+      },
+      {
+        "manufacturer": "第一三共",
+        "death_count": 0
       }
     ]
   },
   "death_issues": {
-    "date": "2024/04/21"
+    "date": "2024/08/04"
   }
 }

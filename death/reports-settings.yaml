@@ -1,24 +1,23 @@
-# 心筋炎/心膜炎の報告一覧の表が掲載されているページを指定する設定ファイルです。
+# 製造販売業者からの報告のうち、亡くなった方たちに関して「専門家」が評価を行った
+# 症例一覧の表が掲載されているページを指定する設定ファイルです。
 # 
-#  name: ワクチンの名称
+#  manufacturer: 製造販売業者
+#  vaccine_name: ワクチンの名称
 #  file_id: 情報抽出に使うPDFファイルのIDを記載します
+#    1つのPDFで複数のデータを抽出する必要がある場合、PDFのファイル名（001325483）とすると、
+#    末尾に「-{数字}」をつけて区別すると良い。
+#    例）file_idが「001325483-1」なら「001325483.pdf」を開くが、結果は「001325483-1.csv」に保存する。
 #  pages: 情報を抽出する対象の表が掲載されているページ
 #   例） 1,2,5ページを指定する場合  pages: '1,2,5'
 #   例） 10ページから13ページを指定する場合  pages: '10-13'
 #   例） 27ページ以降の全ページを指定する場合  pages: '27-end'
-#  symptoms: myocarditis or pericarditis
-#  count: symptoms で記載した症状に関して、PDFから抽出されると想定される件数
+#  count: PDFから抽出されると想定される症例の件数
 #  has_vaccinated_times: 'true' または 'false'
-#  source: 使用するPDFが扱われている審議会の名称と、PDFのURL
 #
 
 manufacturer: 'ファイザー'
-vaccine_name: 'コミナティRTU筋注（1価：オミクロン株XBB.1.5）'
-file_id: '001320852'
-pages: '2-11'
-count: '40'
-has_vaccinated_times: 'false'
-source: {
-  name: '第104回',
-  url: 'https://www.mhlw.go.jp/content/11120000/001320852.pdf'
-}
+vaccine_name: 'コミナティ筋注６ヵ月～４歳用'
+file_id: '001325488'
+pages: '3'
+count: '1'
+has_vaccinated_times: 'true'

@@ -1,6 +1,7 @@
 # %%
 import os, unicodedata, json, sys
 import pandas as pd
+import ast
 
 # スクリプトをエクスポートした際に調整が必要な各種パス情報
 csv_folder = os.path.join('..', 'intermediate-files')
@@ -46,6 +47,9 @@ fixed_df = fixed_df.rename(columns={'comment': 'comments_by_expert'})
 fixed_df.loc[:, 'vaccinated_dates'] = fixed_df['onset_dates'].str.replace('年', '/').str.replace('月', '/').str.replace('日', '').str.replace('/$', '', regex=True)
 fixed_df.loc[:, 'onset_dates'] = fixed_df['onset_dates'].str.replace('年', '/').str.replace('月', '/').str.replace('日', '').str.replace('/$', '', regex=True).str.replace('\r\n', '\n').str.split('\n')
 fixed_df.loc[:, 'comments_by_expert'] = fixed_df['comments_by_expert'].str.replace('\r\n', '\n').str.replace('\n', '')
+
+# PT_namesには、 "['A, 'B', 'C']" というような文字列が入ってしまっているので、astを使って配列として取り出す
+fixed_df.loc[:, 'PT_names'] = fixed_df['PT_names'].map(lambda x: ast.literal_eval(x))
 
 fixed_df = fixed_df.drop('reported_desc', axis=1)
 fixed_df = fixed_df.drop('possible_presence_of_other_factors', axis=1)

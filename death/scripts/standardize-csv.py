@@ -1,5 +1,5 @@
 # %%
-import os, re, sys
+import os, re, math, sys
 import pandas as pd
 from distutils.util import strtobool
 
@@ -11,7 +11,7 @@ vaccine_name = sys.argv[3]
 has_vaccinated_times = bool(strtobool(sys.argv[4]))
 
 csv_file_path = os.path.join(csv_folder, csv_file_name)
-original_df = pd.read_csv(csv_file_path, encoding='utf-8')
+original_df = pd.read_csv(csv_file_path)
 
 # %%
 # 列の調整。PDFから読み取った内容によっては列の数などが変動して、ここの処理を変える必要があるかも。
@@ -33,9 +33,11 @@ number_df = df[df['no'].notna()]
 # データも後の行に分散してしまっているデータと思われるので、手作業で修正するようログを残す。
 need_manually_fix_df = number_df[number_df['causal_relationship_by_expert'].isna()]
 if not need_manually_fix_df.empty:
+	print('以下のデータは、後続の行にデータが分散していると思われます。手作業で修正してください。')
 	for index, row in need_manually_fix_df.iterrows():
-		number = row['no']
-		print(f'Index {index}, No {number} のデータは、後続の行にデータが分散していると思われます。手作業で修正してください。')
+		number = f'{row["no"]}'.replace('\r\n', '\n').replace('\n', '')
+		print(f'- Index: {index}, No: {number}')
+	print()
 
 # %%
 # マージした行のインデックスを保持して後ほどdrop処理に使う
@@ -58,8 +60,16 @@ for index, _ in number_df.iterrows():
 		number_df.at[previous_index, 'PT_names'] = pt_names
 	else:
 		# マージ不要なケース、PT_namesの内容を配列に変更する
-		pt_name = [ number_df.loc[previous_index, 'PT_names'] ]
-		number_df.at[previous_index, 'PT_names'] = pt_name
+		pt_name = number_df.loc[previous_index, 'PT_names']
+		if type(pt_name) == float:
+			number_value = f'{number_df.loc[previous_index, "no"]}'.replace('\r\n', '\n').replace('\n', '')
+			if math.isnan(pt_name):
+				print(f'Index {previous_index}, No {number_value} は、PT_namesがNanです。手作業による修正が必要です。')
+			else:
+				print(f'Index {previous_index}, No {number_value} は、PT_namesがfloatです。手作業による修正が必要です。')
+		else:
+			pt_names = pt_name.replace('\r\n', '\n').split('\n')
+			number_df.at[previous_index, 'PT_names'] = pt_names
 
 	previous_index = index
 
@@ -84,8 +94,16 @@ elif last_index > previous_index:
 	number_df.at[previous_index, 'PT_names'] = pt_names
 else:
 	# マージ不要なケース、PT_namesの内容を配列に変更する
-	pt_name = [ number_df.loc[previous_index, 'PT_names'] ]
-	number_df.at[previous_index, 'PT_names'] = pt_name
+	pt_name = number_df.loc[previous_index, 'PT_names']
+	if type(pt_name) == float:
+		number_value = f'{number_df.loc[previous_index, "no"]}'.replace('\r\n', '\n').replace('\n', '')
+		if math.isnan(pt_name):
+			print(f'Index {previous_index}, No {number_value} は、PT_namesがNanです。手作業による修正が必要です。')
+		else:
+			print(f'Index {previous_index}, No {number_value} は、PT_namesがfloatです。手作業による修正が必要です。')
+	else:
+		pt_names = pt_name.replace('\r\n', '\n').split('\n')
+		number_df.at[previous_index, 'PT_names'] = pt_names
 
 # %%
 # 元の症例一覧には製造販売業者やワクチン名が記載されていないので、引数でもらった情報を使って列を追加する
@@ -95,9 +113,20 @@ df.insert(2, column='vaccine_name', value=vaccine_name)
 
 # %%
 fixed_df = df.drop(merged_index)
-fixed_df['no'] = fixed_df['no'].fillna(-1)
-fixed_df.loc[number_df.index, 'no'] = number_df['no']
-fixed_df['no'] = fixed_df['no'].astype(int)
+
+# %%
+float_no_series = pd.to_numeric(fixed_df['no'], errors='coerce')
+no_nan_series = float_no_series[float_no_series.isna()]
+if no_nan_series.count() > 0:
+	print('以下のデータは、No列の値を数値に変換できません。手作業で修正してください。')
+	for index in no_nan_series.index:
+		no_value = f'{fixed_df.loc[index, "no"]}'.replace('\r\n', '\n').replace('\n', '')
+		print(f'Index: {index}, No: "{no_value}"')
+
+int_no_series = float_no_series[float_no_series.notna()].astype(int)
+fixed_df.loc[int_no_series.index, 'no'] = int_no_series
+
+# %%
 fixed_df.loc[number_df.index, 'PT_names'] = number_df['PT_names']
 
 # %%

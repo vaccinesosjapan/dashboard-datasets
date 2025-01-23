@@ -1,0 +1,86 @@
+# 各PDFの抽出条件を保管しておくファイル
+# 
+
+manufacturer: 'ファイザー'
+vaccine_name: 'コミナティRTU筋注（1価：オミクロン株XBB.1.5）'
+file_id: '001320852'
+pages: '2-11'
+count: '40'
+has_vaccinated_times: 'false'
+
+manufacturer: 'モデルナ'
+vaccine_name: 'スパイクバックス筋注（1価：オミクロン株XBB.1.5）'
+file_id: '001321065'
+pages: '2-8'
+count: '15'
+has_vaccinated_times: 'false'
+
+manufacturer: 'ノババックス／武田'
+vaccine_name: 'ヌバキソビッド筋注'
+file_id: '001321066'
+pages: '2-3'
+count: '3'
+has_vaccinated_times: 'false'
+
+# 001321067 は 0件 のため処理しない
+# 001321068 も同様
+
+# コミナティ
+manufacturer: 'ファイザー'
+vaccine_name: 'コミナティ筋注'
+file_id: '001325481'
+pages: '4-309'
+count: '1814' # 症例を抽出した結果は1813にしかならない
+has_vaccinated_times: 'true'
+
+manufacturer: 'ファイザー'
+vaccine_name: 'コミナティRTU筋注（２価：起源株/オミクロン株BA.１）'
+file_id: '001325481-2'
+pages: '310-312'
+count: '10'
+has_vaccinated_times: 'true'
+
+manufacturer: 'ファイザー'
+vaccine_name: 'コミナティRTU筋注（２価：起源株/オミクロン株BA.4-5）'
+file_id: '001325481-3'
+pages: '313-354'
+count: '121'
+has_vaccinated_times: 'true'
+
+# スパイクバックス
+manufacturer: 'モデルナ'
+vaccine_name: 'スパイクバックス筋注'
+file_id: '001325483-1'
+pages: '4-57'
+count: '235'
+has_vaccinated_times: 'true'
+
+manufacturer: 'モデルナ'
+vaccine_name: 'スパイクバックス筋注（２価：起源株/オミクロン株BA.1）'
+file_id: '001325483-2'
+pages: '58-59'
+count: '5'
+has_vaccinated_times: 'true'
+
+manufacturer: 'モデルナ'
+vaccine_name: 'スパイクバックス筋注（２価：起源株/オミクロン株BA.4-5'
+file_id: '001325483-3'
+pages: '60-64'
+count: '14'
+has_vaccinated_times: 'true'
+
+# コミナティ 5歳-11歳
+manufacturer: 'ファイザー'
+vaccine_name: 'コミナティ筋注５～11歳用'
+file_id: '001325486'
+pages: '3-5'
+count: '3'
+has_vaccinated_times: 'true'
+
+# コミナティ 6ヵ月-4歳
+manufacturer: 'ファイザー'
+vaccine_name: 'コミナティ筋注６ヵ月～４歳用'
+file_id: '001325488'
+pages: '3'
+count: '1'
+has_vaccinated_times: 'true'

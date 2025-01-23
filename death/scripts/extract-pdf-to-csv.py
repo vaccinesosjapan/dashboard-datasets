@@ -7,11 +7,12 @@ import camelot
 pdf_dir_path = os.path.join('..', 'pdf-files')
 csv_dir_path = os.path.join('..', 'intermediate-files')
 pdf_file_name = sys.argv[1]
-pages = sys.argv[2]
+csv_file_name = sys.argv[2]
+pages = sys.argv[3]
 
 # %%
 pdf_file_path = os.path.join(pdf_dir_path, pdf_file_name)
-tables = camelot.read_pdf(pdf_file_path, pages=pages, encoding='utf-8')
+tables = camelot.read_pdf(pdf_file_path, pages=pages)
 
 print(f"抽出したtable数: {len(tables)}")
 
@@ -27,8 +28,7 @@ for index, table in enumerate(tables):
 csv_data = merged_df.to_csv(index=False)
 
 # %%
-pdf_file_name_without_ext = os.path.splitext(pdf_file_name)[0]
-csv_file_path = os.path.join(csv_dir_path, f'{pdf_file_name_without_ext}.csv')
+csv_file_path = os.path.join(csv_dir_path, csv_file_name)
 with open(csv_file_path, "w", encoding='utf-8') as f:
 	f.write(csv_data)
 
