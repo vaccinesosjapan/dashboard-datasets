@@ -6,8 +6,10 @@
       84
     ],
     "vaccine_name": "新型コロナ",
-    "description_of_claim": "死亡一時金・葬祭料 特発性肺線維症",
-    "symptoms": [],
+    "description_of_claim": "死亡一時金・葬祭料",
+    "symptoms": [
+      "特発性肺線維症"
+    ],
     "judgment_result": "認定",
     "pre_existing_conditions": [
       "間質性肺炎の増悪"
