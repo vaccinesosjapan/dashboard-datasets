@@ -1424,8 +1424,10 @@
       69
     ],
     "vaccine_name": "新型コロナ",
-    "description_of_claim": "死亡一時金・葬祭料 急性心不全",
-    "symptoms": [],
+    "description_of_claim": "死亡一時金・葬祭料",
+    "symptoms": [
+      "急性心不全"
+    ],
     "judgment_result": "認定",
     "pre_existing_conditions": [
       "慢性心不全",
