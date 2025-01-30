@@ -1,10 +1,10 @@
+# %%
 import glob, json, os, datetime
 import pandas as pd
 import yaml
 
 json_file_list = glob.glob('reports-data/*.json')
 output_dir = '../_datasets'
-
 
 # 抽出した認定・否認一覧をひとつにまとめてファイルに保存する。
 certified_reports = []
@@ -17,72 +17,88 @@ sorted_reports = sorted(certified_reports, key=lambda issue: issue['certified_da
 for index, repo_item in enumerate(sorted_reports):
 	sorted_reports[index] = dict(**{'no': index+1}, **repo_item)
 
-all_reports_json_string = json.dumps(sorted_reports, ensure_ascii=False, indent=2)
-output_path = os.path.join(output_dir, 'certified-reports.json')
-with open( output_path, "w", encoding='utf-8') as f:
-    f.write(all_reports_json_string)
+# %%
+def save_to_json(data, out_dir, filename):
+	json_string = json.dumps(data, ensure_ascii=False, indent=2)
+	output_path = os.path.join(out_dir, filename)
+	with open( output_path, "w", encoding='utf-8') as f:
+		f.write(json_string)
 
+# %%
+def sum_with_description_of_claim(df):
+	medical_expenses_count = df[df['description_of_claim'].str.contains('医療費・医療手当')].shape[0]
+	disability_pension_of_children_count = df[df['description_of_claim'].str.contains('障害児養育年金')].shape[0]
+	disability_pension_count = df[df['description_of_claim'].str.contains('障害年金')].shape[0]
 
-# 判定が「認定」の案件のみを対象として、症状ごとに性別で集計を実施する。
-# 結果をファイルに保存する。
-certified_symptoms_names_list = []
-for item in sorted_reports:
-	if item['judgment_result'] == '認定':
-		certified_symptoms_names_list.extend(item['symptoms'])
-certified_symptoms_names_set = set(certified_symptoms_names_list) # 一意な名前の一覧にする
-
-certified_symptoms_names_dict = {s_name: { 'name': s_name, 'counts': {'male': 0, 'female': 0, 'sum': 0} } for s_name in certified_symptoms_names_set}
-for item in sorted_reports:
-	for symptom_name in item['symptoms']:
-		# 空文字列の症状は保存されないような抽出にしているつもりなので、不要な読点「、」などがある
-		# 元データの場合などの可能性あり。
-		if symptom_name == "":
-			print('[警告] 空白の症状名が抽出されているようです。以下の案件です。')
-			print(item)
-			print('-'*10)
-			continue
-			
-		certified_symptoms_names_dict[symptom_name]['counts']['sum'] += 1
-		if item['gender'] == '男':
-			certified_symptoms_names_dict[symptom_name]['counts']['male'] += 1
+	death_series = pd.Series([])
+	death_claims = ['死亡一時金', '遺族年金', '遺族一時金', '葬祭料']
+	for claim in death_claims:
+		series = df[df['description_of_claim'].str.contains(claim)]['no']
+		if death_series.count() == 0:
+			death_series = series
 		else:
-			certified_symptoms_names_dict[symptom_name]['counts']['female'] += 1
+			death_series = pd.concat([death_series, series])
+	death_count = len(death_series.unique())
 
-symptom_summary_list = sorted(list(certified_symptoms_names_dict.values()), key=lambda issue: issue['name'])
-symptom_summary_list_json_string = json.dumps(symptom_summary_list, ensure_ascii=False, indent=2)
-output_path = os.path.join(output_dir, 'certified-symptoms.json')
-with open( output_path, "w", encoding='utf-8') as f:
-    f.write(symptom_summary_list_json_string)
+	return medical_expenses_count, disability_pension_of_children_count, disability_pension_count, death_count
 
+# %%
+# 全ての案件をひとつのファイルに保存する。
+save_to_json(sorted_reports, output_dir, 'certified-reports.json')
 
-# 認定・否認の件数に関して集計を行い、結果をファイルに保存する。
-# 別途PDFから読み取って転記した集計情報も合わせて保存する。
-certified_count = 0
-denied_count = 0
-certified_death_count = 0
-denied_death_count = 0
+# %%
+df = pd.DataFrame(sorted_reports)
+certified_df = df[df['judgment_result'] == '認定']
+denied_df = df[df['judgment_result'] == '否認']
 
-for item in sorted_reports:
-	if item['judgment_result'] == '認定':
-		certified_count += 1
-		if item['description_of_claim'].find('死') > -1 or item['description_of_claim'].find('葬') > -1:
-			certified_death_count += 1
-	elif item['judgment_result'] == '否認':
-		denied_count += 1
-		if item['description_of_claim'].find('死') > -1 or item['description_of_claim'].find('葬') > -1:
-			denied_death_count += 1
-	else:
-		print(f'[警告] 認定と否認以外の判定結果が抽出されているようです')
-		print(item)
-		print('-'*10)
+certified_count = certified_df.shape[0]
+denied_count = denied_df.shape[0]
 
-summary_settings_file_path = 'summary-settings.yaml'
-with open(summary_settings_file_path, "r", encoding='utf-8') as file:
-    summary_settings_root = yaml.safe_load(file)
+print(f'判定結果: {df["judgment_result"].unique()}')
+print(f'請求内容: {df['description_of_claim'].unique()}')
+print(' -> 意図していない内容が含まれている場合は、データの調査が必要。')
+
+# %%
+with open('summary-settings.yaml', "r", encoding='utf-8') as f:
+    summary_settings_root = yaml.safe_load(f)
 summary_settings = summary_settings_root['settings']
 
+# %%
+# 判定が「認定」の案件のみを対象として、症状ごとに性別で集計を実施する
+symptoms_list = []
+certified_df['symptoms'].map(lambda x: symptoms_list.extend(x))
+symptoms_unique_list = sorted(list(set(symptoms_list)))
+
+symptoms_names_dict = {s_name: { 'name': s_name, 'counts': {'male': 0, 'female': 0, 'sum': 0} } for s_name in symptoms_unique_list}
+for index in certified_df.index:
+	symptoms = certified_df.loc[index, 'symptoms']
+	gender = certified_df.loc[index, 'gender']
+
+	for symptom_name in symptoms:
+		if symptom_name == "":
+			continue
+			
+		symptoms_names_dict[symptom_name]['counts']['sum'] += 1
+		if  gender == '男':
+			symptoms_names_dict[symptom_name]['counts']['male'] += 1
+		elif gender == '女':
+			symptoms_names_dict[symptom_name]['counts']['female'] += 1
+		else:
+			print(f'性別が不明かも {gender}')
+symptom_summary_list = sorted(list(symptoms_names_dict.values()), key=lambda issue: issue['name'])
+
+save_to_json(symptom_summary_list, output_dir, 'certified-symptoms.json')
+
+# %%
+certified_medical_count, certified_disability_children_count, certified_disability_count, certified_death_count = sum_with_description_of_claim(certified_df)
+denied_medical_count, denied_disability_children_count, denied_disability_count, denied_death_count = sum_with_description_of_claim(denied_df)
+
+# %%
+# メタデータと判定結果一覧のデータから、「未処理件数」を算出する
+## [未処理件数] = [進達受理件数] - [認定件数] - [否認件数] - [保留件数]
 open_cases_count = summary_settings['total_entries'] - certified_count - denied_count - summary_settings['pending_count']
 
+# %%
 certified_summary = {
 	"date": summary_settings['date'],
 	"total_entries": summary_settings['total_entries'],
@@ -92,47 +108,31 @@ certified_summary = {
 	"open_cases_count": open_cases_count,
 	"certified_death_count": certified_death_count,
 	"denied_death_count": denied_death_count,
+	"certified_counts": {
+		"medical_expenses_count": certified_medical_count,
+		"disability_pension_of_children_count": certified_disability_children_count,
+		"disability_pension_count": certified_disability_count,
+		"death_count": certified_death_count
+	},
+	"denied_counts": {
+		"medical_expenses_count": denied_medical_count,
+		"disability_pension_of_children_count": denied_disability_children_count,
+		"disability_pension_count": denied_disability_count,
+		"death_count": denied_death_count
+	}
 }
-certified_summary_json = json.dumps(certified_summary, ensure_ascii=False, indent=2)
-output_path = os.path.join(output_dir, 'certified-summary.json')
-with open( output_path, "w", encoding='utf-8') as f:
-    f.write(certified_summary_json)
+save_to_json(certified_summary, output_dir, 'certified-summary.json')
 
+# %%
+other_vaccines_df = pd.read_csv("other-vaccines/certified-issues-summary.csv", delimiter=',')
+covid19_vaccine_row = {'vaccine_name': "新型コロナ",
+		'medical': certified_medical_count,
+		'disability_of_children': certified_disability_children_count,
+		'disability': certified_disability_count,
+		'death': certified_death_count}
+other_vaccines_with_covid19_df = pd.concat([other_vaccines_df, pd.DataFrame(covid19_vaccine_row, index=[len(other_vaccines_df)])], ignore_index=True)
 
-# 過去のワクチン接種に関する認定一覧に、新型コロナワクチンの認定結果をマージして
-# グラフ表示可能にするためのデータを作る処理。
-medical_expenses_count = 0
-disability_pension_of_children_count = 0
-disability_pension_count = 0
-death_count = 0
-
-for item in sorted_reports:
-	if item['judgment_result'] == '否認':
-		continue
-	
-	claim = item['description_of_claim']
-	if claim == '医療費・医療手当':
-		medical_expenses_count += 1
-	elif claim == '障害児養育年金':
-		disability_pension_of_children_count += 1
-	elif claim == '障害年金':
-		disability_pension_count += 1
-	elif claim.find('死亡一時金') > -1 or claim == '遺族年金' or claim == '遺族一時金' or claim.find('葬祭料') > -1:
-		death_count += 1
-	else:
-		print('-'*10)
-		print(f'unknown claim: {claim}')
-		print('-'*10)
-
-df = pd.read_csv("other-vaccines/certified-issues-summary.csv", delimiter=',')
-
-new_row = {'vaccine_name': "新型コロナ",
-		'medical': medical_expenses_count,
-		'disability_of_children': disability_pension_of_children_count,
-		'disability': disability_pension_count,
-		'death': death_count}
-df_added = pd.concat([df, pd.DataFrame(new_row, index=[len(df)])], ignore_index=True)
-
+# %%
 with open('reports-settings-all.yaml', "r", encoding='utf-8') as file:
     settings_root = yaml.safe_load(file)
 settings = settings_root['settings']
@@ -157,6 +157,7 @@ else:
 	span_year = last_date.year - first_date.year
 	span_month = last_date.month - first_date.month
 
+
 with open('other-vaccines/metadata.yaml', "r", encoding='utf-8') as file:
     metadata_root = yaml.safe_load(file)
 metadata = metadata_root['metadata']
@@ -164,6 +165,7 @@ metadata = metadata_root['metadata']
 date_format2 = '%Y/%m'
 f_date = datetime.datetime.strptime(metadata['first_date'], date_format2)
 l_date = datetime.datetime.strptime(metadata['last_date'], date_format2)
+
 s_year = 0
 s_month = 0
 if l_date.month - f_date.month < 0:
@@ -173,6 +175,7 @@ else:
 	s_year = l_date.year - f_date.year
 	s_month = l_date.month - f_date.month
 
+# %%
 summary_with_other_vaccines = {
 	"meta_data": {
 		"covid19_vaccine": {
@@ -192,35 +195,26 @@ summary_with_other_vaccines = {
 	},
 	"chart_data": {
 		"headers": ['ワクチン名', '医療費・医療手当', '障害児養育年金', '障害年金', '死亡一時金・遺族年金・遺族一時金・葬祭料'],
-		"data": json.loads(df_added.to_json(orient='records', force_ascii=False, indent=2))
+		"data": json.loads(other_vaccines_with_covid19_df.to_json(orient='records', force_ascii=False, indent=2))
 	}
 }
-json_string = json.dumps(summary_with_other_vaccines, ensure_ascii=False, indent=2)
-output_file_path = os.path.join(output_dir, 'certified-summary-with-other-vaccines.json')
-with open( output_file_path, "w", encoding='utf-8') as f:
-	f.write(json_string)
+save_to_json(summary_with_other_vaccines, output_dir, 'certified-summary-with-other-vaccines.json')
 
-
+# %%
 # 判定日などの一覧データを作成して、ダッシュボードで表示するためのメタデータとして保存する処理
-json_file_path = os.path.join(output_dir, 'certified-reports.json')
-df = pd.read_json(json_file_path)
 certified_metadata = {
 	"judged_dates": sorted(df['certified_date'].unique().tolist(), reverse=True),
 	"judged_result_list": sorted(df['judgment_result'].unique().tolist(), reverse=True),
 	"gender_list": sorted(df['gender'].unique().tolist(), reverse=True)
 }
-output_file_path = os.path.join(output_dir, 'certified-metadata.json')
-json_string = json.dumps(certified_metadata, ensure_ascii=False, indent=2)
-with open( output_file_path, "w", encoding='utf-8') as f:
-	f.write(json_string)
+save_to_json(certified_metadata, output_dir, 'certified-metadata.json')
 
+# %%
 # 症状などの一覧データを作成して、ダッシュボードで表示するためのメタデータとして保存する処理
-json_file_path = os.path.join(output_dir, 'certified-symptoms.json')
-df = pd.read_json(json_file_path)
+symptoms_df = pd.DataFrame(symptom_summary_list)
 certified_symptoms_metadata = {
-	"symptom_name_list": sorted(df['name'].unique().tolist()),
+	"symptom_name_list": sorted(symptoms_df['name'].unique().tolist()),
 }
-output_file_path = os.path.join(output_dir, 'certified-symptoms-metadata.json')
-json_string = json.dumps(certified_symptoms_metadata, ensure_ascii=False, indent=2)
-with open( output_file_path, "w", encoding='utf-8') as f:
-	f.write(json_string)
+save_to_json(certified_symptoms_metadata, output_dir, 'certified-symptoms-metadata.json')
+
+
