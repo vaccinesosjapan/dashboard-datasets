@@ -243,8 +243,8 @@
     "name": "I型糖尿病",
     "counts": {
       "male": 2,
-      "female": 5,
-      "sum": 7
+      "female": 6,
+      "sum": 8
     }
   },
   {
@@ -1762,9 +1762,9 @@
   {
     "name": "リウマチ性多発筋痛症",
     "counts": {
-      "male": 14,
+      "male": 15,
       "female": 19,
-      "sum": 33
+      "sum": 34
     }
   },
   {
@@ -2082,9 +2082,9 @@
   {
     "name": "一過性血圧上昇",
     "counts": {
-      "male": 5,
+      "male": 6,
       "female": 8,
-      "sum": 13
+      "sum": 14
     }
   },
   {
@@ -3152,6 +3152,14 @@
     }
   },
   {
+    "name": "両上肢不全麻痺",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
     "name": "両上肢巧緻運動障害",
     "counts": {
       "male": 0,
@@ -3276,6 +3284,14 @@
     "counts": {
       "male": 0,
       "female": 1,
+      "sum": 1
+    }
+  },
+  {
+    "name": "両下肢完全麻痺",
+    "counts": {
+      "male": 1,
+      "female": 0,
       "sum": 1
     }
   },
@@ -4240,6 +4256,14 @@
     }
   },
   {
+    "name": "中枢・末梢連合脱髄症",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
     "name": "中枢神経脱髄性疾患",
     "counts": {
       "male": 1,
@@ -4610,9 +4634,9 @@
   {
     "name": "倦怠感",
     "counts": {
-      "male": 120,
+      "male": 121,
       "female": 168,
-      "sum": 288
+      "sum": 289
     }
   },
   {
@@ -6904,6 +6928,14 @@
     }
   },
   {
+    "name": "右眼虚血症候群",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
     "name": "右眼視神経炎",
     "counts": {
       "male": 0,
@@ -6981,6 +7013,14 @@
       "male": 1,
       "female": 1,
       "sum": 2
+    }
+  },
+  {
+    "name": "右網膜浮腫による視力低下",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
     }
   },
   {
@@ -8058,9 +8098,9 @@
   {
     "name": "嘔気",
     "counts": {
-      "male": 52,
+      "male": 54,
       "female": 104,
-      "sum": 156
+      "sum": 158
     }
   },
   {
@@ -10059,8 +10099,8 @@
     "name": "左上肢痛",
     "counts": {
       "male": 5,
-      "female": 24,
-      "sum": 29
+      "female": 25,
+      "sum": 30
     }
   },
   {
@@ -15042,9 +15082,9 @@
   {
     "name": "意識障害",
     "counts": {
-      "male": 20,
+      "male": 21,
       "female": 18,
-      "sum": 38
+      "sum": 39
     }
   },
   {
@@ -15827,8 +15867,8 @@
     "name": "抗リン脂質抗体症候群",
     "counts": {
       "male": 0,
-      "female": 1,
-      "sum": 1
+      "female": 2,
+      "sum": 2
     }
   },
   {
@@ -16808,6 +16848,14 @@
     }
   },
   {
+    "name": "洞不全症候群",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
     "name": "洞性頻拍",
     "counts": {
       "male": 0,
@@ -17482,9 +17530,9 @@
   {
     "name": "発熱",
     "counts": {
-      "male": 205,
+      "male": 207,
       "female": 298,
-      "sum": 503
+      "sum": 505
     }
   },
   {
@@ -17649,6 +17697,14 @@
   },
   {
     "name": "皮膚型結節性多発動脈炎",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
+    "name": "皮膚小型血管炎",
     "counts": {
       "male": 0,
       "female": 1,
@@ -19650,9 +19706,9 @@
   {
     "name": "脳梗塞",
     "counts": {
-      "male": 105,
+      "male": 106,
       "female": 74,
-      "sum": 179
+      "sum": 180
     }
   },
   {
@@ -19773,6 +19829,14 @@
       "male": 6,
       "female": 15,
       "sum": 21
+    }
+  },
+  {
+    "name": "脳炎に伴う体幹筋麻痺",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
     }
   },
   {
@@ -20480,6 +20544,14 @@
     }
   },
   {
+    "name": "自己免疫性I型糖尿病",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
     "name": "自己免疫性溶血性貧血",
     "counts": {
       "male": 4,
@@ -20491,8 +20563,8 @@
     "name": "自己免疫性肝炎",
     "counts": {
       "male": 2,
-      "female": 11,
-      "sum": 13
+      "female": 12,
+      "sum": 14
     }
   },
   {
@@ -20506,9 +20578,9 @@
   {
     "name": "自己免疫性脳炎",
     "counts": {
-      "male": 2,
+      "male": 4,
       "female": 1,
-      "sum": 3
+      "sum": 5
     }
   },
   {
@@ -22346,9 +22418,9 @@
   {
     "name": "頭痛",
     "counts": {
-      "male": 152,
+      "male": 154,
       "female": 231,
-      "sum": 383
+      "sum": 385
     }
   },
   {
@@ -22962,9 +23034,9 @@
   {
     "name": "髄膜炎",
     "counts": {
-      "male": 9,
+      "male": 10,
       "female": 6,
-      "sum": 15
+      "sum": 16
     }
   },
   {
