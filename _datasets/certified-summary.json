@@ -7,16 +7,40 @@
   "open_cases_count": 939,
   "certified_death_count": 951,
   "denied_death_count": 512,
-  "certified_counts": {
-    "medical_expenses_count": 7647,
-    "disability_pension_of_children_count": 1,
-    "disability_pension_count": 180,
-    "death_count": 951
-  },
-  "denied_counts": {
-    "medical_expenses_count": 2179,
-    "disability_pension_of_children_count": 16,
-    "disability_pension_count": 386,
-    "death_count": 512
-  }
+  "certified_counts": [
+    {
+      "name": "medical_expenses",
+      "count": 7647
+    },
+    {
+      "name": "disability_pension_of_children",
+      "count": 1
+    },
+    {
+      "name": "disability_pension",
+      "count": 180
+    },
+    {
+      "name": "death",
+      "count": 951
+    }
+  ],
+  "denied_counts": [
+    {
+      "name": "medical_expenses",
+      "count": 2179
+    },
+    {
+      "name": "disability_pension_of_children",
+      "count": 16
+    },
+    {
+      "name": "disability_pension",
+      "count": 386
+    },
+    {
+      "name": "death",
+      "count": 512
+    }
+  ]
 }

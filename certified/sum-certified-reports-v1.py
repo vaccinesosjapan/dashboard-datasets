@@ -108,18 +108,42 @@ certified_summary = {
 	"open_cases_count": open_cases_count,
 	"certified_death_count": certified_death_count,
 	"denied_death_count": denied_death_count,
-	"certified_counts": {
-		"medical_expenses_count": certified_medical_count,
-		"disability_pension_of_children_count": certified_disability_children_count,
-		"disability_pension_count": certified_disability_count,
-		"death_count": certified_death_count
-	},
-	"denied_counts": {
-		"medical_expenses_count": denied_medical_count,
-		"disability_pension_of_children_count": denied_disability_children_count,
-		"disability_pension_count": denied_disability_count,
-		"death_count": denied_death_count
-	}
+	"certified_counts": [
+		{
+			"name": "medical_expenses",
+			"count": certified_medical_count
+		},
+		{
+			"name": "disability_pension_of_children",
+			"count": certified_disability_children_count
+		},
+		{
+			"name": "disability_pension",
+			"count": certified_disability_count
+		},
+		{
+			"name": "death",
+			"count": certified_death_count
+		}
+	],
+	"denied_counts": [
+		{
+			"name": "medical_expenses",
+			"count": denied_medical_count
+		},
+		{
+			"name": "disability_pension_of_children",
+			"count": denied_disability_children_count
+		},
+		{
+			"name": "disability_pension",
+			"count": denied_disability_count
+		},
+		{
+			"name": "death",
+			"count": denied_death_count
+		}
+	]
 }
 save_to_json(certified_summary, output_dir, 'certified-summary.json')
 
