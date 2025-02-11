@@ -44,7 +44,7 @@ fixed_df = fixed_df.rename(columns={'onset_date': 'onset_dates'})
 fixed_df = fixed_df.rename(columns={'pre_existing_disease_names': 'pre_existing_conditions'})
 fixed_df = fixed_df.rename(columns={'comment': 'comments_by_expert'})
 
-fixed_df.loc[:, 'vaccinated_dates'] = fixed_df['onset_dates'].str.replace('年', '/').str.replace('月', '/').str.replace('日', '').str.replace('/$', '', regex=True)
+fixed_df.loc[:, 'vaccinated_dates'] = fixed_df['vaccinated_dates'].str.replace('年', '/').str.replace('月', '/').str.replace('日', '').str.replace('/$', '', regex=True)
 fixed_df.loc[:, 'onset_dates'] = fixed_df['onset_dates'].str.replace('年', '/').str.replace('月', '/').str.replace('日', '').str.replace('/$', '', regex=True).str.replace('\r\n', '\n').str.split('\n')
 fixed_df.loc[:, 'comments_by_expert'] = fixed_df['comments_by_expert'].str.replace('\r\n', '\n').str.replace('\n', '')
 
