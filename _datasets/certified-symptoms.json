@@ -1115,8 +1115,8 @@
     "name": "ギラン・バレー症候群",
     "counts": {
       "male": 52,
-      "female": 59,
-      "sum": 111
+      "female": 60,
+      "sum": 112
     }
   },
   {
@@ -1643,8 +1643,8 @@
     "name": "フォークト・小柳・原田病",
     "counts": {
       "male": 2,
-      "female": 2,
-      "sum": 4
+      "female": 3,
+      "sum": 5
     }
   },
   {
@@ -2385,6 +2385,14 @@
   },
   {
     "name": "上肢脱力",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
+    "name": "上肢脱力感",
     "counts": {
       "male": 0,
       "female": 1,
@@ -4096,6 +4104,14 @@
     }
   },
   {
+    "name": "両肩痛",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
     "name": "両肩関節周囲炎",
     "counts": {
       "male": 2,
@@ -4251,8 +4267,8 @@
     "name": "中毒疹",
     "counts": {
       "male": 58,
-      "female": 94,
-      "sum": 152
+      "female": 96,
+      "sum": 154
     }
   },
   {
@@ -4858,9 +4874,9 @@
   {
     "name": "全身倦怠感",
     "counts": {
-      "male": 32,
-      "female": 45,
-      "sum": 77
+      "male": 33,
+      "female": 46,
+      "sum": 79
     }
   },
   {
@@ -6040,6 +6056,14 @@
     }
   },
   {
+    "name": "右上下肢痙性麻痺",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
     "name": "右上下肢痺れ",
     "counts": {
       "male": 0,
@@ -6473,6 +6497,14 @@
   },
   {
     "name": "右側頭部痛",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
+    "name": "右側顔面神経麻痺",
     "counts": {
       "male": 0,
       "female": 1,
@@ -7683,8 +7715,8 @@
     "name": "味覚障害",
     "counts": {
       "male": 8,
-      "female": 5,
-      "sum": 13
+      "female": 6,
+      "sum": 14
     }
   },
   {
@@ -8147,8 +8179,8 @@
     "name": "四肢しびれ",
     "counts": {
       "male": 9,
-      "female": 31,
-      "sum": 40
+      "female": 32,
+      "sum": 41
     }
   },
   {
@@ -8403,8 +8435,8 @@
     "name": "四肢疼痛",
     "counts": {
       "male": 0,
-      "female": 3,
-      "sum": 3
+      "female": 4,
+      "sum": 4
     }
   },
   {
@@ -8859,8 +8891,8 @@
     "name": "多発性筋肉痛",
     "counts": {
       "male": 2,
-      "female": 0,
-      "sum": 2
+      "female": 1,
+      "sum": 3
     }
   },
   {
@@ -10402,9 +10434,9 @@
   {
     "name": "左上腕痛",
     "counts": {
-      "male": 15,
+      "male": 16,
       "female": 22,
-      "sum": 37
+      "sum": 38
     }
   },
   {
@@ -12394,9 +12426,9 @@
   {
     "name": "左肩関節周囲炎",
     "counts": {
-      "male": 106,
+      "male": 107,
       "female": 195,
-      "sum": 301
+      "sum": 302
     }
   },
   {
@@ -12850,9 +12882,9 @@
   {
     "name": "左視床出血",
     "counts": {
-      "male": 5,
+      "male": 6,
       "female": 1,
-      "sum": 6
+      "sum": 7
     }
   },
   {
@@ -13075,8 +13107,8 @@
     "name": "帯状疱疹",
     "counts": {
       "male": 38,
-      "female": 28,
-      "sum": 66
+      "female": 29,
+      "sum": 67
     }
   },
   {
@@ -13133,6 +13165,14 @@
       "male": 2,
       "female": 0,
       "sum": 2
+    }
+  },
+  {
+    "name": "帯状疱疹性髄膜脳炎",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
     }
   },
   {
@@ -14202,9 +14242,9 @@
   {
     "name": "急性大動脈解離",
     "counts": {
-      "male": 16,
+      "male": 17,
       "female": 17,
-      "sum": 33
+      "sum": 34
     }
   },
   {
@@ -14261,6 +14301,14 @@
       "male": 0,
       "female": 3,
       "sum": 3
+    }
+  },
+  {
+    "name": "急性帯状疱疹性咽喉頭炎",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
     }
   },
   {
@@ -14747,8 +14795,8 @@
     "name": "急性胃腸炎",
     "counts": {
       "male": 8,
-      "female": 12,
-      "sum": 20
+      "female": 13,
+      "sum": 21
     }
   },
   {
@@ -14779,8 +14827,8 @@
     "name": "急性脳症",
     "counts": {
       "male": 2,
-      "female": 1,
-      "sum": 3
+      "female": 2,
+      "sum": 4
     }
   },
   {
@@ -15784,6 +15832,14 @@
     }
   },
   {
+    "name": "抗ARS抗体陽性間質性肺炎増悪",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
     "name": "抗LGI-1受容体抗体陽性脳炎",
     "counts": {
       "male": 1,
@@ -16394,9 +16450,9 @@
   {
     "name": "横紋筋融解症",
     "counts": {
-      "male": 25,
+      "male": 26,
       "female": 14,
-      "sum": 39
+      "sum": 40
     }
   },
   {
@@ -17458,9 +17514,9 @@
   {
     "name": "発作性心房細動",
     "counts": {
-      "male": 3,
+      "male": 4,
       "female": 3,
-      "sum": 6
+      "sum": 7
     }
   },
   {
@@ -17482,9 +17538,9 @@
   {
     "name": "発熱",
     "counts": {
-      "male": 205,
+      "male": 206,
       "female": 298,
-      "sum": 503
+      "sum": 504
     }
   },
   {
@@ -19650,9 +19706,9 @@
   {
     "name": "脳梗塞",
     "counts": {
-      "male": 105,
+      "male": 107,
       "female": 74,
-      "sum": 179
+      "sum": 181
     }
   },
   {
@@ -20507,8 +20563,8 @@
     "name": "自己免疫性脳炎",
     "counts": {
       "male": 2,
-      "female": 1,
-      "sum": 3
+      "female": 2,
+      "sum": 4
     }
   },
   {
@@ -22346,9 +22402,9 @@
   {
     "name": "頭痛",
     "counts": {
-      "male": 152,
-      "female": 231,
-      "sum": 383
+      "male": 153,
+      "female": 232,
+      "sum": 385
     }
   },
   {
@@ -22931,8 +22987,8 @@
     "name": "食欲不振",
     "counts": {
       "male": 17,
-      "female": 30,
-      "sum": 47
+      "female": 31,
+      "sum": 48
     }
   },
   {
