@@ -1,0 +1,204 @@
+[
+  {
+    "no": 37289,
+    "age": 7,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/06/11"
+    ],
+    "onset_dates": [
+      "2022/06/11"
+    ],
+    "days_to_onset": [
+      "0"
+    ],
+    "vaccine_name": "コミナティ筋注5~11歳用(1価:起源株)",
+    "concurrent_vaccination": "",
+    "manufacturer": "ファイザー",
+    "lot_no": "99999",
+    "PT_names": [
+      "アナフィラキシー反応"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "2022/06/12"
+    ],
+    "gross_results": [
+      "回復"
+    ],
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325449.pdf"
+    }
+  },
+  {
+    "no": 37290,
+    "age": 11,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/04/09"
+    ],
+    "onset_dates": [
+      "2022/04/11"
+    ],
+    "days_to_onset": [
+      "2"
+    ],
+    "vaccine_name": "コミナティ筋注5~11歳用(1価:起源株)",
+    "concurrent_vaccination": "",
+    "manufacturer": "ファイザー",
+    "lot_no": "FN5988",
+    "PT_names": [
+      "起立不耐性"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "不明"
+    ],
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325449.pdf"
+    }
+  },
+  {
+    "no": 37291,
+    "age": 10,
+    "gender": "男性",
+    "vaccinated_dates": [
+      "2022/03/24"
+    ],
+    "onset_dates": [
+      "2022/03",
+      "2022/03"
+    ],
+    "days_to_onset": [
+      "不明"
+    ],
+    "vaccine_name": "コミナティ筋注5~11歳用(1価:起源株)",
+    "concurrent_vaccination": "",
+    "manufacturer": "ファイザー",
+    "lot_no": "FN5988",
+    "PT_names": [
+      "頭痛",
+      "起立不耐性"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入",
+      "未記入"
+    ],
+    "gross_results": [
+      "未回復",
+      "未回復"
+    ],
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325449.pdf"
+    }
+  },
+  {
+    "no": 37292,
+    "age": 9,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/08/20"
+    ],
+    "onset_dates": [
+      "2022/11/07"
+    ],
+    "days_to_onset": [
+      "79"
+    ],
+    "vaccine_name": "コミナティ筋注5~11歳用(1価:起源株)",
+    "concurrent_vaccination": "",
+    "manufacturer": "ファイザー",
+    "lot_no": "FP0362",
+    "PT_names": [
+      "１型糖尿病"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "未回復"
+    ],
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325449.pdf"
+    }
+  },
+  {
+    "no": 37293,
+    "age": 11,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/09/25"
+    ],
+    "onset_dates": [
+      "2022/09/25"
+    ],
+    "days_to_onset": [
+      "0"
+    ],
+    "vaccine_name": "コミナティ筋注5~11歳用(1価:起源株)",
+    "concurrent_vaccination": "",
+    "manufacturer": "ファイザー",
+    "lot_no": "FP0362",
+    "PT_names": [
+      "全頭脱毛症"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "未記入"
+    ],
+    "gross_results": [
+      "未回復"
+    ],
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325449.pdf"
+    }
+  },
+  {
+    "no": 37294,
+    "age": 9,
+    "gender": "女性",
+    "vaccinated_dates": [
+      "2022/08/06"
+    ],
+    "onset_dates": [
+      "2022/10"
+    ],
+    "days_to_onset": [
+      "不明"
+    ],
+    "vaccine_name": "コミナティ筋注5~11歳用(1価:起源株)",
+    "concurrent_vaccination": "",
+    "manufacturer": "ファイザー",
+    "lot_no": "FP0362",
+    "PT_names": [
+      "１型糖尿病"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "2024/05/17"
+    ],
+    "gross_results": [
+      "後遺症あり"
+    ],
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325449.pdf"
+    }
+  }
+]

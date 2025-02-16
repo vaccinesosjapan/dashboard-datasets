@@ -15,11 +15,13 @@
 
 1. 新しいPDFを`pdf-files`フォルダにダウンロードする。
 1. ダウンロードしたPDFのファイル名やリンクURLなどを`reports-settings.yaml`に記入する。
-1. 同じ内容を`reports-settings-all.yaml`に記載の配列末尾にも追記する。
+1. 同じ内容を`reports-settings-all.yaml`の末尾にも追記する。
 1. 以下のコマンドを実行して、PDFからCSV形式でデータ抽出する。
     * `python _1-extract-pdf-to-csv.py`
     * 抽出結果は `./intermediate-files./{relative_dir}/{file_id}.csv` に保存される。
 1. CSVを開き、ヘッダ情報を手作業で追加して`{file_id}-pre.csv`に保存する。
+    * ヘッダ情報は、以下を使うと良い（データと一致しない場合は更新して使う）。
+    * `No,年齢,性別,接種日,発生日,接種から発生までの日数,ワクチン名,同時接種,製造販売業者,ロット番号,症状名（PT名）,因果関係（報告医評価）,重篤度（報告医評価）,転帰日,転帰内容`
 1. 以下のコマンドを実行して、CSVのデータを整形する。
     * `python _2-standardize-csv.py`
     * 抽出結果は `./intermediate-files./{relative_dir}/{file_id}-converted.csv` に保存される。

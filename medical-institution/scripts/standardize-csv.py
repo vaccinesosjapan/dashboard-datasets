@@ -23,6 +23,9 @@ else:
 	columns = ['no', 'age', 'gender', 'vaccinated_dates', 'onset_dates', 'days_to_onset', 'vaccine_name', 'manufacturer', 'lot_no', 'PT_names', 'causal_relationship', 'severity', 'gross_result_dates', 'gross_results']
 df.columns = columns
 
+# gender列が空っぽの時、「NaNだけの列だからfloatのSeries」という扱いになってしまう。後の処理のため、文字列の列に変換したい。
+df['gender'] = df['gender'].astype("string")
+
 # %%
 # gender 列がNaNのデータが多数あり。age 列に半角スペース区切りで場合が多く、抽出する。
 gender_nan_df = df[df['gender'].isna()]
@@ -59,4 +62,4 @@ def remove_empty_lines(source_path, target_path):
 # %%
 remove_empty_lines(csv_file_path, csv_file_path)
 
-
+print(f'{csv_file_path} に整形結果を保存しました。')
