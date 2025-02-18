@@ -458,9 +458,9 @@
   {
     "name": "くも膜下出血",
     "counts": {
-      "male": 24,
-      "female": 48,
-      "sum": 72
+      "male": 25,
+      "female": 50,
+      "sum": 75
     }
   },
   {
@@ -883,8 +883,16 @@
     "name": "アテローム血栓性脳梗塞",
     "counts": {
       "male": 8,
-      "female": 7,
-      "sum": 15
+      "female": 8,
+      "sum": 16
+    }
+  },
+  {
+    "name": "アテローム血栓性脳梗塞による右上下肢麻痺",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
     }
   },
   {
@@ -1786,9 +1794,9 @@
   {
     "name": "リウマチ性多発筋痛症疑い",
     "counts": {
-      "male": 1,
+      "male": 2,
       "female": 0,
-      "sum": 1
+      "sum": 2
     }
   },
   {
@@ -3080,11 +3088,27 @@
     }
   },
   {
+    "name": "両上下肢近位筋麻痺",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
     "name": "両上下肢運動機能障害",
     "counts": {
       "male": 0,
       "female": 2,
       "sum": 2
+    }
+  },
+  {
+    "name": "両上下肢遠位筋筋力低下",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
     }
   },
   {
@@ -6592,6 +6616,14 @@
     }
   },
   {
+    "name": "右半身全麻痺",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
     "name": "右半身末梢神経障害",
     "counts": {
       "male": 0,
@@ -7450,9 +7482,9 @@
   {
     "name": "右被殻出血",
     "counts": {
-      "male": 9,
+      "male": 10,
       "female": 4,
-      "sum": 13
+      "sum": 14
     }
   },
   {
@@ -7821,6 +7853,14 @@
       "male": 2,
       "female": 0,
       "sum": 2
+    }
+  },
+  {
+    "name": "呼吸筋障害",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
     }
   },
   {
@@ -8211,8 +8251,8 @@
     "name": "嚥下障害",
     "counts": {
       "male": 8,
-      "female": 5,
-      "sum": 13
+      "female": 6,
+      "sum": 14
     }
   },
   {
@@ -9066,9 +9106,9 @@
   {
     "name": "多発脳梗塞",
     "counts": {
-      "male": 3,
+      "male": 4,
       "female": 1,
-      "sum": 4
+      "sum": 5
     }
   },
   {
@@ -9114,9 +9154,9 @@
   {
     "name": "多関節炎",
     "counts": {
-      "male": 3,
+      "male": 4,
       "female": 10,
-      "sum": 13
+      "sum": 14
     }
   },
   {
@@ -11161,6 +11201,14 @@
   },
   {
     "name": "左半身のしびれ",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
+    "name": "左半身不全麻痺",
     "counts": {
       "male": 1,
       "female": 0,
@@ -13698,9 +13746,9 @@
   {
     "name": "心室細動",
     "counts": {
-      "male": 39,
+      "male": 40,
       "female": 4,
-      "sum": 43
+      "sum": 44
     }
   },
   {
@@ -13786,9 +13834,9 @@
   {
     "name": "心疾患の疑い",
     "counts": {
-      "male": 4,
+      "male": 5,
       "female": 2,
-      "sum": 6
+      "sum": 7
     }
   },
   {
@@ -13842,9 +13890,9 @@
   {
     "name": "心筋梗塞の疑い",
     "counts": {
-      "male": 4,
+      "male": 5,
       "female": 2,
-      "sum": 6
+      "sum": 7
     }
   },
   {
@@ -13861,6 +13909,14 @@
       "male": 13,
       "female": 3,
       "sum": 16
+    }
+  },
+  {
+    "name": "心筋炎の疑い",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
     }
   },
   {
@@ -14003,8 +14059,8 @@
     "name": "心臓突然死",
     "counts": {
       "male": 15,
-      "female": 3,
-      "sum": 18
+      "female": 4,
+      "sum": 19
     }
   },
   {
@@ -14450,9 +14506,17 @@
   {
     "name": "急性心筋梗塞",
     "counts": {
-      "male": 78,
+      "male": 79,
       "female": 25,
-      "sum": 103
+      "sum": 104
+    }
+  },
+  {
+    "name": "急性心筋梗塞(前壁中隔)",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
     }
   },
   {
@@ -14811,8 +14875,8 @@
     "name": "急性肺血栓塞栓症",
     "counts": {
       "male": 0,
-      "female": 4,
-      "sum": 4
+      "female": 5,
+      "sum": 5
     }
   },
   {
@@ -15144,6 +15208,14 @@
     }
   },
   {
+    "name": "感覚性失語症",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
     "name": "感覚鈍磨",
     "counts": {
       "male": 0,
@@ -15192,11 +15264,19 @@
     }
   },
   {
+    "name": "慢性I型呼吸不全",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
     "name": "慢性うっ血性心不全の増悪",
     "counts": {
       "male": 0,
-      "female": 1,
-      "sum": 1
+      "female": 2,
+      "sum": 2
     }
   },
   {
@@ -15259,16 +15339,16 @@
     "name": "慢性心不全の増悪",
     "counts": {
       "male": 0,
-      "female": 7,
-      "sum": 7
+      "female": 8,
+      "sum": 8
     }
   },
   {
     "name": "慢性心不全の急性増悪",
     "counts": {
       "male": 3,
-      "female": 0,
-      "sum": 3
+      "female": 2,
+      "sum": 5
     }
   },
   {
@@ -15443,8 +15523,8 @@
     "name": "慢性腎不全の増悪",
     "counts": {
       "male": 1,
-      "female": 3,
-      "sum": 4
+      "female": 4,
+      "sum": 5
     }
   },
   {
@@ -15482,9 +15562,9 @@
   {
     "name": "慢性腎臓病急性増悪",
     "counts": {
-      "male": 1,
+      "male": 2,
       "female": 1,
-      "sum": 2
+      "sum": 3
     }
   },
   {
@@ -16243,8 +16323,8 @@
     "name": "敗血症",
     "counts": {
       "male": 7,
-      "female": 8,
-      "sum": 15
+      "female": 9,
+      "sum": 16
     }
   },
   {
@@ -16444,6 +16524,14 @@
     "counts": {
       "male": 0,
       "female": 1,
+      "sum": 1
+    }
+  },
+  {
+    "name": "椎骨動脈解離",
+    "counts": {
+      "male": 1,
+      "female": 0,
       "sum": 1
     }
   },
@@ -17587,8 +17675,8 @@
     "name": "発熱",
     "counts": {
       "male": 208,
-      "female": 298,
-      "sum": 506
+      "female": 299,
+      "sum": 507
     }
   },
   {
@@ -18138,9 +18226,9 @@
   {
     "name": "突然死",
     "counts": {
-      "male": 136,
-      "female": 93,
-      "sum": 229
+      "male": 140,
+      "female": 95,
+      "sum": 235
     }
   },
   {
@@ -18459,8 +18547,8 @@
     "name": "紅斑",
     "counts": {
       "male": 3,
-      "female": 3,
-      "sum": 6
+      "female": 4,
+      "sum": 7
     }
   },
   {
@@ -19043,8 +19131,8 @@
     "name": "肺血栓塞栓症",
     "counts": {
       "male": 8,
-      "female": 8,
-      "sum": 16
+      "female": 9,
+      "sum": 17
     }
   },
   {
@@ -19539,8 +19627,8 @@
     "name": "脳ヘルニア",
     "counts": {
       "male": 3,
-      "female": 0,
-      "sum": 3
+      "female": 1,
+      "sum": 4
     }
   },
   {
@@ -19571,8 +19659,8 @@
     "name": "脳出血",
     "counts": {
       "male": 38,
-      "female": 26,
-      "sum": 64
+      "female": 27,
+      "sum": 65
     }
   },
   {
@@ -19581,6 +19669,14 @@
       "male": 1,
       "female": 1,
       "sum": 2
+    }
+  },
+  {
+    "name": "脳出血による器質性双極性障害",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
     }
   },
   {
@@ -19737,6 +19833,14 @@
   },
   {
     "name": "脳底動脈閉塞",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
+    "name": "脳底動脈閉塞症",
     "counts": {
       "male": 1,
       "female": 0,
@@ -20611,8 +20715,8 @@
     "name": "自己免疫性溶血性貧血",
     "counts": {
       "male": 4,
-      "female": 1,
-      "sum": 5
+      "female": 3,
+      "sum": 7
     }
   },
   {
@@ -20714,9 +20818,9 @@
   {
     "name": "致死的不整脈疑い",
     "counts": {
-      "male": 0,
+      "male": 1,
       "female": 1,
-      "sum": 1
+      "sum": 2
     }
   },
   {
@@ -20979,8 +21083,8 @@
     "name": "虚血性心不全",
     "counts": {
       "male": 3,
-      "female": 2,
-      "sum": 5
+      "female": 3,
+      "sum": 6
     }
   },
   {
@@ -21011,8 +21115,8 @@
     "name": "虚血性心疾患の疑い",
     "counts": {
       "male": 4,
-      "female": 0,
-      "sum": 4
+      "female": 1,
+      "sum": 5
     }
   },
   {
@@ -21306,9 +21410,9 @@
   {
     "name": "血管性認知症",
     "counts": {
-      "male": 1,
+      "male": 2,
       "female": 0,
-      "sum": 1
+      "sum": 2
     }
   },
   {
@@ -21491,8 +21595,8 @@
     "name": "視神経脊髄炎スペクトラム",
     "counts": {
       "male": 2,
-      "female": 5,
-      "sum": 7
+      "female": 6,
+      "sum": 8
     }
   },
   {
@@ -21666,9 +21770,9 @@
   {
     "name": "誤嚥性肺炎",
     "counts": {
-      "male": 25,
+      "male": 27,
       "female": 11,
-      "sum": 36
+      "sum": 38
     }
   },
   {
@@ -22051,8 +22155,8 @@
     "name": "間質性肺炎",
     "counts": {
       "male": 48,
-      "female": 26,
-      "sum": 74
+      "female": 28,
+      "sum": 76
     }
   },
   {
