@@ -30,8 +30,5 @@
     * 修正結果は `./intermediate-files./{relative_dir}/{file_id}-manually-fixed.csv` に保存する。
 1. 以下のコマンドを実行して、データの最終的な整形をしつつCSVをJSONに変換して保存する。
     * `python _3-save-to-json.py`
-
-WIP
-
 1. `summary-metadata.yaml` を更新する。
 1. `sum-medical-institution-reports-v1.py` を実行する。
