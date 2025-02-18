@@ -25,6 +25,7 @@ df.columns = columns
 
 # gender列が空っぽの時、「NaNだけの列だからfloatのSeries」という扱いになってしまう。後の処理のため、文字列の列に変換したい。
 df['gender'] = df['gender'].astype("string")
+df['days_to_onset'] = df['days_to_onset'].astype("string")
 
 # %%
 # gender 列がNaNのデータが多数あり。age 列に半角スペース区切りで場合が多く、抽出する。
@@ -35,6 +36,16 @@ if age_split_df.shape[1] == 2:
 	age_split_df = age_split_df[age_split_df[1].notna()]
 	df.loc[age_split_df.index, 'age'] = age_split_df[0]
 	df.loc[age_split_df.index, 'gender'] = age_split_df[1]
+
+# %%
+# days_to_onset が NaN で、vaccine_nameに「1 スパイクバックス筋注（価不明）」というような状態でデータが入っているケースへの対処
+days_to_onset_nan_df = df[df['days_to_onset'].isna()]
+vaccine_name_split_df = days_to_onset_nan_df['vaccine_name'].str.split(' ', expand=True)
+
+if vaccine_name_split_df.shape[1] == 2:
+	vaccine_name_split_df = vaccine_name_split_df[vaccine_name_split_df[1].notna()]
+	df.loc[vaccine_name_split_df.index, 'days_to_onset'] = vaccine_name_split_df[0]
+	df.loc[vaccine_name_split_df.index, 'vaccine_name'] = vaccine_name_split_df[1]
 
 # %%
 csv_file_name_without_ext = os.path.splitext(csv_file_name)[0].replace('-pre', '-converted')
@@ -63,3 +74,5 @@ def remove_empty_lines(source_path, target_path):
 remove_empty_lines(csv_file_path, csv_file_path)
 
 print(f'{csv_file_path} に整形結果を保存しました。')
+
+
