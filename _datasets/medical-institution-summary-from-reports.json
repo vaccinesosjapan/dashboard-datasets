@@ -1,47 +1,47 @@
 {
   "medical_institution_summary_from_reports": {
     "date": "2024/08/04",
-    "total_count": 37255,
+    "total_count": 37643,
     "sum_causal_relationship": {
-      "関連あり": 21251,
-      "評価不能": 10432,
-      "(空白)": 4041,
-      "関連なし": 1531
+      "関連あり": 21467,
+      "評価不能": 10571,
+      "(空白)": 4065,
+      "関連なし": 1540
     },
     "sum_severities_of_related": {
-      "重くない": 16685,
-      "重い": 4566
+      "重くない": 16747,
+      "重い": 4720
     },
     "lot_no_info": {
       "top_ten_list": [
         {
           "lot_no": "EY2173",
-          "count": 2379,
+          "count": 2385,
           "manufacturer": "ファイザー"
         },
         {
           "lot_no": "ER2659",
-          "count": 2197,
+          "count": 2200,
           "manufacturer": "ファイザー"
         },
         {
           "lot_no": "EW4811",
-          "count": 2054,
+          "count": 2059,
           "manufacturer": "ファイザー"
         },
         {
           "lot_no": "EP9605",
-          "count": 1823,
+          "count": 1826,
           "manufacturer": "ファイザー"
         },
         {
           "lot_no": "ER7449",
-          "count": 1388,
+          "count": 1389,
           "manufacturer": "ファイザー"
         },
         {
           "lot_no": "ER9480",
-          "count": 1341,
+          "count": 1344,
           "manufacturer": "ファイザー"
         },
         {
@@ -51,17 +51,17 @@
         },
         {
           "lot_no": "EX3617",
-          "count": 873,
-          "manufacturer": "ファイザー"
-        },
-        {
-          "lot_no": "ET3674",
-          "count": 786,
+          "count": 875,
           "manufacturer": "ファイザー"
         },
         {
           "lot_no": "EY4834",
-          "count": 786,
+          "count": 788,
+          "manufacturer": "ファイザー"
+        },
+        {
+          "lot_no": "ET3674",
+          "count": 787,
           "manufacturer": "ファイザー"
         }
       ],
@@ -103,7 +103,7 @@
         },
         {
           "lot_no": "3002181",
-          "count": 120,
+          "count": 121,
           "manufacturer": "モデルナ／武田"
         },
         {
@@ -117,7 +117,7 @@
           "manufacturer": "モデルナ／武田"
         }
       ],
-      "invalid_count": 2454
+      "invalid_count": 3136
     }
   }
 }

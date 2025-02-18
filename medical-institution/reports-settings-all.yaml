@@ -1258,3 +1258,66 @@ settings: [
     script-version: v2
   }
 ]
+
+# 以降は、新しい抽出方式で使う設定
+relative_dir: '104th-2'
+file_id: '001325447'
+pages: '2-15'
+count: '269'
+has_concurrent_vaccination: 'true'
+source: {
+  name: '第104回',
+  url: 'https://www.mhlw.go.jp/content/11120000/001325447.pdf'
+}
+
+## 001325448 は0件
+
+relative_dir: '104th-2'
+file_id: '001325449'
+pages: '2'
+count: '6'
+has_concurrent_vaccination: 'true'
+source: {
+  name: '第104回',
+  url: 'https://www.mhlw.go.jp/content/11120000/001325449.pdf'
+}
+
+relative_dir: '104th-2'
+file_id: '001325450-1'
+pages: '2-6'
+count: '93'
+has_concurrent_vaccination: 'true'
+source: {
+  name: '第104回',
+  url: 'https://www.mhlw.go.jp/content/11120000/001325450.pdf'
+}
+
+relative_dir: '104th-2'
+file_id: '001325450-2'
+pages: '7'
+count: '4'
+has_concurrent_vaccination: 'true'
+source: {
+  name: '第104回',
+  url: 'https://www.mhlw.go.jp/content/11120000/001325450.pdf'
+}
+
+relative_dir: '104th-2'
+file_id: '001325450-3'
+pages: '8'
+count: '14'
+has_concurrent_vaccination: 'true'
+source: {
+  name: '第104回',
+  url: 'https://www.mhlw.go.jp/content/11120000/001325450.pdf'
+}
+
+relative_dir: '104th-2'
+file_id: '001325451'
+pages: '2'
+count: '2'
+has_concurrent_vaccination: 'true'
+source: {
+  name: '第104回',
+  url: 'https://www.mhlw.go.jp/content/11120000/001325450.pdf'
+}

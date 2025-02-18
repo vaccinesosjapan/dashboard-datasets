@@ -1,20 +1,19 @@
-# script-versionについて:
-#  v1: 昔のPDFから抽出する処理
-#  v2: 比較的最近のPDFから抽出する処理
-#  ex1: PDFからの抽出が無理な場合に、手作業でcsvに保存してjson化する処理
+#  relative_dir: 親ディレクトリ「pdf-files」から対象PDFファイルがあるディレクトリへの相対パス
+#  file_id: 情報抽出に使うPDFファイルのIDを記載します
+#  pages: 情報を抽出する対象の表が掲載されているページ
+#   例） 1,2,5ページを指定する場合  pages: '1,2,5'
+#   例） 10ページから13ページを指定する場合  pages: '10-13'
+#   例） 27ページ以降の全ページを指定する場合  pages: '27-end'
+#  count: symptoms で記載した症状に関して、PDFから抽出されると想定される件数
+#  source: 使用するPDFが扱われている審議会の名称と、PDFのURL
 #
-#  まずv2ためして、抽出不可なら手作業で抽出してex1使う感じ。
-#
-settings: [
-  {
-    file: '104th/001321051.csv',
-    output: '001321051.json',
-    pages: '',
-    expected_count: 1,
-    source: {
-      name: 第104回,
-      url: https://www.mhlw.go.jp/content/11120000/001321051.pdf
-    },
-    script-version: ex1
-  }
-]
+
+relative_dir: '104th-2'
+file_id: '001325451'
+pages: '2'
+count: '2'
+has_concurrent_vaccination: 'true'
+source: {
+  name: '第104回',
+  url: 'https://www.mhlw.go.jp/content/11120000/001325450.pdf'
+}
