@@ -30,8 +30,10 @@ for file in jsonFileList:
 			d['vaccine_name'] = cleansing_vaccine_name(d['vaccine_name'])
 			
 			# manufacturer
+			d['manufacturer'] = d['manufacturer'].replace('モデルナ／武\r\n田', 'モデルナ／武田')
 			d['manufacturer'] = d['manufacturer'].replace('モデルナ／武\n田', 'モデルナ／武田')
 			d['manufacturer'] = d['manufacturer'].replace('ノババックス\n／武田', 'ノババックス／武田')
+			d['manufacturer'] = d['manufacturer'].replace('ノババックス\r\n／武田', 'ノババックス／武田')
 
 			for i, osd in enumerate(d['onset_dates']):
 				d['onset_dates'][i] = osd.strip()
@@ -52,6 +54,7 @@ with open( output_path, "w", encoding='utf-8' ) as f:
 # 症状などの一覧データを作って、ダッシュボードで表示するためのメタデータとして保存する処理
 json_file_path = os.path.join(output_dir, 'medical-institution-reports.json')
 df = pd.read_json(json_file_path)
+
 certified_symptoms_metadata = {
 	"gender_list": sorted(df['gender'].unique().tolist(), reverse=True),
 	"vaccine_name_list": sorted( create_unique_list(df['vaccine_name'].unique().tolist()) ),
@@ -67,15 +70,10 @@ with open( output_file_path, "w", encoding='utf-8') as f:
 
 
 # メタ情報と組み合わせつつ、抽出した事例一覧からいくつかの集計情報抽出を行う
-with open('summary-metadata.yaml', "r", encoding='utf-8') as file:
-	metadata_root = yaml.safe_load(file)
-metadata = metadata_root['metadata']
-
 sum_causal_relationship = create_graph_by_causal_relationship(sorted_issues)
 sum_severities_of_related = create_graph_severities_of_related(sorted_issues)
 
-invalid_lotno_df = df[df['lot_no'].map(lambda x: str(x).__contains__('不明') or not str(x))]
-valid_lotno_df = df[df['lot_no'].map(lambda x: not str(x).__contains__('不明'))]
+valid_lotno_df = df[df['lot_no'].map(lambda x: not str(x).__contains__('不明') and str(x) != '99999')]
 
 valid_lotno_dict = valid_lotno_df.groupby(['lot_no'])['no'].count().nlargest(10).to_dict()
 valid_lotno_list = []
@@ -95,6 +93,10 @@ for k,v in moderna_lotno_dict.items():
 		"manufacturer": valid_lotno_df[valid_lotno_df['lot_no'] == k]['manufacturer'].unique()[0]
 	})
 
+with open('summary-metadata.yaml', "r", encoding='utf-8') as file:
+	metadata_root = yaml.safe_load(file)
+metadata = metadata_root['metadata']
+
 summary_data = {
 	"medical_institution_summary_from_reports": {
 		"date": metadata['issues']['date'],
@@ -104,7 +106,7 @@ summary_data = {
 		"lot_no_info": {
 			"top_ten_list": valid_lotno_list,
 			"top_ten_list_moderna": moderna_lotno_list,
-			"invalid_count": invalid_lotno_df.shape[0]
+			"invalid_count": df.shape[0] - valid_lotno_df.shape[0]
 		},
 	}
 }
