@@ -147,8 +147,8 @@
     "name": "IgA腎症",
     "counts": {
       "male": 13,
-      "female": 37,
-      "sum": 50
+      "female": 39,
+      "sum": 52
     }
   },
   {
@@ -411,8 +411,8 @@
     "name": "うっ血性心不全",
     "counts": {
       "male": 22,
-      "female": 18,
-      "sum": 40
+      "female": 19,
+      "sum": 41
     }
   },
   {
@@ -786,9 +786,9 @@
   {
     "name": "めまい",
     "counts": {
-      "male": 42,
+      "male": 43,
       "female": 77,
-      "sum": 119
+      "sum": 120
     }
   },
   {
@@ -826,9 +826,9 @@
   {
     "name": "めまい症",
     "counts": {
-      "male": 33,
+      "male": 34,
       "female": 43,
-      "sum": 76
+      "sum": 77
     }
   },
   {
@@ -1129,6 +1129,14 @@
   },
   {
     "name": "ギラン・バレー症候群による四肢麻痺",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
+    "name": "ギラン・バレー症候群の亜型",
     "counts": {
       "male": 1,
       "female": 0,
@@ -1771,8 +1779,8 @@
     "name": "リウマチ性多発筋痛症",
     "counts": {
       "male": 15,
-      "female": 19,
-      "sum": 34
+      "female": 20,
+      "sum": 35
     }
   },
   {
@@ -3275,8 +3283,8 @@
     "name": "両下肢のしびれ",
     "counts": {
       "male": 0,
-      "female": 1,
-      "sum": 1
+      "female": 2,
+      "sum": 2
     }
   },
   {
@@ -3549,6 +3557,14 @@
       "male": 2,
       "female": 0,
       "sum": 2
+    }
+  },
+  {
+    "name": "両側ぶどう膜炎",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
     }
   },
   {
@@ -4378,9 +4394,9 @@
   {
     "name": "亜急性甲状腺炎",
     "counts": {
-      "male": 0,
-      "female": 7,
-      "sum": 7
+      "male": 1,
+      "female": 8,
+      "sum": 9
     }
   },
   {
@@ -4506,9 +4522,9 @@
   {
     "name": "低酸素脳症",
     "counts": {
-      "male": 21,
+      "male": 23,
       "female": 9,
-      "sum": 30
+      "sum": 32
     }
   },
   {
@@ -4837,6 +4853,14 @@
       "male": 2,
       "female": 6,
       "sum": 8
+    }
+  },
+  {
+    "name": "全身のしびれ・顔面けいれん",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
     }
   },
   {
@@ -5299,8 +5323,8 @@
     "name": "円形脱毛症",
     "counts": {
       "male": 17,
-      "female": 31,
-      "sum": 48
+      "female": 32,
+      "sum": 49
     }
   },
   {
@@ -5603,8 +5627,8 @@
     "name": "劇症型心筋炎",
     "counts": {
       "male": 13,
-      "female": 13,
-      "sum": 26
+      "female": 14,
+      "sum": 27
     }
   },
   {
@@ -5636,6 +5660,14 @@
     "counts": {
       "male": 1,
       "female": 0,
+      "sum": 1
+    }
+  },
+  {
+    "name": "労作時呼吸困難",
+    "counts": {
+      "male": 0,
+      "female": 1,
       "sum": 1
     }
   },
@@ -7066,9 +7098,9 @@
   {
     "name": "右網膜中心静脈閉塞症",
     "counts": {
-      "male": 2,
+      "male": 3,
       "female": 2,
-      "sum": 4
+      "sum": 5
     }
   },
   {
@@ -8170,9 +8202,9 @@
   {
     "name": "嘔気",
     "counts": {
-      "male": 54,
-      "female": 104,
-      "sum": 158
+      "male": 55,
+      "female": 105,
+      "sum": 160
     }
   },
   {
@@ -8659,8 +8691,8 @@
     "name": "回転性めまい",
     "counts": {
       "male": 1,
-      "female": 1,
-      "sum": 2
+      "female": 2,
+      "sum": 3
     }
   },
   {
@@ -11739,8 +11771,8 @@
     "name": "左末梢性顔面神経麻痺",
     "counts": {
       "male": 4,
-      "female": 2,
-      "sum": 6
+      "female": 3,
+      "sum": 7
     }
   },
   {
@@ -12530,9 +12562,9 @@
   {
     "name": "左肩関節周囲炎",
     "counts": {
-      "male": 107,
+      "male": 108,
       "female": 195,
-      "sum": 302
+      "sum": 303
     }
   },
   {
@@ -14594,9 +14626,9 @@
   {
     "name": "急性心膜心筋炎",
     "counts": {
-      "male": 232,
+      "male": 234,
       "female": 17,
-      "sum": 249
+      "sum": 251
     }
   },
   {
@@ -14610,9 +14642,9 @@
   {
     "name": "急性心膜炎",
     "counts": {
-      "male": 70,
-      "female": 15,
-      "sum": 85
+      "male": 71,
+      "female": 16,
+      "sum": 87
     }
   },
   {
@@ -14709,6 +14741,14 @@
       "male": 19,
       "female": 35,
       "sum": 54
+    }
+  },
+  {
+    "name": "急性散在性脳脊髄炎による両上下肢痙性麻痺",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
     }
   },
   {
@@ -16483,8 +16523,8 @@
     "name": "末梢神経障害",
     "counts": {
       "male": 33,
-      "female": 81,
-      "sum": 114
+      "female": 83,
+      "sum": 116
     }
   },
   {
@@ -17283,8 +17323,8 @@
     "name": "片頭痛の増悪",
     "counts": {
       "male": 0,
-      "female": 1,
-      "sum": 1
+      "female": 2,
+      "sum": 2
     }
   },
   {
@@ -17346,9 +17386,9 @@
   {
     "name": "特発性血小板減少性紫斑病",
     "counts": {
-      "male": 3,
+      "male": 4,
       "female": 2,
-      "sum": 5
+      "sum": 6
     }
   },
   {
@@ -17458,9 +17498,9 @@
   {
     "name": "甲状腺機能低下症",
     "counts": {
-      "male": 0,
+      "male": 1,
       "female": 1,
-      "sum": 1
+      "sum": 2
     }
   },
   {
@@ -18816,6 +18856,14 @@
     }
   },
   {
+    "name": "耳介後部痛",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
     "name": "耳閉感",
     "counts": {
       "male": 1,
@@ -19066,9 +19114,9 @@
   {
     "name": "肺塞栓",
     "counts": {
-      "male": 3,
+      "male": 5,
       "female": 0,
-      "sum": 3
+      "sum": 5
     }
   },
   {
@@ -19475,8 +19523,8 @@
     "name": "胸部違和感",
     "counts": {
       "male": 3,
-      "female": 4,
-      "sum": 7
+      "female": 5,
+      "sum": 8
     }
   },
   {
@@ -19690,9 +19738,9 @@
   {
     "name": "脳出血",
     "counts": {
-      "male": 39,
+      "male": 41,
       "female": 28,
-      "sum": 67
+      "sum": 69
     }
   },
   {
@@ -19824,6 +19872,14 @@
     }
   },
   {
+    "name": "脳幹梗塞による右上下肢麻痺",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
     "name": "脳幹梗塞の疑い",
     "counts": {
       "male": 2,
@@ -19906,9 +19962,9 @@
   {
     "name": "脳梗塞",
     "counts": {
-      "male": 108,
-      "female": 74,
-      "sum": 182
+      "male": 109,
+      "female": 75,
+      "sum": 184
     }
   },
   {
@@ -19939,8 +19995,8 @@
     "name": "脳梗塞による右上下肢麻痺",
     "counts": {
       "male": 1,
-      "female": 1,
-      "sum": 2
+      "female": 2,
+      "sum": 3
     }
   },
   {
@@ -19948,6 +20004,14 @@
     "counts": {
       "male": 1,
       "female": 0,
+      "sum": 1
+    }
+  },
+  {
+    "name": "脳梗塞による歩行困難",
+    "counts": {
+      "male": 0,
+      "female": 1,
       "sum": 1
     }
   },
@@ -20947,8 +21011,8 @@
     "name": "蕁麻疹",
     "counts": {
       "male": 30,
-      "female": 70,
-      "sum": 100
+      "female": 71,
+      "sum": 101
     }
   },
   {
@@ -21360,6 +21424,14 @@
     }
   },
   {
+    "name": "血栓性微小血管障害症",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
     "name": "血栓性脳梗塞",
     "counts": {
       "male": 2,
@@ -21483,8 +21555,8 @@
     "name": "血管炎",
     "counts": {
       "male": 1,
-      "female": 0,
-      "sum": 1
+      "female": 1,
+      "sum": 2
     }
   },
   {
@@ -21928,6 +22000,22 @@
     }
   },
   {
+    "name": "辺縁系脳炎",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
+    "name": "辺縁系脳炎による認知機能低下",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
     "name": "辺縁系脳炎の疑い",
     "counts": {
       "male": 1,
@@ -22194,9 +22282,9 @@
   {
     "name": "間質性肺炎",
     "counts": {
-      "male": 48,
+      "male": 49,
       "female": 28,
-      "sum": 76
+      "sum": 77
     }
   },
   {
@@ -22274,9 +22362,9 @@
   {
     "name": "関節リウマチ",
     "counts": {
-      "male": 25,
+      "male": 26,
       "female": 27,
-      "sum": 52
+      "sum": 53
     }
   },
   {
@@ -22618,9 +22706,9 @@
   {
     "name": "頭痛",
     "counts": {
-      "male": 156,
+      "male": 157,
       "female": 232,
-      "sum": 388
+      "sum": 389
     }
   },
   {
@@ -22773,6 +22861,14 @@
       "male": 1,
       "female": 1,
       "sum": 2
+    }
+  },
+  {
+    "name": "頭部脱毛症の増悪",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
     }
   },
   {
@@ -23402,9 +23498,9 @@
   {
     "name": "高血圧症",
     "counts": {
-      "male": 0,
+      "male": 1,
       "female": 1,
-      "sum": 1
+      "sum": 2
     }
   },
   {
