@@ -610,9 +610,9 @@
   {
     "name": "たこつぼ型心筋症",
     "counts": {
-      "male": 3,
+      "male": 5,
       "female": 5,
-      "sum": 8
+      "sum": 10
     }
   },
   {
@@ -746,9 +746,9 @@
   {
     "name": "ふらつき",
     "counts": {
-      "male": 9,
+      "male": 10,
       "female": 30,
-      "sum": 39
+      "sum": 40
     }
   },
   {
@@ -786,9 +786,9 @@
   {
     "name": "めまい",
     "counts": {
-      "male": 43,
+      "male": 44,
       "female": 77,
-      "sum": 120
+      "sum": 121
     }
   },
   {
@@ -2248,6 +2248,14 @@
     }
   },
   {
+    "name": "上半身痛",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
     "name": "上唇皮膚炎",
     "counts": {
       "male": 0,
@@ -3032,6 +3040,14 @@
     }
   },
   {
+    "name": "不詳の内因死",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
     "name": "不随意筋収縮",
     "counts": {
       "male": 0,
@@ -3100,6 +3116,14 @@
     "counts": {
       "male": 1,
       "female": 0,
+      "sum": 1
+    }
+  },
+  {
+    "name": "両上下肢痛",
+    "counts": {
+      "male": 0,
+      "female": 1,
       "sum": 1
     }
   },
@@ -4427,8 +4451,8 @@
     "name": "亜急性心筋梗塞",
     "counts": {
       "male": 1,
-      "female": 0,
-      "sum": 1
+      "female": 1,
+      "sum": 2
     }
   },
   {
@@ -6083,8 +6107,8 @@
     "name": "右アテローム血栓性脳梗塞",
     "counts": {
       "male": 0,
-      "female": 1,
-      "sum": 1
+      "female": 2,
+      "sum": 2
     }
   },
   {
@@ -7594,9 +7618,9 @@
   {
     "name": "右視床出血",
     "counts": {
-      "male": 8,
+      "male": 9,
       "female": 2,
-      "sum": 10
+      "sum": 11
     }
   },
   {
@@ -9890,9 +9914,17 @@
   {
     "name": "左上下肢運動機能障害",
     "counts": {
-      "male": 3,
+      "male": 4,
       "female": 2,
-      "sum": 5
+      "sum": 6
+    }
+  },
+  {
+    "name": "左上下肢運動障害",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
     }
   },
   {
@@ -11322,9 +11354,9 @@
   {
     "name": "左半身のしびれ",
     "counts": {
-      "male": 1,
+      "male": 2,
       "female": 0,
-      "sum": 1
+      "sum": 2
     }
   },
   {
@@ -11387,8 +11419,8 @@
     "name": "左同名半盲",
     "counts": {
       "male": 1,
-      "female": 0,
-      "sum": 1
+      "female": 1,
+      "sum": 2
     }
   },
   {
@@ -11731,8 +11763,8 @@
     "name": "左手末梢神経障害",
     "counts": {
       "male": 0,
-      "female": 1,
-      "sum": 1
+      "female": 2,
+      "sum": 2
     }
   },
   {
@@ -12010,9 +12042,9 @@
   {
     "name": "左片麻痺",
     "counts": {
-      "male": 4,
-      "female": 3,
-      "sum": 7
+      "male": 5,
+      "female": 4,
+      "sum": 9
     }
   },
   {
@@ -13106,9 +13138,9 @@
   {
     "name": "左視床出血",
     "counts": {
-      "male": 6,
+      "male": 7,
       "female": 1,
-      "sum": 7
+      "sum": 8
     }
   },
   {
@@ -13802,9 +13834,9 @@
   {
     "name": "心原性脳梗塞",
     "counts": {
-      "male": 3,
+      "male": 4,
       "female": 0,
-      "sum": 3
+      "sum": 4
     }
   },
   {
@@ -13882,17 +13914,17 @@
   {
     "name": "心室細動",
     "counts": {
-      "male": 40,
+      "male": 43,
       "female": 4,
-      "sum": 44
+      "sum": 47
     }
   },
   {
     "name": "心室頻拍",
     "counts": {
-      "male": 7,
+      "male": 9,
       "female": 1,
-      "sum": 8
+      "sum": 10
     }
   },
   {
@@ -13979,8 +14011,8 @@
     "name": "心破裂",
     "counts": {
       "male": 0,
-      "female": 4,
-      "sum": 4
+      "female": 5,
+      "sum": 5
     }
   },
   {
@@ -14042,9 +14074,9 @@
   {
     "name": "心筋炎",
     "counts": {
-      "male": 13,
+      "male": 14,
       "female": 3,
-      "sum": 16
+      "sum": 17
     }
   },
   {
@@ -16506,9 +16538,9 @@
   {
     "name": "末期腎不全",
     "counts": {
-      "male": 1,
+      "male": 2,
       "female": 0,
-      "sum": 1
+      "sum": 2
     }
   },
   {
@@ -17049,6 +17081,14 @@
   },
   {
     "name": "水頭症による両上下肢筋力低下",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
+    "name": "水頭症術後",
     "counts": {
       "male": 1,
       "female": 0,
@@ -18058,9 +18098,9 @@
   {
     "name": "皮膚筋炎",
     "counts": {
-      "male": 6,
+      "male": 7,
       "female": 9,
-      "sum": 15
+      "sum": 16
     }
   },
   {
@@ -18378,9 +18418,9 @@
   {
     "name": "突然死",
     "counts": {
-      "male": 142,
+      "male": 143,
       "female": 95,
-      "sum": 237
+      "sum": 238
     }
   },
   {
@@ -19666,9 +19706,9 @@
   {
     "name": "脊髄炎",
     "counts": {
-      "male": 19,
+      "male": 20,
       "female": 11,
-      "sum": 30
+      "sum": 31
     }
   },
   {
@@ -19850,9 +19890,9 @@
   {
     "name": "脳出血後遺症",
     "counts": {
-      "male": 3,
+      "male": 4,
       "female": 1,
-      "sum": 4
+      "sum": 5
     }
   },
   {
@@ -20042,9 +20082,9 @@
   {
     "name": "脳梗塞",
     "counts": {
-      "male": 109,
-      "female": 75,
-      "sum": 184
+      "male": 110,
+      "female": 76,
+      "sum": 186
     }
   },
   {
@@ -20944,6 +20984,14 @@
     }
   },
   {
+    "name": "自己免疫疾患による高次脳機能障害",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
     "name": "自律神経失調症",
     "counts": {
       "male": 2,
@@ -20994,9 +21042,9 @@
   {
     "name": "致死的不整脈",
     "counts": {
-      "male": 1,
+      "male": 2,
       "female": 0,
-      "sum": 1
+      "sum": 2
     }
   },
   {
@@ -21237,6 +21285,14 @@
       "male": 1,
       "female": 2,
       "sum": 3
+    }
+  },
+  {
+    "name": "蘇生後脳症による遷延性意識障害",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
     }
   },
   {
@@ -21682,9 +21738,9 @@
   {
     "name": "複視",
     "counts": {
-      "male": 2,
+      "male": 3,
       "female": 2,
-      "sum": 4
+      "sum": 5
     }
   },
   {
@@ -21962,9 +22018,9 @@
   {
     "name": "誤嚥性肺炎",
     "counts": {
-      "male": 28,
+      "male": 29,
       "female": 11,
-      "sum": 39
+      "sum": 40
     }
   },
   {
@@ -22786,9 +22842,9 @@
   {
     "name": "頭痛",
     "counts": {
-      "male": 157,
+      "male": 159,
       "female": 233,
-      "sum": 390
+      "sum": 392
     }
   },
   {
