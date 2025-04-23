@@ -147,8 +147,8 @@
     "name": "IgA腎症",
     "counts": {
       "male": 13,
-      "female": 41,
-      "sum": 54
+      "female": 42,
+      "sum": 55
     }
   },
   {
@@ -242,9 +242,9 @@
   {
     "name": "I型糖尿病",
     "counts": {
-      "male": 2,
+      "male": 3,
       "female": 7,
-      "sum": 9
+      "sum": 10
     }
   },
   {
@@ -323,8 +323,8 @@
     "name": "ST上昇型急性心筋梗塞",
     "counts": {
       "male": 1,
-      "female": 0,
-      "sum": 1
+      "female": 1,
+      "sum": 2
     }
   },
   {
@@ -419,8 +419,8 @@
     "name": "うっ血性心不全",
     "counts": {
       "male": 23,
-      "female": 19,
-      "sum": 42
+      "female": 20,
+      "sum": 43
     }
   },
   {
@@ -1824,6 +1824,14 @@
     }
   },
   {
+    "name": "リウマチ性筋痛症",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
     "name": "リウマチ性間質性肺炎の増悪",
     "counts": {
       "male": 0,
@@ -2249,6 +2257,14 @@
   },
   {
     "name": "上半身不随意運動",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
+    "name": "上半身優位のけいれんの増悪",
     "counts": {
       "male": 1,
       "female": 0,
@@ -3333,6 +3349,14 @@
       "male": 2,
       "female": 5,
       "sum": 7
+    }
+  },
+  {
+    "name": "両下肢しびれ・疼痛",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
     }
   },
   {
@@ -4483,8 +4507,8 @@
     "name": "亜急性甲状腺炎",
     "counts": {
       "male": 1,
-      "female": 8,
-      "sum": 9
+      "female": 9,
+      "sum": 10
     }
   },
   {
@@ -5354,9 +5378,9 @@
   {
     "name": "全頭型円形脱毛症",
     "counts": {
-      "male": 1,
+      "male": 2,
       "female": 1,
-      "sum": 2
+      "sum": 3
     }
   },
   {
@@ -6133,6 +6157,14 @@
       "male": 0,
       "female": 2,
       "sum": 2
+    }
+  },
+  {
+    "name": "右ハント症候群",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
     }
   },
   {
@@ -8952,6 +8984,14 @@
     }
   },
   {
+    "name": "多形慢性痒疹",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
     "name": "多形滲出性紅斑",
     "counts": {
       "male": 6,
@@ -9322,9 +9362,9 @@
   {
     "name": "多臓器不全",
     "counts": {
-      "male": 15,
+      "male": 17,
       "female": 13,
-      "sum": 28
+      "sum": 30
     }
   },
   {
@@ -13760,6 +13800,14 @@
     }
   },
   {
+    "name": "循環動態悪化",
+    "counts": {
+      "male": 2,
+      "female": 0,
+      "sum": 2
+    }
+  },
+  {
     "name": "循環血液量減少性ショック",
     "counts": {
       "male": 1,
@@ -14002,9 +14050,9 @@
   {
     "name": "心室細動",
     "counts": {
-      "male": 43,
+      "male": 44,
       "female": 4,
-      "sum": 47
+      "sum": 48
     }
   },
   {
@@ -16739,8 +16787,8 @@
     "name": "末梢神経障害",
     "counts": {
       "male": 34,
-      "female": 83,
-      "sum": 117
+      "female": 84,
+      "sum": 118
     }
   },
   {
@@ -17226,9 +17274,9 @@
   {
     "name": "汎発性脱毛症",
     "counts": {
-      "male": 2,
+      "male": 3,
       "female": 1,
-      "sum": 3
+      "sum": 4
     }
   },
   {
@@ -17458,9 +17506,9 @@
   {
     "name": "潰瘍性大腸炎",
     "counts": {
-      "male": 3,
+      "male": 4,
       "female": 4,
-      "sum": 7
+      "sum": 8
     }
   },
   {
@@ -17731,8 +17779,8 @@
     "name": "甲状腺機能低下症",
     "counts": {
       "male": 1,
-      "female": 1,
-      "sum": 2
+      "female": 2,
+      "sum": 3
     }
   },
   {
@@ -18515,8 +18563,8 @@
     "name": "神経障害性疼痛",
     "counts": {
       "male": 13,
-      "female": 29,
-      "sum": 42
+      "female": 30,
+      "sum": 43
     }
   },
   {
@@ -21064,6 +21112,14 @@
     }
   },
   {
+    "name": "自己免疫介在性脳炎の疑い",
+    "counts": {
+      "male": 2,
+      "female": 0,
+      "sum": 2
+    }
+  },
+  {
     "name": "自己免疫介在性脳炎・脳症",
     "counts": {
       "male": 0,
@@ -21394,9 +21450,9 @@
   {
     "name": "薬剤性肺障害",
     "counts": {
-      "male": 1,
+      "male": 2,
       "female": 0,
-      "sum": 1
+      "sum": 2
     }
   },
   {
@@ -22626,9 +22682,9 @@
   {
     "name": "間質性肺炎の増悪",
     "counts": {
-      "male": 14,
+      "male": 16,
       "female": 9,
-      "sum": 23
+      "sum": 25
     }
   },
   {
@@ -23195,8 +23251,8 @@
     "name": "頭部脱毛症",
     "counts": {
       "male": 1,
-      "female": 1,
-      "sum": 2
+      "female": 2,
+      "sum": 3
     }
   },
   {
