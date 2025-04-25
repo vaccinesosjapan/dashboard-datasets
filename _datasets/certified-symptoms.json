@@ -1744,6 +1744,14 @@
     }
   },
   {
+    "name": "メニエール症候群",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
     "name": "メニエール症候群の増悪",
     "counts": {
       "male": 0,
@@ -1794,9 +1802,9 @@
   {
     "name": "リウマチ性多発筋痛症",
     "counts": {
-      "male": 17,
+      "male": 18,
       "female": 21,
-      "sum": 38
+      "sum": 39
     }
   },
   {
@@ -2560,6 +2568,14 @@
     }
   },
   {
+    "name": "上腹部灼熱感",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
     "name": "上腹部痛",
     "counts": {
       "male": 0,
@@ -3083,8 +3099,8 @@
     "name": "不随意運動",
     "counts": {
       "male": 2,
-      "female": 3,
-      "sum": 5
+      "female": 4,
+      "sum": 6
     }
   },
   {
@@ -4435,8 +4451,8 @@
     "name": "中毒疹",
     "counts": {
       "male": 59,
-      "female": 97,
-      "sum": 156
+      "female": 98,
+      "sum": 157
     }
   },
   {
@@ -4507,8 +4523,8 @@
     "name": "亜急性甲状腺炎",
     "counts": {
       "male": 1,
-      "female": 9,
-      "sum": 10
+      "female": 10,
+      "sum": 11
     }
   },
   {
@@ -4938,9 +4954,9 @@
   {
     "name": "全身しびれ",
     "counts": {
-      "male": 0,
+      "male": 1,
       "female": 1,
-      "sum": 1
+      "sum": 2
     }
   },
   {
@@ -5915,8 +5931,8 @@
     "name": "反応性関節炎",
     "counts": {
       "male": 1,
-      "female": 3,
-      "sum": 4
+      "female": 4,
+      "sum": 5
     }
   },
   {
@@ -6076,6 +6092,14 @@
     "counts": {
       "male": 1,
       "female": 0,
+      "sum": 1
+    }
+  },
+  {
+    "name": "口腔異和感症",
+    "counts": {
+      "male": 0,
+      "female": 1,
       "sum": 1
     }
   },
@@ -7235,8 +7259,8 @@
     "name": "右網膜中心動脈閉塞症",
     "counts": {
       "male": 0,
-      "female": 2,
-      "sum": 2
+      "female": 3,
+      "sum": 3
     }
   },
   {
@@ -10291,8 +10315,8 @@
     "name": "左上肢末梢神経障害",
     "counts": {
       "male": 9,
-      "female": 19,
-      "sum": 28
+      "female": 20,
+      "sum": 29
     }
   },
   {
@@ -11003,8 +11027,8 @@
     "name": "左上腕骨外側上顆炎",
     "counts": {
       "male": 1,
-      "female": 0,
-      "sum": 1
+      "female": 1,
+      "sum": 2
     }
   },
   {
@@ -12091,8 +12115,8 @@
     "name": "左橈骨神経障害",
     "counts": {
       "male": 3,
-      "female": 7,
-      "sum": 10
+      "female": 8,
+      "sum": 11
     }
   },
   {
@@ -12346,9 +12370,9 @@
   {
     "name": "左突発性難聴",
     "counts": {
-      "male": 9,
+      "male": 10,
       "female": 6,
-      "sum": 15
+      "sum": 16
     }
   },
   {
@@ -12674,9 +12698,9 @@
   {
     "name": "左肩痛",
     "counts": {
-      "male": 12,
+      "male": 13,
       "female": 11,
-      "sum": 23
+      "sum": 24
     }
   },
   {
@@ -12795,8 +12819,8 @@
     "name": "左肩関節周囲炎",
     "counts": {
       "male": 109,
-      "female": 196,
-      "sum": 305
+      "female": 199,
+      "sum": 308
     }
   },
   {
@@ -12824,11 +12848,19 @@
     }
   },
   {
+    "name": "左肩関節周囲炎・拘縮",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
     "name": "左肩関節拘縮",
     "counts": {
       "male": 12,
-      "female": 44,
-      "sum": 56
+      "female": 45,
+      "sum": 57
     }
   },
   {
@@ -13137,6 +13169,14 @@
   },
   {
     "name": "左腕・左肩痛",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
+    "name": "左腕疼痛",
     "counts": {
       "male": 0,
       "female": 1,
@@ -16312,6 +16352,14 @@
     }
   },
   {
+    "name": "抗MDA5抗体陽性間質性肺炎合併皮膚筋炎",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
     "name": "抗MOG抗体関連疾患",
     "counts": {
       "male": 0,
@@ -17667,8 +17715,8 @@
     "name": "特発性血小板減少性紫斑病",
     "counts": {
       "male": 4,
-      "female": 2,
-      "sum": 6
+      "female": 3,
+      "sum": 7
     }
   },
   {
@@ -18026,9 +18074,9 @@
   {
     "name": "発熱",
     "counts": {
-      "male": 208,
+      "male": 209,
       "female": 299,
-      "sum": 507
+      "sum": 508
     }
   },
   {
@@ -19794,9 +19842,9 @@
   {
     "name": "胸部絞扼感",
     "counts": {
-      "male": 5,
+      "male": 6,
       "female": 2,
-      "sum": 7
+      "sum": 8
     }
   },
   {
@@ -21323,8 +21371,8 @@
     "name": "舌痛症",
     "counts": {
       "male": 1,
-      "female": 2,
-      "sum": 3
+      "female": 3,
+      "sum": 4
     }
   },
   {
@@ -22666,9 +22714,9 @@
   {
     "name": "間質性肺炎",
     "counts": {
-      "male": 51,
+      "male": 52,
       "female": 30,
-      "sum": 81
+      "sum": 82
     }
   },
   {
@@ -22747,8 +22795,8 @@
     "name": "関節リウマチ",
     "counts": {
       "male": 29,
-      "female": 30,
-      "sum": 59
+      "female": 33,
+      "sum": 62
     }
   },
   {
@@ -23466,9 +23514,9 @@
   {
     "name": "頻脈性心房細動",
     "counts": {
-      "male": 2,
+      "male": 3,
       "female": 0,
-      "sum": 2
+      "sum": 3
     }
   },
   {
@@ -23643,8 +23691,8 @@
     "name": "顕微鏡的多発血管炎",
     "counts": {
       "male": 1,
-      "female": 4,
-      "sum": 5
+      "female": 5,
+      "sum": 6
     }
   },
   {
