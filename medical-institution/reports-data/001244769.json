@@ -341,10 +341,10 @@
       0,
       0
     ],
-    "vaccine_name": "コミナティ筋注（１\n価：オミクロン株\nXBB.1.5）\nインフルエンザ",
-    "concurrent_vaccination": "1\n1",
-    "manufacturer": "ファイザー\nKMB",
-    "lot_no": "HG2273\n524A",
+    "vaccine_name": "コミナティ筋注（１\n価：オミクロン株\nXBB.1.5）",
+    "concurrent_vaccination": "インフルエンザ;KMB;524A",
+    "manufacturer": "ファイザー",
+    "lot_no": "HG2273",
     "PT_names": [
       "死亡",
       "心肺停止",
@@ -1294,10 +1294,10 @@
       0,
       0
     ],
-    "vaccine_name": "コミナティ筋注（１\n価：オミクロン株\nXBB.1.5）\nインフルエンザ",
-    "concurrent_vaccination": "1\n1",
-    "manufacturer": "ファイザー\n第一三共",
-    "lot_no": "99999\nYHA049A",
+    "vaccine_name": "コミナティ筋注（１\n価：オミクロン株\nXBB.1.5）",
+    "concurrent_vaccination": "インフルエンザ;第一三共;YHA049A",
+    "manufacturer": "ファイザー",
+    "lot_no": "99999",
     "PT_names": [
       "アナフィラキシー反応",
       "心筋炎",
@@ -3618,10 +3618,10 @@
       1,
       1
     ],
-    "vaccine_name": "コミナティ筋注（１\n価：オミクロン株\nXBB.1.5）\nインフルエンザ",
-    "concurrent_vaccination": "1\n1",
-    "manufacturer": "ファイザー\n不明",
-    "lot_no": "99999\n99999",
+    "vaccine_name": "コミナティ筋注（１\n価：オミクロン株\nXBB.1.5）",
+    "concurrent_vaccination": "インフルエンザ;不明;99999",
+    "manufacturer": "ファイザー",
+    "lot_no": "99999",
     "PT_names": [
       "蕁麻疹",
       "視力低下",
