@@ -3212,9 +3212,10 @@
       1
     ],
     "vaccine_name": "コミナティ筋注（価\n不明）",
-    "concurrent_vaccination": "インフルエンザ;不明;99999",
     "manufacturer": "ファイザー",
     "lot_no": "99999",
+    "concurrent_vaccination_flag": true,
+    "concurrent_vaccination": "インフルエンザ;不明;99999",
     "PT_names": [
       "頭痛",
       "腹痛",

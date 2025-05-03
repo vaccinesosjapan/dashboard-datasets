@@ -8,9 +8,9 @@
 #  source: 使用するPDFが扱われている審議会の名称と、PDFのURL
 #  id_metadata: idを生成するために必要な「第何回目の検討部会か」「どの種類の表か」といったメタ情報を記載する
 #    MA: 製造販売業者（Manufacturer）
-#    医療機関（Medical institution）
-#      MIJ: 重篤症例
-#      MIH: 非重篤症例
+#    MI: 医療機関（Medical institution）
+#      MIS: 重い(Serious)症例
+#      MIN: 上記以外の（Not serious）症例
 
 relative_dir: '106th'
 file_id: '001475703'
@@ -24,5 +24,5 @@ source: {
 }
 id_metadata: {
   number: '106th',
-  kind: 'MIJ'
+  kind: 'MIS'
 }

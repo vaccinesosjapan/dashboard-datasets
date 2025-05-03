@@ -3318,9 +3318,10 @@
       1
     ],
     "vaccine_name": "コミナティ筋注（２価：起\n源株/オミクロン株BA.4-\n5）",
-    "concurrent_vaccination": "インフルエンザ;阪大微研会;HA221B",
     "manufacturer": "ファイザー",
     "lot_no": "GJ1857",
+    "concurrent_vaccination_flag": true,
+    "concurrent_vaccination": "インフルエンザ;阪大微研会;HA221B",
     "PT_names": [
       "帯状疱疹",
       "帯状疱疹"
@@ -4271,9 +4272,10 @@
       0
     ],
     "vaccine_name": "コミナティ筋注（２価：起\n源株/オミクロン株BA.4-\n5）",
-    "concurrent_vaccination": "インフルエンザ;第一三共;YHA044A",
     "manufacturer": "ファイザー",
     "lot_no": "GJ1857",
+    "concurrent_vaccination_flag": true,
+    "concurrent_vaccination": "インフルエンザ;第一三共;YHA044A",
     "PT_names": [
       "血小板数減少",
       "循環虚脱",

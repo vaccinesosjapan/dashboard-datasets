@@ -15,9 +15,10 @@
       1
     ],
     "vaccine_name": "コミナティ筋注５〜11歳用",
-    "concurrent_vaccination": "インフルエンザ;KMB;502B",
     "manufacturer": "ファイザー",
     "lot_no": "FR4267",
+    "concurrent_vaccination_flag": true,
+    "concurrent_vaccination": "インフルエンザ;KMB;502B",
     "PT_names": [
       "熱性痙攣",
       "熱性痙攣"
