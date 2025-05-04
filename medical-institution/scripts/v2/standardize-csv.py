@@ -49,7 +49,7 @@ if causal_relationship_split_df.shape[1] == 2:
 df.loc[:, 'vaccine_name'] = df['vaccine_name'].str.replace('\r\n', '\n').str.replace('\n', '')
 df.loc[:, 'pre_existing_disease_names'] = df['pre_existing_disease_names'].str.replace('\r\n', '\n').str.replace('\n', '')
 df.loc[:, 'PT_names'] = df['PT_names'].str.replace('\r\n', '\n').str.replace('\n', '')
-df.loc[:, 'pt_by_expert'] = df['comments_by_expert'].str.replace('\r\n', '\n').str.replace('\n', '')
+df.loc[:, 'pt_by_expert'] = df['pt_by_expert'].str.replace('\r\n', '\n').str.replace('\n', '')
 df.loc[:, 'comments_by_expert'] = df['comments_by_expert'].str.replace('\r\n', '\n').str.replace('\n', '')
 
 # 大文字と小文字の正規化
