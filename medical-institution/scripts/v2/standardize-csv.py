@@ -55,6 +55,14 @@ df.loc[:, 'comments_by_expert'] = df['comments_by_expert'].str.replace('\r\n', '
 # 大文字と小文字の正規化
 df.loc[:, 'vaccine_name'] = df['vaccine_name'].map(lambda x: unicodedata.normalize("NFKC", x))
 
+# 2025年から日付のフォーマットが「YYYY/MM/DD」ではなく、「YYYY年MM月DD日」に変わってしまった。
+# フロントエンドでの処理の兼ね合いもあり、従来の「YYYY/MM/DD」フォーマットに変換する。
+# 年だけや年と月だけなど情報が足りないデータもあるため、末尾にスラッシュが来る場合はそれを除去する。
+df.loc[:, 'vaccinated_dates'] = df['vaccinated_dates'].str.replace('年', '/').str.replace('月', '/').str.replace('日', '').str.removesuffix('/')
+df.loc[:, 'onset_dates'] = df['onset_dates'].str.replace('年', '/').str.replace('月', '/').str.replace('日', '').str.removesuffix('/')
+df.loc[:, 'gross_result_dates'] = df['gross_result_dates'].str.replace('年', '/').str.replace('月', '/').str.replace('日', '').str.removesuffix('/')
+
+
 # %%
 # 同時接種したワクチンの扱いが2025年から変わったので対応する
 
