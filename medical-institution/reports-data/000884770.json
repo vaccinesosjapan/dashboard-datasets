@@ -13933,9 +13933,11 @@
       143,
       15
     ],
-    "vaccine_name": "コミナティ筋注\nインフルエンザ",
-    "manufacturer": "ファイザー\nデンカ",
-    "lot_no": "EY5422\n674-B",
+    "vaccine_name": "コミナティ筋注",
+    "manufacturer": "ファイザー",
+    "lot_no": "EY5422",
+    "concurrent_vaccination_flag": true,
+    "concurrent_vaccination": "インフルエンザ;デンカ;674-B",
     "PT_names": [
       "血小板減少性紫斑病",
       "間質性肺疾患",
@@ -13988,9 +13990,11 @@
     "days_to_onset": [
       29
     ],
-    "vaccine_name": "コミナティ筋注\nインフルエンザ",
-    "manufacturer": "ファイザー\n不明",
-    "lot_no": "不明\n不明",
+    "vaccine_name": "コミナティ筋注",
+    "manufacturer": "ファイザー",
+    "lot_no": "不明",
+    "concurrent_vaccination_flag": true,
+    "concurrent_vaccination": "インフルエンザ;不明;不明",
     "PT_names": [
       "ARDS）（急性呼吸窮迫症候群",
       "上部消化管出血",

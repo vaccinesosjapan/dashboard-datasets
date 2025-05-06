@@ -1886,10 +1886,11 @@
       1,
       1
     ],
-    "vaccine_name": "コミナティ筋注（２価：起\n源株/オミクロン株BA.4-\n5）\nインフルエンザ",
-    "concurrent_vaccination": "1\n1",
-    "manufacturer": "ファイザー\nKMB",
-    "lot_no": "GJ7139\n509B",
+    "vaccine_name": "コミナティ筋注（２価：起\n源株/オミクロン株BA.4-\n5）",
+    "manufacturer": "ファイザー",
+    "lot_no": "GJ7139",
+    "concurrent_vaccination_flag": true,
+    "concurrent_vaccination": "インフルエンザ;KMB;509B",
     "PT_names": [
       "血球貪食性リンパ組織球症",
       "血球貪食性リンパ組織球症"
@@ -2837,10 +2838,11 @@
       6,
       6
     ],
-    "vaccine_name": "コミナティ筋注（２価：起\n源株/オミクロン株BA.4-\n5）\nインフルエンザ",
-    "concurrent_vaccination": "1\n1",
-    "manufacturer": "ファイザー\nデンカ",
-    "lot_no": "GJ7139\n706-B",
+    "vaccine_name": "コミナティ筋注（２価：起\n源株/オミクロン株BA.4-\n5）",
+    "manufacturer": "ファイザー",
+    "lot_no": "GJ7139",
+    "concurrent_vaccination_flag": true,
+    "concurrent_vaccination": "インフルエンザ;デンカ;706-B",
     "PT_names": [
       "急性散在性脳脊髄炎",
       "血栓症",
@@ -4708,10 +4710,11 @@
       0,
       0
     ],
-    "vaccine_name": "コミナティ筋注（２価：起\n源株/オミクロン株BA.4-\n5）\nインフルエンザ",
-    "concurrent_vaccination": "1\n1",
-    "manufacturer": "ファイザー\n阪大微研会",
-    "lot_no": "GJ5751\nHA223C",
+    "vaccine_name": "コミナティ筋注（２価：起\n源株/オミクロン株BA.4-\n5）",
+    "manufacturer": "ファイザー",
+    "lot_no": "GJ5751",
+    "concurrent_vaccination_flag": true,
+    "concurrent_vaccination": "インフルエンザ;阪大微研会;HA223C",
     "PT_names": [
       "そう痒症",
       "紅斑",
@@ -5470,10 +5473,11 @@
       16,
       6
     ],
-    "vaccine_name": "コミナティ筋注（２価：起\n源株/オミクロン株BA.4-\n5）\nインフルエンザ",
-    "concurrent_vaccination": "",
-    "manufacturer": "ファイザー\nKMB",
-    "lot_no": "GJ1836\n511A",
+    "vaccine_name": "コミナティ筋注（２価：起\n源株/オミクロン株BA.4-\n5）",
+    "manufacturer": "ファイザー",
+    "lot_no": "GJ1836",
+    "concurrent_vaccination_flag": true,
+    "concurrent_vaccination": "インフルエンザ;KMB;511A",
     "PT_names": [
       "ギラン・バレー症候群",
       "ギラン・バレー症候群"

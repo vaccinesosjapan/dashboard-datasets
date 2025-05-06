@@ -6,14 +6,23 @@
 #   例） 27ページ以降の全ページを指定する場合  pages: '27-end'
 #  count: symptoms で記載した症状に関して、PDFから抽出されると想定される件数
 #  source: 使用するPDFが扱われている審議会の名称と、PDFのURL
-#
+#  id_metadata: idを生成するために必要な「第何回目の検討部会か」「どの種類の表か」といったメタ情報を記載する
+#    MA: 製造販売業者（Manufacturer）
+#    MI: 医療機関（Medical institution）
+#      MIS: 重い(Serious)症例
+#      MIN: 上記以外の（Not serious）症例
 
-relative_dir: '104th-2'
-file_id: '001325451'
-pages: '2'
-count: '2'
+relative_dir: '106th'
+file_id: '001475703'
+pages: '7-9'
+count: '28'
 has_concurrent_vaccination: 'true'
+script-version: v2
 source: {
-  name: '第104回',
-  url: 'https://www.mhlw.go.jp/content/11120000/001325450.pdf'
+  name: '第106回',
+  url: 'https://www.mhlw.go.jp/content/11120000/001475703.pdf'
+}
+id_metadata: {
+  number: '106th',
+  kind: 'MIS'
 }

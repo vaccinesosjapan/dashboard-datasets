@@ -1,16 +1,17 @@
 {
   "medical_institution_summary_from_reports": {
-    "date": "2024/08/04",
-    "total_count": 37643,
+    "date": "2024/12/31",
+    "total_count": 37671,
     "sum_causal_relationship": {
-      "関連あり": 21467,
-      "評価不能": 10571,
+      "関連あり": 21478,
+      "評価不能": 10587,
       "(空白)": 4065,
-      "関連なし": 1540
+      "関連なし": 1540,
+      "記載なし": 1
     },
     "sum_severities_of_related": {
       "重くない": 16747,
-      "重い": 4720
+      "重い": 4731
     },
     "lot_no_info": {
       "top_ten_list": [
@@ -51,7 +52,7 @@
         },
         {
           "lot_no": "EX3617",
-          "count": 875,
+          "count": 876,
           "manufacturer": "ファイザー"
         },
         {
@@ -69,55 +70,55 @@
         {
           "lot_no": "3004228",
           "count": 232,
-          "manufacturer": "モデルナ／武田"
+          "manufacturer": "モデルナ/武田"
         },
         {
           "lot_no": "3003190",
           "count": 180,
-          "manufacturer": "モデルナ／武田"
+          "manufacturer": "モデルナ/武田"
         },
         {
           "lot_no": "3003182",
           "count": 163,
-          "manufacturer": "モデルナ／武田"
+          "manufacturer": "モデルナ/武田"
         },
         {
           "lot_no": "3003653",
           "count": 162,
-          "manufacturer": "モデルナ／武田"
+          "manufacturer": "モデルナ/武田"
         },
         {
           "lot_no": "3002540",
           "count": 150,
-          "manufacturer": "モデルナ／武田"
+          "manufacturer": "モデルナ/武田"
         },
         {
           "lot_no": "3002180",
           "count": 144,
-          "manufacturer": "モデルナ／武田"
+          "manufacturer": "モデルナ/武田"
         },
         {
           "lot_no": "3004227",
           "count": 126,
-          "manufacturer": "モデルナ／武田"
+          "manufacturer": "モデルナ/武田"
         },
         {
           "lot_no": "3002181",
           "count": 121,
-          "manufacturer": "モデルナ／武田"
+          "manufacturer": "モデルナ/武田"
         },
         {
           "lot_no": "3002337",
           "count": 117,
-          "manufacturer": "モデルナ／武田"
+          "manufacturer": "モデルナ/武田"
         },
         {
           "lot_no": "3003654",
           "count": 114,
-          "manufacturer": "モデルナ／武田"
+          "manufacturer": "モデルナ/武田"
         }
       ],
-      "invalid_count": 3136
+      "invalid_count": 3142
     }
   }
 }

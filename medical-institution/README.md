@@ -18,6 +18,7 @@
 1. 同じ内容を`reports-settings-all.yaml`の末尾にも追記する。
 1. 以下のコマンドを実行して、PDFからCSV形式でデータ抽出する。
     * `python _1-extract-pdf-to-csv.py`
+    * 先に、フォルダ `./intermediate-files./{relative_dir}` を作っておくこと。
     * 抽出結果は `./intermediate-files./{relative_dir}/{file_id}.csv` に保存される。
 1. CSVを開き、ヘッダ情報を手作業で追加して`{file_id}-pre.csv`に保存する。
     * ヘッダ情報は、以下を使うと良い（データと一致しない場合は更新して使う）。
@@ -32,3 +33,11 @@
     * `python _3-save-to-json.py`
 1. `summary-metadata.yaml` を更新する。
 1. `sum-medical-institution-reports-v1.py` を実行する。
+
+## メモ
+
+`*.pre.csv`のヘッダに手作業で追加するヘッダ。
+
+```csv
+No,年齢,性別,接種日,ワクチン名,ロット番号,製造販売業者,同時接種,同時接種ワクチン,基礎疾患等,症状名,発生日,接種から症状発生までの日数,因果関係（報告医評価）,重篤度,転帰日,転帰内容,専門家評価PT,専門家の因果関係評価,専門家のブライトン分類レベル,専門家の意見
+```
