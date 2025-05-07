@@ -1953,5 +1953,20 @@ settings: [
     source: {
       url: https://www.mhlw.go.jp/content/10900000/001481395.pdf,
     },
+  },
+  {
+    date: '2025/05/02',
+    file: '001484451.csv',
+    output: '001484451.json',
+    pages: '',
+    expected_count: {
+      certified: 13,
+      repudiation: 27
+    },
+    reason-type: 'TypeB',
+    script-version: v2,
+    source: {
+      url: https://www.mhlw.go.jp/content/10900000/001484451.pdf,
+    },
   }
 ]

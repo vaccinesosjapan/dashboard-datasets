@@ -210,9 +210,9 @@
   {
     "name": "IgA血管炎の増悪",
     "counts": {
-      "male": 1,
+      "male": 2,
       "female": 1,
-      "sum": 2
+      "sum": 3
     }
   },
   {
@@ -2544,6 +2544,14 @@
     }
   },
   {
+    "name": "上腸間膜動脈血栓症",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
     "name": "上腸間膜血栓症",
     "counts": {
       "male": 1,
@@ -2771,8 +2779,8 @@
     "name": "下肢深部静脈血栓症",
     "counts": {
       "male": 2,
-      "female": 2,
-      "sum": 4
+      "female": 3,
+      "sum": 5
     }
   },
   {
@@ -4451,8 +4459,8 @@
     "name": "中毒疹",
     "counts": {
       "male": 59,
-      "female": 98,
-      "sum": 157
+      "female": 99,
+      "sum": 158
     }
   },
   {
@@ -4681,6 +4689,14 @@
   },
   {
     "name": "低髄液圧症候群",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
+    "name": "体の移動する疼痛",
     "counts": {
       "male": 0,
       "female": 1,
@@ -8467,8 +8483,8 @@
     "name": "四肢しびれ",
     "counts": {
       "male": 9,
-      "female": 33,
-      "sum": 42
+      "female": 34,
+      "sum": 43
     }
   },
   {
@@ -11744,6 +11760,14 @@
     }
   },
   {
+    "name": "左手の腫脹",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
     "name": "左手・左足趾のしびれ",
     "counts": {
       "male": 0,
@@ -12819,8 +12843,8 @@
     "name": "左肩関節周囲炎",
     "counts": {
       "male": 109,
-      "female": 199,
-      "sum": 308
+      "female": 200,
+      "sum": 309
     }
   },
   {
@@ -15928,6 +15952,14 @@
     }
   },
   {
+    "name": "慢性腎障害",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
     "name": "慢性色素性紫斑",
     "counts": {
       "male": 0,
@@ -16891,8 +16923,8 @@
     "name": "末梢神経障害性疼痛",
     "counts": {
       "male": 12,
-      "female": 18,
-      "sum": 30
+      "female": 19,
+      "sum": 31
     }
   },
   {
@@ -18520,6 +18552,14 @@
     }
   },
   {
+    "name": "短腸症候群",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
     "name": "硬膜下出血",
     "counts": {
       "male": 1,
@@ -19004,6 +19044,14 @@
     "counts": {
       "male": 0,
       "female": 1,
+      "sum": 1
+    }
+  },
+  {
+    "name": "経口摂取不能",
+    "counts": {
+      "male": 1,
+      "female": 0,
       "sum": 1
     }
   },
@@ -20322,9 +20370,9 @@
   {
     "name": "脳梗塞",
     "counts": {
-      "male": 110,
-      "female": 77,
-      "sum": 187
+      "male": 111,
+      "female": 78,
+      "sum": 189
     }
   },
   {
@@ -20340,6 +20388,14 @@
     "counts": {
       "male": 1,
       "female": 0,
+      "sum": 1
+    }
+  },
+  {
+    "name": "脳梗塞による両上下肢全廃",
+    "counts": {
+      "male": 0,
+      "female": 1,
       "sum": 1
     }
   },
@@ -20529,6 +20585,14 @@
   },
   {
     "name": "脳血栓症",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
+    "name": "脳血栓症(橋)",
     "counts": {
       "male": 1,
       "female": 0,
@@ -20826,9 +20890,9 @@
   {
     "name": "腰痛",
     "counts": {
-      "male": 3,
+      "male": 4,
       "female": 4,
-      "sum": 7
+      "sum": 8
     }
   },
   {
@@ -22794,9 +22858,9 @@
   {
     "name": "関節リウマチ",
     "counts": {
-      "male": 29,
+      "male": 30,
       "female": 33,
-      "sum": 62
+      "sum": 63
     }
   },
   {
@@ -22858,9 +22922,9 @@
   {
     "name": "関節痛",
     "counts": {
-      "male": 31,
-      "female": 42,
-      "sum": 73
+      "male": 32,
+      "female": 43,
+      "sum": 75
     }
   },
   {
@@ -22929,6 +22993,14 @@
   },
   {
     "name": "難治性痒疹",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
+    "name": "難治性腸管皮膚瘻",
     "counts": {
       "male": 1,
       "female": 0,
@@ -23889,6 +23961,14 @@
   },
   {
     "name": "高浸透圧性非ケトン性昏睡",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
+    "name": "高熱",
     "counts": {
       "male": 0,
       "female": 1,
