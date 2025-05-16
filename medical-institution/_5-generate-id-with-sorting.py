@@ -68,12 +68,12 @@ if len(id_nan_df) != 0:
 	source_name_series['prefix-number'] = source_name_series['prefix-number'].astype(int)
 	source_name_series['prefix'] = source_name_series['prefix-number'].map(lambda x: int2ordinal(x))
 
-    # 2025年以降のデータでは、医療機関（Medical institution）からの報告のうち、重い（Serious）な症例と
-    # それ以外（Not serious）を識別する必要があり、それぞれ MIS と MIN という識別子を適用する。
-	source_name_series['kind'] = id_nan_df['severity'].map(lambda x: 'MIS' if x == '重い' else 'MIN')
+    # 2025年以降のデータでは、医療機関（Medical institution）からの報告のうち、重篤な（Serious）症例と
+    # 重篤ではない（Not serious）症例を識別して掲載しているため、それぞれ MIS と MIN という識別子を適用した。
+	# 一方で、ここで扱う「IDがNaN」のデータは2024年末までのデータであり、重篤か否かでの区別は不要なため、
+	# 医療機関からの報告であることだけを示す MI という識別子を用いる。
 	source_name_series['no'] = id_nan_df['no'].astype(str)
-
-	source_name_series['id'] = source_name_series['prefix'] + '-' + source_name_series['kind'] + '-' + source_name_series['no']
+	source_name_series['id'] = source_name_series['prefix'] + '-MI-' + source_name_series['no']
 
 	df.loc[id_nan_df.index, 'id'] = source_name_series['id']
 
