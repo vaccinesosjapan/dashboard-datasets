@@ -1,0 +1,91 @@
+[
+  {
+    "id": "106th-MIS-1",
+    "no": 1,
+    "age": 82,
+    "gender": "女",
+    "vaccinated_dates": [
+      "2024/10/21"
+    ],
+    "vaccine_name": "ヌバキソビッド",
+    "lot_no": "NT001",
+    "manufacturer": "武田薬品工業",
+    "concurrent_vaccination_flag": false,
+    "concurrent_vaccination": "",
+    "pre_existing_disease_names": [
+      "ワクチンアレルギー"
+    ],
+    "PT_names": [
+      "アナフィラキシー反応"
+    ],
+    "onset_dates": [
+      "2024/10/21"
+    ],
+    "days_to_onset": [
+      "0"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "2024/10/21"
+    ],
+    "gross_results": [
+      "回復"
+    ],
+    "pt_by_expert": "アナフィラキシー反応",
+    "causal_relationship_by_expert": "γ",
+    "brighton_classification_by_expert": 4,
+    "comments_by_expert": "臨床経過からワクチンによる急性アレルギー反応の可能性があるが、皮膚症状（じんましん）のみでアナフィラキシーは考えにくい。",
+    "source": {
+      "name": "第106回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001475649.pdf"
+    }
+  },
+  {
+    "id": "106th-MIS-1",
+    "no": 1,
+    "age": 45,
+    "gender": "女",
+    "vaccinated_dates": [
+      "2024/11/22"
+    ],
+    "vaccine_name": "ヌバキソビッド",
+    "lot_no": "NT001",
+    "manufacturer": "武田薬品工業",
+    "concurrent_vaccination_flag": false,
+    "concurrent_vaccination": "",
+    "pre_existing_disease_names": [
+      "薬物過敏症",
+      "食物アレルギー",
+      "子宮内膜症",
+      "アナフィラキシー反応",
+      "アルコール摂取",
+      "元タバコ使用者"
+    ],
+    "PT_names": [
+      "アナフィラキシー反応"
+    ],
+    "onset_dates": [
+      "2024/11/22"
+    ],
+    "days_to_onset": [
+      "0"
+    ],
+    "causal_relationship": "記載なし",
+    "severity": "重い",
+    "gross_result_dates": [
+      "不明"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "pt_by_expert": "アナフィラキシー反応",
+    "causal_relationship_by_expert": "α",
+    "brighton_classification_by_expert": 2,
+    "comments_by_expert": "皮膚症状と消化器症状の経過からアナフィラキシーの可能性がある。",
+    "source": {
+      "name": "第106回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001475649.pdf"
+    }
+  }
+]
