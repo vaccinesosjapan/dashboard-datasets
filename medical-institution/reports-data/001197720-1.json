@@ -574,10 +574,11 @@
       104,
       7
     ],
-    "vaccine_name": "スパイクバックス筋注（１価：起源\n株）\nインフルエンザ",
-    "concurrent_vaccination": "",
-    "manufacturer": "モデルナ\n不明",
-    "lot_no": "3004226\n99999",
+    "vaccine_name": "スパイクバックス筋注（１価：起源\n株）",
+    "manufacturer": "モデルナ",
+    "lot_no": "3004226",
+    "concurrent_vaccination_flag": true,
+    "concurrent_vaccination": "インフルエンザ;不明;99999",
     "PT_names": [
       "顎関節症候群",
       "頭痛",

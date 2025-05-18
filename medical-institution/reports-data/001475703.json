@@ -1,0 +1,1263 @@
+[
+  {
+    "id": "106th-MIS-1",
+    "no": 1,
+    "age": 73,
+    "gender": "女",
+    "vaccinated_dates": [
+      "2024/10/7"
+    ],
+    "vaccine_name": "コミナティ",
+    "lot_no": "LK7363",
+    "manufacturer": "ファイザー",
+    "concurrent_vaccination_flag": false,
+    "concurrent_vaccination": "",
+    "pre_existing_disease_names": [
+      "プリンツメタル狭心症"
+    ],
+    "PT_names": [
+      "狭心症"
+    ],
+    "onset_dates": [
+      "2024/10/8"
+    ],
+    "days_to_onset": [
+      "1"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "2024/10/8"
+    ],
+    "gross_results": [
+      "回復"
+    ],
+    "pt_by_expert": "",
+    "causal_relationship_by_expert": "",
+    "brighton_classification_by_expert": "",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第106回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001475703.pdf"
+    }
+  },
+  {
+    "id": "106th-MIS-2",
+    "no": 2,
+    "age": 86,
+    "gender": "女",
+    "vaccinated_dates": [
+      "2024/10/9"
+    ],
+    "vaccine_name": "コミナティ",
+    "lot_no": "LK7363",
+    "manufacturer": "ファイザー",
+    "concurrent_vaccination_flag": true,
+    "concurrent_vaccination": "インフルエンザ;デンカ;748-A",
+    "pre_existing_disease_names": [
+      "認知症",
+      "直腸癌",
+      "肛門直腸手術"
+    ],
+    "PT_names": [
+      "異常感",
+      "胸部不快感",
+      "嘔吐",
+      "血圧上昇"
+    ],
+    "onset_dates": [
+      "2024/10/9"
+    ],
+    "days_to_onset": [
+      "0"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "2024/10/10"
+    ],
+    "gross_results": [
+      "回復"
+    ],
+    "pt_by_expert": "",
+    "causal_relationship_by_expert": "",
+    "brighton_classification_by_expert": "",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第106回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001475703.pdf"
+    }
+  },
+  {
+    "id": "106th-MIS-3",
+    "no": 3,
+    "age": 82,
+    "gender": "女",
+    "vaccinated_dates": [
+      "2024/10/10"
+    ],
+    "vaccine_name": "コミナティ",
+    "lot_no": "LK7363",
+    "manufacturer": "ファイザー",
+    "concurrent_vaccination_flag": false,
+    "concurrent_vaccination": "",
+    "pre_existing_disease_names": [
+      "なし"
+    ],
+    "PT_names": [
+      "筋肉痛",
+      "神経痛"
+    ],
+    "onset_dates": [
+      "2024/10/11"
+    ],
+    "days_to_onset": [
+      "1"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "2024"
+    ],
+    "gross_results": [
+      "後遺症"
+    ],
+    "pt_by_expert": "筋肉痛、神経痛",
+    "causal_relationship_by_expert": "γ",
+    "brighton_classification_by_expert": "‐",
+    "comments_by_expert": "症状経過に関する情報が乏しく、評価が困難である。",
+    "source": {
+      "name": "第106回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001475703.pdf"
+    }
+  },
+  {
+    "id": "106th-MIS-4",
+    "no": 4,
+    "age": 76,
+    "gender": "男",
+    "vaccinated_dates": [
+      "2024/10/8"
+    ],
+    "vaccine_name": "コミナティ",
+    "lot_no": "不明",
+    "manufacturer": "ファイザー",
+    "concurrent_vaccination_flag": true,
+    "concurrent_vaccination": "インフルエンザ;デンカ;不明",
+    "pre_existing_disease_names": [
+      "うつ病"
+    ],
+    "PT_names": [
+      "脳炎・脳症"
+    ],
+    "onset_dates": [
+      "2024/10/13"
+    ],
+    "days_to_onset": [
+      "5"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "2024/10/13"
+    ],
+    "gross_results": [
+      "死亡"
+    ],
+    "pt_by_expert": "脳出血、脳炎、脳症",
+    "causal_relationship_by_expert": "γ",
+    "brighton_classification_by_expert": "‐",
+    "comments_by_expert": "新型コロナワクチンとインフルエンザワクチンを接種して、5日後の死亡。脳炎、脳症、脳出血で死亡とのことであるが、接種から死に至るまでの症状経過に関する情報や複数の薬剤を内服中の基礎疾患の病状に関する詳細な情報が無く、評価は困難である。",
+    "source": {
+      "name": "第106回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001475703.pdf"
+    }
+  },
+  {
+    "id": "106th-MIS-5",
+    "no": 5,
+    "age": 81,
+    "gender": "男",
+    "vaccinated_dates": [
+      "2024/10/9"
+    ],
+    "vaccine_name": "コミナティ",
+    "lot_no": "LK7363",
+    "manufacturer": "ファイザー",
+    "concurrent_vaccination_flag": false,
+    "concurrent_vaccination": "",
+    "pre_existing_disease_names": [
+      "良性前立腺肥大症",
+      "胃潰瘍",
+      "貧血"
+    ],
+    "PT_names": [
+      "喘息",
+      "心筋炎",
+      "呼吸困難",
+      "ヘモグロビン減少"
+    ],
+    "onset_dates": [
+      "2024/10/13"
+    ],
+    "days_to_onset": [
+      "4"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "不明"
+    ],
+    "gross_results": [
+      "不明"
+    ],
+    "pt_by_expert": "心筋炎",
+    "causal_relationship_by_expert": "γ",
+    "brighton_classification_by_expert": "4",
+    "comments_by_expert": "ボルタレンに誘発されたアスピリン喘息の可能性も否定できない。",
+    "source": {
+      "name": "第106回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001475703.pdf"
+    }
+  },
+  {
+    "id": "106th-MIS-6",
+    "no": 6,
+    "age": 81,
+    "gender": "女",
+    "vaccinated_dates": [
+      "2024/10/12"
+    ],
+    "vaccine_name": "コミナティ",
+    "lot_no": "LL7260",
+    "manufacturer": "ファイザー",
+    "concurrent_vaccination_flag": true,
+    "concurrent_vaccination": "インフルエンザ;デンカ;753-A",
+    "pre_existing_disease_names": [
+      "なし"
+    ],
+    "PT_names": [
+      "血圧低下",
+      "脱水",
+      "栄養補給障害",
+      "発熱",
+      "細菌感染"
+    ],
+    "onset_dates": [
+      "2024/10/13"
+    ],
+    "days_to_onset": [
+      "1"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "2024/11/6"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "pt_by_expert": "",
+    "causal_relationship_by_expert": "",
+    "brighton_classification_by_expert": "",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第106回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001475703.pdf"
+    }
+  },
+  {
+    "id": "106th-MIS-7",
+    "no": 7,
+    "age": 71,
+    "gender": "女",
+    "vaccinated_dates": [
+      "2024/10/9"
+    ],
+    "vaccine_name": "コミナティ",
+    "lot_no": "LK7363",
+    "manufacturer": "ファイザー",
+    "concurrent_vaccination_flag": false,
+    "concurrent_vaccination": "",
+    "pre_existing_disease_names": [
+      "なし"
+    ],
+    "PT_names": [
+      "無嗅覚",
+      "抗体検査異常"
+    ],
+    "onset_dates": [
+      "2024/10/15"
+    ],
+    "days_to_onset": [
+      "6"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "不明"
+    ],
+    "gross_results": [
+      "未回復"
+    ],
+    "pt_by_expert": "",
+    "causal_relationship_by_expert": "",
+    "brighton_classification_by_expert": "",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第106回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001475703.pdf"
+    }
+  },
+  {
+    "id": "106th-MIS-8",
+    "no": 8,
+    "age": 65,
+    "gender": "女",
+    "vaccinated_dates": [
+      "2024/10/11"
+    ],
+    "vaccine_name": "コミナティ",
+    "lot_no": "LL6410",
+    "manufacturer": "ファイザー",
+    "concurrent_vaccination_flag": false,
+    "concurrent_vaccination": "",
+    "pre_existing_disease_names": [
+      "椎間板突出"
+    ],
+    "PT_names": [
+      "血圧上昇"
+    ],
+    "onset_dates": [
+      "2024/10/17"
+    ],
+    "days_to_onset": [
+      "6"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "不明"
+    ],
+    "gross_results": [
+      "不明"
+    ],
+    "pt_by_expert": "",
+    "causal_relationship_by_expert": "",
+    "brighton_classification_by_expert": "",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第106回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001475703.pdf"
+    }
+  },
+  {
+    "id": "106th-MIS-9",
+    "no": 9,
+    "age": 76,
+    "gender": "男",
+    "vaccinated_dates": [
+      "2024/10/18"
+    ],
+    "vaccine_name": "コミナティ",
+    "lot_no": "LK7363",
+    "manufacturer": "ファイザー",
+    "concurrent_vaccination_flag": false,
+    "concurrent_vaccination": "",
+    "pre_existing_disease_names": [
+      "なし"
+    ],
+    "PT_names": [
+      "疼痛",
+      "リウマチ性多発筋痛",
+      "血管炎"
+    ],
+    "onset_dates": [
+      "2024/10/19"
+    ],
+    "days_to_onset": [
+      "1"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "不明"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "pt_by_expert": "",
+    "causal_relationship_by_expert": "",
+    "brighton_classification_by_expert": "",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第106回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001475703.pdf"
+    }
+  },
+  {
+    "id": "106th-MIS-10",
+    "no": 10,
+    "age": 69,
+    "gender": "男",
+    "vaccinated_dates": [
+      "2024/10/12"
+    ],
+    "vaccine_name": "コミナティ",
+    "lot_no": "LL6410",
+    "manufacturer": "ファイザー",
+    "concurrent_vaccination_flag": false,
+    "concurrent_vaccination": "",
+    "pre_existing_disease_names": [
+      "透析"
+    ],
+    "PT_names": [
+      "聴力低下"
+    ],
+    "onset_dates": [
+      "2024/10/19"
+    ],
+    "days_to_onset": [
+      "7"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "不明"
+    ],
+    "gross_results": [
+      "未回復"
+    ],
+    "pt_by_expert": "",
+    "causal_relationship_by_expert": "",
+    "brighton_classification_by_expert": "",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第106回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001475703.pdf"
+    }
+  },
+  {
+    "id": "106th-MIS-11",
+    "no": 11,
+    "age": 77,
+    "gender": "女",
+    "vaccinated_dates": [
+      "2024/10/15"
+    ],
+    "vaccine_name": "コミナティ",
+    "lot_no": "LL6410",
+    "manufacturer": "ファイザー",
+    "concurrent_vaccination_flag": true,
+    "concurrent_vaccination": "インフルエンザ;阪大微研;HA236B",
+    "pre_existing_disease_names": [
+      "なし"
+    ],
+    "PT_names": [
+      "糖尿病性ケトアシドーシス",
+      "腎盂腎炎 2024年10月20日"
+    ],
+    "onset_dates": [
+      ""
+    ],
+    "days_to_onset": [
+      "5"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "不明"
+    ],
+    "gross_results": [
+      "未回復"
+    ],
+    "pt_by_expert": "",
+    "causal_relationship_by_expert": "",
+    "brighton_classification_by_expert": "",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第106回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001475703.pdf"
+    }
+  },
+  {
+    "id": "106th-MIS-12",
+    "no": 12,
+    "age": 65,
+    "gender": "男",
+    "vaccinated_dates": [
+      "2024/10/23"
+    ],
+    "vaccine_name": "コミナティ",
+    "lot_no": "不明",
+    "manufacturer": "ファイザー",
+    "concurrent_vaccination_flag": false,
+    "concurrent_vaccination": "",
+    "pre_existing_disease_names": [
+      "高血圧",
+      "糖尿病",
+      "睡眠時無呼吸症候群"
+    ],
+    "PT_names": [
+      "末梢神経損傷"
+    ],
+    "onset_dates": [
+      "2024/10/24"
+    ],
+    "days_to_onset": [
+      "1"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "不明"
+    ],
+    "gross_results": [
+      "未回復"
+    ],
+    "pt_by_expert": "",
+    "causal_relationship_by_expert": "",
+    "brighton_classification_by_expert": "",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第106回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001475703.pdf"
+    }
+  },
+  {
+    "id": "106th-MIS-13",
+    "no": 13,
+    "age": 52,
+    "gender": "女",
+    "vaccinated_dates": [
+      "2024/10/25"
+    ],
+    "vaccine_name": "コミナティ",
+    "lot_no": "LL6410",
+    "manufacturer": "ファイザー",
+    "concurrent_vaccination_flag": true,
+    "concurrent_vaccination": "インフルエンザ;デンカ;756-B",
+    "pre_existing_disease_names": [
+      "咳喘息",
+      "子宮内膜症",
+      "深部静脈血栓症",
+      "食物アレルギー",
+      "発熱",
+      "関節痛",
+      "筋肉痛",
+      "網膜上膜",
+      "白内障",
+      "白内障手術",
+      "変形性脊椎症",
+      "靱帯損傷"
+    ],
+    "PT_names": [
+      "末梢性ニューロパチー"
+    ],
+    "onset_dates": [
+      "2024/10/25"
+    ],
+    "days_to_onset": [
+      "0"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "不明"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "pt_by_expert": "",
+    "causal_relationship_by_expert": "",
+    "brighton_classification_by_expert": "",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第106回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001475703.pdf"
+    }
+  },
+  {
+    "id": "106th-MIS-14",
+    "no": 14,
+    "age": 85,
+    "gender": "女",
+    "vaccinated_dates": [
+      "2024/11/7"
+    ],
+    "vaccine_name": "コミナティ",
+    "lot_no": "LL7260",
+    "manufacturer": "ファイザー",
+    "concurrent_vaccination_flag": true,
+    "concurrent_vaccination": "インフルエンザ;KMバイオロジクス;550C",
+    "pre_existing_disease_names": [
+      "慢性心不全",
+      "心房細動",
+      "アルツハイマー型認知症",
+      "2型糖尿病"
+    ],
+    "PT_names": [
+      "急性腎不全",
+      "急性心不全"
+    ],
+    "onset_dates": [
+      "2024/11/8"
+    ],
+    "days_to_onset": [
+      "1"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "2024/11/11"
+    ],
+    "gross_results": [
+      "死亡"
+    ],
+    "pt_by_expert": "急性心不全、急性腎障害",
+    "causal_relationship_by_expert": "γ",
+    "brighton_classification_by_expert": "‐",
+    "comments_by_expert": "複数の基礎疾患を有する85歳、接種前からADLは全介助で、経口摂取不良の進行があり経管栄養に切り替えていた。接種後約4時間で体調不良がありアナフィラキシーを疑われて処置が行われたが、アナフィラキシーを積極的に示唆する所見には乏しいと考える。その後急性心不全と急性腎障害が発現し、接種後4日目に死亡。現状の情報からは、死亡にワクチンが関与したことを示唆する事項は乏しい。",
+    "source": {
+      "name": "第106回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001475703.pdf"
+    }
+  },
+  {
+    "id": "106th-MIS-15",
+    "no": 15,
+    "age": 72,
+    "gender": "女",
+    "vaccinated_dates": [
+      "2024/11/11"
+    ],
+    "vaccine_name": "コミナティ",
+    "lot_no": "LL6410",
+    "manufacturer": "ファイザー",
+    "concurrent_vaccination_flag": false,
+    "concurrent_vaccination": "",
+    "pre_existing_disease_names": [
+      "食物アレルギー"
+    ],
+    "PT_names": [
+      "皮膚粘膜眼症候群",
+      "そう痒症",
+      "紅斑",
+      "腫脹",
+      "水疱",
+      "ワクチンアレルギー"
+    ],
+    "onset_dates": [
+      "2024/11/11"
+    ],
+    "days_to_onset": [
+      "0"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "不明"
+    ],
+    "gross_results": [
+      "不明"
+    ],
+    "pt_by_expert": "",
+    "causal_relationship_by_expert": "",
+    "brighton_classification_by_expert": "",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第106回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001475703.pdf"
+    }
+  },
+  {
+    "id": "106th-MIS-16",
+    "no": 16,
+    "age": 56,
+    "gender": "男",
+    "vaccinated_dates": [
+      "2024/11/15"
+    ],
+    "vaccine_name": "コミナティ",
+    "lot_no": "LK7363",
+    "manufacturer": "ファイザー",
+    "concurrent_vaccination_flag": false,
+    "concurrent_vaccination": "",
+    "pre_existing_disease_names": [
+      "慢性腎臓病",
+      "血液透析",
+      "心筋虚血"
+    ],
+    "PT_names": [
+      "アナフィラキシーショック",
+      "急性心筋梗塞",
+      "冠動脈狭窄"
+    ],
+    "onset_dates": [
+      "2024/11/15"
+    ],
+    "days_to_onset": [
+      "0"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "2024/11/25"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "pt_by_expert": "アナフィラキシーショック",
+    "causal_relationship_by_expert": "γ",
+    "brighton_classification_by_expert": "4",
+    "comments_by_expert": "一連の臨床経過に関して情報が不十分であるが、アナフィラキシーの可能性は高くないと考える。",
+    "source": {
+      "name": "第106回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001475703.pdf"
+    }
+  },
+  {
+    "id": "106th-MIS-17",
+    "no": 17,
+    "age": 91,
+    "gender": "女",
+    "vaccinated_dates": [
+      "2024/11/15"
+    ],
+    "vaccine_name": "コミナティ",
+    "lot_no": "LK7363",
+    "manufacturer": "ファイザー",
+    "concurrent_vaccination_flag": false,
+    "concurrent_vaccination": "",
+    "pre_existing_disease_names": [
+      "高血圧",
+      "脂質異常症",
+      "認知症",
+      "脳梗塞",
+      "麻痺",
+      "ＣＯＶＩＤ－１９",
+      "脳幹梗塞"
+    ],
+    "PT_names": [
+      "血小板減少症を伴う血栓症",
+      "脳梗塞",
+      "意識レベルの低下",
+      "脳卒中"
+    ],
+    "onset_dates": [
+      "2024/11/16"
+    ],
+    "days_to_onset": [
+      "1"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "2024/11/18"
+    ],
+    "gross_results": [
+      "後遺症"
+    ],
+    "pt_by_expert": "血小板減少症を伴う血栓症",
+    "causal_relationship_by_expert": "γ",
+    "brighton_classification_by_expert": "‐",
+    "comments_by_expert": "入手できる情報からは血小板はそれほど減少しておらず（平時20万→今回検査16万）、脳梗塞発症日は接種翌日であった。今回の病態の解釈やワクチンとの因果関係について、現状の情報からは評価が困難である。",
+    "source": {
+      "name": "第106回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001475703.pdf"
+    }
+  },
+  {
+    "id": "106th-MIS-18",
+    "no": 18,
+    "age": 98,
+    "gender": "女",
+    "vaccinated_dates": [
+      "2024/11/14"
+    ],
+    "vaccine_name": "コミナティ",
+    "lot_no": "LL7260",
+    "manufacturer": "ファイザー",
+    "concurrent_vaccination_flag": false,
+    "concurrent_vaccination": "",
+    "pre_existing_disease_names": [
+      "高血圧",
+      "糖尿病",
+      "糖尿",
+      "睡眠障害"
+    ],
+    "PT_names": [
+      "心肺停止"
+    ],
+    "onset_dates": [
+      "2024/11/16"
+    ],
+    "days_to_onset": [
+      "2"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "2024/11/16"
+    ],
+    "gross_results": [
+      "死亡"
+    ],
+    "pt_by_expert": "心肺停止",
+    "causal_relationship_by_expert": "γ",
+    "brighton_classification_by_expert": "‐",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第106回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001475703.pdf"
+    }
+  },
+  {
+    "id": "106th-MIS-19",
+    "no": 19,
+    "age": 75,
+    "gender": "男",
+    "vaccinated_dates": [
+      "2024/11/16"
+    ],
+    "vaccine_name": "コミナティ",
+    "lot_no": "LK7363",
+    "manufacturer": "ファイザー",
+    "concurrent_vaccination_flag": false,
+    "concurrent_vaccination": "",
+    "pre_existing_disease_names": [
+      "高血圧症　令和3年3月より治療中"
+    ],
+    "PT_names": [
+      "歩けなくなっている",
+      "自力では動けず",
+      "左下肢引きずり歩行",
+      "左下肢痛"
+    ],
+    "onset_dates": [
+      "2024/11/16"
+    ],
+    "days_to_onset": [
+      "0"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "不明"
+    ],
+    "gross_results": [
+      "不明"
+    ],
+    "pt_by_expert": "",
+    "causal_relationship_by_expert": "",
+    "brighton_classification_by_expert": "",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第106回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001475703.pdf"
+    }
+  },
+  {
+    "id": "106th-MIS-20",
+    "no": 20,
+    "age": 81,
+    "gender": "男",
+    "vaccinated_dates": [
+      "2024/11/7"
+    ],
+    "vaccine_name": "コミナティ",
+    "lot_no": "LL7260",
+    "manufacturer": "ファイザー",
+    "concurrent_vaccination_flag": false,
+    "concurrent_vaccination": "",
+    "pre_existing_disease_names": [
+      "なし"
+    ],
+    "PT_names": [
+      "ワクチン投与関連肩損傷",
+      "関節痛",
+      "運動障害"
+    ],
+    "onset_dates": [
+      "2024/11/17"
+    ],
+    "days_to_onset": [
+      "10"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "不明"
+    ],
+    "gross_results": [
+      "不明"
+    ],
+    "pt_by_expert": "",
+    "causal_relationship_by_expert": "",
+    "brighton_classification_by_expert": "",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第106回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001475703.pdf"
+    }
+  },
+  {
+    "id": "106th-MIS-21",
+    "no": 21,
+    "age": 85,
+    "gender": "女",
+    "vaccinated_dates": [
+      "2024/11/19"
+    ],
+    "vaccine_name": "コミナティ",
+    "lot_no": "LL4810",
+    "manufacturer": "ファイザー",
+    "concurrent_vaccination_flag": false,
+    "concurrent_vaccination": "",
+    "pre_existing_disease_names": [
+      "アルツハイマー型認知症"
+    ],
+    "PT_names": [
+      "脳出血",
+      "硬膜下血腫",
+      "脳アミロイド血管障害"
+    ],
+    "onset_dates": [
+      "2024/11/19"
+    ],
+    "days_to_onset": [
+      "0"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "2024/11/30"
+    ],
+    "gross_results": [
+      "死亡"
+    ],
+    "pt_by_expert": "脳出血",
+    "causal_relationship_by_expert": "γ",
+    "brighton_classification_by_expert": "‐",
+    "comments_by_expert": "症状の経過やワクチン接種との時間的関係などに関する詳細な情報がなく、評価は困難である。",
+    "source": {
+      "name": "第106回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001475703.pdf"
+    }
+  },
+  {
+    "id": "106th-MIS-22",
+    "no": 22,
+    "age": 89,
+    "gender": "男",
+    "vaccinated_dates": [
+      "2024/11/20"
+    ],
+    "vaccine_name": "コミナティ",
+    "lot_no": "LL7260",
+    "manufacturer": "ファイザー",
+    "concurrent_vaccination_flag": false,
+    "concurrent_vaccination": "",
+    "pre_existing_disease_names": [
+      "心不全",
+      "入院",
+      "血中コレステロール増加",
+      "便秘",
+      "狭心症",
+      "脳梗塞",
+      "頚動脈狭窄",
+      "糖尿病",
+      "高コレステロール血症",
+      "高血圧",
+      "脳内動脈瘤手術",
+      "混合型認知症"
+    ],
+    "PT_names": [
+      "慢性心不全",
+      "心筋炎"
+    ],
+    "onset_dates": [
+      "2024/11/21"
+    ],
+    "days_to_onset": [
+      "1"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "2024/11/21"
+    ],
+    "gross_results": [
+      "死亡"
+    ],
+    "pt_by_expert": "心筋炎",
+    "causal_relationship_by_expert": "γ",
+    "brighton_classification_by_expert": "4",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第106回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001475703.pdf"
+    }
+  },
+  {
+    "id": "106th-MIS-23",
+    "no": 23,
+    "age": 90,
+    "gender": "女",
+    "vaccinated_dates": [
+      "2024/11/22"
+    ],
+    "vaccine_name": "コミナティ",
+    "lot_no": "LL4810",
+    "manufacturer": "ファイザー",
+    "concurrent_vaccination_flag": false,
+    "concurrent_vaccination": "",
+    "pre_existing_disease_names": [
+      "てんかん",
+      "脳出血10/25にインフルエンザワクチン接種"
+    ],
+    "PT_names": [
+      "右片麻痺",
+      "意識障害"
+    ],
+    "onset_dates": [
+      "2024/11/22"
+    ],
+    "days_to_onset": [
+      "0"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "2024/12/19"
+    ],
+    "gross_results": [
+      "未回復"
+    ],
+    "pt_by_expert": "",
+    "causal_relationship_by_expert": "",
+    "brighton_classification_by_expert": "",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第106回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001475703.pdf"
+    }
+  },
+  {
+    "id": "106th-MIS-24",
+    "no": 24,
+    "age": 55,
+    "gender": "女",
+    "vaccinated_dates": [
+      "2024/11/25"
+    ],
+    "vaccine_name": "コミナティ",
+    "lot_no": "LL7260",
+    "manufacturer": "ファイザー",
+    "concurrent_vaccination_flag": false,
+    "concurrent_vaccination": "",
+    "pre_existing_disease_names": [
+      "なし"
+    ],
+    "PT_names": [
+      "ストレス心筋症"
+    ],
+    "onset_dates": [
+      "2024/12/3"
+    ],
+    "days_to_onset": [
+      "8"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "2024/12/9"
+    ],
+    "gross_results": [
+      "回復"
+    ],
+    "pt_by_expert": "",
+    "causal_relationship_by_expert": "",
+    "brighton_classification_by_expert": "",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第106回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001475703.pdf"
+    }
+  },
+  {
+    "id": "106th-MIS-25",
+    "no": 25,
+    "age": 70,
+    "gender": "男",
+    "vaccinated_dates": [
+      "2024/12/12"
+    ],
+    "vaccine_name": "コミナティ",
+    "lot_no": "LL7309",
+    "manufacturer": "ファイザー",
+    "concurrent_vaccination_flag": false,
+    "concurrent_vaccination": "",
+    "pre_existing_disease_names": [
+      "なし"
+    ],
+    "PT_names": [
+      "顔面麻痺"
+    ],
+    "onset_dates": [
+      "2024/12/12"
+    ],
+    "days_to_onset": [
+      "0"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "不明"
+    ],
+    "gross_results": [
+      "不明"
+    ],
+    "pt_by_expert": "",
+    "causal_relationship_by_expert": "",
+    "brighton_classification_by_expert": "",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第106回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001475703.pdf"
+    }
+  },
+  {
+    "id": "106th-MIS-26",
+    "no": 26,
+    "age": 68,
+    "gender": "男",
+    "vaccinated_dates": [
+      "2024/11/16"
+    ],
+    "vaccine_name": "コミナティ",
+    "lot_no": "LL4810",
+    "manufacturer": "ファイザー",
+    "concurrent_vaccination_flag": false,
+    "concurrent_vaccination": "",
+    "pre_existing_disease_names": [
+      "なし"
+    ],
+    "PT_names": [
+      "全身性浮腫",
+      "Ｃ－反応性蛋白増加",
+      "疼痛",
+      "頭痛",
+      "関節痛"
+    ],
+    "onset_dates": [
+      "2024/11"
+    ],
+    "days_to_onset": [
+      "不明"
+    ],
+    "causal_relationship": "記載なし",
+    "severity": "重い",
+    "gross_result_dates": [
+      "不明"
+    ],
+    "gross_results": [
+      "不明"
+    ],
+    "pt_by_expert": "",
+    "causal_relationship_by_expert": "",
+    "brighton_classification_by_expert": "",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第106回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001475703.pdf"
+    }
+  },
+  {
+    "id": "106th-MIS-27",
+    "no": 27,
+    "age": 76,
+    "gender": "男",
+    "vaccinated_dates": [
+      "2024/12/3"
+    ],
+    "vaccine_name": "コミナティ",
+    "lot_no": "LL7260",
+    "manufacturer": "不明",
+    "concurrent_vaccination_flag": true,
+    "concurrent_vaccination": "インフルエンザ;KMバイオロジクス;539A",
+    "pre_existing_disease_names": [
+      "脳梗塞後遺症",
+      "高血圧",
+      "症候性てんかん"
+    ],
+    "PT_names": [
+      "CPA状態"
+    ],
+    "onset_dates": [
+      "2024/12"
+    ],
+    "days_to_onset": [
+      "不明"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "2024/12/4"
+    ],
+    "gross_results": [
+      "死亡"
+    ],
+    "pt_by_expert": "心肺停止",
+    "causal_relationship_by_expert": "γ",
+    "brighton_classification_by_expert": "‐",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第106回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001475703.pdf"
+    }
+  },
+  {
+    "id": "106th-MIS-28",
+    "no": 28,
+    "age": "0(0ヶ月)",
+    "gender": "女",
+    "vaccinated_dates": [
+      "不明"
+    ],
+    "vaccine_name": "コミナティ",
+    "lot_no": "不明",
+    "manufacturer": "ファイザー",
+    "concurrent_vaccination_flag": false,
+    "concurrent_vaccination": "",
+    "pre_existing_disease_names": [
+      "なし"
+    ],
+    "PT_names": [
+      "糖尿病",
+      "自己免疫性甲状腺炎"
+    ],
+    "onset_dates": [
+      "不明"
+    ],
+    "days_to_onset": [
+      "不明"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "不明"
+    ],
+    "gross_results": [
+      "未回復"
+    ],
+    "pt_by_expert": "",
+    "causal_relationship_by_expert": "",
+    "brighton_classification_by_expert": "",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第106回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001475703.pdf"
+    }
+  }
+]

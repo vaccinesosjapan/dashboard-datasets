@@ -1321,3 +1321,81 @@ source: {
   name: '第104回',
   url: 'https://www.mhlw.go.jp/content/11120000/001325450.pdf'
 }
+
+# 106th
+relative_dir: '106th'
+file_id: '001475703'
+pages: '7-9'
+count: '28'
+has_concurrent_vaccination: 'true'
+script-version: v2
+source: {
+  name: '第106回',
+  url: 'https://www.mhlw.go.jp/content/11120000/001475703.pdf'
+}
+id_metadata: {
+  number: '106th',
+  kind: 'MIS'
+}
+
+relative_dir: '106th'
+file_id: '001475606'
+pages: '6'
+count: '3'
+has_concurrent_vaccination: 'true'
+script-version: v2
+source: {
+  name: '第106回',
+  url: 'https://www.mhlw.go.jp/content/11120000/001475606.pdf'
+}
+id_metadata: {
+  number: '106th',
+  kind: 'MIS'
+}
+
+# 001475606 の非重篤の一覧はPDFから抽出不可だった
+relative_dir: '106th'
+file_id: '001475606-2'
+pages: '7'
+count: '1'
+has_concurrent_vaccination: 'true'
+script-version: v2
+source: {
+  name: '第106回',
+  url: 'https://www.mhlw.go.jp/content/11120000/001475606.pdf'
+}
+id_metadata: {
+  number: '106th',
+  kind: 'MIN'
+}
+
+relative_dir: '106th'
+file_id: '001475649'
+pages: '6'
+count: '2'
+has_concurrent_vaccination: 'true'
+script-version: v2
+source: {
+  name: '第106回',
+  url: 'https://www.mhlw.go.jp/content/11120000/001475649.pdf'
+}
+id_metadata: {
+  number: '106th',
+  kind: 'MIS'
+}
+
+# 001475649 の非重篤の一覧はPDFから抽出不可だった
+relative_dir: '106th'
+file_id: '001475649-2'
+pages: '7'
+count: '1'
+has_concurrent_vaccination: 'true'
+script-version: v2
+source: {
+  name: '第106回',
+  url: 'https://www.mhlw.go.jp/content/11120000/001475649.pdf'
+}
+id_metadata: {
+  number: '106th',
+  kind: 'MIN'
+}

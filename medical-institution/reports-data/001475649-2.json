@@ -1,0 +1,45 @@
+[
+  {
+    "id": "106th-MIN-1",
+    "no": 1,
+    "age": 79,
+    "gender": "女",
+    "vaccinated_dates": [
+      "2024/10/23"
+    ],
+    "vaccine_name": "ヌバキソビッド",
+    "lot_no": "NT002",
+    "manufacturer": "武田薬品工業",
+    "concurrent_vaccination_flag": false,
+    "concurrent_vaccination": "",
+    "pre_existing_disease_names": [
+      "なし"
+    ],
+    "PT_names": [
+      "発汗",
+      "体熱感"
+    ],
+    "onset_dates": [
+      "2024/10/23"
+    ],
+    "days_to_onset": [
+      "0"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "不明"
+    ],
+    "gross_results": [
+      "回復"
+    ],
+    "pt_by_expert": "",
+    "causal_relationship_by_expert": "",
+    "brighton_classification_by_expert": "",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第106回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001475649.pdf"
+    }
+  }
+]
