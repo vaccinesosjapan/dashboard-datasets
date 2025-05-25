@@ -5,10 +5,9 @@ from distutils.util import strtobool
 
 # スクリプトへエクスポートした際に、必要に応じてパスの更新が必要な情報
 csv_folder = os.path.join('..','intermediate-files')
-csv_file_name = '001475611-pre.csv' # sys.argv[1]
-manufacturer = 'ファイザー' # sys.argv[2]
-vaccine_name = 'コミナティ筋注シリンジ12歳以上用' # sys.argv[3]
-has_vaccinated_times = bool(strtobool('true')) # bool(strtobool(sys.argv[4]))
+csv_file_name = sys.argv[1]
+manufacturer = sys.argv[2]
+vaccine_name = sys.argv[3]
 
 csv_file_path = os.path.join(csv_folder, csv_file_name)
 original_df = pd.read_csv(csv_file_path)
@@ -136,19 +135,25 @@ fixed_df.loc[number_df.index, 'PT_names'] = number_df['PT_names']
 
 ## age 列が NaN になってるケース。半角スペース区切りで gender 列にデータが入っている場合があるので抽出を試行
 age_nan_df = fixed_df[fixed_df['age'].isna()]
-age_and_gender_df = age_nan_df['gender'].str.split(' ', expand=True)
-if len(age_and_gender_df.columns) == 2:
-	age_and_gender_df.columns = ['age', 'gender']
-	fixed_df.loc[age_and_gender_df.index, 'age'] = age_and_gender_df['age']
-	fixed_df.loc[age_and_gender_df.index, 'gender'] = age_and_gender_df['gender']
-
+extracted_from_gender_df = age_nan_df['gender'].str.split(' ', expand=True)
 ## gender 列が NaN になってるケース。半角スペース区切りで age 列にデータが入っている場合があるので抽出を試行
 gender_nan_df = fixed_df[fixed_df['gender'].isna()]
-age_and_gender_df = gender_nan_df['age'].str.split(' ', expand=True)
-if len(age_and_gender_df.columns) == 2:
-	age_and_gender_df.columns = ['age', 'gender']
-	fixed_df.loc[age_and_gender_df.index, 'age'] = age_and_gender_df['age']
-	fixed_df.loc[age_and_gender_df.index, 'gender'] = age_and_gender_df['gender']
+gender_nan_df['age'] = gender_nan_df['age'].astype(str)
+extracted_from_age_df = gender_nan_df['age'].str.split(' ', expand=True)
+
+## 先に dtype を変更しておかないと警告がでたりするので、先に処理する
+fixed_df['age'] = fixed_df['age'].astype(str)
+fixed_df['gender'] = fixed_df['gender'].astype(str)
+
+if len(extracted_from_gender_df.columns) == 2:
+	extracted_from_gender_df.columns = ['age', 'gender']
+	fixed_df.loc[extracted_from_gender_df.index, 'age'] = extracted_from_gender_df['age']
+	fixed_df.loc[extracted_from_gender_df.index, 'gender'] = extracted_from_gender_df['gender']
+
+if len(extracted_from_age_df.columns) == 2:
+	extracted_from_age_df.columns = ['age', 'gender']
+	fixed_df.loc[extracted_from_age_df.index, 'age'] = extracted_from_age_df['age']
+	fixed_df.loc[extracted_from_age_df.index, 'gender'] = extracted_from_age_df['gender']
 
 # %%
 if fixed_df['vaccinated_dates'].dtype != type(str):

@@ -1,14 +1,15 @@
 # %%
-import os, unicodedata, json
+import os, unicodedata, json, sys
+from numpy import dtype
 import pandas as pd
 import ast
 
 # スクリプトをエクスポートした際に調整が必要な各種パス情報
 csv_folder = os.path.join('..', 'intermediate-files')
-csv_file_name = '001475611-manually-fixed.csv' # sys.argv[1]
-expected_issue_count = int('11') # int(sys.argv[2])
+csv_file_name = sys.argv[1]
+expected_issue_count = int(sys.argv[2])
 json_folder = os.path.join('..', 'reports-data')
-json_file_name = '001475611.json' # sys.argv[3]
+json_file_name = sys.argv[3]
 
 csv_file_path = os.path.join(csv_folder, csv_file_name)
 df = pd.read_csv(csv_file_path, delimiter=',')
@@ -18,10 +19,13 @@ df = pd.read_csv(csv_file_path, delimiter=',')
 df = df.fillna('')
 
 # %%
-# age 列に関して、「歳」を除去すれば年齢を数字に変換できるセルだけ処理する
-age_is_number_df = df[df['age'].map(lambda x: x.replace('歳', '').isdecimal())]
-age_is_number_df.loc[:, 'age'] = age_is_number_df['age'].map(lambda x: int(x.replace('歳', '')))
-df.loc[age_is_number_df.index, 'age'] = age_is_number_df
+if df['age'].dtype == dtype('int64'):
+	print('age 列の dtype が int64 のため処理不要なようです。')
+else:
+	# age 列に関して、「歳」を除去すれば年齢を数字に変換できるセルだけ処理する
+	age_is_number_df = df[df['age'].map(lambda x: x.replace('歳', '').isdecimal())]
+	age_is_number_df.loc[:, 'age'] = age_is_number_df['age'].map(lambda x: int(x.replace('歳', '')))
+	df.loc[age_is_number_df.index, 'age'] = age_is_number_df
 
 # %%
 # ワクチン名に全角の数字が含まれていて検索が困難にあるなど弊害があるため、大文字小文字などの違いも対象に正規化
