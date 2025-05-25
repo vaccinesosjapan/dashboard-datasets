@@ -10,5 +10,5 @@ csv_file_name = f'{settings["file_id"]}.csv'
 
 os.chdir('scripts')
 print(f'{settings["vaccine_name"]} のデータを "{pdf_file_name}" から抽出中\n\n', end='', flush=True)
-subprocess.run([ "python", f"extract-pdf-to-csv.py", pdf_file_name, csv_file_name, settings['pages'] ])
+subprocess.run([ "python", f"./{settings['script_version']}/extract-pdf-to-csv.py", pdf_file_name, csv_file_name, settings['pages'] ])
 print()

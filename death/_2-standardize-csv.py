@@ -12,5 +12,5 @@ has_vaccinated_times = settings['has_vaccinated_times']
 
 os.chdir('scripts')
 print(f'{csv_file_name} のデータを整形します。手作業が必要な箇所についてログが出力されます。\n\n', end='', flush=True)
-subprocess.run(["python", "standardize-csv.py", csv_file_name, manufacturer, vaccine_name, has_vaccinated_times ])
+subprocess.run(["python", f"./{settings['script_version']}/standardize-csv.py", csv_file_name, manufacturer, vaccine_name, has_vaccinated_times ])
 print()
