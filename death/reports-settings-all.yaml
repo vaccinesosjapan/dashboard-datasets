@@ -85,6 +85,16 @@ pages: '3'
 count: '1'
 has_vaccinated_times: 'true'
 
+# 第105回
+manufacturer: 'ファイザー'
+vaccine_name: 'コミナティRTU筋注'
+file_id: '001383708'
+pages: '2'
+count: '1'
+script_version: 'v2'
+has_vaccinated_times: 'false'
+
+# 第106回
 manufacturer: 'ファイザー'
 vaccine_name: 'コミナティ筋注シリンジ12歳以上用'
 file_id: '001475611'

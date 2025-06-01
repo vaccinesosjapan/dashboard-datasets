@@ -2,6 +2,26 @@
   {
     "no": 1,
     "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ",
+    "age": "不明",
+    "gender": "女",
+    "vaccinated_dates": "不明",
+    "onset_dates": "不明",
+    "lot_no": "不明",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "ＣＯＶＩＤ－１９",
+    "PT_names": [
+      "死亡"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "ー",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "ワクチンの接種日や死に至るまでの症状経過、それらの時間的な前\n後関係などの情報がほとんど無く、評価が困難である。",
+    "id": "コミナティ-1"
+  },
+  {
+    "no": 1,
+    "manufacturer": "ファイザー",
     "vaccine_name": "コミナティ筋注5~11歳用",
     "age": 11,
     "gender": "女",

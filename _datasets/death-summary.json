@@ -6,10 +6,10 @@
       "url": "https://www.mhlw.go.jp/stf/shingi2/newpage_00138.html"
     },
     "sum_by_evaluation": {
-      "total": 2282,
+      "total": 2283,
       "alpha": 2,
       "beta": 11,
-      "gamma": 2269
+      "gamma": 2270
     },
     "sum_by_vaccine_name": [
       {
@@ -18,6 +18,14 @@
           "alpha": 0,
           "beta": 0,
           "gamma": 2
+        }
+      },
+      {
+        "vaccine_name": "コミナティRTU筋注",
+        "evaluations": {
+          "alpha": 0,
+          "beta": 0,
+          "gamma": 1
         }
       },
       {
@@ -128,7 +136,7 @@
     "sum_by_manufacturer": [
       {
         "manufacturer": "ファイザー",
-        "death_count": 2000
+        "death_count": 2001
       },
       {
         "manufacturer": "モデルナ",
