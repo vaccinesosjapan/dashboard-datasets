@@ -175,6 +175,11 @@ if not not_target_vd_df.empty:
 	print()
 
 # %%
+if fixed_df['onset_dates'].dtype != type(str):
+	fixed_df['onset_dates'] = fixed_df['onset_dates'].map('{:.0f}'.format).fillna('')
+	fixed_df['onset_dates'] = fixed_df['onset_dates'].astype(str)
+
+# %%
 # onset_dates が 20241211 のように8桁の数字で表現されているデータを見つけて 2024/12/11 というフォーマットの文字列にしたい
 target_od_df = fixed_df[fixed_df['onset_dates'].str.len() == 8]
 not_target_od_df = fixed_df[fixed_df['onset_dates'].str.len() != 8]
