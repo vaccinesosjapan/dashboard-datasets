@@ -1,0 +1,40 @@
+[
+  {
+    "no": 1,
+    "vaccine_name": "コスタイベ",
+    "age": 88,
+    "gender": "男性",
+    "vaccinated_dates": "2024/11/12",
+    "onset_dates": "不明",
+    "lot_no": "",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "認知症\n高血圧",
+    "PT_names": [
+      "誤嚥性肺炎"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "ー",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "",
+    "id": "コスタイベ-1"
+  },
+  {
+    "no": 2,
+    "vaccine_name": "コスタイベ",
+    "age": 70,
+    "gender": "男性",
+    "vaccinated_dates": "2024/11/15",
+    "onset_dates": "不明",
+    "lot_no": "",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "肝機能異常\n脱水",
+    "PT_names": [
+      "尿路感染"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "ー",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "",
+    "id": "コスタイベ-2"
+  }
+]
