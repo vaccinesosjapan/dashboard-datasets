@@ -1,9 +1,10 @@
 [
   {
     "no": 1,
+    "manufacturer": "Meiji Seika ファルマ",
     "vaccine_name": "コスタイベ",
     "age": 88,
-    "gender": "男性",
+    "gender": "男",
     "vaccinated_dates": "2024/11/12",
     "onset_dates": "不明",
     "lot_no": "",
@@ -20,9 +21,10 @@
   },
   {
     "no": 2,
+    "manufacturer": "Meiji Seika ファルマ",
     "vaccine_name": "コスタイベ",
     "age": 70,
-    "gender": "男性",
+    "gender": "男",
     "vaccinated_dates": "2024/11/15",
     "onset_dates": "不明",
     "lot_no": "",

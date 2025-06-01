@@ -29,7 +29,7 @@ df.insert(2, column='vaccinated_times', value='')
 df.insert(3, column='tests_used_for_determination', value='')
 
 # 最終的にデータ化する時のために列の並べ替えをやっておく。
-df = df.reindex(columns=['no', 'vaccine_name', 'age', 'gender', 'vaccinated_dates', 'onset_dates', 'lot_no', 'vaccinated_times', 'pre_existing_conditions', 'PT_names', 'tests_used_for_determination', 'causal_relationship', 'causal_relationship_by_expert', 'comments_by_expert'])
+df = df.reindex(columns=['no', 'manufacturer', 'vaccine_name', 'age', 'gender', 'vaccinated_dates', 'onset_dates', 'lot_no', 'vaccinated_times', 'pre_existing_conditions', 'PT_names', 'tests_used_for_determination', 'causal_relationship', 'causal_relationship_by_expert', 'comments_by_expert'])
 
 # %%
 # No列に値が入った行だけを抽出する。
@@ -192,6 +192,11 @@ if not not_target_od_df.empty:
 	for index, row in not_target_od_df.iterrows():
 		print(f' - No. {row.no} (Index: {index})')
 	print()
+
+# %%
+# 性別が（医療機関からの報告とは逆に）2025年のデータから「女/男」ではなく「女性/男性」と表記されているため、
+# 過去データに合わせて「女/男」に統一する
+fixed_df['gender'] = fixed_df['gender'].str.replace('女性', '女').str.replace('男性', '男')
 
 # %%
 csv_file_name_without_ext = os.path.splitext(csv_file_name)[0].replace('-pre', '-converted')

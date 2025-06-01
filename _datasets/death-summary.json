@@ -1,17 +1,25 @@
 {
   "death_summary": {
-    "date": "2024/10/25",
+    "date": "2025/04/14",
     "source": {
-      "name": "第104回厚生科学審議会予防接種・ワクチン分科会副反応検討部会",
-      "url": "https://www.mhlw.go.jp/stf/shingi2/newpage_00109.html"
+      "name": "第106回厚生科学審議会予防接種・ワクチン分科会副反応検討部会",
+      "url": "https://www.mhlw.go.jp/stf/shingi2/newpage_00138.html"
     },
     "sum_by_evaluation": {
-      "total": 2262,
+      "total": 2282,
       "alpha": 2,
       "beta": 11,
-      "gamma": 2249
+      "gamma": 2269
     },
     "sum_by_vaccine_name": [
+      {
+        "vaccine_name": "コスタイベ筋注",
+        "evaluations": {
+          "alpha": 0,
+          "beta": 0,
+          "gamma": 2
+        }
+      },
       {
         "vaccine_name": "コミナティRTU筋注（1価：オミクロン株XBB.1.5）",
         "evaluations": {
@@ -29,6 +37,14 @@
         }
       },
       {
+        "vaccine_name": "コミナティ筋注シリンジ12歳以上用",
+        "evaluations": {
+          "alpha": 0,
+          "beta": 0,
+          "gamma": 11
+        }
+      },
+      {
         "vaccine_name": "コミナティ筋注５～11歳用",
         "evaluations": {
           "alpha": 0,
@@ -37,7 +53,7 @@
         }
       },
       {
-        "vaccine_name": "コミナティ筋注５～11歳用\r\n（1価：オミクロン株XBB.1.5）",
+        "vaccine_name": "コミナティ筋注５～11歳用（1価：オミクロン株XBB.1.5）",
         "evaluations": {
           "alpha": 0,
           "beta": 0,
@@ -53,7 +69,7 @@
         }
       },
       {
-        "vaccine_name": "コミナティ筋注６ヵ月～４歳用\r\n（1価：オミクロン株XBB.1.5）",
+        "vaccine_name": "コミナティ筋注６ヵ月～４歳用（1価：オミクロン株XBB.1.5）",
         "evaluations": {
           "alpha": 0,
           "beta": 0,
@@ -77,7 +93,15 @@
         }
       },
       {
-        "vaccine_name": "ダイチロナ筋注\r\n（1価：オミクロン株XBB.1.5） ",
+        "vaccine_name": "ダイチロナ筋注",
+        "evaluations": {
+          "alpha": 0,
+          "beta": 0,
+          "gamma": 6
+        }
+      },
+      {
+        "vaccine_name": "ダイチロナ筋注（1価：オミクロン株XBB.1.5） ",
         "evaluations": {
           "alpha": 0,
           "beta": 0,
@@ -89,7 +113,7 @@
         "evaluations": {
           "alpha": 0,
           "beta": 0,
-          "gamma": 3
+          "gamma": 4
         }
       },
       {
@@ -104,27 +128,31 @@
     "sum_by_manufacturer": [
       {
         "manufacturer": "ファイザー",
-        "death_count": 1989
+        "death_count": 2000
       },
       {
         "manufacturer": "モデルナ",
         "death_count": 269
       },
       {
+        "manufacturer": "第一三共",
+        "death_count": 6
+      },
+      {
         "manufacturer": "ノババックス／武田",
-        "death_count": 3
+        "death_count": 4
+      },
+      {
+        "manufacturer": "Meiji Seika ファルマ",
+        "death_count": 2
       },
       {
         "manufacturer": "アストラゼネカ",
         "death_count": 1
-      },
-      {
-        "manufacturer": "第一三共",
-        "death_count": 0
       }
     ]
   },
   "death_issues": {
-    "date": "2024/08/04"
+    "date": "2024/12/31"
   }
 }

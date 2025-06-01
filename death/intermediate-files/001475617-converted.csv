@@ -1,9 +1,9 @@
-no,vaccine_name,age,gender,vaccinated_dates,onset_dates,lot_no,vaccinated_times,pre_existing_conditions,PT_names,tests_used_for_determination,causal_relationship,causal_relationship_by_expert,comments_by_expert
-1,"ヌバキソビッド
-ビケンＨＡ",72,男性,2024/10/26,2024/10/29,"NT001
+no,manufacturer,vaccine_name,age,gender,vaccinated_dates,onset_dates,lot_no,vaccinated_times,pre_existing_conditions,PT_names,tests_used_for_determination,causal_relationship,causal_relationship_by_expert,comments_by_expert
+1,ノババックス／武田,"ヌバキソビッド
+ビケンＨＡ",72,男,2024/10/26,2024/10/29,"NT001
 HA237C",,"糖尿病
 高脂血症
 高血圧",['心筋梗塞'],,ー,γ,
-2,"ビケンＨＡ
-ヌバキソビッド",72,男性,2024/10/26,2024/10/29,"HA237C
+2,ノババックス／武田,"ビケンＨＡ
+ヌバキソビッド",72,男,2024/10/26,2024/10/29,"HA237C
 NT001",,,['調査中'],,調査中,調査中,調査中

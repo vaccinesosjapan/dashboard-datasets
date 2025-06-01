@@ -1,9 +1,10 @@
 [
   {
     "no": 1,
+    "manufacturer": "ノババックス／武田",
     "vaccine_name": "ヌバキソビッド\nビケンHA",
     "age": 72,
-    "gender": "男性",
+    "gender": "男",
     "vaccinated_dates": "2024/10/26",
     "onset_dates": "2024/10/29",
     "lot_no": "NT001\nHA237C",
@@ -20,9 +21,10 @@
   },
   {
     "no": 2,
+    "manufacturer": "ノババックス／武田",
     "vaccine_name": "ビケンHA\nヌバキソビッド",
     "age": 72,
-    "gender": "男性",
+    "gender": "男",
     "vaccinated_dates": "2024/10/26",
     "onset_dates": "2024/10/29",
     "lot_no": "HA237C\nNT001",
