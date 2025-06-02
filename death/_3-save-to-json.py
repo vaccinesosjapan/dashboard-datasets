@@ -12,5 +12,5 @@ json_file_name = f"{settings['file_id']}.json"
 
 os.chdir('scripts')
 print(f'手作業で修正した {csv_file_name} のデータに最終的な整形を行ってJSONファイルへと出力します。\n\n', end='', flush=True)
-subprocess.run([ "python", "export-to-json.py", csv_file_name, count, json_file_name ])
+subprocess.run([ "python", f"./{settings['script_version']}/export-to-json.py", csv_file_name, count, json_file_name ])
 print()

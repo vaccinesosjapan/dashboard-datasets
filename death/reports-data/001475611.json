@@ -1,0 +1,246 @@
+[
+  {
+    "no": 1,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ\nインフルエンザワクチン",
+    "age": 76,
+    "gender": "男",
+    "vaccinated_dates": "2024/10/08",
+    "onset_dates": [
+      "2024/10/13"
+    ],
+    "lot_no": "LL6410\n757-A",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "",
+    "PT_names": [
+      "脳出血"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "新型コロナワクチンとインフルエンザワクチンを接種して、5日後\nの死亡。脳炎、脳症、脳出血で死亡とのことであるが、接種から死\nに至るまでの症状経過に関する情報や複数の薬剤を内服中の基礎疾\n患の病状に関する詳細な情報が無く、評価は困難である。",
+    "id": "コミナティ\nインフルエンザワクチン-1"
+  },
+  {
+    "no": 10,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ",
+    "age": 87,
+    "gender": "女",
+    "vaccinated_dates": "2024/12/06",
+    "onset_dates": [
+      "2024/12/08"
+    ],
+    "lot_no": "LL4810",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "不眠症\n胃食道逆流性疾患\n高脂血症\n高血圧",
+    "PT_names": [
+      "死亡"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "ー",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "症状の経過に関する詳細な情報がなく、評価は困難である。",
+    "id": "コミナティ-10"
+  },
+  {
+    "no": 11,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ",
+    "age": 80,
+    "gender": "男",
+    "vaccinated_dates": "2024/11",
+    "onset_dates": [
+      "2024/11"
+    ],
+    "lot_no": "",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "交通事故\n肢欠損\n認知症",
+    "PT_names": [
+      "リンパ腫"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "ー",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "症状の経過に関する詳細な情報がなく、評価は困難である。",
+    "id": "コミナティ-11"
+  },
+  {
+    "no": 2,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "インフルエンザHAワクチン\n「KMB」\nコミナティ",
+    "age": 85,
+    "gender": "女",
+    "vaccinated_dates": "2024/11/07",
+    "onset_dates": [
+      "2024/11/11"
+    ],
+    "lot_no": "550C\nLL7260",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "アルツハイマー型認知症\n不眠症\n低アルブミン血症\n便秘\n双極性障害\n塞栓症\n完全房室ブロック\n心房細動\n慢性心不全\n統合失調症\n胸水\n脂質異常症\n腎嚢胞\n高血圧\n２型糖尿病",
+    "PT_names": [
+      "急性心不全",
+      "急性腎障害"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "関連あり",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "複数の基礎疾患を有する85歳、接種前からADLは全介助で、経口摂\n取不良の進行があり経管栄養に切り替えていた。接種後約4時間で\n体調不良がありアナフィラキシーを疑われて処置が行われたが、ア\nナフィラキシーを積極的に示唆する所見には乏しいと考える。その\n後急性心不全と急性腎障害が発現し、接種後4日目に死亡。現状の\n情報からは、死亡にワクチンが関与したことを示唆する事項は乏し\nい。",
+    "id": "インフルエンザHAワクチン\n「KMB」\nコミナティ-2"
+  },
+  {
+    "no": 3,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ",
+    "age": 75,
+    "gender": "女",
+    "vaccinated_dates": "",
+    "onset_dates": [
+      "不明"
+    ],
+    "lot_no": "",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "",
+    "PT_names": [
+      "くも膜下出血"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "ー",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "ワクチン接種日、患者の症状経過や死亡日などの情報が無く、評価\nは困難である。",
+    "id": "コミナティ-3"
+  },
+  {
+    "no": 4,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ",
+    "age": 89,
+    "gender": "男",
+    "vaccinated_dates": "2024/11/20",
+    "onset_dates": [
+      "2024/11/21"
+    ],
+    "lot_no": "LL7260",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "便秘\n入院\n心不全\n混合型認知症\n狭心症\n糖尿病\n脳内動脈瘤手術\n脳梗塞\n血中コレステロール増加\n頚動脈狭窄\n高コレステロール血症\n高血圧",
+    "PT_names": [
+      "心筋炎",
+      "慢性心不全"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "",
+    "id": "コミナティ-4"
+  },
+  {
+    "no": 5,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ",
+    "age": 64,
+    "gender": "男",
+    "vaccinated_dates": "2024/11/11",
+    "onset_dates": [
+      "2024/11/11"
+    ],
+    "lot_no": "LL7260",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "便秘\n肝癌\n肝硬変\n高尿酸血症\n高血圧\n２型糖尿病",
+    "PT_names": [
+      "死亡"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "ー",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "接種当日の死亡であるが、症状経過などの詳細な情報がなく、評価\nは困難である。",
+    "id": "コミナティ-5"
+  },
+  {
+    "no": 6,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ",
+    "age": 98,
+    "gender": "女",
+    "vaccinated_dates": "2024/11/14",
+    "onset_dates": [
+      "2024/11/16"
+    ],
+    "lot_no": "LL7260",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "睡眠障害\n糖尿\n糖尿病\n高血圧",
+    "PT_names": [
+      "心肺停止"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "",
+    "id": "コミナティ-6"
+  },
+  {
+    "no": 7,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ",
+    "age": "高齢者",
+    "gender": "女",
+    "vaccinated_dates": "2024/10/25",
+    "onset_dates": [
+      "2024/11/18"
+    ],
+    "lot_no": "",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "非定型マイコバクテリア感\n染",
+    "PT_names": [
+      "心突然死"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "ー",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "",
+    "id": "コミナティ-7"
+  },
+  {
+    "no": 8,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ\nインフルエンザワクチン",
+    "age": 76,
+    "gender": "男",
+    "vaccinated_dates": "2024/12/03",
+    "onset_dates": [
+      "2024/12/04"
+    ],
+    "lot_no": "LL7260\nー",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "てんかん\n脳梗塞\n高血圧",
+    "PT_names": [
+      "心肺停止"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "",
+    "id": "コミナティ\nインフルエンザワクチン-8"
+  },
+  {
+    "no": 9,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ",
+    "age": 85,
+    "gender": "女",
+    "vaccinated_dates": "2024/11/19",
+    "onset_dates": [
+      "2024/11/30"
+    ],
+    "lot_no": "LL4810",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "アルツハイマー型認知症",
+    "PT_names": [
+      "脳出血"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "症状の経過やワクチン接種との時間的関係などに関する詳細な情報\nがなく、評価は困難である。",
+    "id": "コミナティ-9"
+  }
+]

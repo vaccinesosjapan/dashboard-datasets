@@ -1,0 +1,135 @@
+[
+  {
+    "no": 1,
+    "manufacturer": "第一三共",
+    "vaccine_name": "ダイチロナ",
+    "age": 88,
+    "gender": "男",
+    "vaccinated_dates": "2024/10/07",
+    "onset_dates": [
+      "2024/10/10"
+    ],
+    "lot_no": "VPA015A",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "慢性胃炎\n慢性腎臓病\n癌手術\n胃癌\n胃食道逆流性疾患\n背部痛\n腎摘除\n腎癌\n高尿酸血症\n高血圧\n２型糖尿病",
+    "PT_names": [
+      "急性心筋梗塞"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "ー",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "新型コロナワクチン接種3日後に急性心筋梗塞を発症し、死亡した\n症例である。高齢であり、急性心筋梗塞の危険因子である慢性腎臓\n病、糖尿病、高血圧があることから、ワクチン接種と関係がなく心\n筋梗塞を発症した可能性も考えられる。",
+    "id": "ダイチロナ-1"
+  },
+  {
+    "no": 2,
+    "manufacturer": "第一三共",
+    "vaccine_name": "ダイチロナ\nインフルエンザHAワクチン\n*デンカ",
+    "age": 79,
+    "gender": "男",
+    "vaccinated_dates": "2024/10/11",
+    "onset_dates": [
+      "2024/10/13"
+    ],
+    "lot_no": "VPA016A\n758A",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "膀胱癌\n骨粗鬆症\n高コレステロール血症\n高血圧",
+    "PT_names": [
+      "発熱"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "ー",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "新型コロナワクチンとインフルエンザワクチンを同時接種し、翌日\n発熱し、翌々日に死亡した症例である。死因に関しては詳細な情報\nはないが、発熱に関してはワクチン接種後に生じたことから、因果\n関係は否定できないと判断した。",
+    "id": "ダイチロナ\nインフルエンザHAワクチン\n*デンカ-2"
+  },
+  {
+    "no": 3,
+    "manufacturer": "第一三共",
+    "vaccine_name": "ダイチロナ",
+    "age": 91,
+    "gender": "男",
+    "vaccinated_dates": "",
+    "onset_dates": [
+      "不明"
+    ],
+    "lot_no": "",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "心房細動\n糖尿病",
+    "PT_names": [
+      "免疫性血小板減少症",
+      "肺出血"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "ー",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "",
+    "id": "ダイチロナ-3"
+  },
+  {
+    "no": 4,
+    "manufacturer": "第一三共",
+    "vaccine_name": "ダイチロナ",
+    "age": 80,
+    "gender": "女",
+    "vaccinated_dates": "2024/11/07",
+    "onset_dates": [
+      "2024/11/21"
+    ],
+    "lot_no": "VPA017A",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "誤嚥性肺炎\n遺伝性運動感覚ニューロパ\nチー\n非タバコ使用者",
+    "PT_names": [
+      "誤嚥性肺炎"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "ー",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "新型コロナワクチン接種後、翌日に発熱し、その後誤嚥性肺炎によ\nり死亡した症例である。本症例は基礎疾患としてシャルコーマリー\nトゥース病があり、この疾患は嚥下反射の低下を伴う。本症例にお\nいても嚥下性肺炎の既往歴があり、嚥下反射は低下していたため、\n誤嚥性肺炎を発症した可能性が考えられる。発熱に関しては、誤嚥\n性肺炎による発熱の可能性も考えられるが、ワクチンによる影響も\n否定できず、発熱による嚥下反射低下から誤嚥性肺炎を来した可能\n性があるため、因果関係は否定できないと判断した。",
+    "id": "ダイチロナ-4"
+  },
+  {
+    "no": 5,
+    "manufacturer": "第一三共",
+    "vaccine_name": "ダイチロナ",
+    "age": 11,
+    "gender": "男",
+    "vaccinated_dates": "",
+    "onset_dates": [
+      "不明"
+    ],
+    "lot_no": "",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "",
+    "PT_names": [
+      "心肺停止"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "ー",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "",
+    "id": "ダイチロナ-5"
+  },
+  {
+    "no": 6,
+    "manufacturer": "第一三共",
+    "vaccine_name": "ダイチロナ",
+    "age": 82,
+    "gender": "女",
+    "vaccinated_dates": "2024/10/11",
+    "onset_dates": [
+      "2024/11/13"
+    ],
+    "lot_no": "VPA017A",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "毛細血管漏出症候群",
+    "PT_names": [
+      "ショック"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "関連あり",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "",
+    "id": "ダイチロナ-6"
+  }
+]

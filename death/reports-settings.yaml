@@ -16,8 +16,9 @@
 #
 
 manufacturer: 'ファイザー'
-vaccine_name: 'コミナティ筋注６ヵ月～４歳用'
-file_id: '001325488'
-pages: '3'
+vaccine_name: 'コミナティRTU筋注'
+file_id: '001383708'
+pages: '2'
 count: '1'
-has_vaccinated_times: 'true'
+script_version: 'v2'
+has_vaccinated_times: 'false'
