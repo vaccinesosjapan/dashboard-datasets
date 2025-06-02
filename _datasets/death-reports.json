@@ -1,89 +1,115 @@
 [
   {
     "no": 1,
-    "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティ",
-    "age": "不明",
-    "gender": "女",
-    "vaccinated_dates": "不明",
-    "onset_dates": "不明",
-    "lot_no": "不明",
-    "vaccinated_times": "",
-    "pre_existing_conditions": "ＣＯＶＩＤ－１９",
-    "PT_names": [
-      "死亡"
-    ],
-    "tests_used_for_determination": "",
-    "causal_relationship": "ー",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "ワクチンの接種日や死に至るまでの症状経過、それらの時間的な前\n後関係などの情報がほとんど無く、評価が困難である。",
-    "id": "コミナティ-1"
-  },
-  {
-    "no": 1,
-    "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティ筋注5~11歳用",
-    "age": 11,
-    "gender": "女",
-    "vaccinated_dates": "2022/4/28",
+    "manufacturer": "アストラゼネカ",
+    "vaccine_name": "バキスゼブリア筋注",
+    "age": 57,
+    "gender": "男",
+    "vaccinated_dates": "2021/11/4",
     "onset_dates": [
-      "2022/4/30"
+      "2021/11/4/"
     ],
-    "lot_no": "FN5988",
+    "lot_no": "D017A",
     "vaccinated_times": "2回目",
-    "pre_existing_conditions": "予診票での留意点：重症心身障害児",
+    "pre_existing_conditions": "大動脈弁狭窄（継続中）、上行大動脈解離（2017/2）、高血圧、脂質異常症、心臓手術歴併用薬：ロスバスタチン、フェブリク、ビソプロロールフマル酸、イミダプリル、イコサペント酸、ミヤBM、吸着炭、ジスチグミン、タムスロシン2回目接種約3時間後、自転車走行中に突然倒れ、目撃者により救急要請、心肺停止状態が確認され、搬送された。（〜1/21の情報に基づく）",
     "PT_names": [
-      "呼吸不全",
-      "心筋炎",
-      "心不全"
+      "不明"
     ],
-    "tests_used_for_determination": "血液検査（CK上\r\n昇あり（1,246\r\nU/L）、CRP上昇\r\nあり（32.8\r\nmg/dL）、LDH上\r\n昇あり（515）、\r\nBUN上昇あり\r\n（24.7））、胸部\r\n単純レントゲン\r\n（死後）（肺炎\r\n像･うっ血像な\r\nし）\r\n（～6/10の情報\r\nに基づく（集計・\r\n専門家評価対\r\n象期間（～\r\n5/15）後に報告\r\nされた内容））",
+    "tests_used_for_determination": "血液検査、CT（全脳虚血疑い、両側下葉浸潤影）、冠動脈造影検査（有意所見なし）",
     "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "採血の結果からは、心筋障害も否定できないが、心電図や心エコー、病理による直接的な証拠はない。炎症反応も心筋由来かも不明である。時系列的にワクチンとの関連は否定できないが、長期にわたる脳性麻痺で人工呼吸器管理の状態であり、もともとの心機能がどうであったかも不明である。ワクチン以外にも、心肺停止となる要因が多く、原因をワクチンと断定することはできない。※～1/26から変更なし。",
-    "id": "コミナティ筋注5~11歳用-1"
+    "comments_by_expert": "死因は不明であり、患者背景や経過の詳細も得られておらず、ワクチン接種と死亡の因果関係は評価できない。※〜10/7から変更なし。",
+    "id": "バキスゼブリア筋注-1"
   },
   {
     "no": 1,
-    "manufacturer": "ノババックス／武田",
-    "vaccine_name": "ヌバキソビッド\nビケンHA",
-    "age": 72,
-    "gender": "男",
-    "vaccinated_dates": "2024/10/26",
-    "onset_dates": "2024/10/29",
-    "lot_no": "NT001\nHA237C",
-    "vaccinated_times": "",
-    "pre_existing_conditions": "糖尿病\n高脂血症\n高血圧",
-    "PT_names": [
-      "心筋梗塞"
-    ],
-    "tests_used_for_determination": "",
-    "causal_relationship": "ー",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "",
-    "id": "ヌバキソビッド\nビケンHA-1"
-  },
-  {
-    "no": 1,
-    "manufacturer": "モデルナ",
-    "vaccine_name": "スパイクバックス筋注(2価:起源株/オミクロン株BA.1)",
-    "age": 90,
-    "gender": "男",
-    "vaccinated_dates": "2022/11/14",
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)",
+    "age": 77,
+    "gender": "女",
+    "vaccinated_dates": "2023/9/27",
     "onset_dates": [
-      "2022/11/29"
+      "2023/9/28"
     ],
-    "lot_no": "200040A",
-    "vaccinated_times": "3回目",
-    "pre_existing_conditions": "2022/11/14　3回目のワクチン接種。11/16　38.2度の発熱有り。カロナール内服。11/17再度発熱有り。来院。来院時血圧が63/42mmHgであり補液開始するも血圧上昇せず、血液検査WBC12300↑、CRP15.14↑AST133、ALT40、LDH1048、BUN40.5、Cre2.65、CK721、トロポニンT(+)、BNP1876.1 であり心電図でST-T異常(1，V1、V2,V4,V5,V6)が見られた。急性心不全により死亡に至ったケースだが、その原因として心筋炎あるいは急性心筋梗塞が不明であるものの可能性は否定できないと思われる。",
+    "lot_no": "HG2273",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "基礎疾患等：副腎皮質機能低下症、甲状腺機能低下症、動物アレル\r\nギー、果物アレルギー\r\n併用薬：コートリル、チラージン\r\n接種日の翌日に自宅で死亡されていた。",
     "PT_names": [
-      "急性心不全"
+      "不明"
     ],
     "tests_used_for_determination": "不明",
     "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "年齢を考慮すると、COVIDワクチン後の心筋炎よりは、動脈硬化性の心筋梗塞が鑑別の上位に来る。どちらにしても情報が不十分である。※～1/26から変更なし。",
-    "id": "スパイクバックス筋注(2価:起源株/オミクロン株BA.1)-1"
+    "comments_by_expert": "（コメント無し）※～7/29から変更なし。",
+    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-1"
+  },
+  {
+    "no": 1,
+    "manufacturer": "モデルナ",
+    "vaccine_name": "スパイクバックス筋注(1価:オミクロン株XBB.1.5)",
+    "age": 98,
+    "gender": "女",
+    "vaccinated_dates": "2023/10/17",
+    "onset_dates": [
+      "2023/10/21"
+    ],
+    "lot_no": "710011A",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "基礎疾患等：高血圧、S状結腸癌術後ストーマ\r\n併用薬：オルメサルタン、アムロジン、トリクロルメチアジド\r\n要介護4\r\n接種翌日より食欲不振となり10/18食事摂取量1割\r\n10/19からは食事は摂取せず水分摂取のみ（1日500mL程）\r\n他は症状認められず\r\n10/21に死亡を確認",
+    "PT_names": [
+      "不明"
+    ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "情報不足※～7/29から変更なし。",
+    "id": "スパイクバックス筋注(1価:オミクロン株XBB.1.5)-1"
+  },
+  {
+    "no": 1,
+    "manufacturer": "ノババックス／武田",
+    "vaccine_name": "ヌバキソビッド筋注",
+    "age": 29,
+    "gender": "男",
+    "vaccinated_dates": "2022/8/17",
+    "onset_dates": [
+      "2022/8/18"
+    ],
+    "lot_no": "NP001",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "8/17 15時にコロナワクチンの２回目を\r\n接種。8/18 早朝より発熱があり自宅で\r\n療養していたところ、17時頃に、家族に\r\n心肺停止状態で発見された。最終健常\r\n確認は、8/18の16時前頃で、ゼリーな\r\nどの経口接種可能であった。\r\n17時頃家族が心肺停止状態で発見。\r\n救急隊接触時より心静止状態であり、\r\n来院後はCPRへ反応なく中止。死亡確\r\n認を行い、CT撮影のみを施行。突然死\r\nであり、心筋炎の可能性などワクチン\r\n接種との関連性は否定できない。\r\n剖検は家族に断られたため、実施して\r\nおらず、死後時間が経過しており、死後\r\n変化によって血液検査から信頼性のあ\r\nるデータは得られないため、実施してい\r\nない。心拡大、肺水腫を認めるも死後\r\n変化との鑑別は困難であり、その他死\r\n因となるような所見は指摘できなかっ\r\nた。\r\n出生時に心房中隔欠損症と診断された\r\nが自然閉鎖し、健康診断にて不整脈を\r\n指摘されたことはない被接種者である。",
+    "PT_names": [
+      "突然死",
+      "心筋炎"
+    ],
+    "tests_used_for_determination": "CT",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "心肺停止から突然死に至った原因として心筋炎の可能性を示唆する記載があるが、心筋炎が起こっていたことを示唆する客観的な情報が不足しており、心肺停止の原因は不明である。死亡がワクチン接種により起きたものか、ワクチン接種に関係なく起きたものなのかを判断することは困難である。※～7/29から変更なし。",
+    "id": "ヌバキソビッド筋注-1"
+  },
+  {
+    "no": 1,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.1)",
+    "age": 71,
+    "gender": "男",
+    "vaccinated_dates": "2022/11/9",
+    "onset_dates": [
+      "2022/11/11"
+    ],
+    "lot_no": "GD9571",
+    "vaccinated_times": "5回目",
+    "pre_existing_conditions": "11/8　144/80mmHｇと最近上昇傾向であった。11/9は体温36.0度、脈拍72/分で体調不良もなかったため午後2時頃に5回目のワクチン接種。接種直後に異常はなく、翌11/10も体温36.4度、脈拍78/minで発熱など体調に変化は無く、11/10の18時の夕食も完食している。11/10の21時に普段通り眠前薬を内服し消灯。その後、11/11の0時頃看護スタッフが巡視した際に、喘鳴(看護記録上は「痰の絡んだような寝息」との記載)が見られたが、呼びかけても入眠されており、着けていたマスクを外して経過観察された。11/11　3：50に看護スタッフが巡視した際、顔面蒼白であり、呼吸をしておらず、脈拍も触れなかった。速やかに当直医死が診察し、既に蘇生の可能性はないと判断され、呼吸停止、脈拍停止、両側対光反射消失を以て、11/11　3：58死亡確認。検死の結果、鼻腔・口腔内の泡沫状の白色分泌物と頸静脈怒張の所見から急性心臓死と診断され、直腸温および死斑の状態から午前2時頃の死亡と推定された。病歴：長期入院、慢性期統合失調症、発熱、炎症反応、軽度貧血、両下腿浮腫、両上眼瞼浮腫、顔面浮腫、血圧最近上昇傾向、パーキンソニズム、便秘、消化器症状、不眠、不安、心不全(～1/20の情報に基づく。)",
+    "PT_names": [
+      "急性心臓死",
+      "心不全"
+    ],
+    "tests_used_for_determination": "検死",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
+    "id": "コミナティRTU筋注(2価:起源株/オミクロン株BA.1)-1"
   },
   {
     "no": 1,
@@ -112,69 +138,6 @@
   },
   {
     "no": 1,
-    "manufacturer": "ノババックス／武田",
-    "vaccine_name": "ヌバキソビッド筋注",
-    "age": 29,
-    "gender": "男",
-    "vaccinated_dates": "2022/8/17",
-    "onset_dates": [
-      "2022/8/18"
-    ],
-    "lot_no": "NP001",
-    "vaccinated_times": "",
-    "pre_existing_conditions": "8/17 15時にコロナワクチンの２回目を\r\n接種。8/18 早朝より発熱があり自宅で\r\n療養していたところ、17時頃に、家族に\r\n心肺停止状態で発見された。最終健常\r\n確認は、8/18の16時前頃で、ゼリーな\r\nどの経口接種可能であった。\r\n17時頃家族が心肺停止状態で発見。\r\n救急隊接触時より心静止状態であり、\r\n来院後はCPRへ反応なく中止。死亡確\r\n認を行い、CT撮影のみを施行。突然死\r\nであり、心筋炎の可能性などワクチン\r\n接種との関連性は否定できない。\r\n剖検は家族に断られたため、実施して\r\nおらず、死後時間が経過しており、死後\r\n変化によって血液検査から信頼性のあ\r\nるデータは得られないため、実施してい\r\nない。心拡大、肺水腫を認めるも死後\r\n変化との鑑別は困難であり、その他死\r\n因となるような所見は指摘できなかっ\r\nた。\r\n出生時に心房中隔欠損症と診断された\r\nが自然閉鎖し、健康診断にて不整脈を\r\n指摘されたことはない被接種者である。",
-    "PT_names": [
-      "突然死",
-      "心筋炎"
-    ],
-    "tests_used_for_determination": "CT",
-    "causal_relationship": "評価不能",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "心肺停止から突然死に至った原因として心筋炎の可能性を示唆する記載があるが、心筋炎が起こっていたことを示唆する客観的な情報が不足しており、心肺停止の原因は不明である。死亡がワクチン接種により起きたものか、ワクチン接種に関係なく起きたものなのかを判断することは困難である。※～7/29から変更なし。",
-    "id": "ヌバキソビッド筋注-1"
-  },
-  {
-    "no": 1,
-    "manufacturer": "Meiji Seika ファルマ",
-    "vaccine_name": "コスタイベ",
-    "age": 88,
-    "gender": "男",
-    "vaccinated_dates": "2024/11/12",
-    "onset_dates": "不明",
-    "lot_no": "",
-    "vaccinated_times": "",
-    "pre_existing_conditions": "認知症\n高血圧",
-    "PT_names": [
-      "誤嚥性肺炎"
-    ],
-    "tests_used_for_determination": "",
-    "causal_relationship": "ー",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "",
-    "id": "コスタイベ-1"
-  },
-  {
-    "no": 1,
-    "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティ\nインフルエンザワクチン",
-    "age": 76,
-    "gender": "男",
-    "vaccinated_dates": "2024/10/08",
-    "onset_dates": "2024/10/13",
-    "lot_no": "LL6410\n757-A",
-    "vaccinated_times": "",
-    "pre_existing_conditions": "",
-    "PT_names": [
-      "脳出血"
-    ],
-    "tests_used_for_determination": "",
-    "causal_relationship": "評価不能",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "新型コロナワクチンとインフルエンザワクチンを接種して、5日後\nの死亡。脳炎、脳症、脳出血で死亡とのことであるが、接種から死\nに至るまでの症状経過に関する情報や複数の薬剤を内服中の基礎疾\n患の病状に関する詳細な情報が無く、評価は困難である。",
-    "id": "コミナティ\nインフルエンザワクチン-1"
-  },
-  {
-    "no": 1,
     "manufacturer": "ファイザー",
     "vaccine_name": "コミナティ筋注",
     "age": 61,
@@ -194,73 +157,6 @@
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "ワクチン接種前から頭痛の訴えがあったことから、くも膜下出血をきたしうる基礎疾患として脳動脈瘤があった可能性があります。くも膜下出血かどうか、十分な画像所見が無いので断定はできませんが、あったとしてもワクチン接種とくも膜下出血と関連性を評価するだけの情報にはならず、因果関係を評価することは困難と考えます。※～1/26から変更なし。",
     "id": "コミナティ筋注-1"
-  },
-  {
-    "no": 1,
-    "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.1)",
-    "age": 71,
-    "gender": "男",
-    "vaccinated_dates": "2022/11/9",
-    "onset_dates": [
-      "2022/11/11"
-    ],
-    "lot_no": "GD9571",
-    "vaccinated_times": "5回目",
-    "pre_existing_conditions": "11/8　144/80mmHｇと最近上昇傾向であった。11/9は体温36.0度、脈拍72/分で体調不良もなかったため午後2時頃に5回目のワクチン接種。接種直後に異常はなく、翌11/10も体温36.4度、脈拍78/minで発熱など体調に変化は無く、11/10の18時の夕食も完食している。11/10の21時に普段通り眠前薬を内服し消灯。その後、11/11の0時頃看護スタッフが巡視した際に、喘鳴(看護記録上は「痰の絡んだような寝息」との記載)が見られたが、呼びかけても入眠されており、着けていたマスクを外して経過観察された。11/11　3：50に看護スタッフが巡視した際、顔面蒼白であり、呼吸をしておらず、脈拍も触れなかった。速やかに当直医死が診察し、既に蘇生の可能性はないと判断され、呼吸停止、脈拍停止、両側対光反射消失を以て、11/11　3：58死亡確認。検死の結果、鼻腔・口腔内の泡沫状の白色分泌物と頸静脈怒張の所見から急性心臓死と診断され、直腸温および死斑の状態から午前2時頃の死亡と推定された。病歴：長期入院、慢性期統合失調症、発熱、炎症反応、軽度貧血、両下腿浮腫、両上眼瞼浮腫、顔面浮腫、血圧最近上昇傾向、パーキンソニズム、便秘、消化器症状、不眠、不安、心不全(～1/20の情報に基づく。)",
-    "PT_names": [
-      "急性心臓死",
-      "心不全"
-    ],
-    "tests_used_for_determination": "検死",
-    "causal_relationship": "評価不能",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
-    "id": "コミナティRTU筋注(2価:起源株/オミクロン株BA.1)-1"
-  },
-  {
-    "no": 1,
-    "manufacturer": "モデルナ",
-    "vaccine_name": "スパイクバックス筋注(2価:起源株/オミクロン株BA.4-5",
-    "age": 72,
-    "gender": "女",
-    "vaccinated_dates": "2023/1/12",
-    "onset_dates": [
-      "2023/1/14"
-    ],
-    "lot_no": "不明",
-    "vaccinated_times": "4回目",
-    "pre_existing_conditions": "基礎疾患等：多発性皮膚筋炎、椎間板ヘルニア、虫垂癌術後2023/1/12　コロナウィルス感染症ワクチン接種。夕頃から下腹部痛や具合の悪さを訴える。家族(妹)訪問。顔色不良だったが、コロナウィルス感染症ワクチン接種後副反応と考え様子を見ていた。2023/1/13　AM、妹さん再訪し、意識障害および顔色不良著明でHP搬送。敗血症性ショック",
-    "PT_names": [
-      "不明"
-    ],
-    "tests_used_for_determination": "不明",
-    "causal_relationship": "評価不能",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "本剤接種直後に急速に敗血症及びショックをきたしているが、接種前の臨床的状況、検査データ、剖検の有無などが不明で、本剤と死亡との因果関係を評価することはできない。※～1/26から変更なし。",
-    "id": "スパイクバックス筋注(2価:起源株/オミクロン株BA.4-5-1"
-  },
-  {
-    "no": 1,
-    "manufacturer": "モデルナ",
-    "vaccine_name": "スパイクバックス筋注(1価:オミクロン株XBB.1.5)",
-    "age": 98,
-    "gender": "女",
-    "vaccinated_dates": "2023/10/17",
-    "onset_dates": [
-      "2023/10/21"
-    ],
-    "lot_no": "710011A",
-    "vaccinated_times": "",
-    "pre_existing_conditions": "基礎疾患等：高血圧、S状結腸癌術後ストーマ\r\n併用薬：オルメサルタン、アムロジン、トリクロルメチアジド\r\n要介護4\r\n接種翌日より食欲不振となり10/18食事摂取量1割\r\n10/19からは食事は摂取せず水分摂取のみ（1日500mL程）\r\n他は症状認められず\r\n10/21に死亡を確認",
-    "PT_names": [
-      "不明"
-    ],
-    "tests_used_for_determination": "不明",
-    "causal_relationship": "評価不能",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "情報不足※～7/29から変更なし。",
-    "id": "スパイクバックス筋注(1価:オミクロン株XBB.1.5)-1"
   },
   {
     "no": 1,
@@ -288,6 +184,74 @@
   },
   {
     "no": 1,
+    "manufacturer": "モデルナ",
+    "vaccine_name": "スパイクバックス筋注(2価:起源株/オミクロン株BA.1)",
+    "age": 90,
+    "gender": "男",
+    "vaccinated_dates": "2022/11/14",
+    "onset_dates": [
+      "2022/11/29"
+    ],
+    "lot_no": "200040A",
+    "vaccinated_times": "3回目",
+    "pre_existing_conditions": "2022/11/14　3回目のワクチン接種。11/16　38.2度の発熱有り。カロナール内服。11/17再度発熱有り。来院。来院時血圧が63/42mmHgであり補液開始するも血圧上昇せず、血液検査WBC12300↑、CRP15.14↑AST133、ALT40、LDH1048、BUN40.5、Cre2.65、CK721、トロポニンT(+)、BNP1876.1 であり心電図でST-T異常(1，V1、V2,V4,V5,V6)が見られた。急性心不全により死亡に至ったケースだが、その原因として心筋炎あるいは急性心筋梗塞が不明であるものの可能性は否定できないと思われる。",
+    "PT_names": [
+      "急性心不全"
+    ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "年齢を考慮すると、COVIDワクチン後の心筋炎よりは、動脈硬化性の心筋梗塞が鑑別の上位に来る。どちらにしても情報が不十分である。※～1/26から変更なし。",
+    "id": "スパイクバックス筋注(2価:起源株/オミクロン株BA.1)-1"
+  },
+  {
+    "no": 1,
+    "manufacturer": "モデルナ",
+    "vaccine_name": "スパイクバックス筋注(2価:起源株/オミクロン株BA.4-5",
+    "age": 72,
+    "gender": "女",
+    "vaccinated_dates": "2023/1/12",
+    "onset_dates": [
+      "2023/1/14"
+    ],
+    "lot_no": "不明",
+    "vaccinated_times": "4回目",
+    "pre_existing_conditions": "基礎疾患等：多発性皮膚筋炎、椎間板ヘルニア、虫垂癌術後2023/1/12　コロナウィルス感染症ワクチン接種。夕頃から下腹部痛や具合の悪さを訴える。家族(妹)訪問。顔色不良だったが、コロナウィルス感染症ワクチン接種後副反応と考え様子を見ていた。2023/1/13　AM、妹さん再訪し、意識障害および顔色不良著明でHP搬送。敗血症性ショック",
+    "PT_names": [
+      "不明"
+    ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "本剤接種直後に急速に敗血症及びショックをきたしているが、接種前の臨床的状況、検査データ、剖検の有無などが不明で、本剤と死亡との因果関係を評価することはできない。※～1/26から変更なし。",
+    "id": "スパイクバックス筋注(2価:起源株/オミクロン株BA.4-5-1"
+  },
+  {
+    "no": 1,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ筋注5~11歳用",
+    "age": 11,
+    "gender": "女",
+    "vaccinated_dates": "2022/4/28",
+    "onset_dates": [
+      "2022/4/30"
+    ],
+    "lot_no": "FN5988",
+    "vaccinated_times": "2回目",
+    "pre_existing_conditions": "予診票での留意点：重症心身障害児",
+    "PT_names": [
+      "呼吸不全",
+      "心筋炎",
+      "心不全"
+    ],
+    "tests_used_for_determination": "血液検査（CK上\r\n昇あり（1,246\r\nU/L）、CRP上昇\r\nあり（32.8\r\nmg/dL）、LDH上\r\n昇あり（515）、\r\nBUN上昇あり\r\n（24.7））、胸部\r\n単純レントゲン\r\n（死後）（肺炎\r\n像･うっ血像な\r\nし）\r\n（～6/10の情報\r\nに基づく（集計・\r\n専門家評価対\r\n象期間（～\r\n5/15）後に報告\r\nされた内容））",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "採血の結果からは、心筋障害も否定できないが、心電図や心エコー、病理による直接的な証拠はない。炎症反応も心筋由来かも不明である。時系列的にワクチンとの関連は否定できないが、長期にわたる脳性麻痺で人工呼吸器管理の状態であり、もともとの心機能がどうであったかも不明である。ワクチン以外にも、心肺停止となる要因が多く、原因をワクチンと断定することはできない。※～1/26から変更なし。",
+    "id": "コミナティ筋注5~11歳用-1"
+  },
+  {
+    "no": 1,
     "manufacturer": "ファイザー",
     "vaccine_name": "コミナティ筋注6ヵ月~4歳用",
     "age": 1,
@@ -311,46 +275,46 @@
   {
     "no": 1,
     "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)",
-    "age": 77,
+    "vaccine_name": "コミナティ",
+    "age": "不明",
     "gender": "女",
-    "vaccinated_dates": "2023/9/27",
+    "vaccinated_dates": "不明",
     "onset_dates": [
-      "2023/9/28"
-    ],
-    "lot_no": "HG2273",
-    "vaccinated_times": "",
-    "pre_existing_conditions": "基礎疾患等：副腎皮質機能低下症、甲状腺機能低下症、動物アレル\r\nギー、果物アレルギー\r\n併用薬：コートリル、チラージン\r\n接種日の翌日に自宅で死亡されていた。",
-    "PT_names": [
       "不明"
     ],
-    "tests_used_for_determination": "不明",
-    "causal_relationship": "評価不能",
+    "lot_no": "不明",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "ＣＯＶＩＤ－１９",
+    "PT_names": [
+      "死亡"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "ー",
     "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "（コメント無し）※～7/29から変更なし。",
-    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-1"
+    "comments_by_expert": "ワクチンの接種日や死に至るまでの症状経過、それらの時間的な前\n後関係などの情報がほとんど無く、評価が困難である。",
+    "id": "コミナティ-1"
   },
   {
     "no": 1,
-    "manufacturer": "アストラゼネカ",
-    "vaccine_name": "バキスゼブリア筋注",
-    "age": 57,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ\nインフルエンザワクチン",
+    "age": 76,
     "gender": "男",
-    "vaccinated_dates": "2021/11/4",
+    "vaccinated_dates": "2024/10/08",
     "onset_dates": [
-      "2021/11/4/"
+      "2024/10/13"
     ],
-    "lot_no": "D017A",
-    "vaccinated_times": "2回目",
-    "pre_existing_conditions": "大動脈弁狭窄（継続中）、上行大動脈解離（2017/2）、高血圧、脂質異常症、心臓手術歴併用薬：ロスバスタチン、フェブリク、ビソプロロールフマル酸、イミダプリル、イコサペント酸、ミヤBM、吸着炭、ジスチグミン、タムスロシン2回目接種約3時間後、自転車走行中に突然倒れ、目撃者により救急要請、心肺停止状態が確認され、搬送された。（〜1/21の情報に基づく）",
+    "lot_no": "LL6410\n757-A",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "",
     "PT_names": [
-      "不明"
+      "脳出血"
     ],
-    "tests_used_for_determination": "血液検査、CT（全脳虚血疑い、両側下葉浸潤影）、冠動脈造影検査（有意所見なし）",
+    "tests_used_for_determination": "",
     "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "死因は不明であり、患者背景や経過の詳細も得られておらず、ワクチン接種と死亡の因果関係は評価できない。※〜10/7から変更なし。",
-    "id": "バキスゼブリア筋注-1"
+    "comments_by_expert": "新型コロナワクチンとインフルエンザワクチンを接種して、5日後\nの死亡。脳炎、脳症、脳出血で死亡とのことであるが、接種から死\nに至るまでの症状経過に関する情報や複数の薬剤を内服中の基礎疾\n患の病状に関する詳細な情報が無く、評価は困難である。",
+    "id": "コミナティ\nインフルエンザワクチン-1"
   },
   {
     "no": 1,
@@ -359,7 +323,9 @@
     "age": 88,
     "gender": "男",
     "vaccinated_dates": "2024/10/07",
-    "onset_dates": "2024/10/10",
+    "onset_dates": [
+      "2024/10/10"
+    ],
     "lot_no": "VPA015A",
     "vaccinated_times": "",
     "pre_existing_conditions": "慢性胃炎\n慢性腎臓病\n癌手術\n胃癌\n胃食道逆流性疾患\n背部痛\n腎摘除\n腎癌\n高尿酸血症\n高血圧\n２型糖尿病",
@@ -371,6 +337,250 @@
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "新型コロナワクチン接種3日後に急性心筋梗塞を発症し、死亡した\n症例である。高齢であり、急性心筋梗塞の危険因子である慢性腎臓\n病、糖尿病、高血圧があることから、ワクチン接種と関係がなく心\n筋梗塞を発症した可能性も考えられる。",
     "id": "ダイチロナ-1"
+  },
+  {
+    "no": 1,
+    "manufacturer": "ノババックス／武田",
+    "vaccine_name": "ヌバキソビッド\nビケンHA",
+    "age": 72,
+    "gender": "男",
+    "vaccinated_dates": "2024/10/26",
+    "onset_dates": [
+      "2024/10/29"
+    ],
+    "lot_no": "NT001\nHA237C",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "糖尿病\n高脂血症\n高血圧",
+    "PT_names": [
+      "心筋梗塞"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "ー",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "",
+    "id": "ヌバキソビッド\nビケンHA-1"
+  },
+  {
+    "no": 1,
+    "manufacturer": "Meiji Seika ファルマ",
+    "vaccine_name": "コスタイベ",
+    "age": 88,
+    "gender": "男",
+    "vaccinated_dates": "2024/11/12",
+    "onset_dates": [
+      "不明"
+    ],
+    "lot_no": "",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "認知症\n高血圧",
+    "PT_names": [
+      "誤嚥性肺炎"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "ー",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "",
+    "id": "コスタイベ-1"
+  },
+  {
+    "no": 2,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)",
+    "age": "不明",
+    "gender": "女",
+    "vaccinated_dates": "2023/9",
+    "onset_dates": [
+      "2023/9/27"
+    ],
+    "lot_no": "不明",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "患者家族からの報告\r\nワクチンを打った2日後に、患者は仕事をしている最中に倒れて、入院\r\nした。ワクチンを打って3日後に容体が急変して、9月27日に死亡した。",
+    "PT_names": [
+      "不明"
+    ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "不明",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "（コメント無し）※～7/29から変更なし。",
+    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-2"
+  },
+  {
+    "no": 2,
+    "manufacturer": "モデルナ",
+    "vaccine_name": "スパイクバックス筋注(1価:オミクロン株XBB.1.5)",
+    "age": 90,
+    "gender": "男",
+    "vaccinated_dates": "2023/10/23",
+    "onset_dates": [
+      "2023/10/25"
+    ],
+    "lot_no": "710005A",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "基礎疾患等：脳梗塞、前立腺肥大、心房細動、喘息\r\n併用薬：タケルダ、アンブロキソール、ゾルピデム、リスペリドン、マグ\r\nミット\r\n10月24日朝8時、施設職員が苦しがっている患者を発見、救急車で搬\r\n送。医療機関到着時、JCS-Ⅲ-300努力様呼吸、4Lリザーバーマス\r\nク、SpO2 97～98%、尿中肺炎球菌莢膜抗原陽性にて抗生剤治療開\r\n始。胸部XPでは、左肺に肺炎像あり。普段は車椅子自走できているが\r\nワクチン接種当日まで全く様子は変わらなかったと施設職員は語って\r\nいた。入院後補液、酸素、抗生剤投与続けるも10月25日死亡。報告さ\r\nれた死因は肺炎であった。剖検は実施されなかった。\r\n(～4/15の情報に基づく。)",
+    "PT_names": [
+      "呼吸不全"
+    ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "（コメント無し）※～7/29から変更なし。",
+    "id": "スパイクバックス筋注(1価:オミクロン株XBB.1.5)-2"
+  },
+  {
+    "no": 2,
+    "manufacturer": "ノババックス／武田",
+    "vaccine_name": "ヌバキソビッド筋注",
+    "age": 74,
+    "gender": "男",
+    "vaccinated_dates": "2022/9/1",
+    "onset_dates": [
+      "2023/3/22"
+    ],
+    "lot_no": "不明",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "基礎疾患等：関節リウマチ\r\n2022/09/01 本剤2回目接種。\r\n2022/12/03　倦怠感を認め、近医\r\n受診。リウマチが原因の間質性肺\r\n炎と診断され、リウマチ肺の急性増\r\n悪を認めた。\r\n日付不明　他病院に入院。\r\n日付不明　入院中に病室でコロナウ\r\nイルスに感染。当院を受診せずに\r\n経過しているため、具体的な処置・\r\n検査は詳細不明。\r\n2023/03/22　死亡。",
+    "PT_names": [
+      "リウマチ肺",
+      "COVID-19"
+    ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "不明",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "9月のワクチン接種，12月の間質性肺炎の増悪入院，その入院でCOVID罹患の症例．ワクチン接種から３ヶ月経過していること，その間の間質性肺炎の病勢情報が不明であり，間質性肺炎増悪との因果関係は情報不足で判定できない．※～7/29から変更なし。",
+    "id": "ヌバキソビッド筋注-2"
+  },
+  {
+    "no": 2,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.1)",
+    "age": 58,
+    "gender": "男",
+    "vaccinated_dates": "2022/10/20",
+    "onset_dates": [
+      "2022/10/22"
+    ],
+    "lot_no": "GD9571",
+    "vaccinated_times": "4回目",
+    "pre_existing_conditions": "基礎疾患等：統合失調症(エビリファイ持続性水懸筋注用300mgを定期的に受けていた。)、不眠、高血圧併用薬：ジルチアゼム塩酸塩R、スピロノラクトン、テルミサルタン、アテノロール、ベルソムラR2.6月より高血圧症で治療中。10/13来院時142/80mmHg。10/20接種当日異常なし。接種後の観察も異常なし。10/21夕方、兄が帰宅すると倒れており救急搬送。BP200、熱発があり、頭部CT検査で脳幹部出血。22日9：41死亡。",
+    "PT_names": [
+      "脳幹部出血"
+    ],
+    "tests_used_for_determination": "頭部CT",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
+    "id": "コミナティRTU筋注(2価:起源株/オミクロン株BA.1)-2"
+  },
+  {
+    "no": 2,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
+    "age": 42,
+    "gender": "女",
+    "vaccinated_dates": "2022/11/5",
+    "onset_dates": [
+      "2022/11/5"
+    ],
+    "lot_no": "不明",
+    "vaccinated_times": "4回目",
+    "pre_existing_conditions": "",
+    "PT_names": [
+      "不明"
+    ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "関連あり",
+    "causal_relationship_by_expert": "α",
+    "comments_by_expert": "ワクチン接種直後から本事例は顔面蒼白と呼吸苦を訴え、血痰を呈し、心肺停止となり、蘇生措置を行ったにもかかわらず死亡に至ったことから、何らかの心肺の障害が生じた可能性が推定された。死亡後にCT検査が実施され、高度肺うっ血（急性肺水腫）の存在が指摘されていた。また、本事例はスギ、ヒノキ、黄砂などに対するアレルギー体質を有しており、ワクチン接種によるアナフィラキシーの疑い（確認できた所見は呼吸困難のみ）についても報告されていたが、ブライトン分類に照らし基準に合致するのは呼吸器症状しか認められないことから、典型的なアナフィラキシーと確定することはできず、ワクチンとアナフィラキシーとの因果関係評価については評価できない。一方、患者は高度肥満、睡眠時無呼吸症候群（夜間に持続的気道陽圧療法を実施）、高血圧、2型糖尿病を有していた。これらのことから、ワクチン接種以外の死亡に繋がりうる除外すべき急性疾患として、肺血栓塞栓症の有無について綿密な画像評価が必要と考えられた。その評価結果は以下の通りであった。本事例について行われた死後画像検査は非造影であり、血栓症等の評価に限界はあるものの、胸部の大血管内の血栓や肺梗塞を示唆する所見がない等、典型的な肺血栓塞栓症を示唆する所見は得られておらず、その他の疾患も含め、死因となりうる具体的な異常所見は同定されなかった。死亡に至る原因疾患の特定のために剖検所見が得られることが望ましいが、実施されていなかった。本事例から得られた画像所見等の情報の範囲内においては、ワクチン以外の原因として死因となる具体的な異常所見は同定されなかった。以上を総合的に判断すると、ワクチン接種と死亡との直接的因果関係は否定できないものと考える。※～1/26から変更なし。",
+    "id": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)-2"
+  },
+  {
+    "no": 2,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ筋注",
+    "age": 26,
+    "gender": "女",
+    "vaccinated_dates": "2021/3/19",
+    "onset_dates": [
+      "2021/3/23"
+    ],
+    "lot_no": "EP9605",
+    "vaccinated_times": "1回目",
+    "pre_existing_conditions": "無",
+    "PT_names": [
+      "小脳出血",
+      "くも膜下出血"
+    ],
+    "tests_used_for_determination": "死亡時画像診断\r\n（CT）",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
+    "id": "コミナティ筋注-2"
+  },
+  {
+    "no": 2,
+    "manufacturer": "モデルナ",
+    "vaccine_name": "スパイクバックス筋注",
+    "age": 55,
+    "gender": "男",
+    "vaccinated_dates": "2021/6/26",
+    "onset_dates": [
+      "2021/6/27"
+    ],
+    "lot_no": "3002181",
+    "vaccinated_times": "1回目",
+    "pre_existing_conditions": "高血圧",
+    "PT_names": [
+      "大動脈解離"
+    ],
+    "tests_used_for_determination": "死亡時画像診断",
+    "causal_relationship": "関連なし",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
+    "id": "スパイクバックス筋注-2"
+  },
+  {
+    "no": 2,
+    "manufacturer": "モデルナ",
+    "vaccine_name": "スパイクバックス筋注(2価:起源株/オミクロン株BA.1)",
+    "age": 95,
+    "gender": "女",
+    "vaccinated_dates": "2022/11/27",
+    "onset_dates": [
+      "2022/11/27"
+    ],
+    "lot_no": "200044A",
+    "vaccinated_times": "5回目",
+    "pre_existing_conditions": "基礎疾患：慢性呼吸不全慢性呼吸不全で在宅酸療法中で、11/27に集団接種会場に行き、5回目のコロナワクチンを11:13に接種。15分間の経過観察後11:55に帰宅するが、12:10",
+    "PT_names": [
+      "不明"
+    ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "ワクチン接種57分後に呼吸停止が起きたことは明瞭であり、死亡という転帰も明確です。ただし、その事象が起きた機序、経緯については年齢と基礎疾患が関与する可能性が大きく、ワクチンとの関係を判断することはできません。※～1/26から変更なし。",
+    "id": "スパイクバックス筋注(2価:起源株/オミクロン株BA.1)-2"
+  },
+  {
+    "no": 2,
+    "manufacturer": "モデルナ",
+    "vaccine_name": "スパイクバックス筋注(2価:起源株/オミクロン株BA.4-5",
+    "age": 71,
+    "gender": "男",
+    "vaccinated_dates": "2023/5/29",
+    "onset_dates": [
+      "2023/5/30"
+    ],
+    "lot_no": "400101A",
+    "vaccinated_times": "6回目",
+    "pre_existing_conditions": "5月30日午前6時10分に、職員がベッド上にて心肺停止状態であることを発見。最終生存確認は、介護福祉士が5月29日17時30分頃、特に変わりない様子を確認している。これまで5回の接種歴あるが特に重度な副反応の出現はなく経過しており、透析患者で心筋梗塞の既往もあり、それらに起因した突然死の可能性が考えられる。しかし、接種後24時間以内の死亡であり、ワクチン接種との因果関係は否定できない。",
+    "PT_names": [
+      "不明"
+    ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "重篤な病気が多くある。※～1/26から変更なし。",
+    "id": "スパイクバックス筋注(2価:起源株/オミクロン株BA.4-5-2"
   },
   {
     "no": 2,
@@ -403,119 +613,14 @@
   },
   {
     "no": 2,
-    "manufacturer": "ノババックス／武田",
-    "vaccine_name": "ビケンHA\nヌバキソビッド",
-    "age": 72,
-    "gender": "男",
-    "vaccinated_dates": "2024/10/26",
-    "onset_dates": "2024/10/29",
-    "lot_no": "HA237C\nNT001",
-    "vaccinated_times": "",
-    "pre_existing_conditions": "",
-    "PT_names": [
-      "調査中"
-    ],
-    "tests_used_for_determination": "",
-    "causal_relationship": "調査中",
-    "causal_relationship_by_expert": "調査中",
-    "comments_by_expert": "調査中",
-    "id": "ビケンHA\nヌバキソビッド-2"
-  },
-  {
-    "no": 2,
-    "manufacturer": "モデルナ",
-    "vaccine_name": "スパイクバックス筋注(2価:起源株/オミクロン株BA.1)",
-    "age": 95,
-    "gender": "女",
-    "vaccinated_dates": "2022/11/27",
-    "onset_dates": [
-      "2022/11/27"
-    ],
-    "lot_no": "200044A",
-    "vaccinated_times": "5回目",
-    "pre_existing_conditions": "基礎疾患：慢性呼吸不全慢性呼吸不全で在宅酸療法中で、11/27に集団接種会場に行き、5回目のコロナワクチンを11:13に接種。15分間の経過観察後11:55に帰宅するが、12:10",
-    "PT_names": [
-      "不明"
-    ],
-    "tests_used_for_determination": "不明",
-    "causal_relationship": "評価不能",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "ワクチン接種57分後に呼吸停止が起きたことは明瞭であり、死亡という転帰も明確です。ただし、その事象が起きた機序、経緯については年齢と基礎疾患が関与する可能性が大きく、ワクチンとの関係を判断することはできません。※～1/26から変更なし。",
-    "id": "スパイクバックス筋注(2価:起源株/オミクロン株BA.1)-2"
-  },
-  {
-    "no": 2,
-    "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
-    "age": 42,
-    "gender": "女",
-    "vaccinated_dates": "2022/11/5",
-    "onset_dates": [
-      "2022/11/5"
-    ],
-    "lot_no": "不明",
-    "vaccinated_times": "4回目",
-    "pre_existing_conditions": "",
-    "PT_names": [
-      "不明"
-    ],
-    "tests_used_for_determination": "不明",
-    "causal_relationship": "関連あり",
-    "causal_relationship_by_expert": "α",
-    "comments_by_expert": "ワクチン接種直後から本事例は顔面蒼白と呼吸苦を訴え、血痰を呈し、心肺停止となり、蘇生措置を行ったにもかかわらず死亡に至ったことから、何らかの心肺の障害が生じた可能性が推定された。死亡後にCT検査が実施され、高度肺うっ血（急性肺水腫）の存在が指摘されていた。また、本事例はスギ、ヒノキ、黄砂などに対するアレルギー体質を有しており、ワクチン接種によるアナフィラキシーの疑い（確認できた所見は呼吸困難のみ）についても報告されていたが、ブライトン分類に照らし基準に合致するのは呼吸器症状しか認められないことから、典型的なアナフィラキシーと確定することはできず、ワクチンとアナフィラキシーとの因果関係評価については評価できない。一方、患者は高度肥満、睡眠時無呼吸症候群（夜間に持続的気道陽圧療法を実施）、高血圧、2型糖尿病を有していた。これらのことから、ワクチン接種以外の死亡に繋がりうる除外すべき急性疾患として、肺血栓塞栓症の有無について綿密な画像評価が必要と考えられた。その評価結果は以下の通りであった。本事例について行われた死後画像検査は非造影であり、血栓症等の評価に限界はあるものの、胸部の大血管内の血栓や肺梗塞を示唆する所見がない等、典型的な肺血栓塞栓症を示唆する所見は得られておらず、その他の疾患も含め、死因となりうる具体的な異常所見は同定されなかった。死亡に至る原因疾患の特定のために剖検所見が得られることが望ましいが、実施されていなかった。本事例から得られた画像所見等の情報の範囲内においては、ワクチン以外の原因として死因となる具体的な異常所見は同定されなかった。以上を総合的に判断すると、ワクチン接種と死亡との直接的因果関係は否定できないものと考える。※～1/26から変更なし。",
-    "id": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)-2"
-  },
-  {
-    "no": 2,
-    "manufacturer": "ノババックス／武田",
-    "vaccine_name": "ヌバキソビッド筋注",
-    "age": 74,
-    "gender": "男",
-    "vaccinated_dates": "2022/9/1",
-    "onset_dates": [
-      "2023/3/22"
-    ],
-    "lot_no": "不明",
-    "vaccinated_times": "",
-    "pre_existing_conditions": "基礎疾患等：関節リウマチ\r\n2022/09/01 本剤2回目接種。\r\n2022/12/03　倦怠感を認め、近医\r\n受診。リウマチが原因の間質性肺\r\n炎と診断され、リウマチ肺の急性増\r\n悪を認めた。\r\n日付不明　他病院に入院。\r\n日付不明　入院中に病室でコロナウ\r\nイルスに感染。当院を受診せずに\r\n経過しているため、具体的な処置・\r\n検査は詳細不明。\r\n2023/03/22　死亡。",
-    "PT_names": [
-      "リウマチ肺",
-      "COVID-19"
-    ],
-    "tests_used_for_determination": "不明",
-    "causal_relationship": "不明",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "9月のワクチン接種，12月の間質性肺炎の増悪入院，その入院でCOVID罹患の症例．ワクチン接種から３ヶ月経過していること，その間の間質性肺炎の病勢情報が不明であり，間質性肺炎増悪との因果関係は情報不足で判定できない．※～7/29から変更なし。",
-    "id": "ヌバキソビッド筋注-2"
-  },
-  {
-    "no": 2,
-    "manufacturer": "Meiji Seika ファルマ",
-    "vaccine_name": "コスタイベ",
-    "age": 70,
-    "gender": "男",
-    "vaccinated_dates": "2024/11/15",
-    "onset_dates": "不明",
-    "lot_no": "",
-    "vaccinated_times": "",
-    "pre_existing_conditions": "肝機能異常\n脱水",
-    "PT_names": [
-      "尿路感染"
-    ],
-    "tests_used_for_determination": "",
-    "causal_relationship": "ー",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "",
-    "id": "コスタイベ-2"
-  },
-  {
-    "no": 2,
     "manufacturer": "ファイザー",
     "vaccine_name": "インフルエンザHAワクチン\n「KMB」\nコミナティ",
     "age": 85,
     "gender": "女",
     "vaccinated_dates": "2024/11/07",
-    "onset_dates": "2024/11/11",
+    "onset_dates": [
+      "2024/11/11"
+    ],
     "lot_no": "550C\nLL7260",
     "vaccinated_times": "",
     "pre_existing_conditions": "アルツハイマー型認知症\n不眠症\n低アルブミン血症\n便秘\n双極性障害\n塞栓症\n完全房室ブロック\n心房細動\n慢性心不全\n統合失調症\n胸水\n脂質異常症\n腎嚢胞\n高血圧\n２型糖尿病",
@@ -531,145 +636,14 @@
   },
   {
     "no": 2,
-    "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティ筋注",
-    "age": 26,
-    "gender": "女",
-    "vaccinated_dates": "2021/3/19",
-    "onset_dates": [
-      "2021/3/23"
-    ],
-    "lot_no": "EP9605",
-    "vaccinated_times": "1回目",
-    "pre_existing_conditions": "無",
-    "PT_names": [
-      "小脳出血",
-      "くも膜下出血"
-    ],
-    "tests_used_for_determination": "死亡時画像診断\r\n（CT）",
-    "causal_relationship": "評価不能",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
-    "id": "コミナティ筋注-2"
-  },
-  {
-    "no": 2,
-    "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.1)",
-    "age": 58,
-    "gender": "男",
-    "vaccinated_dates": "2022/10/20",
-    "onset_dates": [
-      "2022/10/22"
-    ],
-    "lot_no": "GD9571",
-    "vaccinated_times": "4回目",
-    "pre_existing_conditions": "基礎疾患等：統合失調症(エビリファイ持続性水懸筋注用300mgを定期的に受けていた。)、不眠、高血圧併用薬：ジルチアゼム塩酸塩R、スピロノラクトン、テルミサルタン、アテノロール、ベルソムラR2.6月より高血圧症で治療中。10/13来院時142/80mmHg。10/20接種当日異常なし。接種後の観察も異常なし。10/21夕方、兄が帰宅すると倒れており救急搬送。BP200、熱発があり、頭部CT検査で脳幹部出血。22日9：41死亡。",
-    "PT_names": [
-      "脳幹部出血"
-    ],
-    "tests_used_for_determination": "頭部CT",
-    "causal_relationship": "評価不能",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
-    "id": "コミナティRTU筋注(2価:起源株/オミクロン株BA.1)-2"
-  },
-  {
-    "no": 2,
-    "manufacturer": "モデルナ",
-    "vaccine_name": "スパイクバックス筋注(2価:起源株/オミクロン株BA.4-5",
-    "age": 71,
-    "gender": "男",
-    "vaccinated_dates": "2023/5/29",
-    "onset_dates": [
-      "2023/5/30"
-    ],
-    "lot_no": "400101A",
-    "vaccinated_times": "6回目",
-    "pre_existing_conditions": "5月30日午前6時10分に、職員がベッド上にて心肺停止状態であることを発見。最終生存確認は、介護福祉士が5月29日17時30分頃、特に変わりない様子を確認している。これまで5回の接種歴あるが特に重度な副反応の出現はなく経過しており、透析患者で心筋梗塞の既往もあり、それらに起因した突然死の可能性が考えられる。しかし、接種後24時間以内の死亡であり、ワクチン接種との因果関係は否定できない。",
-    "PT_names": [
-      "不明"
-    ],
-    "tests_used_for_determination": "不明",
-    "causal_relationship": "評価不能",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "重篤な病気が多くある。※～1/26から変更なし。",
-    "id": "スパイクバックス筋注(2価:起源株/オミクロン株BA.4-5-2"
-  },
-  {
-    "no": 2,
-    "manufacturer": "モデルナ",
-    "vaccine_name": "スパイクバックス筋注(1価:オミクロン株XBB.1.5)",
-    "age": 90,
-    "gender": "男",
-    "vaccinated_dates": "2023/10/23",
-    "onset_dates": [
-      "2023/10/25"
-    ],
-    "lot_no": "710005A",
-    "vaccinated_times": "",
-    "pre_existing_conditions": "基礎疾患等：脳梗塞、前立腺肥大、心房細動、喘息\r\n併用薬：タケルダ、アンブロキソール、ゾルピデム、リスペリドン、マグ\r\nミット\r\n10月24日朝8時、施設職員が苦しがっている患者を発見、救急車で搬\r\n送。医療機関到着時、JCS-Ⅲ-300努力様呼吸、4Lリザーバーマス\r\nク、SpO2 97～98%、尿中肺炎球菌莢膜抗原陽性にて抗生剤治療開\r\n始。胸部XPでは、左肺に肺炎像あり。普段は車椅子自走できているが\r\nワクチン接種当日まで全く様子は変わらなかったと施設職員は語って\r\nいた。入院後補液、酸素、抗生剤投与続けるも10月25日死亡。報告さ\r\nれた死因は肺炎であった。剖検は実施されなかった。\r\n(～4/15の情報に基づく。)",
-    "PT_names": [
-      "呼吸不全"
-    ],
-    "tests_used_for_determination": "不明",
-    "causal_relationship": "評価不能",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "（コメント無し）※～7/29から変更なし。",
-    "id": "スパイクバックス筋注(1価:オミクロン株XBB.1.5)-2"
-  },
-  {
-    "no": 2,
-    "manufacturer": "モデルナ",
-    "vaccine_name": "スパイクバックス筋注",
-    "age": 55,
-    "gender": "男",
-    "vaccinated_dates": "2021/6/26",
-    "onset_dates": [
-      "2021/6/27"
-    ],
-    "lot_no": "3002181",
-    "vaccinated_times": "1回目",
-    "pre_existing_conditions": "高血圧",
-    "PT_names": [
-      "大動脈解離"
-    ],
-    "tests_used_for_determination": "死亡時画像診断",
-    "causal_relationship": "関連なし",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
-    "id": "スパイクバックス筋注-2"
-  },
-  {
-    "no": 2,
-    "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)",
-    "age": "不明",
-    "gender": "女",
-    "vaccinated_dates": "2023/9",
-    "onset_dates": [
-      "2023/9/27"
-    ],
-    "lot_no": "不明",
-    "vaccinated_times": "",
-    "pre_existing_conditions": "患者家族からの報告\r\nワクチンを打った2日後に、患者は仕事をしている最中に倒れて、入院\r\nした。ワクチンを打って3日後に容体が急変して、9月27日に死亡した。",
-    "PT_names": [
-      "不明"
-    ],
-    "tests_used_for_determination": "不明",
-    "causal_relationship": "不明",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "（コメント無し）※～7/29から変更なし。",
-    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-2"
-  },
-  {
-    "no": 2,
     "manufacturer": "第一三共",
     "vaccine_name": "ダイチロナ\nインフルエンザHAワクチン\n*デンカ",
     "age": 79,
     "gender": "男",
     "vaccinated_dates": "2024/10/11",
-    "onset_dates": "2024/10/13",
+    "onset_dates": [
+      "2024/10/13"
+    ],
     "lot_no": "VPA016A\n758A",
     "vaccinated_times": "",
     "pre_existing_conditions": "膀胱癌\n骨粗鬆症\n高コレステロール血症\n高血圧",
@@ -683,79 +657,94 @@
     "id": "ダイチロナ\nインフルエンザHAワクチン\n*デンカ-2"
   },
   {
+    "no": 2,
+    "manufacturer": "ノババックス／武田",
+    "vaccine_name": "ビケンHA\nヌバキソビッド",
+    "age": 72,
+    "gender": "男",
+    "vaccinated_dates": "2024/10/26",
+    "onset_dates": [
+      "2024/10/29"
+    ],
+    "lot_no": "HA237C\nNT001",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "",
+    "PT_names": [
+      "調査中"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "調査中",
+    "causal_relationship_by_expert": "調査中",
+    "comments_by_expert": "調査中",
+    "id": "ビケンHA\nヌバキソビッド-2"
+  },
+  {
+    "no": 2,
+    "manufacturer": "Meiji Seika ファルマ",
+    "vaccine_name": "コスタイベ",
+    "age": 70,
+    "gender": "男",
+    "vaccinated_dates": "2024/11/15",
+    "onset_dates": [
+      "不明"
+    ],
+    "lot_no": "",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "肝機能異常\n脱水",
+    "PT_names": [
+      "尿路感染"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "ー",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "",
+    "id": "コスタイベ-2"
+  },
+  {
     "no": 3,
     "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティ筋注5~11歳用",
-    "age": 11,
+    "vaccine_name": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)",
+    "age": 74,
     "gender": "男",
-    "vaccinated_dates": "2022/12/13",
+    "vaccinated_dates": "2023/10/2",
     "onset_dates": [
-      "2022/12/13"
+      "2023/10/3"
     ],
-    "lot_no": "FW5101",
-    "vaccinated_times": "3回目",
-    "pre_existing_conditions": "基礎疾患：アレルギー性鼻炎",
+    "lot_no": "HG2273",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "基礎疾患等：高血圧症、高尿酸血症\r\n嘔気を訴えたのちに吐血し、JCSⅢ桁の意識障害を呈した。医療機関\r\nに搬送され、多発する脳出血および硬膜下血腫を認めた。同日入院と\r\nなるも3:09に死亡した。\r\n血液検査では、血小板数17,000と低値、単球25％と増加していた。体\r\n幹部にも多発する皮下出血斑を認めた。\r\n【報告医師のコメント】\r\n白血病など凝固障害をきたす疾患があった可能性はあるが、これまで\r\n指摘されておらず、予防接種との関連を否定しきれない。\r\n（～4/15の情報に基づく。）",
     "PT_names": [
-      "心肺停止",
-      "無脈性電気活動",
-      "心停止",
-      "肺水腫",
-      "肺うっ血"
+      "吐血",
+      "硬膜下血腫"
     ],
-    "tests_used_for_determination": "死亡時画像診\r\n断、解剖",
+    "tests_used_for_determination": "不明\r\nCT\r\n（～4/15の情報に\r\n基づく。）",
     "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "病理組織学的検索の結果、溺水、急死に矛盾せず、アナフィラキシー、てんかん、心筋炎などは否定的で、内因性疾患による死因を推定できる所見は得られませんでした。一方で、ワクチン接種との関連を直接示唆する所見も認めず、接種との因果関係は不明です。※～1/26から変更なし。",
-    "id": "コミナティ筋注5~11歳用-3"
+    "comments_by_expert": "（コメント無し）※～7/29から変更なし。",
+    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-3"
   },
   {
     "no": 3,
     "manufacturer": "モデルナ",
-    "vaccine_name": "スパイクバックス筋注(2価:起源株/オミクロン株BA.1)",
-    "age": 51,
+    "vaccine_name": "スパイクバックス筋注(1価:オミクロン株XBB.1.5)",
+    "age": 90,
     "gender": "男",
-    "vaccinated_dates": "2022/11/19",
+    "vaccinated_dates": "2023/10/16",
     "onset_dates": [
-      "2022/11/20"
+      "2023/10/16"
     ],
-    "lot_no": "200074A",
-    "vaccinated_times": "4回目",
-    "pre_existing_conditions": "2022年11月19日午前中に本剤を4回目接種した。接種後特に体調不良の訴えなく帰宅した。その日の夜まで妻が連絡を取っていて変わりなかった。2022年11月20日朝、妻が本人と連絡がとれず警察に通報した。夜、警察が本人が死亡しているのを確認した。死亡時刻は2022年11月20日朝頃。",
+    "lot_no": "710007A",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "基礎疾患等：弁膜性心疾患、不整脈、透析、慢性腎臓病、大動脈手術\r\n2023年10月16日　問診、診察上、特記事項はなかった。ワクチン接種\r\n可と判断され、血液透析を受けた。COVID-19予防のため、スパイク\r\nバックス筋注（１価：オミクロン株XBB1.5）の７回目（投与経路：筋肉内、\r\n投与量0.5mL、ロット番号：710007A)を接種した。\r\n接種後30分の観察で異常はなかった。A病院が送迎し、13時45分に自\r\n宅に戻った。ソファで休んでいると容態が急変した（接種後約75分後、\r\n70分までは容態安定）。家族にしんどさを訴えたあと、少しして意識消\r\n失した。アナフィラキシー反応（アナフィラキシーの関与は否定しきれな\r\nい）、心肺停止、コーニス症候群（コーニス症候群も否定できない）、急\r\n性冠動脈症候群が発現した。14時頃家人よりA病院へ意識がないと電\r\n話した。A病院ではすぐに救急車で来院するようにとの連絡も、B病院\r\nに搬送された。救急隊到着時（時間不明）心肺停止した。B病院に14時\r\n25分到着時PEA(無脈性電気活動）となった。患者は蘇生を受け、アド\r\nレナリン１A静注で14時31分に自己心肺再開した。検査を施行し、家人\r\nは延命処置望まないとの希望で蘇生を中止した。15時01分患者は死\r\n亡した。15時06分死亡と確認された。その他の症状/事象は認められ\r\nなかった。報告された死因は遅発性アナフィラキシーの疑いであった。\r\nB病院医師は院外CPA（心肺機能停止）のため検視を依頼した。剖検\r\nは実施されなかった。\r\nB病院よりいただいた情報では、皮疹認めず。頭部CT・胸部CTで意識\r\n消失の原因となる病変認めず。心電図（心肺蘇生後）は徐脈・wide\r\nQRS、p波消失。血液検査で高感度トロポニンT　0.493ng/ｍL（基準値\r\nの約19倍）、CPK-MB/CPK比 18.2％と上昇していた。\r\n【担当医等の意見】\r\nワクチン接種が誘因（コーニス症候群）か、偶然重なったのかはわから\r\nない。アナフィラキシーガイドライン2022診断基準と今回のデータで30\r\n分以上の割合が14.9％を踏まえれば、アナフィラキシーの関与は否定\r\nしきれないように思える。剖検されていないので、それ以上の判断は\r\n困難かと考える。B病院医師より、ワクチン接種との因果関係は不明で\r\nあった。\r\nブライトン分類の皮膚所見認めず。循環器症状は意識レベル低下認\r\nめるも基準認めず。呼吸器症状は咳認めるが、基準を満たすとは言い\r\n切れず（家人の確認のみで医療者評価できず）消化器症状の情報は\r\n得られなかった。\r\nアナフィラキシーガイドライン2022の診断基準では、アナフィラキシー\r\nを起こしうる薬品使用後で皮膚症状認めないときは、呼吸器所見・循\r\n環器所見あれば、ためらわずアドレナリン筋注に進むことを推奨されて\r\nおり、この基準はみたと考える。なお、血液検査の判断は慎重に行う\r\nべきとの助言を外部委員よりいただいた。\r\n（～10/25の情報に基づく）",
     "PT_names": [
-      "心筋梗塞"
-    ],
-    "tests_used_for_determination": "不明",
-    "causal_relationship": "不明",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "死亡後に発見されており、心筋梗塞の診断根拠も記載なく、基礎疾患なしの根拠となる情報もなく、全体的に詳細不明です。※～1/26から変更なし。",
-    "id": "スパイクバックス筋注(2価:起源株/オミクロン株BA.1)-3"
-  },
-  {
-    "no": 3,
-    "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
-    "age": 72,
-    "gender": "男",
-    "vaccinated_dates": "2022/11/13",
-    "onset_dates": [
-      "2022/11/13"
-    ],
-    "lot_no": "GJ2675",
-    "vaccinated_times": "5回目",
-    "pre_existing_conditions": "除細動2回目。心臓マッサージ、バックバルブマスクで搬送開始。15:17頃病院着。心肺停止状態。瞳孔径両側7mm、対光反射なし。15:22モニター上心静止。アドレナリン、アミオダロン投与、除細動等を行うも、16:05PEA、、16：41死亡確認。搬送先の報告者からは、AI施行。頭蓋内病変認めず。胸部大動脈の解離認めず。冠動脈の石灰化あり。心停止後の難治性不整脈とAIによる冠動脈石灰化より、死因としてACSを疑う。と報告されている。解剖医療機関からは、左室後壁に比較的広範囲の陳旧性心筋梗塞：壁の菲薄化を伴う。左冠状動脈回旋枝が補足、75%程度狭窄。明らかな血栓認めず。心肥大",
-    "PT_names": [
-      "くも膜下出血",
-      "大動脈解離",
-      "心タンポナーデ",
-      "心筋梗塞",
-      "肺塞栓症",
+      "コーニス症候群",
       "急性冠動脈症候群"
     ],
-    "tests_used_for_determination": "死亡時画像診\r\n断、剖検",
-    "causal_relationship": "評価不能",
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "不明\r\n関連あり\r\n（～10/25の情報\r\nに基づく）",
     "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "情報不足のため因果関係は評価できません。※～1/26から変更なし。",
-    "id": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)-3"
+    "comments_by_expert": "アナフィラキシーなのか急性冠動脈症候群なのかも不明な症例と思います。トロポニン自体は心停止、蘇生処置を受けた症例での値は評価困難ではないかと思います。",
+    "id": "スパイクバックス筋注(1価:オミクロン株XBB.1.5)-3"
   },
   {
     "no": 3,
@@ -786,48 +775,6 @@
   {
     "no": 3,
     "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティ",
-    "age": 75,
-    "gender": "女",
-    "vaccinated_dates": "",
-    "onset_dates": "不明",
-    "lot_no": "",
-    "vaccinated_times": "",
-    "pre_existing_conditions": "",
-    "PT_names": [
-      "くも膜下出血"
-    ],
-    "tests_used_for_determination": "",
-    "causal_relationship": "ー",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "ワクチン接種日、患者の症状経過や死亡日などの情報が無く、評価\nは困難である。",
-    "id": "コミナティ-3"
-  },
-  {
-    "no": 3,
-    "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティ筋注",
-    "age": 72,
-    "gender": "女",
-    "vaccinated_dates": "2021/3/24",
-    "onset_dates": [
-      "2021/3/29"
-    ],
-    "lot_no": "EP9605",
-    "vaccinated_times": "1回目",
-    "pre_existing_conditions": "肝臓病",
-    "PT_names": [
-      "脳出血"
-    ],
-    "tests_used_for_determination": "CT",
-    "causal_relationship": "関連なし",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "ワクチン接種3日後に脳出血をきたしていますが、ワクチン接種と脳出血との因果関係は否定も肯定もできないと思います。※～1/26から変更なし。",
-    "id": "コミナティ筋注-3"
-  },
-  {
-    "no": 3,
-    "manufacturer": "ファイザー",
     "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.1)",
     "age": 66,
     "gender": "女",
@@ -853,48 +800,52 @@
   },
   {
     "no": 3,
-    "manufacturer": "モデルナ",
-    "vaccine_name": "スパイクバックス筋注(2価:起源株/オミクロン株BA.4-5",
-    "age": 65,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
+    "age": 72,
     "gender": "男",
-    "vaccinated_dates": "2023/6/12",
+    "vaccinated_dates": "2022/11/13",
     "onset_dates": [
-      "2023/6/13"
+      "2022/11/13"
     ],
-    "lot_no": "400085A",
-    "vaccinated_times": "6回目",
-    "pre_existing_conditions": "6/13日中は普段と変わらなかった。夕食も普通に介助で全量摂取していた。18時前に食堂から部屋に戻した、熱はなかった。痰もなかった。19:10　体熱感。痰がらみがすごかった、苦しそうだった、口から泡が流れ出ていた。19:48　呼吸停止状態を発見。接種翌日に急激に発症し、1時間以内に泡を吹いて死亡した。施設職員や施設看護師にも確認したが、落ち着いて過ごされている方で急変するような状態ではなかったとのこと。状況的にワクチン接種が原因としか考えられない。",
+    "lot_no": "GJ2675",
+    "vaccinated_times": "5回目",
+    "pre_existing_conditions": "除細動2回目。心臓マッサージ、バックバルブマスクで搬送開始。15:17頃病院着。心肺停止状態。瞳孔径両側7mm、対光反射なし。15:22モニター上心静止。アドレナリン、アミオダロン投与、除細動等を行うも、16:05PEA、、16：41死亡確認。搬送先の報告者からは、AI施行。頭蓋内病変認めず。胸部大動脈の解離認めず。冠動脈の石灰化あり。心停止後の難治性不整脈とAIによる冠動脈石灰化より、死因としてACSを疑う。と報告されている。解剖医療機関からは、左室後壁に比較的広範囲の陳旧性心筋梗塞：壁の菲薄化を伴う。左冠状動脈回旋枝が補足、75%程度狭窄。明らかな血栓認めず。心肥大",
     "PT_names": [
-      "不明"
+      "くも膜下出血",
+      "大動脈解離",
+      "心タンポナーデ",
+      "心筋梗塞",
+      "肺塞栓症",
+      "急性冠動脈症候群"
     ],
-    "tests_used_for_determination": "不明",
-    "causal_relationship": "関連あり",
+    "tests_used_for_determination": "死亡時画像診\r\n断、剖検",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "接種翌日の突然の発症であり、関連性の評価が重要と考えられる。しかし、発症した疾患を診断・特定する情報に欠如しており、因果関係の評価は困難である。※～1/26から変更なし。",
-    "id": "スパイクバックス筋注(2価:起源株/オミクロン株BA.4-5-3"
+    "comments_by_expert": "情報不足のため因果関係は評価できません。※～1/26から変更なし。",
+    "id": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)-3"
   },
   {
     "no": 3,
-    "manufacturer": "モデルナ",
-    "vaccine_name": "スパイクバックス筋注(1価:オミクロン株XBB.1.5)",
-    "age": 90,
-    "gender": "男",
-    "vaccinated_dates": "2023/10/16",
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ筋注",
+    "age": 72,
+    "gender": "女",
+    "vaccinated_dates": "2021/3/24",
     "onset_dates": [
-      "2023/10/16"
+      "2021/3/29"
     ],
-    "lot_no": "710007A",
-    "vaccinated_times": "",
-    "pre_existing_conditions": "基礎疾患等：弁膜性心疾患、不整脈、透析、慢性腎臓病、大動脈手術\r\n2023年10月16日　問診、診察上、特記事項はなかった。ワクチン接種\r\n可と判断され、血液透析を受けた。COVID-19予防のため、スパイク\r\nバックス筋注（１価：オミクロン株XBB1.5）の７回目（投与経路：筋肉内、\r\n投与量0.5mL、ロット番号：710007A)を接種した。\r\n接種後30分の観察で異常はなかった。A病院が送迎し、13時45分に自\r\n宅に戻った。ソファで休んでいると容態が急変した（接種後約75分後、\r\n70分までは容態安定）。家族にしんどさを訴えたあと、少しして意識消\r\n失した。アナフィラキシー反応（アナフィラキシーの関与は否定しきれな\r\nい）、心肺停止、コーニス症候群（コーニス症候群も否定できない）、急\r\n性冠動脈症候群が発現した。14時頃家人よりA病院へ意識がないと電\r\n話した。A病院ではすぐに救急車で来院するようにとの連絡も、B病院\r\nに搬送された。救急隊到着時（時間不明）心肺停止した。B病院に14時\r\n25分到着時PEA(無脈性電気活動）となった。患者は蘇生を受け、アド\r\nレナリン１A静注で14時31分に自己心肺再開した。検査を施行し、家人\r\nは延命処置望まないとの希望で蘇生を中止した。15時01分患者は死\r\n亡した。15時06分死亡と確認された。その他の症状/事象は認められ\r\nなかった。報告された死因は遅発性アナフィラキシーの疑いであった。\r\nB病院医師は院外CPA（心肺機能停止）のため検視を依頼した。剖検\r\nは実施されなかった。\r\nB病院よりいただいた情報では、皮疹認めず。頭部CT・胸部CTで意識\r\n消失の原因となる病変認めず。心電図（心肺蘇生後）は徐脈・wide\r\nQRS、p波消失。血液検査で高感度トロポニンT　0.493ng/ｍL（基準値\r\nの約19倍）、CPK-MB/CPK比 18.2％と上昇していた。\r\n【担当医等の意見】\r\nワクチン接種が誘因（コーニス症候群）か、偶然重なったのかはわから\r\nない。アナフィラキシーガイドライン2022診断基準と今回のデータで30\r\n分以上の割合が14.9％を踏まえれば、アナフィラキシーの関与は否定\r\nしきれないように思える。剖検されていないので、それ以上の判断は\r\n困難かと考える。B病院医師より、ワクチン接種との因果関係は不明で\r\nあった。\r\nブライトン分類の皮膚所見認めず。循環器症状は意識レベル低下認\r\nめるも基準認めず。呼吸器症状は咳認めるが、基準を満たすとは言い\r\n切れず（家人の確認のみで医療者評価できず）消化器症状の情報は\r\n得られなかった。\r\nアナフィラキシーガイドライン2022の診断基準では、アナフィラキシー\r\nを起こしうる薬品使用後で皮膚症状認めないときは、呼吸器所見・循\r\n環器所見あれば、ためらわずアドレナリン筋注に進むことを推奨されて\r\nおり、この基準はみたと考える。なお、血液検査の判断は慎重に行う\r\nべきとの助言を外部委員よりいただいた。\r\n（～10/25の情報に基づく）",
+    "lot_no": "EP9605",
+    "vaccinated_times": "1回目",
+    "pre_existing_conditions": "肝臓病",
     "PT_names": [
-      "コーニス症候群",
-      "急性冠動脈症候群"
+      "脳出血"
     ],
-    "tests_used_for_determination": "不明",
-    "causal_relationship": "不明\r\n関連あり\r\n（～10/25の情報\r\nに基づく）",
+    "tests_used_for_determination": "CT",
+    "causal_relationship": "関連なし",
     "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "アナフィラキシーなのか急性冠動脈症候群なのかも不明な症例と思います。トロポニン自体は心停止、蘇生処置を受けた症例での値は評価困難ではないかと思います。",
-    "id": "スパイクバックス筋注(1価:オミクロン株XBB.1.5)-3"
+    "comments_by_expert": "ワクチン接種3日後に脳出血をきたしていますが、ワクチン接種と脳出血との因果関係は否定も肯定もできないと思います。※～1/26から変更なし。",
+    "id": "コミナティ筋注-3"
   },
   {
     "no": 3,
@@ -921,26 +872,95 @@
   },
   {
     "no": 3,
-    "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)",
-    "age": 74,
+    "manufacturer": "モデルナ",
+    "vaccine_name": "スパイクバックス筋注(2価:起源株/オミクロン株BA.1)",
+    "age": 51,
     "gender": "男",
-    "vaccinated_dates": "2023/10/2",
+    "vaccinated_dates": "2022/11/19",
     "onset_dates": [
-      "2023/10/3"
+      "2022/11/20"
     ],
-    "lot_no": "HG2273",
-    "vaccinated_times": "",
-    "pre_existing_conditions": "基礎疾患等：高血圧症、高尿酸血症\r\n嘔気を訴えたのちに吐血し、JCSⅢ桁の意識障害を呈した。医療機関\r\nに搬送され、多発する脳出血および硬膜下血腫を認めた。同日入院と\r\nなるも3:09に死亡した。\r\n血液検査では、血小板数17,000と低値、単球25％と増加していた。体\r\n幹部にも多発する皮下出血斑を認めた。\r\n【報告医師のコメント】\r\n白血病など凝固障害をきたす疾患があった可能性はあるが、これまで\r\n指摘されておらず、予防接種との関連を否定しきれない。\r\n（～4/15の情報に基づく。）",
+    "lot_no": "200074A",
+    "vaccinated_times": "4回目",
+    "pre_existing_conditions": "2022年11月19日午前中に本剤を4回目接種した。接種後特に体調不良の訴えなく帰宅した。その日の夜まで妻が連絡を取っていて変わりなかった。2022年11月20日朝、妻が本人と連絡がとれず警察に通報した。夜、警察が本人が死亡しているのを確認した。死亡時刻は2022年11月20日朝頃。",
     "PT_names": [
-      "吐血",
-      "硬膜下血腫"
+      "心筋梗塞"
     ],
-    "tests_used_for_determination": "不明\r\nCT\r\n（～4/15の情報に\r\n基づく。）",
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "不明",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "死亡後に発見されており、心筋梗塞の診断根拠も記載なく、基礎疾患なしの根拠となる情報もなく、全体的に詳細不明です。※～1/26から変更なし。",
+    "id": "スパイクバックス筋注(2価:起源株/オミクロン株BA.1)-3"
+  },
+  {
+    "no": 3,
+    "manufacturer": "モデルナ",
+    "vaccine_name": "スパイクバックス筋注(2価:起源株/オミクロン株BA.4-5",
+    "age": 65,
+    "gender": "男",
+    "vaccinated_dates": "2023/6/12",
+    "onset_dates": [
+      "2023/6/13"
+    ],
+    "lot_no": "400085A",
+    "vaccinated_times": "6回目",
+    "pre_existing_conditions": "6/13日中は普段と変わらなかった。夕食も普通に介助で全量摂取していた。18時前に食堂から部屋に戻した、熱はなかった。痰もなかった。19:10　体熱感。痰がらみがすごかった、苦しそうだった、口から泡が流れ出ていた。19:48　呼吸停止状態を発見。接種翌日に急激に発症し、1時間以内に泡を吹いて死亡した。施設職員や施設看護師にも確認したが、落ち着いて過ごされている方で急変するような状態ではなかったとのこと。状況的にワクチン接種が原因としか考えられない。",
+    "PT_names": [
+      "不明"
+    ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "関連あり",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "接種翌日の突然の発症であり、関連性の評価が重要と考えられる。しかし、発症した疾患を診断・特定する情報に欠如しており、因果関係の評価は困難である。※～1/26から変更なし。",
+    "id": "スパイクバックス筋注(2価:起源株/オミクロン株BA.4-5-3"
+  },
+  {
+    "no": 3,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ筋注5~11歳用",
+    "age": 11,
+    "gender": "男",
+    "vaccinated_dates": "2022/12/13",
+    "onset_dates": [
+      "2022/12/13"
+    ],
+    "lot_no": "FW5101",
+    "vaccinated_times": "3回目",
+    "pre_existing_conditions": "基礎疾患：アレルギー性鼻炎",
+    "PT_names": [
+      "心肺停止",
+      "無脈性電気活動",
+      "心停止",
+      "肺水腫",
+      "肺うっ血"
+    ],
+    "tests_used_for_determination": "死亡時画像診\r\n断、解剖",
     "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "（コメント無し）※～7/29から変更なし。",
-    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-3"
+    "comments_by_expert": "病理組織学的検索の結果、溺水、急死に矛盾せず、アナフィラキシー、てんかん、心筋炎などは否定的で、内因性疾患による死因を推定できる所見は得られませんでした。一方で、ワクチン接種との関連を直接示唆する所見も認めず、接種との因果関係は不明です。※～1/26から変更なし。",
+    "id": "コミナティ筋注5~11歳用-3"
+  },
+  {
+    "no": 3,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ",
+    "age": 75,
+    "gender": "女",
+    "vaccinated_dates": "",
+    "onset_dates": [
+      "不明"
+    ],
+    "lot_no": "",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "",
+    "PT_names": [
+      "くも膜下出血"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "ー",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "ワクチン接種日、患者の症状経過や死亡日などの情報が無く、評価\nは困難である。",
+    "id": "コミナティ-3"
   },
   {
     "no": 3,
@@ -949,7 +969,9 @@
     "age": 91,
     "gender": "男",
     "vaccinated_dates": "",
-    "onset_dates": "不明",
+    "onset_dates": [
+      "不明"
+    ],
     "lot_no": "",
     "vaccinated_times": "",
     "pre_existing_conditions": "心房細動\n糖尿病",
@@ -965,26 +987,47 @@
   },
   {
     "no": 4,
-    "manufacturer": "モデルナ",
-    "vaccine_name": "スパイクバックス筋注(2価:起源株/オミクロン株BA.1)",
-    "age": 87,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)",
+    "age": 80,
     "gender": "男",
-    "vaccinated_dates": "2022/11/25",
+    "vaccinated_dates": "2023/9/25",
     "onset_dates": [
-      "2022/12/16"
+      "2023/9/27"
     ],
-    "lot_no": "不明",
-    "vaccinated_times": "5回目",
-    "pre_existing_conditions": "2022/11/25 本剤を5回目接種した。2022/11/27 心窩部痛と食欲不振となった。2022/11/30かかりつけ医へ受診し血液検査実施2022/12/2 血液検査で肝機能の悪化と筋酵素高値となり心筋炎疑いで入院となった。2022/12/8 心筋炎は否定されるも二次性血球貪食症候群の可能性とされた。2022/12/9 抗原検査にてCOVID-19陽性となった2022/12/15 転倒し頭部CTより悪性リンパ腫に続発二次性血球貪食症候群の可能性が示された。2022/12/16死亡。剖検は実施されなかった。",
+    "lot_no": "HG2251",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "基礎疾患等：高血圧、脳梗塞等、慢性硬膜下血腫\r\n併用薬：抗凝固剤\r\n9月25日14時頃のワクチン7回目接種。独居。9月26日娘と電話で会話\r\nし変わりなかった。9月27日18時に娘が訪問するとベッドに仰向けで亡\r\nくなっているのを発見し警察へ通報。直腸温39℃室温28℃でクーラー\r\n使用なし。着衣の乱れや室内の状況から事件性はなく、状況から死亡\r\n推定9月27日15時頃。不詳の内因死と判断された。\r\n【報告医師のコメント】\r\nコロナワクチン接種後2日目の死亡症例である。発見時直腸温39℃と\r\n高熱であり、高齢者のワクチン接種後の対応として、脱水予防に努め\r\nることや、数日間の独居者の安否確認をするなど注意喚起が必要で\r\nあると思われる。（～4/15の情報に基づく。）",
     "PT_names": [
-      "播種性血管内凝固",
-      "リンパ腫"
+      "発熱"
+    ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "関連あり",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "（コメント無し）※～7/29から変更なし。",
+    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-4"
+  },
+  {
+    "no": 4,
+    "manufacturer": "モデルナ",
+    "vaccine_name": "スパイクバックス筋注(1価:オミクロン株XBB.1.5)",
+    "age": 91,
+    "gender": "女",
+    "vaccinated_dates": "2023/10/26",
+    "onset_dates": [
+      "2023/10/27"
+    ],
+    "lot_no": "710015A",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "基礎疾患等：高血圧、認知症\r\n併用薬：アムロジピン、カンデサルタン、ニフェジピン\r\n10月26日の夜から体調不良を起こし、救急車要請、救急車到着23時\r\n40分、病院到着同23時50分\r\n令和5年10月27日　午前0時31分　死亡確認（ご家族立ち会い）",
+    "PT_names": [
+      "不明"
     ],
     "tests_used_for_determination": "不明",
     "causal_relationship": "不明",
     "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "本症例の症状詳記では以下についての情報がないか不足しているーワクチン接種後に発現した自覚症状の経緯や原因、血液検査異常のワクチン接種前の値やその後の経過　　　血球貪食症候群、DIC、悪性リンパ腫等の診断根拠、COVID-19感染による症状、死亡時の状況等。従って本症例でワクチン接種後に発現した事象や死亡とワクチン接種との関係を評価することは困難である。※～1/26から変更なし。",
-    "id": "スパイクバックス筋注(2価:起源株/オミクロン株BA.1)-4"
+    "comments_by_expert": "剖検されたかどうか不明。体調不良時や搬送時などのバイタル所見や診察所見が明らかでない。※～7/29から変更なし。",
+    "id": "スパイクバックス筋注(1価:オミクロン株XBB.1.5)-4"
   },
   {
     "no": 4,
@@ -1011,27 +1054,6 @@
   {
     "no": 4,
     "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティ",
-    "age": 89,
-    "gender": "男",
-    "vaccinated_dates": "2024/11/20",
-    "onset_dates": "2024/11/21",
-    "lot_no": "LL7260",
-    "vaccinated_times": "",
-    "pre_existing_conditions": "便秘\n入院\n心不全\n混合型認知症\n狭心症\n糖尿病\n脳内動脈瘤手術\n脳梗塞\n血中コレステロール増加\n頚動脈狭窄\n高コレステロール血症\n高血圧",
-    "PT_names": [
-      "心筋炎",
-      "慢性心不全"
-    ],
-    "tests_used_for_determination": "",
-    "causal_relationship": "評価不能",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "",
-    "id": "コミナティ-4"
-  },
-  {
-    "no": 4,
-    "manufacturer": "ファイザー",
     "vaccine_name": "コミナティ筋注",
     "age": 65,
     "gender": "男",
@@ -1050,50 +1072,6 @@
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
     "id": "コミナティ筋注-4"
-  },
-  {
-    "no": 4,
-    "manufacturer": "モデルナ",
-    "vaccine_name": "スパイクバックス筋注(2価:起源株/オミクロン株BA.4-5",
-    "age": 93,
-    "gender": "女",
-    "vaccinated_dates": "2023/6/26",
-    "onset_dates": [
-      "2023/6/27"
-    ],
-    "lot_no": "400191A",
-    "vaccinated_times": "6回目",
-    "pre_existing_conditions": "基礎疾患等：心臓病併用薬：ワーファリン2013年3月左大腿骨頚部骨折・人工関節置換術に伴う肺動脈血栓塞栓症にて、恒久的IVCフィルター留置術実施。ワーファリンによる抗凝固療法継続中であった。2023/6/6最終受診時、PT-INR 1.96。身体所見も従前と著変",
-    "PT_names": [
-      "不明"
-    ],
-    "tests_used_for_determination": "不明",
-    "causal_relationship": "評価不能",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
-    "id": "スパイクバックス筋注(2価:起源株/オミクロン株BA.4-5-4"
-  },
-  {
-    "no": 4,
-    "manufacturer": "モデルナ",
-    "vaccine_name": "スパイクバックス筋注(1価:オミクロン株XBB.1.5)",
-    "age": 91,
-    "gender": "女",
-    "vaccinated_dates": "2023/10/26",
-    "onset_dates": [
-      "2023/10/27"
-    ],
-    "lot_no": "710015A",
-    "vaccinated_times": "",
-    "pre_existing_conditions": "基礎疾患等：高血圧、認知症\r\n併用薬：アムロジピン、カンデサルタン、ニフェジピン\r\n10月26日の夜から体調不良を起こし、救急車要請、救急車到着23時\r\n40分、病院到着同23時50分\r\n令和5年10月27日　午前0時31分　死亡確認（ご家族立ち会い）",
-    "PT_names": [
-      "不明"
-    ],
-    "tests_used_for_determination": "不明",
-    "causal_relationship": "不明",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "剖検されたかどうか不明。体調不良時や搬送時などのバイタル所見や診察所見が明らかでない。※～7/29から変更なし。",
-    "id": "スパイクバックス筋注(1価:オミクロン株XBB.1.5)-4"
   },
   {
     "no": 4,
@@ -1120,25 +1098,71 @@
   },
   {
     "no": 4,
-    "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)",
-    "age": 80,
+    "manufacturer": "モデルナ",
+    "vaccine_name": "スパイクバックス筋注(2価:起源株/オミクロン株BA.1)",
+    "age": 87,
     "gender": "男",
-    "vaccinated_dates": "2023/9/25",
+    "vaccinated_dates": "2022/11/25",
     "onset_dates": [
-      "2023/9/27"
+      "2022/12/16"
     ],
-    "lot_no": "HG2251",
-    "vaccinated_times": "",
-    "pre_existing_conditions": "基礎疾患等：高血圧、脳梗塞等、慢性硬膜下血腫\r\n併用薬：抗凝固剤\r\n9月25日14時頃のワクチン7回目接種。独居。9月26日娘と電話で会話\r\nし変わりなかった。9月27日18時に娘が訪問するとベッドに仰向けで亡\r\nくなっているのを発見し警察へ通報。直腸温39℃室温28℃でクーラー\r\n使用なし。着衣の乱れや室内の状況から事件性はなく、状況から死亡\r\n推定9月27日15時頃。不詳の内因死と判断された。\r\n【報告医師のコメント】\r\nコロナワクチン接種後2日目の死亡症例である。発見時直腸温39℃と\r\n高熱であり、高齢者のワクチン接種後の対応として、脱水予防に努め\r\nることや、数日間の独居者の安否確認をするなど注意喚起が必要で\r\nあると思われる。（～4/15の情報に基づく。）",
+    "lot_no": "不明",
+    "vaccinated_times": "5回目",
+    "pre_existing_conditions": "2022/11/25 本剤を5回目接種した。2022/11/27 心窩部痛と食欲不振となった。2022/11/30かかりつけ医へ受診し血液検査実施2022/12/2 血液検査で肝機能の悪化と筋酵素高値となり心筋炎疑いで入院となった。2022/12/8 心筋炎は否定されるも二次性血球貪食症候群の可能性とされた。2022/12/9 抗原検査にてCOVID-19陽性となった2022/12/15 転倒し頭部CTより悪性リンパ腫に続発二次性血球貪食症候群の可能性が示された。2022/12/16死亡。剖検は実施されなかった。",
     "PT_names": [
-      "発熱"
+      "播種性血管内凝固",
+      "リンパ腫"
     ],
     "tests_used_for_determination": "不明",
-    "causal_relationship": "関連あり",
+    "causal_relationship": "不明",
     "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "（コメント無し）※～7/29から変更なし。",
-    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-4"
+    "comments_by_expert": "本症例の症状詳記では以下についての情報がないか不足しているーワクチン接種後に発現した自覚症状の経緯や原因、血液検査異常のワクチン接種前の値やその後の経過　　　血球貪食症候群、DIC、悪性リンパ腫等の診断根拠、COVID-19感染による症状、死亡時の状況等。従って本症例でワクチン接種後に発現した事象や死亡とワクチン接種との関係を評価することは困難である。※～1/26から変更なし。",
+    "id": "スパイクバックス筋注(2価:起源株/オミクロン株BA.1)-4"
+  },
+  {
+    "no": 4,
+    "manufacturer": "モデルナ",
+    "vaccine_name": "スパイクバックス筋注(2価:起源株/オミクロン株BA.4-5",
+    "age": 93,
+    "gender": "女",
+    "vaccinated_dates": "2023/6/26",
+    "onset_dates": [
+      "2023/6/27"
+    ],
+    "lot_no": "400191A",
+    "vaccinated_times": "6回目",
+    "pre_existing_conditions": "基礎疾患等：心臓病併用薬：ワーファリン2013年3月左大腿骨頚部骨折・人工関節置換術に伴う肺動脈血栓塞栓症にて、恒久的IVCフィルター留置術実施。ワーファリンによる抗凝固療法継続中であった。2023/6/6最終受診時、PT-INR 1.96。身体所見も従前と著変",
+    "PT_names": [
+      "不明"
+    ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
+    "id": "スパイクバックス筋注(2価:起源株/オミクロン株BA.4-5-4"
+  },
+  {
+    "no": 4,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ",
+    "age": 89,
+    "gender": "男",
+    "vaccinated_dates": "2024/11/20",
+    "onset_dates": [
+      "2024/11/21"
+    ],
+    "lot_no": "LL7260",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "便秘\n入院\n心不全\n混合型認知症\n狭心症\n糖尿病\n脳内動脈瘤手術\n脳梗塞\n血中コレステロール増加\n頚動脈狭窄\n高コレステロール血症\n高血圧",
+    "PT_names": [
+      "心筋炎",
+      "慢性心不全"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "",
+    "id": "コミナティ-4"
   },
   {
     "no": 4,
@@ -1147,7 +1171,9 @@
     "age": 80,
     "gender": "女",
     "vaccinated_dates": "2024/11/07",
-    "onset_dates": "2024/11/21",
+    "onset_dates": [
+      "2024/11/21"
+    ],
     "lot_no": "VPA017A",
     "vaccinated_times": "",
     "pre_existing_conditions": "誤嚥性肺炎\n遺伝性運動感覚ニューロパ\nチー\n非タバコ使用者",
@@ -1159,181 +1185,6 @@
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "新型コロナワクチン接種後、翌日に発熱し、その後誤嚥性肺炎によ\nり死亡した症例である。本症例は基礎疾患としてシャルコーマリー\nトゥース病があり、この疾患は嚥下反射の低下を伴う。本症例にお\nいても嚥下性肺炎の既往歴があり、嚥下反射は低下していたため、\n誤嚥性肺炎を発症した可能性が考えられる。発熱に関しては、誤嚥\n性肺炎による発熱の可能性も考えられるが、ワクチンによる影響も\n否定できず、発熱による嚥下反射低下から誤嚥性肺炎を来した可能\n性があるため、因果関係は否定できないと判断した。",
     "id": "ダイチロナ-4"
-  },
-  {
-    "no": 5,
-    "manufacturer": "モデルナ",
-    "vaccine_name": "スパイクバックス筋注(2価:起源株/オミクロン株BA.1)",
-    "age": 81,
-    "gender": "女",
-    "vaccinated_dates": "2022/11/4",
-    "onset_dates": [
-      "2022/12/18"
-    ],
-    "lot_no": "200053A",
-    "vaccinated_times": "5回目",
-    "pre_existing_conditions": "R4.11.23午後0時30分　突然のめまいで発症。18時に病院来院。MRIにて心原性脳梗塞",
-    "PT_names": [
-      "不明"
-    ],
-    "tests_used_for_determination": "不明",
-    "causal_relationship": "評価不能",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "接種後２０日経過、それまでの臨床詳記ない。※～1/26から変更なし。",
-    "id": "スパイクバックス筋注(2価:起源株/オミクロン株BA.1)-5"
-  },
-  {
-    "no": 5,
-    "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
-    "age": 27,
-    "gender": "男",
-    "vaccinated_dates": "2022/10/28",
-    "onset_dates": [
-      "2022/10/29"
-    ],
-    "lot_no": "GJ1836",
-    "vaccinated_times": "4回目",
-    "pre_existing_conditions": "基礎疾患：8ｑ症候群、難治てんかん、心奇形術後、精神発達遅延で通院中。2018/3/4全身痙攣で入院加療歴有り。2018/11月部分発作が出現したが、以後は小さな発作はあるが発作は消失していた。最終外来受診日2022/8/12。症状は安定しており薬量を変える必要が無いので90日分の処方。接種前の1週間に特記すべきこと無し。10/28　17時に4回目接種。その後夕食摂取後、19時に就寝。10/28　23：50一度覚醒して居間を歩き回り布団に戻ってきたのが最後の生存覚知時間。その後、左上肢の動きを布団越しに感じたが、痙攣しているとは思わなかった。その後就寝。10/29朝6時、反応がなく救急要請。失禁なし。口元の唾液分泌なし。てんかん重積が発生していたことを疑う身体上の変化はなかった。うつぶせ、体温喪失。死後硬直あり。紫斑を認める。救急搬入6：36。心肺停止。死亡推定時刻0時から1時。ワクチン4回目当日の死亡事例。心臓や脳に基礎疾患があるが突然死を予見できる病歴ではない。死体検案では虐待の事実はなく外因死ではなかったと判断された。普段は仰臥位で眠る患者が、心臓への静脈還流を促進させる体位であるうつ伏せになり死亡していたこと、夜間の副交感神経優位となる時間に死亡したことは注目に値する。死亡推定時刻を午前0:00から1:00頃と推定すれば、コロナワクチン注射後わずか7から9時間で急性の心毒性または心血管自律神経毒性を生じた因果関係が明らかとなる。このようなコロナワクチン注射後の突然死事例は既に数多くの報道があり、また、PMDAの症例集積もあることから、注射薬の急性毒性に対しての疑いを払拭できない。注射当日の死亡は全く想定外の薬理効果を示したことになるので、注射薬剤に対して異状死としての警察捜査が必要であると考えざるをえない。",
-    "PT_names": [
-      "不明"
-    ],
-    "tests_used_for_determination": "死亡時画像診断",
-    "causal_relationship": "関連あり",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "Ai CT含めた検案から死因が不明であり、評価ができないと考える。※～1/26から変更なし。",
-    "id": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)-5"
-  },
-  {
-    "no": 5,
-    "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティ",
-    "age": 64,
-    "gender": "男",
-    "vaccinated_dates": "2024/11/11",
-    "onset_dates": "2024/11/11",
-    "lot_no": "LL7260",
-    "vaccinated_times": "",
-    "pre_existing_conditions": "便秘\n肝癌\n肝硬変\n高尿酸血症\n高血圧\n２型糖尿病",
-    "PT_names": [
-      "死亡"
-    ],
-    "tests_used_for_determination": "",
-    "causal_relationship": "ー",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "接種当日の死亡であるが、症状経過などの詳細な情報がなく、評価\nは困難である。",
-    "id": "コミナティ-5"
-  },
-  {
-    "no": 5,
-    "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティ筋注",
-    "age": 62,
-    "gender": "男",
-    "vaccinated_dates": "2021/4/1",
-    "onset_dates": [
-      "2021/4/2"
-    ],
-    "lot_no": "ER2659",
-    "vaccinated_times": "2回目",
-    "pre_existing_conditions": "基礎疾患：糖尿病",
-    "PT_names": [
-      "溺死"
-    ],
-    "tests_used_for_determination": "解剖",
-    "causal_relationship": "評価不能",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "通常の生活を送れていた62歳の男性が意識の消失なく入浴中に溺死することは考えにくく、痙攣や不整脈等の急性の心不全に伴う意識消失があった可能性は否定できません。剖検ではそれを示唆する所見は得られておらず、あくまで推測の域を出ません。得られている情報で因果関係を判定するのは極めて困難と考えます。※～1/26から変更なし。",
-    "id": "コミナティ筋注-5"
-  },
-  {
-    "no": 5,
-    "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.1)",
-    "age": 75,
-    "gender": "男",
-    "vaccinated_dates": "2022/12/22",
-    "onset_dates": [
-      "2022/12/23"
-    ],
-    "lot_no": "不明",
-    "vaccinated_times": "不明",
-    "pre_existing_conditions": "2022/12/22、患者は新型コロナワクチンを接種した。2022/12/23、入浴中の死亡にて死体検案を行った。2023/01/24、故人の御家族より、故人が2022/12/22にCOVID-19ワクチンを接種したと連絡を受けた。",
-    "PT_names": [
-      "急性心不全",
-      "ショック"
-    ],
-    "tests_used_for_determination": "検案",
-    "causal_relationship": "評価不能",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "ヒートショックで説明可能※～1/26から変更なし。",
-    "id": "コミナティRTU筋注(2価:起源株/オミクロン株BA.1)-5"
-  },
-  {
-    "no": 5,
-    "manufacturer": "モデルナ",
-    "vaccine_name": "スパイクバックス筋注(2価:起源株/オミクロン株BA.4-5",
-    "age": 91,
-    "gender": "女",
-    "vaccinated_dates": "2023/7/11",
-    "onset_dates": [
-      "2023/7/12"
-    ],
-    "lot_no": "400160A",
-    "vaccinated_times": "不明",
-    "pre_existing_conditions": "基礎疾患等：左被殻出血、狭心症、洞性徐脈、腹部大動脈瘤、高血圧症、脂質異常症併用薬：バイアスピリン、ロスバスタチン、カンデサルタン、ニコランジル、アムロジピン施設入所中。7/11　13時頃ワクチン接種。その後38℃の発熱あり。21時嘔吐あり。呼びかけに反応なし。7/12　3時頃訪室時肩で呼吸。4時に施設職員が巡回時CPA状態を発見。救急搬送。アドレナリン等蘇生試みるも反応なし。家人来院後永眠。ワクチン接種後より症状変化しており、急死との因果関係否定できないものと考える。",
-    "PT_names": [
-      "不明"
-    ],
-    "tests_used_for_determination": "不明",
-    "causal_relationship": "評価不能",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "死因が不明であり、発熱との関連を含め評価が難しい※～1/26から変更なし。",
-    "id": "スパイクバックス筋注(2価:起源株/オミクロン株BA.4-5-5"
-  },
-  {
-    "no": 5,
-    "manufacturer": "モデルナ",
-    "vaccine_name": "スパイクバックス筋注(1価:オミクロン株XBB.1.5)",
-    "age": 71,
-    "gender": "男",
-    "vaccinated_dates": "2023/11/13",
-    "onset_dates": [
-      "2023/11/13"
-    ],
-    "lot_no": "710003A",
-    "vaccinated_times": "",
-    "pre_existing_conditions": "基礎疾患等：大脳静脈洞血栓症\r\n2023年11月13日\r\n14時頃、COVID-19予防のため、スパイクバックス筋注（1価：オミクロ\r\nン株XBB.1.5）の7回目を接種した（ロット番号：710003A、投与経路：筋\r\n肉内）。自宅に戻ってから急変した。 心肺停止（接種後帰宅1時間で心\r\n窩部痛出現後CPA）、大動脈解離が発現した。\r\n15時26分、緊急搬送された。来た時には心肺停止状態であり、救急処\r\n置を行ったが蘇生されず亡くなった。報告された死因は大動脈解離で\r\nあった。剖検を実施し、剖検による死因は原因不明の 死亡であった。\r\n死後のCTでは洞血栓があるとの見解が得られた。\r\n【担当医等の意見】\r\n本剤が原因である可能性が最も高かったか：いいえ\r\n他に考えられる原因：大動脈解離",
-    "PT_names": [
-      "大動脈解離"
-    ],
-    "tests_used_for_determination": "剖検",
-    "causal_relationship": "評価不能",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "（コメント無し）※～7/29から変更なし。",
-    "id": "スパイクバックス筋注(1価:オミクロン株XBB.1.5)-5"
-  },
-  {
-    "no": 5,
-    "manufacturer": "モデルナ",
-    "vaccine_name": "スパイクバックス筋注",
-    "age": 53,
-    "gender": "男",
-    "vaccinated_dates": "2021/7/8",
-    "onset_dates": [
-      "2021/7/13"
-    ],
-    "lot_no": "3003190",
-    "vaccinated_times": "1回目",
-    "pre_existing_conditions": "予診票では、高血圧の現病歴あり2020/11/12の健康診断の記録では、高血圧",
-    "PT_names": [
-      "くも膜下出血"
-    ],
-    "tests_used_for_determination": "不明",
-    "causal_relationship": "評価不能",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "情報不足、評価不可※～1/26から変更なし。",
-    "id": "スパイクバックス筋注-5"
   },
   {
     "no": 5,
@@ -1362,12 +1213,191 @@
   },
   {
     "no": 5,
+    "manufacturer": "モデルナ",
+    "vaccine_name": "スパイクバックス筋注(1価:オミクロン株XBB.1.5)",
+    "age": 71,
+    "gender": "男",
+    "vaccinated_dates": "2023/11/13",
+    "onset_dates": [
+      "2023/11/13"
+    ],
+    "lot_no": "710003A",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "基礎疾患等：大脳静脈洞血栓症\r\n2023年11月13日\r\n14時頃、COVID-19予防のため、スパイクバックス筋注（1価：オミクロ\r\nン株XBB.1.5）の7回目を接種した（ロット番号：710003A、投与経路：筋\r\n肉内）。自宅に戻ってから急変した。 心肺停止（接種後帰宅1時間で心\r\n窩部痛出現後CPA）、大動脈解離が発現した。\r\n15時26分、緊急搬送された。来た時には心肺停止状態であり、救急処\r\n置を行ったが蘇生されず亡くなった。報告された死因は大動脈解離で\r\nあった。剖検を実施し、剖検による死因は原因不明の 死亡であった。\r\n死後のCTでは洞血栓があるとの見解が得られた。\r\n【担当医等の意見】\r\n本剤が原因である可能性が最も高かったか：いいえ\r\n他に考えられる原因：大動脈解離",
+    "PT_names": [
+      "大動脈解離"
+    ],
+    "tests_used_for_determination": "剖検",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "（コメント無し）※～7/29から変更なし。",
+    "id": "スパイクバックス筋注(1価:オミクロン株XBB.1.5)-5"
+  },
+  {
+    "no": 5,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.1)",
+    "age": 75,
+    "gender": "男",
+    "vaccinated_dates": "2022/12/22",
+    "onset_dates": [
+      "2022/12/23"
+    ],
+    "lot_no": "不明",
+    "vaccinated_times": "不明",
+    "pre_existing_conditions": "2022/12/22、患者は新型コロナワクチンを接種した。2022/12/23、入浴中の死亡にて死体検案を行った。2023/01/24、故人の御家族より、故人が2022/12/22にCOVID-19ワクチンを接種したと連絡を受けた。",
+    "PT_names": [
+      "急性心不全",
+      "ショック"
+    ],
+    "tests_used_for_determination": "検案",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "ヒートショックで説明可能※～1/26から変更なし。",
+    "id": "コミナティRTU筋注(2価:起源株/オミクロン株BA.1)-5"
+  },
+  {
+    "no": 5,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
+    "age": 27,
+    "gender": "男",
+    "vaccinated_dates": "2022/10/28",
+    "onset_dates": [
+      "2022/10/29"
+    ],
+    "lot_no": "GJ1836",
+    "vaccinated_times": "4回目",
+    "pre_existing_conditions": "基礎疾患：8ｑ症候群、難治てんかん、心奇形術後、精神発達遅延で通院中。2018/3/4全身痙攣で入院加療歴有り。2018/11月部分発作が出現したが、以後は小さな発作はあるが発作は消失していた。最終外来受診日2022/8/12。症状は安定しており薬量を変える必要が無いので90日分の処方。接種前の1週間に特記すべきこと無し。10/28　17時に4回目接種。その後夕食摂取後、19時に就寝。10/28　23：50一度覚醒して居間を歩き回り布団に戻ってきたのが最後の生存覚知時間。その後、左上肢の動きを布団越しに感じたが、痙攣しているとは思わなかった。その後就寝。10/29朝6時、反応がなく救急要請。失禁なし。口元の唾液分泌なし。てんかん重積が発生していたことを疑う身体上の変化はなかった。うつぶせ、体温喪失。死後硬直あり。紫斑を認める。救急搬入6：36。心肺停止。死亡推定時刻0時から1時。ワクチン4回目当日の死亡事例。心臓や脳に基礎疾患があるが突然死を予見できる病歴ではない。死体検案では虐待の事実はなく外因死ではなかったと判断された。普段は仰臥位で眠る患者が、心臓への静脈還流を促進させる体位であるうつ伏せになり死亡していたこと、夜間の副交感神経優位となる時間に死亡したことは注目に値する。死亡推定時刻を午前0:00から1:00頃と推定すれば、コロナワクチン注射後わずか7から9時間で急性の心毒性または心血管自律神経毒性を生じた因果関係が明らかとなる。このようなコロナワクチン注射後の突然死事例は既に数多くの報道があり、また、PMDAの症例集積もあることから、注射薬の急性毒性に対しての疑いを払拭できない。注射当日の死亡は全く想定外の薬理効果を示したことになるので、注射薬剤に対して異状死としての警察捜査が必要であると考えざるをえない。",
+    "PT_names": [
+      "不明"
+    ],
+    "tests_used_for_determination": "死亡時画像診断",
+    "causal_relationship": "関連あり",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "Ai CT含めた検案から死因が不明であり、評価ができないと考える。※～1/26から変更なし。",
+    "id": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)-5"
+  },
+  {
+    "no": 5,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ筋注",
+    "age": 62,
+    "gender": "男",
+    "vaccinated_dates": "2021/4/1",
+    "onset_dates": [
+      "2021/4/2"
+    ],
+    "lot_no": "ER2659",
+    "vaccinated_times": "2回目",
+    "pre_existing_conditions": "基礎疾患：糖尿病",
+    "PT_names": [
+      "溺死"
+    ],
+    "tests_used_for_determination": "解剖",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "通常の生活を送れていた62歳の男性が意識の消失なく入浴中に溺死することは考えにくく、痙攣や不整脈等の急性の心不全に伴う意識消失があった可能性は否定できません。剖検ではそれを示唆する所見は得られておらず、あくまで推測の域を出ません。得られている情報で因果関係を判定するのは極めて困難と考えます。※～1/26から変更なし。",
+    "id": "コミナティ筋注-5"
+  },
+  {
+    "no": 5,
+    "manufacturer": "モデルナ",
+    "vaccine_name": "スパイクバックス筋注",
+    "age": 53,
+    "gender": "男",
+    "vaccinated_dates": "2021/7/8",
+    "onset_dates": [
+      "2021/7/13"
+    ],
+    "lot_no": "3003190",
+    "vaccinated_times": "1回目",
+    "pre_existing_conditions": "予診票では、高血圧の現病歴あり2020/11/12の健康診断の記録では、高血圧",
+    "PT_names": [
+      "くも膜下出血"
+    ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "情報不足、評価不可※～1/26から変更なし。",
+    "id": "スパイクバックス筋注-5"
+  },
+  {
+    "no": 5,
+    "manufacturer": "モデルナ",
+    "vaccine_name": "スパイクバックス筋注(2価:起源株/オミクロン株BA.1)",
+    "age": 81,
+    "gender": "女",
+    "vaccinated_dates": "2022/11/4",
+    "onset_dates": [
+      "2022/12/18"
+    ],
+    "lot_no": "200053A",
+    "vaccinated_times": "5回目",
+    "pre_existing_conditions": "R4.11.23午後0時30分　突然のめまいで発症。18時に病院来院。MRIにて心原性脳梗塞",
+    "PT_names": [
+      "不明"
+    ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "接種後２０日経過、それまでの臨床詳記ない。※～1/26から変更なし。",
+    "id": "スパイクバックス筋注(2価:起源株/オミクロン株BA.1)-5"
+  },
+  {
+    "no": 5,
+    "manufacturer": "モデルナ",
+    "vaccine_name": "スパイクバックス筋注(2価:起源株/オミクロン株BA.4-5",
+    "age": 91,
+    "gender": "女",
+    "vaccinated_dates": "2023/7/11",
+    "onset_dates": [
+      "2023/7/12"
+    ],
+    "lot_no": "400160A",
+    "vaccinated_times": "不明",
+    "pre_existing_conditions": "基礎疾患等：左被殻出血、狭心症、洞性徐脈、腹部大動脈瘤、高血圧症、脂質異常症併用薬：バイアスピリン、ロスバスタチン、カンデサルタン、ニコランジル、アムロジピン施設入所中。7/11　13時頃ワクチン接種。その後38℃の発熱あり。21時嘔吐あり。呼びかけに反応なし。7/12　3時頃訪室時肩で呼吸。4時に施設職員が巡回時CPA状態を発見。救急搬送。アドレナリン等蘇生試みるも反応なし。家人来院後永眠。ワクチン接種後より症状変化しており、急死との因果関係否定できないものと考える。",
+    "PT_names": [
+      "不明"
+    ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "死因が不明であり、発熱との関連を含め評価が難しい※～1/26から変更なし。",
+    "id": "スパイクバックス筋注(2価:起源株/オミクロン株BA.4-5-5"
+  },
+  {
+    "no": 5,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ",
+    "age": 64,
+    "gender": "男",
+    "vaccinated_dates": "2024/11/11",
+    "onset_dates": [
+      "2024/11/11"
+    ],
+    "lot_no": "LL7260",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "便秘\n肝癌\n肝硬変\n高尿酸血症\n高血圧\n２型糖尿病",
+    "PT_names": [
+      "死亡"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "ー",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "接種当日の死亡であるが、症状経過などの詳細な情報がなく、評価\nは困難である。",
+    "id": "コミナティ-5"
+  },
+  {
+    "no": 5,
     "manufacturer": "第一三共",
     "vaccine_name": "ダイチロナ",
     "age": 11,
     "gender": "男",
     "vaccinated_dates": "",
-    "onset_dates": "不明",
+    "onset_dates": [
+      "不明"
+    ],
     "lot_no": "",
     "vaccinated_times": "",
     "pre_existing_conditions": "",
@@ -1383,112 +1413,29 @@
   {
     "no": 6,
     "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
-    "age": 80,
+    "vaccine_name": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)",
+    "age": 86,
     "gender": "男",
-    "vaccinated_dates": "2022/11/17",
+    "vaccinated_dates": "2023/10/12",
     "onset_dates": [
-      "2022/11/18"
+      "2023/10/13"
     ],
-    "lot_no": "GJ2675",
-    "vaccinated_times": "5回目",
-    "pre_existing_conditions": "基礎疾患等：慢性心不全",
-    "PT_names": [
-      "心不全"
-    ],
-    "tests_used_for_determination": "不明\r\n死亡時画像診断\r\n(～1/20の情報に\r\n基づく。)",
-    "causal_relationship": "関連なし",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "慢性心不全、腎障害、高血圧症などの基礎疾患を有する80歳男性。5回目のワクチン投与直後副反応なく帰宅、投与約10時間半後に呼吸困難、心不全発症と判断された、11時間後に心肺停止。蘇生処置に反応せず、死亡確認された。ワクチン投与後11時間程度の死亡だが、濃厚な基礎疾患を有しており、基礎疾患増悪とワクチン投与による影響とを判断することは現状の情報では困難。※～1/26から変更なし。",
-    "id": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)-6"
-  },
-  {
-    "no": 6,
-    "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティ",
-    "age": 98,
-    "gender": "女",
-    "vaccinated_dates": "2024/11/14",
-    "onset_dates": "2024/11/16",
-    "lot_no": "LL7260",
+    "lot_no": "HG2346",
     "vaccinated_times": "",
-    "pre_existing_conditions": "睡眠障害\n糖尿\n糖尿病\n高血圧",
+    "pre_existing_conditions": "基礎疾患等：脳出血、喘息／COPDオーバーラップ症候群、高血圧、\r\n脳梗塞、大動脈狭窄、TAVI\r\n併用薬：アレビアチン［フェニトイン］、テオフィリン、テグレトール、マニ\r\nジピン、エソメプラゾール、モンテルカスト、メキシチール、クロピドグレ\r\nル、クエチアピン、アムロジピン、テルミサルタン\r\n接種後翌日、発熱後急激な酸素化低下あり、血圧低下を認めた。アド\r\nレナリン筋注、昇圧、酸素、抗菌薬投与したが改善せず、死亡した。死\r\n亡時画像診断にて誤嚥性肺炎、腸閉塞を認めた。また、黒色嘔吐あり\r\n消化管出血も疑われた。（～4/15の情報に基づく。）",
     "PT_names": [
-      "心肺停止"
+      "胃腸出血",
+      "誤嚥性肺炎",
+      "誤嚥性肺炎",
+      "血圧低下",
+      "変色吐物",
+      "酸素飽和度低下"
     ],
-    "tests_used_for_determination": "",
+    "tests_used_for_determination": "画像診断",
     "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "",
-    "id": "コミナティ-6"
-  },
-  {
-    "no": 6,
-    "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティ筋注",
-    "age": 69,
-    "gender": "女",
-    "vaccinated_dates": "2021/3/17",
-    "onset_dates": [
-      "2021/3/26"
-    ],
-    "lot_no": "EP9605",
-    "vaccinated_times": "1回目",
-    "pre_existing_conditions": "無",
-    "PT_names": [
-      "脳出血"
-    ],
-    "tests_used_for_determination": "解剖",
-    "causal_relationship": "評価不能",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "死亡後の画像診断では脳出血、頭蓋内出血が明らかにされていますが、脳動脈瘤や脳動静脈奇形が基礎疾患としてあったかどうかは不明です。現時点では、当該ワクチンが血小板減少や血管炎を惹起し基礎疾患が無くても出血をきたしやすいというエビデンスはありませんので因果関係を評価することはできませんが、否定もできないと思います。※～1/26から変更なし。",
-    "id": "コミナティ筋注-6"
-  },
-  {
-    "no": 6,
-    "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.1)",
-    "age": 51,
-    "gender": "男",
-    "vaccinated_dates": "不明",
-    "onset_dates": [
-      "2023/1/5"
-    ],
-    "lot_no": "GE0905",
-    "vaccinated_times": "不明",
-    "pre_existing_conditions": "2023/01/05に患者は死亡した。死因は聞いておらず、患者の家族からの説明もなく不明。コミナティ2回目接種後の副反応：「ギラン・バレ症候群/軸索型ギランバレー症候群」、「筋壊死再生」、「筋力低下/筋力低下の悪化」、「筋炎の疑い」、 「非特異的ミオパチー」。(～7/28の情報に基づく）",
-    "PT_names": [
-      "不明"
-    ],
-    "tests_used_for_determination": "不明",
-    "causal_relationship": "不明",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
-    "id": "コミナティRTU筋注(2価:起源株/オミクロン株BA.1)-6"
-  },
-  {
-    "no": 6,
-    "manufacturer": "モデルナ",
-    "vaccine_name": "スパイクバックス筋注(2価:起源株/オミクロン株BA.4-5",
-    "age": 91,
-    "gender": "女",
-    "vaccinated_dates": "2023/6/30",
-    "onset_dates": [
-      "2023/7/1"
-    ],
-    "lot_no": "400194A",
-    "vaccinated_times": "5回目",
-    "pre_existing_conditions": "基礎疾患等：徐脈、高カリウム血症、慢性腎臓病併用薬、治療情報は報告されなかった。2022年05月19日　高カリウム血症、高度徐脈で入院歴があった。2022年10月25日　コミナティ4回目接種。有害事象はなかった。2023年06月20日　来院時の血中カリウム値は5.2mEq/l、施設基準は5.3Eq/lまでは正常としているため、正常範囲と判断した。2023年06月30日　11時17分、本剤の5回目接種。夜に胸部不快感を訴え、病院に緊急受診し、高カリウム血症、徐脈性心房細動が認められた。2023年07月01日　患者は死亡した。",
-    "PT_names": [
-      "高カリウム血症",
-      "徐脈",
-      "心房細動"
-    ],
-    "tests_used_for_determination": "不明",
-    "causal_relationship": "不明",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "死因は元々有していた疾患であり、詳細な臨床データが分からず情報が不足している。ワクチンによる影響は不明。※～1/26から変更なし。",
-    "id": "スパイクバックス筋注(2価:起源株/オミクロン株BA.4-5-6"
+    "comments_by_expert": "（コメント無し）※～7/29から変更なし。",
+    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-6"
   },
   {
     "no": 6,
@@ -1522,6 +1469,72 @@
   },
   {
     "no": 6,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.1)",
+    "age": 51,
+    "gender": "男",
+    "vaccinated_dates": "不明",
+    "onset_dates": [
+      "2023/1/5"
+    ],
+    "lot_no": "GE0905",
+    "vaccinated_times": "不明",
+    "pre_existing_conditions": "2023/01/05に患者は死亡した。死因は聞いておらず、患者の家族からの説明もなく不明。コミナティ2回目接種後の副反応：「ギラン・バレ症候群/軸索型ギランバレー症候群」、「筋壊死再生」、「筋力低下/筋力低下の悪化」、「筋炎の疑い」、 「非特異的ミオパチー」。(～7/28の情報に基づく）",
+    "PT_names": [
+      "不明"
+    ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "不明",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
+    "id": "コミナティRTU筋注(2価:起源株/オミクロン株BA.1)-6"
+  },
+  {
+    "no": 6,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
+    "age": 80,
+    "gender": "男",
+    "vaccinated_dates": "2022/11/17",
+    "onset_dates": [
+      "2022/11/18"
+    ],
+    "lot_no": "GJ2675",
+    "vaccinated_times": "5回目",
+    "pre_existing_conditions": "基礎疾患等：慢性心不全",
+    "PT_names": [
+      "心不全"
+    ],
+    "tests_used_for_determination": "不明\r\n死亡時画像診断\r\n(～1/20の情報に\r\n基づく。)",
+    "causal_relationship": "関連なし",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "慢性心不全、腎障害、高血圧症などの基礎疾患を有する80歳男性。5回目のワクチン投与直後副反応なく帰宅、投与約10時間半後に呼吸困難、心不全発症と判断された、11時間後に心肺停止。蘇生処置に反応せず、死亡確認された。ワクチン投与後11時間程度の死亡だが、濃厚な基礎疾患を有しており、基礎疾患増悪とワクチン投与による影響とを判断することは現状の情報では困難。※～1/26から変更なし。",
+    "id": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)-6"
+  },
+  {
+    "no": 6,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ筋注",
+    "age": 69,
+    "gender": "女",
+    "vaccinated_dates": "2021/3/17",
+    "onset_dates": [
+      "2021/3/26"
+    ],
+    "lot_no": "EP9605",
+    "vaccinated_times": "1回目",
+    "pre_existing_conditions": "無",
+    "PT_names": [
+      "脳出血"
+    ],
+    "tests_used_for_determination": "解剖",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "死亡後の画像診断では脳出血、頭蓋内出血が明らかにされていますが、脳動脈瘤や脳動静脈奇形が基礎疾患としてあったかどうかは不明です。現時点では、当該ワクチンが血小板減少や血管炎を惹起し基礎疾患が無くても出血をきたしやすいというエビデンスはありませんので因果関係を評価することはできませんが、否定もできないと思います。※～1/26から変更なし。",
+    "id": "コミナティ筋注-6"
+  },
+  {
+    "no": 6,
     "manufacturer": "モデルナ",
     "vaccine_name": "スパイクバックス筋注",
     "age": 32,
@@ -1544,30 +1557,49 @@
   },
   {
     "no": 6,
-    "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)",
-    "age": 86,
-    "gender": "男",
-    "vaccinated_dates": "2023/10/12",
+    "manufacturer": "モデルナ",
+    "vaccine_name": "スパイクバックス筋注(2価:起源株/オミクロン株BA.4-5",
+    "age": 91,
+    "gender": "女",
+    "vaccinated_dates": "2023/6/30",
     "onset_dates": [
-      "2023/10/13"
+      "2023/7/1"
     ],
-    "lot_no": "HG2346",
-    "vaccinated_times": "",
-    "pre_existing_conditions": "基礎疾患等：脳出血、喘息／COPDオーバーラップ症候群、高血圧、\r\n脳梗塞、大動脈狭窄、TAVI\r\n併用薬：アレビアチン［フェニトイン］、テオフィリン、テグレトール、マニ\r\nジピン、エソメプラゾール、モンテルカスト、メキシチール、クロピドグレ\r\nル、クエチアピン、アムロジピン、テルミサルタン\r\n接種後翌日、発熱後急激な酸素化低下あり、血圧低下を認めた。アド\r\nレナリン筋注、昇圧、酸素、抗菌薬投与したが改善せず、死亡した。死\r\n亡時画像診断にて誤嚥性肺炎、腸閉塞を認めた。また、黒色嘔吐あり\r\n消化管出血も疑われた。（～4/15の情報に基づく。）",
+    "lot_no": "400194A",
+    "vaccinated_times": "5回目",
+    "pre_existing_conditions": "基礎疾患等：徐脈、高カリウム血症、慢性腎臓病併用薬、治療情報は報告されなかった。2022年05月19日　高カリウム血症、高度徐脈で入院歴があった。2022年10月25日　コミナティ4回目接種。有害事象はなかった。2023年06月20日　来院時の血中カリウム値は5.2mEq/l、施設基準は5.3Eq/lまでは正常としているため、正常範囲と判断した。2023年06月30日　11時17分、本剤の5回目接種。夜に胸部不快感を訴え、病院に緊急受診し、高カリウム血症、徐脈性心房細動が認められた。2023年07月01日　患者は死亡した。",
     "PT_names": [
-      "胃腸出血",
-      "誤嚥性肺炎",
-      "誤嚥性肺炎",
-      "血圧低下",
-      "変色吐物",
-      "酸素飽和度低下"
+      "高カリウム血症",
+      "徐脈",
+      "心房細動"
     ],
-    "tests_used_for_determination": "画像診断",
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "不明",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "死因は元々有していた疾患であり、詳細な臨床データが分からず情報が不足している。ワクチンによる影響は不明。※～1/26から変更なし。",
+    "id": "スパイクバックス筋注(2価:起源株/オミクロン株BA.4-5-6"
+  },
+  {
+    "no": 6,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ",
+    "age": 98,
+    "gender": "女",
+    "vaccinated_dates": "2024/11/14",
+    "onset_dates": [
+      "2024/11/16"
+    ],
+    "lot_no": "LL7260",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "睡眠障害\n糖尿\n糖尿病\n高血圧",
+    "PT_names": [
+      "心肺停止"
+    ],
+    "tests_used_for_determination": "",
     "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "（コメント無し）※～7/29から変更なし。",
-    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-6"
+    "comments_by_expert": "",
+    "id": "コミナティ-6"
   },
   {
     "no": 6,
@@ -1576,7 +1608,9 @@
     "age": 82,
     "gender": "女",
     "vaccinated_dates": "2024/10/11",
-    "onset_dates": "2024/11/13",
+    "onset_dates": [
+      "2024/11/13"
+    ],
     "lot_no": "VPA017A",
     "vaccinated_times": "",
     "pre_existing_conditions": "毛細血管漏出症候群",
@@ -1588,6 +1622,50 @@
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "",
     "id": "ダイチロナ-6"
+  },
+  {
+    "no": 7,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)",
+    "age": 86,
+    "gender": "女",
+    "vaccinated_dates": "2023/10/19",
+    "onset_dates": [
+      "2023/10/19"
+    ],
+    "lot_no": "HG2273",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "基礎疾患等：認知症、高脂血症、大腸癌、アルツハイマー型認知症、\r\n老人性精神病、便秘、鼻炎、脂質異常症、腰痛症、直腸癌、腰部脊柱\r\n管狭窄症、大腿骨頚部骨折\r\n（内服薬）シンバスタチン、パルモディア、デザレックス、酸化マグネシ\r\nウム、麻子仁丸、セチロ、カロナール、ファモチジン、その他精神科処\r\n方あり。\r\n2023年10月19日、患者はコミナティ筋注（XBB）とインフルエンザワク\r\nチンを同時に接種し、報告クリニック内で20分経過観察した。\r\n患者は、報告クリニックで毎回コミナティとインフルエンザワクチンを接\r\n種していた（今回は同時接種したが、前回は同時接種かは不明）。\r\n問題がなかったため、患者は徒歩で40分？1時間かけて帰宅した玄関\r\n先で倒れた。すぐに救急搬送されたが、同日死亡した。\r\n本症例は解剖事案であり、詳細不明である。\r\n【報告医師のコメント】\r\nコミナティ１～6回、インフルエンザワクチンを2020年から毎年接種し、\r\n特に問題なかった。今回のみ同時接種。接種開始～症状までの時間\r\n経過からアナフィラキシーを生じうる時間ではあるが最終死因は不明\r\nである。\r\n（～4/15の情報に基づく。）",
+    "PT_names": [
+      "アナフィラキシー反応"
+    ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "不明評価不能\r\n(～4/15の情報に\r\n基づく。）",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "ワクチン接種開始から症状までの時間経過の詳細が不明で、最終的に意識消失・心肺停止していた結果しか明らかになっていない。皮疹症状、循環器・呼吸器症状の推移なども不明であり各副作用名との因果関係を評価するに十分な情報が無い。※～7/29から変更なし。",
+    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-7"
+  },
+  {
+    "no": 7,
+    "manufacturer": "モデルナ",
+    "vaccine_name": "スパイクバックス筋注(1価:オミクロン株XBB.1.5)",
+    "age": 81,
+    "gender": "男",
+    "vaccinated_dates": "2023/12/6",
+    "onset_dates": [
+      "2023/12/6"
+    ],
+    "lot_no": "710014A",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "基礎疾患等：肺血栓塞栓症、下肢深部静脈血栓症、多発性骨髄腫\r\n内服治療：エリキュース、ステロイド\r\n2023年12月6日　接種前の体温36度5分\r\n14：21　スパイクバックス筋注（１価：オミクロン株XBB1.5)の4回目を接\r\n種した。（右、投与経路：筋肉内）その後状態変化なし\r\n15：00　おやつのゼリー摂取中にムセがみられたため、背中を起こしな\r\nがらタッピングを行っていたところ、急に力が抜けたように頭部がだらり\r\nと落ち、顔色不良みられ看護師へ報告。\r\n15：10　看護師訪室時、呼吸停止見られ0.5L/m開始、心臓マッサージ\r\n施行。AED解析にて電気ショック必要なし。\r\n15：15　吸引するも引けず、食べ物等詰まった様子なし。医師へ連絡。\r\n15：20　A医師来園。呼吸停止、心停止確認する。\r\n15：50　B医師来園。\r\n15：52　死亡確認する。報告された死因は呼吸停止および心停止で\r\nあった。剖検が実施されたかどうかは不明。",
+    "PT_names": [
+      "不明"
+    ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "（コメント無し）※～7/29から変更なし。",
+    "id": "スパイクバックス筋注(1価:オミクロン株XBB.1.5)-7"
   },
   {
     "no": 7,
@@ -1615,26 +1693,6 @@
   {
     "no": 7,
     "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティ",
-    "age": "高齢者",
-    "gender": "女",
-    "vaccinated_dates": "2024/10/25",
-    "onset_dates": "2024/11/18",
-    "lot_no": "",
-    "vaccinated_times": "",
-    "pre_existing_conditions": "非定型マイコバクテリア感\n染",
-    "PT_names": [
-      "心突然死"
-    ],
-    "tests_used_for_determination": "",
-    "causal_relationship": "ー",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "",
-    "id": "コミナティ-7"
-  },
-  {
-    "no": 7,
-    "manufacturer": "ファイザー",
     "vaccine_name": "コミナティ筋注",
     "age": 51,
     "gender": "男",
@@ -1653,50 +1711,6 @@
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
     "id": "コミナティ筋注-7"
-  },
-  {
-    "no": 7,
-    "manufacturer": "モデルナ",
-    "vaccine_name": "スパイクバックス筋注(2価:起源株/オミクロン株BA.4-5",
-    "age": 76,
-    "gender": "女",
-    "vaccinated_dates": "2023/6/4",
-    "onset_dates": [
-      "2023/7/19"
-    ],
-    "lot_no": "400083A",
-    "vaccinated_times": "6回目",
-    "pre_existing_conditions": "基礎疾患等：高血圧症、脂質異常症、胃潰瘍後、子宮脱併用薬：アムロジピン、ロスバスタチン、ラベプラゾール2023年7月19日、海へ出た。船上で暑いと言っていた。急に倒れた。6時48分に消防へ連絡あった。7時2分に救急隊が心肺停止を確認し、蘇生措置を開始した。7時12分にアドレナリン1mgを静脈投与した。7時17分に病院に到着した。心肺蘇生措置を試みたが、2023年7月19日7時45分に死亡した。剖検は実施されなかった。",
-    "PT_names": [
-      "不明"
-    ],
-    "tests_used_for_determination": "不明",
-    "causal_relationship": "関連あり",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "接種から死亡まで1ヶ月以上の時間間隔があること、死亡前の詳細な情報が不明であること、患者の死因に関して病理解剖など病理学的な検討が行われていないことから、因果関係の評価は極めて困難である。※～1/26から変更なし。",
-    "id": "スパイクバックス筋注(2価:起源株/オミクロン株BA.4-5-7"
-  },
-  {
-    "no": 7,
-    "manufacturer": "モデルナ",
-    "vaccine_name": "スパイクバックス筋注(1価:オミクロン株XBB.1.5)",
-    "age": 81,
-    "gender": "男",
-    "vaccinated_dates": "2023/12/6",
-    "onset_dates": [
-      "2023/12/6"
-    ],
-    "lot_no": "710014A",
-    "vaccinated_times": "",
-    "pre_existing_conditions": "基礎疾患等：肺血栓塞栓症、下肢深部静脈血栓症、多発性骨髄腫\r\n内服治療：エリキュース、ステロイド\r\n2023年12月6日　接種前の体温36度5分\r\n14：21　スパイクバックス筋注（１価：オミクロン株XBB1.5)の4回目を接\r\n種した。（右、投与経路：筋肉内）その後状態変化なし\r\n15：00　おやつのゼリー摂取中にムセがみられたため、背中を起こしな\r\nがらタッピングを行っていたところ、急に力が抜けたように頭部がだらり\r\nと落ち、顔色不良みられ看護師へ報告。\r\n15：10　看護師訪室時、呼吸停止見られ0.5L/m開始、心臓マッサージ\r\n施行。AED解析にて電気ショック必要なし。\r\n15：15　吸引するも引けず、食べ物等詰まった様子なし。医師へ連絡。\r\n15：20　A医師来園。呼吸停止、心停止確認する。\r\n15：50　B医師来園。\r\n15：52　死亡確認する。報告された死因は呼吸停止および心停止で\r\nあった。剖検が実施されたかどうかは不明。",
-    "PT_names": [
-      "不明"
-    ],
-    "tests_used_for_determination": "不明",
-    "causal_relationship": "評価不能",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "（コメント無し）※～7/29から変更なし。",
-    "id": "スパイクバックス筋注(1価:オミクロン株XBB.1.5)-7"
   },
   {
     "no": 7,
@@ -1722,178 +1736,47 @@
   },
   {
     "no": 7,
-    "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)",
-    "age": 86,
-    "gender": "女",
-    "vaccinated_dates": "2023/10/19",
-    "onset_dates": [
-      "2023/10/19"
-    ],
-    "lot_no": "HG2273",
-    "vaccinated_times": "",
-    "pre_existing_conditions": "基礎疾患等：認知症、高脂血症、大腸癌、アルツハイマー型認知症、\r\n老人性精神病、便秘、鼻炎、脂質異常症、腰痛症、直腸癌、腰部脊柱\r\n管狭窄症、大腿骨頚部骨折\r\n（内服薬）シンバスタチン、パルモディア、デザレックス、酸化マグネシ\r\nウム、麻子仁丸、セチロ、カロナール、ファモチジン、その他精神科処\r\n方あり。\r\n2023年10月19日、患者はコミナティ筋注（XBB）とインフルエンザワク\r\nチンを同時に接種し、報告クリニック内で20分経過観察した。\r\n患者は、報告クリニックで毎回コミナティとインフルエンザワクチンを接\r\n種していた（今回は同時接種したが、前回は同時接種かは不明）。\r\n問題がなかったため、患者は徒歩で40分？1時間かけて帰宅した玄関\r\n先で倒れた。すぐに救急搬送されたが、同日死亡した。\r\n本症例は解剖事案であり、詳細不明である。\r\n【報告医師のコメント】\r\nコミナティ１～6回、インフルエンザワクチンを2020年から毎年接種し、\r\n特に問題なかった。今回のみ同時接種。接種開始～症状までの時間\r\n経過からアナフィラキシーを生じうる時間ではあるが最終死因は不明\r\nである。\r\n（～4/15の情報に基づく。）",
-    "PT_names": [
-      "アナフィラキシー反応"
-    ],
-    "tests_used_for_determination": "不明",
-    "causal_relationship": "不明評価不能\r\n(～4/15の情報に\r\n基づく。）",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "ワクチン接種開始から症状までの時間経過の詳細が不明で、最終的に意識消失・心肺停止していた結果しか明らかになっていない。皮疹症状、循環器・呼吸器症状の推移なども不明であり各副作用名との因果関係を評価するに十分な情報が無い。※～7/29から変更なし。",
-    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-7"
-  },
-  {
-    "no": 8,
-    "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
-    "age": 79,
-    "gender": "女",
-    "vaccinated_dates": "2022/11/15",
-    "onset_dates": [
-      "2022/11/19"
-    ],
-    "lot_no": "GJ1852",
-    "vaccinated_times": "4回目",
-    "pre_existing_conditions": "基礎疾患等：アルツハイマー型認知症、高血圧症、糖尿病脂質異常症、緑内障、慢性硬膜下血腫、末梢循環障害、便秘、アレルギー性結膜炎、ドライアイ要介護度は要介護5。ADL自立度はA2であった。臥床させると動かないが、手びき歩行は可能だった。(～1/20の情報に基づく。)併用薬：バイアスピリン、カデュエット、リピディル、アリセプト、メマリー、ユベラC、プルゼニド、ミケラン、ゼペリン点眼液、ジクアスワクチン接種後は発熱などの副反応無く経過。接種4日後、いつも通り朝食を摂取し、その後臥床。家族の話では、正午頃眠っていると思ったが午後１時頃には反応がないことに気付き、急性心不全として午後１時55分死亡確認。",
-    "PT_names": [
-      "急性心不全"
-    ],
-    "tests_used_for_determination": "不明",
-    "causal_relationship": "評価不能",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "検査や剖検が実施できていないため、死因が不明であり評価できない。※～1/26から変更なし。",
-    "id": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)-8"
-  },
-  {
-    "no": 8,
-    "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティ\nインフルエンザワクチン",
+    "manufacturer": "モデルナ",
+    "vaccine_name": "スパイクバックス筋注(2価:起源株/オミクロン株BA.4-5",
     "age": 76,
-    "gender": "男",
-    "vaccinated_dates": "2024/12/03",
-    "onset_dates": "2024/12/04",
-    "lot_no": "LL7260\nー",
-    "vaccinated_times": "",
-    "pre_existing_conditions": "てんかん\n脳梗塞\n高血圧",
-    "PT_names": [
-      "心肺停止"
-    ],
-    "tests_used_for_determination": "",
-    "causal_relationship": "評価不能",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "",
-    "id": "コミナティ\nインフルエンザワクチン-8"
-  },
-  {
-    "no": 8,
-    "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティ筋注",
-    "age": 73,
-    "gender": "男",
-    "vaccinated_dates": "2021/4/5",
-    "onset_dates": [
-      "2021/4/13"
-    ],
-    "lot_no": "ER2659",
-    "vaccinated_times": "2回目",
-    "pre_existing_conditions": "慢性腎不全、血液透析、シャント閉塞、カテーテル留置",
-    "PT_names": [
-      "敗血症",
-      "脊椎炎"
-    ],
-    "tests_used_for_determination": "血液検査、MRI",
-    "causal_relationship": "評価不能",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
-    "id": "コミナティ筋注-8"
-  },
-  {
-    "no": 8,
-    "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.1)",
-    "age": 88,
     "gender": "女",
-    "vaccinated_dates": "2022/11/17",
+    "vaccinated_dates": "2023/6/4",
     "onset_dates": [
-      "2022/11/19"
+      "2023/7/19"
     ],
-    "lot_no": "GD9574",
-    "vaccinated_times": "4回目",
-    "pre_existing_conditions": "基礎疾患等：洞不全症候群、心臓ペースメーカー挿入、大動脈弁置換、寝たきり、慢性心不全、心疾患、老衰、廃用症候群2022/11/19 2:30",
+    "lot_no": "400083A",
+    "vaccinated_times": "6回目",
+    "pre_existing_conditions": "基礎疾患等：高血圧症、脂質異常症、胃潰瘍後、子宮脱併用薬：アムロジピン、ロスバスタチン、ラベプラゾール2023年7月19日、海へ出た。船上で暑いと言っていた。急に倒れた。6時48分に消防へ連絡あった。7時2分に救急隊が心肺停止を確認し、蘇生措置を開始した。7時12分にアドレナリン1mgを静脈投与した。7時17分に病院に到着した。心肺蘇生措置を試みたが、2023年7月19日7時45分に死亡した。剖検は実施されなかった。",
     "PT_names": [
       "不明"
     ],
     "tests_used_for_determination": "不明",
-    "causal_relationship": "評価不能",
+    "causal_relationship": "関連あり",
     "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "老衰寝たきりで、医療情報がないため判断不能※～1/26から変更なし。",
-    "id": "コミナティRTU筋注(2価:起源株/オミクロン株BA.1)-8"
+    "comments_by_expert": "接種から死亡まで1ヶ月以上の時間間隔があること、死亡前の詳細な情報が不明であること、患者の死因に関して病理解剖など病理学的な検討が行われていないことから、因果関係の評価は極めて困難である。※～1/26から変更なし。",
+    "id": "スパイクバックス筋注(2価:起源株/オミクロン株BA.4-5-7"
   },
   {
-    "no": 8,
-    "manufacturer": "モデルナ",
-    "vaccine_name": "スパイクバックス筋注(2価:起源株/オミクロン株BA.4-5",
-    "age": 77,
-    "gender": "男",
-    "vaccinated_dates": "2023/8/16",
-    "onset_dates": [
-      "2023/8/17"
-    ],
-    "lot_no": "400160A",
-    "vaccinated_times": "4回目",
-    "pre_existing_conditions": "基礎疾患等：脳梗塞、右片麻痺、パーキンソン病、前立腺癌、糖尿病、腰部脊柱管狭窄症、外科的腰椎固定、尿路感染、寝たきり、誤嚥性肺炎、持続酸素投与中、2023年1月COVID-19感染。併用薬：クロピドグレル、ビカルタミド、ドパコールL、シロドシン、メトホルミン、ランソプラゾール、ミヤBM、カルボシステインH27脳梗塞",
-    "PT_names": [
-      "脳梗塞"
-    ],
-    "tests_used_for_determination": "不明",
-    "causal_relationship": "評価不能",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
-    "id": "スパイクバックス筋注(2価:起源株/オミクロン株BA.4-5-8"
-  },
-  {
-    "no": 8,
-    "manufacturer": "モデルナ",
-    "vaccine_name": "スパイクバックス筋注(1価:オミクロン株XBB.1.5)",
-    "age": 32,
+    "no": 7,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ",
+    "age": "高齢者",
     "gender": "女",
-    "vaccinated_dates": "2023/10/30",
+    "vaccinated_dates": "2024/10/25",
     "onset_dates": [
-      "2023/11/5"
+      "2024/11/18"
     ],
-    "lot_no": "710011A",
+    "lot_no": "",
     "vaccinated_times": "",
-    "pre_existing_conditions": "2023年10月30日 スパイクバックス筋注（１価：オミクロン株XBB1.5)の5\r\n回目接種。接種後、微熱を認めていた。その他の症状があったかは不\r\n明。\r\n11月5日、自宅にて死亡しているのを発見された。\r\n11月9日　法医解剖を行った。肉眼的には明らかな既存疾患、外傷を\r\n認めなかったが、病理組織学的検査にて、腸腰筋に白血球浸潤と、筋\r\n融解像を認めた。その他主要臓器、咽頭部に炎症を認めなかった。\r\n【担当医等の意見】\r\n解剖所見からはワクチン接種と死亡との因果関係は不明である。しか\r\nし、死亡時の高体温が示唆される状況（死後半日での深部体温37℃）\r\nや腸腰筋の融解、炎症像は、他の要因（薬物や感染症）は状況や解\r\n剖所見からは否定的であり、ワクチンとの関連性を否定できないと考\r\nえる。本剤との因果関係は評価不能、他要因の可能性：なし",
+    "pre_existing_conditions": "非定型マイコバクテリア感\n染",
     "PT_names": [
-      "横紋筋融解症"
+      "心突然死"
     ],
-    "tests_used_for_determination": "解剖",
-    "causal_relationship": "評価不能",
+    "tests_used_for_determination": "",
+    "causal_relationship": "ー",
     "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "発見時には既に死亡されており、剖検が実施されている症例であるものの、患者背景なども含め情報不足であり、因果関係の評価は困難である。※～7/29から変更なし。",
-    "id": "スパイクバックス筋注(1価:オミクロン株XBB.1.5)-8"
-  },
-  {
-    "no": 8,
-    "manufacturer": "モデルナ",
-    "vaccine_name": "スパイクバックス筋注",
-    "age": 57,
-    "gender": "男",
-    "vaccinated_dates": "2021/7/30",
-    "onset_dates": [
-      "2021/7/31"
-    ],
-    "lot_no": "3004229",
-    "vaccinated_times": "2回目",
-    "pre_existing_conditions": "特発性拡張型心筋症",
-    "PT_names": [
-      "心臓死"
-    ],
-    "tests_used_for_determination": "死亡時画像診断\r\n（CT)",
-    "causal_relationship": "評価不能",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
-    "id": "スパイクバックス筋注-8"
+    "comments_by_expert": "",
+    "id": "コミナティ-7"
   },
   {
     "no": 8,
@@ -1926,68 +1809,203 @@
     "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-8"
   },
   {
-    "no": 9,
-    "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
-    "age": 92,
+    "no": 8,
+    "manufacturer": "モデルナ",
+    "vaccine_name": "スパイクバックス筋注(1価:オミクロン株XBB.1.5)",
+    "age": 32,
     "gender": "女",
-    "vaccinated_dates": "2022/11/19",
+    "vaccinated_dates": "2023/10/30",
     "onset_dates": [
-      "2022/11/20"
+      "2023/11/5"
     ],
-    "lot_no": "GJ1852",
-    "vaccinated_times": "5回目",
-    "pre_existing_conditions": "基礎疾患等：高度認知症、慢性心不全、骨粗鬆症、腰椎圧迫骨折、高血圧(～1/20の情報に基づく。)併用薬：アリセプト(5)1錠、アムロジン(2.5)1錠、エディロール(0.5)1錠浮腫なく安定。血圧も収縮期圧140を越えることなく、アムロジンの中止を検討していた。11/20の朝食は全量摂り、9：20に排泄された時点では通常便で、特に異常が見られなかったことが確認されている。11：10頃、心肺停止状態を発見。心肺蘇生を試みるも回復せず。異常死として死体検案を実施し、死亡推定時刻は11時頃、髄液は透明であり心筋梗塞疑いと検案された。",
-    "PT_names": [
-      "心筋梗塞"
-    ],
-    "tests_used_for_determination": "検案",
-    "causal_relationship": "関連あり",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "検査や剖検が実施できていないため、死因が不明であり評価できない。※～1/26から変更なし。",
-    "id": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)-9"
-  },
-  {
-    "no": 9,
-    "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティ",
-    "age": 85,
-    "gender": "女",
-    "vaccinated_dates": "2024/11/19",
-    "onset_dates": "2024/11/30",
-    "lot_no": "LL4810",
+    "lot_no": "710011A",
     "vaccinated_times": "",
-    "pre_existing_conditions": "アルツハイマー型認知症",
+    "pre_existing_conditions": "2023年10月30日 スパイクバックス筋注（１価：オミクロン株XBB1.5)の5\r\n回目接種。接種後、微熱を認めていた。その他の症状があったかは不\r\n明。\r\n11月5日、自宅にて死亡しているのを発見された。\r\n11月9日　法医解剖を行った。肉眼的には明らかな既存疾患、外傷を\r\n認めなかったが、病理組織学的検査にて、腸腰筋に白血球浸潤と、筋\r\n融解像を認めた。その他主要臓器、咽頭部に炎症を認めなかった。\r\n【担当医等の意見】\r\n解剖所見からはワクチン接種と死亡との因果関係は不明である。しか\r\nし、死亡時の高体温が示唆される状況（死後半日での深部体温37℃）\r\nや腸腰筋の融解、炎症像は、他の要因（薬物や感染症）は状況や解\r\n剖所見からは否定的であり、ワクチンとの関連性を否定できないと考\r\nえる。本剤との因果関係は評価不能、他要因の可能性：なし",
     "PT_names": [
-      "脳出血"
+      "横紋筋融解症"
     ],
-    "tests_used_for_determination": "",
+    "tests_used_for_determination": "解剖",
     "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "症状の経過やワクチン接種との時間的関係などに関する詳細な情報\nがなく、評価は困難である。",
-    "id": "コミナティ-9"
+    "comments_by_expert": "発見時には既に死亡されており、剖検が実施されている症例であるものの、患者背景なども含め情報不足であり、因果関係の評価は困難である。※～7/29から変更なし。",
+    "id": "スパイクバックス筋注(1価:オミクロン株XBB.1.5)-8"
   },
   {
-    "no": 9,
+    "no": 8,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.1)",
+    "age": 88,
+    "gender": "女",
+    "vaccinated_dates": "2022/11/17",
+    "onset_dates": [
+      "2022/11/19"
+    ],
+    "lot_no": "GD9574",
+    "vaccinated_times": "4回目",
+    "pre_existing_conditions": "基礎疾患等：洞不全症候群、心臓ペースメーカー挿入、大動脈弁置換、寝たきり、慢性心不全、心疾患、老衰、廃用症候群2022/11/19 2:30",
+    "PT_names": [
+      "不明"
+    ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "老衰寝たきりで、医療情報がないため判断不能※～1/26から変更なし。",
+    "id": "コミナティRTU筋注(2価:起源株/オミクロン株BA.1)-8"
+  },
+  {
+    "no": 8,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
+    "age": 79,
+    "gender": "女",
+    "vaccinated_dates": "2022/11/15",
+    "onset_dates": [
+      "2022/11/19"
+    ],
+    "lot_no": "GJ1852",
+    "vaccinated_times": "4回目",
+    "pre_existing_conditions": "基礎疾患等：アルツハイマー型認知症、高血圧症、糖尿病脂質異常症、緑内障、慢性硬膜下血腫、末梢循環障害、便秘、アレルギー性結膜炎、ドライアイ要介護度は要介護5。ADL自立度はA2であった。臥床させると動かないが、手びき歩行は可能だった。(～1/20の情報に基づく。)併用薬：バイアスピリン、カデュエット、リピディル、アリセプト、メマリー、ユベラC、プルゼニド、ミケラン、ゼペリン点眼液、ジクアスワクチン接種後は発熱などの副反応無く経過。接種4日後、いつも通り朝食を摂取し、その後臥床。家族の話では、正午頃眠っていると思ったが午後１時頃には反応がないことに気付き、急性心不全として午後１時55分死亡確認。",
+    "PT_names": [
+      "急性心不全"
+    ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "検査や剖検が実施できていないため、死因が不明であり評価できない。※～1/26から変更なし。",
+    "id": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)-8"
+  },
+  {
+    "no": 8,
     "manufacturer": "ファイザー",
     "vaccine_name": "コミナティ筋注",
-    "age": 37,
+    "age": 73,
     "gender": "男",
     "vaccinated_dates": "2021/4/5",
     "onset_dates": [
-      "2021/4/8"
+      "2021/4/13"
     ],
-    "lot_no": "ER9480",
+    "lot_no": "ER2659",
     "vaccinated_times": "2回目",
-    "pre_existing_conditions": "花粉症",
+    "pre_existing_conditions": "慢性腎不全、血液透析、シャント閉塞、カテーテル留置",
     "PT_names": [
-      "心肺停止"
+      "敗血症",
+      "脊椎炎"
+    ],
+    "tests_used_for_determination": "血液検査、MRI",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
+    "id": "コミナティ筋注-8"
+  },
+  {
+    "no": 8,
+    "manufacturer": "モデルナ",
+    "vaccine_name": "スパイクバックス筋注",
+    "age": 57,
+    "gender": "男",
+    "vaccinated_dates": "2021/7/30",
+    "onset_dates": [
+      "2021/7/31"
+    ],
+    "lot_no": "3004229",
+    "vaccinated_times": "2回目",
+    "pre_existing_conditions": "特発性拡張型心筋症",
+    "PT_names": [
+      "心臓死"
+    ],
+    "tests_used_for_determination": "死亡時画像診断\r\n（CT)",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
+    "id": "スパイクバックス筋注-8"
+  },
+  {
+    "no": 8,
+    "manufacturer": "モデルナ",
+    "vaccine_name": "スパイクバックス筋注(2価:起源株/オミクロン株BA.4-5",
+    "age": 77,
+    "gender": "男",
+    "vaccinated_dates": "2023/8/16",
+    "onset_dates": [
+      "2023/8/17"
+    ],
+    "lot_no": "400160A",
+    "vaccinated_times": "4回目",
+    "pre_existing_conditions": "基礎疾患等：脳梗塞、右片麻痺、パーキンソン病、前立腺癌、糖尿病、腰部脊柱管狭窄症、外科的腰椎固定、尿路感染、寝たきり、誤嚥性肺炎、持続酸素投与中、2023年1月COVID-19感染。併用薬：クロピドグレル、ビカルタミド、ドパコールL、シロドシン、メトホルミン、ランソプラゾール、ミヤBM、カルボシステインH27脳梗塞",
+    "PT_names": [
+      "脳梗塞"
     ],
     "tests_used_for_determination": "不明",
     "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
-    "id": "コミナティ筋注-9"
+    "id": "スパイクバックス筋注(2価:起源株/オミクロン株BA.4-5-8"
+  },
+  {
+    "no": 8,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ\nインフルエンザワクチン",
+    "age": 76,
+    "gender": "男",
+    "vaccinated_dates": "2024/12/03",
+    "onset_dates": [
+      "2024/12/04"
+    ],
+    "lot_no": "LL7260\nー",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "てんかん\n脳梗塞\n高血圧",
+    "PT_names": [
+      "心肺停止"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "",
+    "id": "コミナティ\nインフルエンザワクチン-8"
+  },
+  {
+    "no": 9,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)",
+    "age": 90,
+    "gender": "女",
+    "vaccinated_dates": "2023/10/11",
+    "onset_dates": [
+      "2023/10/15"
+    ],
+    "lot_no": "HG2273",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "基礎疾患等：心不全、酸素飽和度低下、入院、大脳塞栓、敗血症、シ\r\nトロバクター・フロインディー感染\r\n併用薬：リクシアナ\r\n関連する病歴：\r\n2022年5月26日　酸素化低下あり、緊急入院した。入院中も２度の急\r\n激な酸素化低下があったが明らかな原因は不明であった。その後も心\r\n不全による入院歴があったが、2023年5月7日にはDOACs投与下にも\r\nかかわらず脳塞栓を発症した。2023年6月12日に急激な酸素化低下を\r\nみた。その後血液培養でCitrobacter freundiiによる敗血症と判明し\r\nた。\r\n今回全身状態の安定により、2023年10月11日にコロナワクチン接種し\r\nた。同日のリハビリよりしんどいとの訴えが見られるようになった。10月\r\n13日以降は、口唇色/皮膚末梢の血色不良はあるが、血圧・心拍数・\r\nSpO2は安定していた。10月15日朝より四肢末梢の血色不良、冷感を\r\n認めその後発熱をみた。採血では、白血球の上昇を伴わないCRP上\r\n昇あり、解熱薬での対応を行っていた。呼吸状態が悪化し、18:40に呼\r\n吸停止した。家人の立ち会いのもと死亡確認した。\r\n【報告医師のコメント】\r\nこれまでにも4回の突然の酸素化低下歴があり3回目は敗血症に伴う\r\n症状であった。今回死亡前の血液検査では白血球上昇を伴わないも\r\nのの、強い炎症反応あり。ワクチン以外の原因も充分にあると考える。",
+    "PT_names": [
+      "炎症"
+    ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "不明",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "併存疾患の心不全が増悪したのではないだろうか。因果関係は不明だが、個人的には考えにくいと思う。※～7/29から変更なし。",
+    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-9"
+  },
+  {
+    "no": 9,
+    "manufacturer": "モデルナ",
+    "vaccine_name": "スパイクバックス筋注(1価:オミクロン株XBB.1.5)",
+    "age": 96,
+    "gender": "女",
+    "vaccinated_dates": "2023/12/5",
+    "onset_dates": [
+      "2023/12/7"
+    ],
+    "lot_no": "710002A",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "基礎疾患等：慢性心不全\r\n併用薬：バイアスピリン、降圧剤\r\n2023年12月5日 接種前の体温36度4分　16時、スパイクバックス筋注\r\n（１価：オミクロン株XBB1.5)の6回目接種。\r\n2023年12月6日 接種翌日の夕方頃より、嘔気と少量の嘔吐あり。バイ\r\nタルは著変なく、マヒ症状等なし。\r\n2023年12月7日　3：30に訪室時、呼びかけに反応なく、バイタルの測\r\n定不能で救急車を要請し、他院へ救急搬送。5：00頃死亡確認された\r\nとのこと。\r\n【担当医等の意見】\r\n死亡時画像診断が実施されて心嚢液貯留のみで、他に所見なく、慢性\r\n心不全の急性増悪と診断。高齢であることを考慮すると老衰も考えら\r\nれる。本剤との因果関係は評価不能。他要因の可能性なし。",
+    "PT_names": [
+      "慢性心不全"
+    ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "（コメント無し）※～7/29から変更なし。",
+    "id": "スパイクバックス筋注(1価:オミクロン株XBB.1.5)-9"
   },
   {
     "no": 9,
@@ -2013,47 +2031,47 @@
   },
   {
     "no": 9,
-    "manufacturer": "モデルナ",
-    "vaccine_name": "スパイクバックス筋注(2価:起源株/オミクロン株BA.4-5",
-    "age": 80,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
+    "age": 92,
     "gender": "女",
-    "vaccinated_dates": "2023/6/4",
+    "vaccinated_dates": "2022/11/19",
     "onset_dates": [
-      "2023/8/25"
+      "2022/11/20"
     ],
-    "lot_no": "400185A",
-    "vaccinated_times": "6回目",
-    "pre_existing_conditions": "2023年6月4日ワクチン接種、夕より発熱嘔吐。症状改善せず6月8日病院受診。AMY540、CTで腹部リンパ節腫脹あり、急性膵炎として入院。状態改善せず、リンパ球増多",
+    "lot_no": "GJ1852",
+    "vaccinated_times": "5回目",
+    "pre_existing_conditions": "基礎疾患等：高度認知症、慢性心不全、骨粗鬆症、腰椎圧迫骨折、高血圧(～1/20の情報に基づく。)併用薬：アリセプト(5)1錠、アムロジン(2.5)1錠、エディロール(0.5)1錠浮腫なく安定。血圧も収縮期圧140を越えることなく、アムロジンの中止を検討していた。11/20の朝食は全量摂り、9：20に排泄された時点では通常便で、特に異常が見られなかったことが確認されている。11：10頃、心肺停止状態を発見。心肺蘇生を試みるも回復せず。異常死として死体検案を実施し、死亡推定時刻は11時頃、髄液は透明であり心筋梗塞疑いと検案された。",
     "PT_names": [
-      "T細胞性前リンパ性白血病"
+      "心筋梗塞"
     ],
-    "tests_used_for_determination": "血液検査、骨髄検査関連あり",
-    "causal_relationship": "",
+    "tests_used_for_determination": "検案",
+    "causal_relationship": "関連あり",
     "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
-    "id": "スパイクバックス筋注(2価:起源株/オミクロン株BA.4-5-9"
+    "comments_by_expert": "検査や剖検が実施できていないため、死因が不明であり評価できない。※～1/26から変更なし。",
+    "id": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)-9"
   },
   {
     "no": 9,
-    "manufacturer": "モデルナ",
-    "vaccine_name": "スパイクバックス筋注(1価:オミクロン株XBB.1.5)",
-    "age": 96,
-    "gender": "女",
-    "vaccinated_dates": "2023/12/5",
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ筋注",
+    "age": 37,
+    "gender": "男",
+    "vaccinated_dates": "2021/4/5",
     "onset_dates": [
-      "2023/12/7"
+      "2021/4/8"
     ],
-    "lot_no": "710002A",
-    "vaccinated_times": "",
-    "pre_existing_conditions": "基礎疾患等：慢性心不全\r\n併用薬：バイアスピリン、降圧剤\r\n2023年12月5日 接種前の体温36度4分　16時、スパイクバックス筋注\r\n（１価：オミクロン株XBB1.5)の6回目接種。\r\n2023年12月6日 接種翌日の夕方頃より、嘔気と少量の嘔吐あり。バイ\r\nタルは著変なく、マヒ症状等なし。\r\n2023年12月7日　3：30に訪室時、呼びかけに反応なく、バイタルの測\r\n定不能で救急車を要請し、他院へ救急搬送。5：00頃死亡確認された\r\nとのこと。\r\n【担当医等の意見】\r\n死亡時画像診断が実施されて心嚢液貯留のみで、他に所見なく、慢性\r\n心不全の急性増悪と診断。高齢であることを考慮すると老衰も考えら\r\nれる。本剤との因果関係は評価不能。他要因の可能性なし。",
+    "lot_no": "ER9480",
+    "vaccinated_times": "2回目",
+    "pre_existing_conditions": "花粉症",
     "PT_names": [
-      "慢性心不全"
+      "心肺停止"
     ],
     "tests_used_for_determination": "不明",
     "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "（コメント無し）※～7/29から変更なし。",
-    "id": "スパイクバックス筋注(1価:オミクロン株XBB.1.5)-9"
+    "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
+    "id": "コミナティ筋注-9"
   },
   {
     "no": 9,
@@ -2080,25 +2098,113 @@
   },
   {
     "no": 9,
+    "manufacturer": "モデルナ",
+    "vaccine_name": "スパイクバックス筋注(2価:起源株/オミクロン株BA.4-5",
+    "age": 80,
+    "gender": "女",
+    "vaccinated_dates": "2023/6/4",
+    "onset_dates": [
+      "2023/8/25"
+    ],
+    "lot_no": "400185A",
+    "vaccinated_times": "6回目",
+    "pre_existing_conditions": "2023年6月4日ワクチン接種、夕より発熱嘔吐。症状改善せず6月8日病院受診。AMY540、CTで腹部リンパ節腫脹あり、急性膵炎として入院。状態改善せず、リンパ球増多",
+    "PT_names": [
+      "T細胞性前リンパ性白血病"
+    ],
+    "tests_used_for_determination": "血液検査、骨髄検査関連あり",
+    "causal_relationship": "",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
+    "id": "スパイクバックス筋注(2価:起源株/オミクロン株BA.4-5-9"
+  },
+  {
+    "no": 9,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ",
+    "age": 85,
+    "gender": "女",
+    "vaccinated_dates": "2024/11/19",
+    "onset_dates": [
+      "2024/11/30"
+    ],
+    "lot_no": "LL4810",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "アルツハイマー型認知症",
+    "PT_names": [
+      "脳出血"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "症状の経過やワクチン接種との時間的関係などに関する詳細な情報\nがなく、評価は困難である。",
+    "id": "コミナティ-9"
+  },
+  {
+    "no": 10,
     "manufacturer": "ファイザー",
     "vaccine_name": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)",
-    "age": 90,
-    "gender": "女",
-    "vaccinated_dates": "2023/10/11",
+    "age": "不明",
+    "gender": "男",
+    "vaccinated_dates": "不明",
     "onset_dates": [
-      "2023/10/15"
+      "2023"
     ],
-    "lot_no": "HG2273",
+    "lot_no": "不明",
     "vaccinated_times": "",
-    "pre_existing_conditions": "基礎疾患等：心不全、酸素飽和度低下、入院、大脳塞栓、敗血症、シ\r\nトロバクター・フロインディー感染\r\n併用薬：リクシアナ\r\n関連する病歴：\r\n2022年5月26日　酸素化低下あり、緊急入院した。入院中も２度の急\r\n激な酸素化低下があったが明らかな原因は不明であった。その後も心\r\n不全による入院歴があったが、2023年5月7日にはDOACs投与下にも\r\nかかわらず脳塞栓を発症した。2023年6月12日に急激な酸素化低下を\r\nみた。その後血液培養でCitrobacter freundiiによる敗血症と判明し\r\nた。\r\n今回全身状態の安定により、2023年10月11日にコロナワクチン接種し\r\nた。同日のリハビリよりしんどいとの訴えが見られるようになった。10月\r\n13日以降は、口唇色/皮膚末梢の血色不良はあるが、血圧・心拍数・\r\nSpO2は安定していた。10月15日朝より四肢末梢の血色不良、冷感を\r\n認めその後発熱をみた。採血では、白血球の上昇を伴わないCRP上\r\n昇あり、解熱薬での対応を行っていた。呼吸状態が悪化し、18:40に呼\r\n吸停止した。家人の立ち会いのもと死亡確認した。\r\n【報告医師のコメント】\r\nこれまでにも4回の突然の酸素化低下歴があり3回目は敗血症に伴う\r\n症状であった。今回死亡前の血液検査では白血球上昇を伴わないも\r\nのの、強い炎症反応あり。ワクチン以外の原因も充分にあると考える。",
+    "pre_existing_conditions": "（製品情報センターを介した自発報告）\r\n報告者のおじが今年、コロナワクチンを接種して死亡した。",
     "PT_names": [
-      "炎症"
+      "不明"
     ],
     "tests_used_for_determination": "不明",
     "causal_relationship": "不明",
     "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "併存疾患の心不全が増悪したのではないだろうか。因果関係は不明だが、個人的には考えにくいと思う。※～7/29から変更なし。",
-    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-9"
+    "comments_by_expert": "患者情報、どのような経過で死亡したのかという医学的経過などが何もないため評価不可。※～7/29から変更なし。",
+    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-10"
+  },
+  {
+    "no": 10,
+    "manufacturer": "モデルナ",
+    "vaccine_name": "スパイクバックス筋注(1価:オミクロン株XBB.1.5)",
+    "age": 73,
+    "gender": "女",
+    "vaccinated_dates": "2023/12/2",
+    "onset_dates": [
+      "2023/12/27"
+    ],
+    "lot_no": "710005A",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "2023年12月2日 スパイクバックス筋注（１価：オミクロン株XBB1.5)の7\r\n回目を接種した。\r\n同胞と3人で同居し、物忘れなく日常生活は自立していた。かかりつけ\r\n医なかった。動悸や息切れ、疲れやすさなかった。\r\n2023年12月24日20時20分頃に大きな音があって、階段下にうつ伏せ\r\nになっていた。「苦しい」と発語した。救急隊に連絡し、再度声掛けした\r\nときには意識がなかった。20時32分に救急隊が到着し、心肺停止状態\r\nだった。心肺蘇生で20時45分に心拍が再開した。入浴しようと階段を\r\n降りるところで、14段の階段の10段目に着替えを揃えていた。\r\n心拍は再開したが自発呼吸はなく人工呼吸器管理で外科病棟へ入院\r\nした。\r\n12月25日、26日、27日いずれも瞳孔は散瞳し、対光反射は消失してい\r\nた。随意運動や刺激への反応はなかった。神経学的な予後は極めて\r\n不良と判断した。家族に現状と予後を説明するとともに、呼吸循環など\r\n全身管理をいつまで続けるか、気管切開術や胃瘻造設術を踏まえた\r\n長期療養を相談した。患者はもともと自然な看取りを望んでいたが、家\r\n族は方針を決められなかった。\r\n12月27日19時31分、患者は死亡した。報告された死因は突然死で\r\nあった。\r\n剖検を実施した。剖検結果に異常は認められなかった。剖検による死\r\n因は心肺停止であった。\r\n肉眼解剖：心筋壊死、冠動脈閉塞、動脈解離、肺動脈血栓なし、両上\r\n部胸膜肥厚、副腎出血、膀胱内膿尿。",
+    "PT_names": [
+      "不明"
+    ],
+    "tests_used_for_determination": "剖検",
+    "causal_relationship": "関連あり",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "頚胸腹部CTで気腫等の所見が得られているが、蘇生に伴う変化と判断されたのか？また、剖検でそれらCT所見に対しての病理学的所見が得られていないのは何故なのかが分かると良い。※～7/29から変更なし。",
+    "id": "スパイクバックス筋注(1価:オミクロン株XBB.1.5)-10"
+  },
+  {
+    "no": 10,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.1)",
+    "age": 99,
+    "gender": "女",
+    "vaccinated_dates": "2023/6/26",
+    "onset_dates": [
+      "2023/7/1"
+    ],
+    "lot_no": "GD9574",
+    "vaccinated_times": "6回目",
+    "pre_existing_conditions": "基礎疾患等：糖尿病、認知症、老衰、嚥下困難、寝たきり、難聴、コミュニケーション障害、過活動膀胱、うっ血性心不全、皮膚そう痒症、鉄欠乏性貧血併用薬：ステーブラ",
+    "PT_names": [
+      "不明発熱"
+    ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "本症例は99歳と高齢、寝たきりであり、うっ血性心不全、糖尿病、認知症等の基礎疾患有しているため高リスク状態であった。本ワクチン接種後に発熱は認めたものの本剤と死因との因果関係を示す臨床経過臨床検査についての情報は不足している。※～1/26から変更なし。",
+    "id": "コミナティRTU筋注(2価:起源株/オミクロン株BA.1)-10"
   },
   {
     "no": 10,
@@ -2121,26 +2227,6 @@
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "ワクチン接種後２日目の死亡であるが，客観的な医学的所見，検査データが無いため，これ以上の死因に対する考察ができない．※～1/26から変更なし。",
     "id": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)-10"
-  },
-  {
-    "no": 10,
-    "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティ",
-    "age": 87,
-    "gender": "女",
-    "vaccinated_dates": "2024/12/06",
-    "onset_dates": "2024/12/08",
-    "lot_no": "LL4810",
-    "vaccinated_times": "",
-    "pre_existing_conditions": "不眠症\n胃食道逆流性疾患\n高脂血症\n高血圧",
-    "PT_names": [
-      "死亡"
-    ],
-    "tests_used_for_determination": "",
-    "causal_relationship": "ー",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "症状の経過に関する詳細な情報がなく、評価は困難である。",
-    "id": "コミナティ-10"
   },
   {
     "no": 10,
@@ -2169,25 +2255,25 @@
   },
   {
     "no": 10,
-    "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.1)",
-    "age": 99,
-    "gender": "女",
-    "vaccinated_dates": "2023/6/26",
+    "manufacturer": "モデルナ",
+    "vaccine_name": "スパイクバックス筋注",
+    "age": 86,
+    "gender": "男",
+    "vaccinated_dates": "2021/7/5",
     "onset_dates": [
-      "2023/7/1"
+      "2021/7/8"
     ],
-    "lot_no": "GD9574",
-    "vaccinated_times": "6回目",
-    "pre_existing_conditions": "基礎疾患等：糖尿病、認知症、老衰、嚥下困難、寝たきり、難聴、コミュニケーション障害、過活動膀胱、うっ血性心不全、皮膚そう痒症、鉄欠乏性貧血併用薬：ステーブラ",
+    "lot_no": "不明",
+    "vaccinated_times": "2回目",
+    "pre_existing_conditions": "基礎疾患等は不明7月6日に37.8℃の発熱あったが7日に解熱。",
     "PT_names": [
-      "不明発熱"
+      "不明"
     ],
     "tests_used_for_determination": "不明",
-    "causal_relationship": "評価不能",
+    "causal_relationship": "不明",
     "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "本症例は99歳と高齢、寝たきりであり、うっ血性心不全、糖尿病、認知症等の基礎疾患有しているため高リスク状態であった。本ワクチン接種後に発熱は認めたものの本剤と死因との因果関係を示す臨床経過臨床検査についての情報は不足している。※～1/26から変更なし。",
-    "id": "コミナティRTU筋注(2価:起源株/オミクロン株BA.1)-10"
+    "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
+    "id": "スパイクバックス筋注-10"
   },
   {
     "no": 10,
@@ -2213,69 +2299,91 @@
   },
   {
     "no": 10,
-    "manufacturer": "モデルナ",
-    "vaccine_name": "スパイクバックス筋注(1価:オミクロン株XBB.1.5)",
-    "age": 73,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ",
+    "age": 87,
     "gender": "女",
-    "vaccinated_dates": "2023/12/2",
+    "vaccinated_dates": "2024/12/06",
     "onset_dates": [
-      "2023/12/27"
+      "2024/12/08"
     ],
-    "lot_no": "710005A",
+    "lot_no": "LL4810",
     "vaccinated_times": "",
-    "pre_existing_conditions": "2023年12月2日 スパイクバックス筋注（１価：オミクロン株XBB1.5)の7\r\n回目を接種した。\r\n同胞と3人で同居し、物忘れなく日常生活は自立していた。かかりつけ\r\n医なかった。動悸や息切れ、疲れやすさなかった。\r\n2023年12月24日20時20分頃に大きな音があって、階段下にうつ伏せ\r\nになっていた。「苦しい」と発語した。救急隊に連絡し、再度声掛けした\r\nときには意識がなかった。20時32分に救急隊が到着し、心肺停止状態\r\nだった。心肺蘇生で20時45分に心拍が再開した。入浴しようと階段を\r\n降りるところで、14段の階段の10段目に着替えを揃えていた。\r\n心拍は再開したが自発呼吸はなく人工呼吸器管理で外科病棟へ入院\r\nした。\r\n12月25日、26日、27日いずれも瞳孔は散瞳し、対光反射は消失してい\r\nた。随意運動や刺激への反応はなかった。神経学的な予後は極めて\r\n不良と判断した。家族に現状と予後を説明するとともに、呼吸循環など\r\n全身管理をいつまで続けるか、気管切開術や胃瘻造設術を踏まえた\r\n長期療養を相談した。患者はもともと自然な看取りを望んでいたが、家\r\n族は方針を決められなかった。\r\n12月27日19時31分、患者は死亡した。報告された死因は突然死で\r\nあった。\r\n剖検を実施した。剖検結果に異常は認められなかった。剖検による死\r\n因は心肺停止であった。\r\n肉眼解剖：心筋壊死、冠動脈閉塞、動脈解離、肺動脈血栓なし、両上\r\n部胸膜肥厚、副腎出血、膀胱内膿尿。",
+    "pre_existing_conditions": "不眠症\n胃食道逆流性疾患\n高脂血症\n高血圧",
     "PT_names": [
-      "不明"
+      "死亡"
     ],
-    "tests_used_for_determination": "剖検",
-    "causal_relationship": "関連あり",
+    "tests_used_for_determination": "",
+    "causal_relationship": "ー",
     "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "頚胸腹部CTで気腫等の所見が得られているが、蘇生に伴う変化と判断されたのか？また、剖検でそれらCT所見に対しての病理学的所見が得られていないのは何故なのかが分かると良い。※～7/29から変更なし。",
-    "id": "スパイクバックス筋注(1価:オミクロン株XBB.1.5)-10"
+    "comments_by_expert": "症状の経過に関する詳細な情報がなく、評価は困難である。",
+    "id": "コミナティ-10"
   },
   {
-    "no": 10,
-    "manufacturer": "モデルナ",
-    "vaccine_name": "スパイクバックス筋注",
-    "age": 86,
-    "gender": "男",
-    "vaccinated_dates": "2021/7/5",
-    "onset_dates": [
-      "2021/7/8"
-    ],
-    "lot_no": "不明",
-    "vaccinated_times": "2回目",
-    "pre_existing_conditions": "基礎疾患等は不明7月6日に37.8℃の発熱あったが7日に解熱。",
-    "PT_names": [
-      "不明"
-    ],
-    "tests_used_for_determination": "不明",
-    "causal_relationship": "不明",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
-    "id": "スパイクバックス筋注-10"
-  },
-  {
-    "no": 10,
+    "no": 11,
     "manufacturer": "ファイザー",
     "vaccine_name": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)",
-    "age": "不明",
+    "age": 74,
     "gender": "男",
-    "vaccinated_dates": "不明",
+    "vaccinated_dates": "2023/10/14",
     "onset_dates": [
-      "2023"
+      "2023/10/29"
     ],
-    "lot_no": "不明",
+    "lot_no": "HG2251",
     "vaccinated_times": "",
-    "pre_existing_conditions": "（製品情報センターを介した自発報告）\r\n報告者のおじが今年、コロナワクチンを接種して死亡した。",
+    "pre_existing_conditions": "基礎疾患等：高血圧、頻尿\r\n2023/10/14　7回目のコロナワクチン予防接種を受けた。10/15に\r\n38℃台の発熱あり。10/16胸腹部・背部に発疹あり。痛みの訴えなく痒\r\nみを訴えていた。また下口唇が腫脹。呼吸苦・熱感・倦怠感あり。自宅\r\nにあったビラノア、PL顆粒を内服。10/17には症状軽減したが食欲低\r\n下。発熱あり。10/19病院受診。インフルエンザ、コロナ抗原は陰性で\r\nあった。解熱鎮痛剤を処方。元々頻尿であったが、10/21より頻尿が悪\r\n化。10/22両下肢脱力感あり歩行困難になった。10/23妻の車で泌尿\r\n器科を定期受診。発熱、頻尿あり。膀胱炎と診断されセフカペン、セル\r\nニルトンを処方。10/24歩行困難、発熱、食欲低下のため救急搬送。イ\r\nンフルエンザ・コロナ抗原は陰性。項部硬直なし。軽度の構音障害あ\r\nり、固縮なし。なんとか両上肢挙上可能。片方ずつなら屈曲位で下肢\r\n挙上されたが保持は困難。CK23768，Myoglobin>1000.0, CK-MB\r\n176.9と高値であった。臨床経過からコロナワクチン予防接種後の横紋\r\n筋融解症と考えられた。心電図は異常なし。頭部MRI拡散強調画像で\r\n高信号病変は指摘されず。一方、AST 769, ALT 123, γ-GTP 155,\r\nLDH 1567と肝機能異常みられた。腹部CTでは脂肪肝を指摘された他\r\nに有意な所見みられず。HCV抗体±、HBs抗原（-）、HA-IgM,　抗核抗\r\n体は陰性。点滴、ベッド上リハビリ等による全身管理を行った。10/26\r\nにはCK33256まで上昇したが、10/27にはCK20429と改善傾向であっ\r\nた。しかし全身状態は悪化し、10月29日22時40分に永眠。\r\n【報告医師のコメント】\r\n新型コロナワクチンの副作用として重篤な横紋筋融解症を引き起こし\r\nた症状と考える。",
+    "PT_names": [
+      "膀胱炎"
+    ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "関連あり",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "（コメント無し）※～7/29から変更なし。",
+    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-11"
+  },
+  {
+    "no": 11,
+    "manufacturer": "モデルナ",
+    "vaccine_name": "スパイクバックス筋注(1価:オミクロン株XBB.1.5)",
+    "age": 76,
+    "gender": "男",
+    "vaccinated_dates": "2023/11/24",
+    "onset_dates": [
+      "2024/1/19"
+    ],
+    "lot_no": "710011A",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "令和5年2月より急性間質性肺炎で治療中。6回目コロナワクチン接種\r\n後7日目頃より急激に呼吸状態悪化、O2吸入下でもSpO2 70％台とな\r\nり、12月5日当院紹介入院となる。\r\nCTでは両肺全体にスリガラス影著明、テータではKL-6、SP-D高値で\r\n急性間質性肺炎と診断、ステロイドパルス療法施行となり、一時安定\r\nしたが12月30日急激に悪化し、人工呼吸を設置したが、離脱に至らず\r\n令和6年1月19日死亡された。",
+    "PT_names": [
+      "間質性肺疾患"
+    ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "関連あり",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "（コメント無し）※～7/29から変更なし。",
+    "id": "スパイクバックス筋注(1価:オミクロン株XBB.1.5)-11"
+  },
+  {
+    "no": 11,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.1)",
+    "age": 86,
+    "gender": "男",
+    "vaccinated_dates": "2023/7/14",
+    "onset_dates": [
+      "2023/7/15"
+    ],
+    "lot_no": "GD9574",
+    "vaccinated_times": "6回目",
+    "pre_existing_conditions": "基礎疾患等：末期癌",
     "PT_names": [
       "不明"
     ],
     "tests_used_for_determination": "不明",
-    "causal_relationship": "不明",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "患者情報、どのような経過で死亡したのかという医学的経過などが何もないため評価不可。※～7/29から変更なし。",
-    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-10"
+    "comments_by_expert": "死因が不明であり、評価困難と考えます※～1/26から変更なし。",
+    "id": "コミナティRTU筋注(2価:起源株/オミクロン株BA.1)-11"
   },
   {
     "no": 11,
@@ -2302,26 +2410,6 @@
   {
     "no": 11,
     "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティ",
-    "age": 80,
-    "gender": "男",
-    "vaccinated_dates": "2024/11",
-    "onset_dates": "2024/11",
-    "lot_no": "",
-    "vaccinated_times": "",
-    "pre_existing_conditions": "交通事故\n肢欠損\n認知症",
-    "PT_names": [
-      "リンパ腫"
-    ],
-    "tests_used_for_determination": "",
-    "causal_relationship": "ー",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "症状の経過に関する詳細な情報がなく、評価は困難である。",
-    "id": "コミナティ-11"
-  },
-  {
-    "no": 11,
-    "manufacturer": "ファイザー",
     "vaccine_name": "コミナティ筋注",
     "age": 46,
     "gender": "男",
@@ -2341,72 +2429,6 @@
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
     "id": "コミナティ筋注-11"
-  },
-  {
-    "no": 11,
-    "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.1)",
-    "age": 86,
-    "gender": "男",
-    "vaccinated_dates": "2023/7/14",
-    "onset_dates": [
-      "2023/7/15"
-    ],
-    "lot_no": "GD9574",
-    "vaccinated_times": "6回目",
-    "pre_existing_conditions": "基礎疾患等：末期癌",
-    "PT_names": [
-      "不明"
-    ],
-    "tests_used_for_determination": "不明",
-    "causal_relationship": "評価不能",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "死因が不明であり、評価困難と考えます※～1/26から変更なし。",
-    "id": "コミナティRTU筋注(2価:起源株/オミクロン株BA.1)-11"
-  },
-  {
-    "no": 11,
-    "manufacturer": "モデルナ",
-    "vaccine_name": "スパイクバックス筋注(2価:起源株/オミクロン株BA.4-5",
-    "age": 80,
-    "gender": "男",
-    "vaccinated_dates": "2023/6/21",
-    "onset_dates": [
-      "2023/11/7"
-    ],
-    "lot_no": "400185A",
-    "vaccinated_times": "6回目",
-    "pre_existing_conditions": "基礎疾患等：不明2023年6月21日 スパイクバックス筋注",
-    "PT_names": [
-      "間質性肺疾患"
-    ],
-    "tests_used_for_determination": "CT",
-    "causal_relationship": "関連あり",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "（コメント無し）",
-    "id": "スパイクバックス筋注(2価:起源株/オミクロン株BA.4-5-11"
-  },
-  {
-    "no": 11,
-    "manufacturer": "モデルナ",
-    "vaccine_name": "スパイクバックス筋注(1価:オミクロン株XBB.1.5)",
-    "age": 76,
-    "gender": "男",
-    "vaccinated_dates": "2023/11/24",
-    "onset_dates": [
-      "2024/1/19"
-    ],
-    "lot_no": "710011A",
-    "vaccinated_times": "",
-    "pre_existing_conditions": "令和5年2月より急性間質性肺炎で治療中。6回目コロナワクチン接種\r\n後7日目頃より急激に呼吸状態悪化、O2吸入下でもSpO2 70％台とな\r\nり、12月5日当院紹介入院となる。\r\nCTでは両肺全体にスリガラス影著明、テータではKL-6、SP-D高値で\r\n急性間質性肺炎と診断、ステロイドパルス療法施行となり、一時安定\r\nしたが12月30日急激に悪化し、人工呼吸を設置したが、離脱に至らず\r\n令和6年1月19日死亡された。",
-    "PT_names": [
-      "間質性肺疾患"
-    ],
-    "tests_used_for_determination": "不明",
-    "causal_relationship": "関連あり",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "（コメント無し）※～7/29から変更なし。",
-    "id": "スパイクバックス筋注(1価:オミクロン株XBB.1.5)-11"
   },
   {
     "no": 11,
@@ -2433,25 +2455,116 @@
   },
   {
     "no": 11,
+    "manufacturer": "モデルナ",
+    "vaccine_name": "スパイクバックス筋注(2価:起源株/オミクロン株BA.4-5",
+    "age": 80,
+    "gender": "男",
+    "vaccinated_dates": "2023/6/21",
+    "onset_dates": [
+      "2023/11/7"
+    ],
+    "lot_no": "400185A",
+    "vaccinated_times": "6回目",
+    "pre_existing_conditions": "基礎疾患等：不明2023年6月21日 スパイクバックス筋注",
+    "PT_names": [
+      "間質性肺疾患"
+    ],
+    "tests_used_for_determination": "CT",
+    "causal_relationship": "関連あり",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "（コメント無し）",
+    "id": "スパイクバックス筋注(2価:起源株/オミクロン株BA.4-5-11"
+  },
+  {
+    "no": 11,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ",
+    "age": 80,
+    "gender": "男",
+    "vaccinated_dates": "2024/11",
+    "onset_dates": [
+      "2024/11"
+    ],
+    "lot_no": "",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "交通事故\n肢欠損\n認知症",
+    "PT_names": [
+      "リンパ腫"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "ー",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "症状の経過に関する詳細な情報がなく、評価は困難である。",
+    "id": "コミナティ-11"
+  },
+  {
+    "no": 12,
     "manufacturer": "ファイザー",
     "vaccine_name": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)",
-    "age": 74,
+    "age": 81,
     "gender": "男",
-    "vaccinated_dates": "2023/10/14",
+    "vaccinated_dates": "2023/10/12",
     "onset_dates": [
-      "2023/10/29"
+      "2023/10/13"
     ],
-    "lot_no": "HG2251",
+    "lot_no": "HD9868",
     "vaccinated_times": "",
-    "pre_existing_conditions": "基礎疾患等：高血圧、頻尿\r\n2023/10/14　7回目のコロナワクチン予防接種を受けた。10/15に\r\n38℃台の発熱あり。10/16胸腹部・背部に発疹あり。痛みの訴えなく痒\r\nみを訴えていた。また下口唇が腫脹。呼吸苦・熱感・倦怠感あり。自宅\r\nにあったビラノア、PL顆粒を内服。10/17には症状軽減したが食欲低\r\n下。発熱あり。10/19病院受診。インフルエンザ、コロナ抗原は陰性で\r\nあった。解熱鎮痛剤を処方。元々頻尿であったが、10/21より頻尿が悪\r\n化。10/22両下肢脱力感あり歩行困難になった。10/23妻の車で泌尿\r\n器科を定期受診。発熱、頻尿あり。膀胱炎と診断されセフカペン、セル\r\nニルトンを処方。10/24歩行困難、発熱、食欲低下のため救急搬送。イ\r\nンフルエンザ・コロナ抗原は陰性。項部硬直なし。軽度の構音障害あ\r\nり、固縮なし。なんとか両上肢挙上可能。片方ずつなら屈曲位で下肢\r\n挙上されたが保持は困難。CK23768，Myoglobin>1000.0, CK-MB\r\n176.9と高値であった。臨床経過からコロナワクチン予防接種後の横紋\r\n筋融解症と考えられた。心電図は異常なし。頭部MRI拡散強調画像で\r\n高信号病変は指摘されず。一方、AST 769, ALT 123, γ-GTP 155,\r\nLDH 1567と肝機能異常みられた。腹部CTでは脂肪肝を指摘された他\r\nに有意な所見みられず。HCV抗体±、HBs抗原（-）、HA-IgM,　抗核抗\r\n体は陰性。点滴、ベッド上リハビリ等による全身管理を行った。10/26\r\nにはCK33256まで上昇したが、10/27にはCK20429と改善傾向であっ\r\nた。しかし全身状態は悪化し、10月29日22時40分に永眠。\r\n【報告医師のコメント】\r\n新型コロナワクチンの副作用として重篤な横紋筋融解症を引き起こし\r\nた症状と考える。",
+    "pre_existing_conditions": "基礎疾患等：発作性心房細動、大腿筋層内出血\r\n併用薬：ワルファリン（1.75mg　2023.9.21　PT-INR　2.01）\r\n患者には2022年1月 原因不明の大腿筋層内出血の既往があった。\r\n2023年10月12日　7回目のコミナティ筋注施行。接種前の体温は36.4\r\n度。\r\n10/13未明、患者はふらふらしていて、妻が救急搬送依頼。脳外科に\r\n救急搬送され、脳出血と診断された。脳出血で手術予定となっていた\r\nが急変し死亡した。",
     "PT_names": [
-      "膀胱炎"
+      "脳出血"
+    ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "状況からは脳出血で死亡したと考えられる。PT-INR値はワーファリン内服中として適正ではあるものの、大腿筋層内出血の既往があり、出血リスクはやや高かった可能性がある。ワクチン接種が脳出血発症に何らかの影響を与えた可能性は否定できないが、発症までの状況に関する情報が不足しており評価できない。※～7/29から変更なし。",
+    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-12"
+  },
+  {
+    "no": 12,
+    "manufacturer": "モデルナ",
+    "vaccine_name": "スパイクバックス筋注(1価:オミクロン株XBB.1.5)",
+    "age": 95,
+    "gender": "女",
+    "vaccinated_dates": "2024/2/9",
+    "onset_dates": [
+      "2024/2/14"
+    ],
+    "lot_no": "710003A",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "基礎疾患等：頭部外傷、全身痙攣、症候性てんかん、外傷性硬膜下\r\n血腫後遺症、混合型認知症、糖尿病、高血圧症、誤嚥性肺炎、誤嚥、\r\n嚥下機能低下、認知症、入院（2023年12月8日、誤嚥性肺炎を契機に\r\n入院し、ワクチン接種まで入院継続していた）\r\n併用薬：ペリンドプリル、アマンタジン、シロスタゾール、ナトリックス、\r\nフォシーガ\r\n2024年2月9日午前9時50分 スパイクバックス筋注接種（7回目）\r\n接種前の体温36.9℃。同日午後3時に38℃の熱発し、ボルタレン坐薬\r\n12.5mg使用し解熱した。\r\n2月11日午前7時、夜勤看護師が定時見回りで往室すると、顔色不良\r\nで呼びかけに反応せず、体幹は熱い（この時の体温39度）が四肢の冷\r\n汗とチアノーゼを認めた。血圧測定不能で主治医を緊急呼び出しし\r\nた。酸素10L/min投与し、アナフィラキシーショックとしてボスミン0.3mg\r\n筋注、静脈ルート確保してソルラクトTMRの急速点滴投与を行った。血\r\n圧不安定だった。\r\n2月12日、2月13日は血圧は100以上で安定し低酸素血症も改善した\r\n（なお、この時期は両上肢に小さな筋痙攣が継続出現していた）。\r\n2月14日 患者は血圧低下、呼吸不全増悪し死亡した。報告された死\r\n因は、低酸素血症/呼吸不全増悪、肝機能障害、急性循環不全、足の\r\n蒼白化（レイノー現象の疑い）、四肢のチアノーゼ、頻脈、熱発、痙攣\r\nであった。剖検が実施されたかどうかは不明であった。\r\n【担当医等の意見】\r\nアナフィラキシーショックにしてはワクチン接種後48時間近くたっている\r\nことから、重篤な全身炎症（CRP：27.7mg/ｄL）やDICを含む肺塞栓血\r\n栓症などの血栓性疾患が出来したのではないかと疑う。また四肢のチ\r\nアノーゼ、足・足趾の蒼白化、冷感が最後まで改善せず、これらは末\r\n梢動脈血流不全の結果とも思える。血小板数はいつもは30万から40\r\n万/ｍLだが、2月13日の検査では12.4万/ｍLと著明に減っていた。",
+    "PT_names": [
+      "循環虚脱",
+      "チアノーゼ",
+      "蒼白",
+      "頻脈"
     ],
     "tests_used_for_determination": "不明",
     "causal_relationship": "関連あり",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）※～7/29から変更なし。",
-    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-11"
+    "id": "スパイクバックス筋注(1価:オミクロン株XBB.1.5)-12"
+  },
+  {
+    "no": 12,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.1)",
+    "age": 82,
+    "gender": "女",
+    "vaccinated_dates": "2023/5/29",
+    "onset_dates": [
+      "2023/6/10"
+    ],
+    "lot_no": "GE0905",
+    "vaccinated_times": "6回目",
+    "pre_existing_conditions": "自宅寝室で死亡されているところを発見された。",
+    "PT_names": [
+      "急性循環不全"
+    ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "ワクチン接種12日後に生じた突然死、循環不全という事象名と各々の時期の他に情報がなく、循環不全と死亡の病態を推定することができません。※～1/26から変更なし。",
+    "id": "コミナティRTU筋注(2価:起源株/オミクロン株BA.1)-12"
   },
   {
     "no": 12,
@@ -2501,75 +2614,6 @@
   },
   {
     "no": 12,
-    "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.1)",
-    "age": 82,
-    "gender": "女",
-    "vaccinated_dates": "2023/5/29",
-    "onset_dates": [
-      "2023/6/10"
-    ],
-    "lot_no": "GE0905",
-    "vaccinated_times": "6回目",
-    "pre_existing_conditions": "自宅寝室で死亡されているところを発見された。",
-    "PT_names": [
-      "急性循環不全"
-    ],
-    "tests_used_for_determination": "不明",
-    "causal_relationship": "評価不能",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "ワクチン接種12日後に生じた突然死、循環不全という事象名と各々の時期の他に情報がなく、循環不全と死亡の病態を推定することができません。※～1/26から変更なし。",
-    "id": "コミナティRTU筋注(2価:起源株/オミクロン株BA.1)-12"
-  },
-  {
-    "no": 12,
-    "manufacturer": "モデルナ",
-    "vaccine_name": "スパイクバックス筋注(2価:起源株/オミクロン株BA.4-5",
-    "age": 78,
-    "gender": "女",
-    "vaccinated_dates": "2023/6/15",
-    "onset_dates": [
-      "2023/10/31"
-    ],
-    "lot_no": "400085A",
-    "vaccinated_times": "6回目",
-    "pre_existing_conditions": "基礎疾患等：不明2023年6月15日 スパイクバックス筋注",
-    "PT_names": [
-      "間質性肺疾患"
-    ],
-    "tests_used_for_determination": "不明",
-    "causal_relationship": "関連あり",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "（コメント無し）",
-    "id": "スパイクバックス筋注(2価:起源株/オミクロン株BA.4-5-12"
-  },
-  {
-    "no": 12,
-    "manufacturer": "モデルナ",
-    "vaccine_name": "スパイクバックス筋注(1価:オミクロン株XBB.1.5)",
-    "age": 95,
-    "gender": "女",
-    "vaccinated_dates": "2024/2/9",
-    "onset_dates": [
-      "2024/2/14"
-    ],
-    "lot_no": "710003A",
-    "vaccinated_times": "",
-    "pre_existing_conditions": "基礎疾患等：頭部外傷、全身痙攣、症候性てんかん、外傷性硬膜下\r\n血腫後遺症、混合型認知症、糖尿病、高血圧症、誤嚥性肺炎、誤嚥、\r\n嚥下機能低下、認知症、入院（2023年12月8日、誤嚥性肺炎を契機に\r\n入院し、ワクチン接種まで入院継続していた）\r\n併用薬：ペリンドプリル、アマンタジン、シロスタゾール、ナトリックス、\r\nフォシーガ\r\n2024年2月9日午前9時50分 スパイクバックス筋注接種（7回目）\r\n接種前の体温36.9℃。同日午後3時に38℃の熱発し、ボルタレン坐薬\r\n12.5mg使用し解熱した。\r\n2月11日午前7時、夜勤看護師が定時見回りで往室すると、顔色不良\r\nで呼びかけに反応せず、体幹は熱い（この時の体温39度）が四肢の冷\r\n汗とチアノーゼを認めた。血圧測定不能で主治医を緊急呼び出しし\r\nた。酸素10L/min投与し、アナフィラキシーショックとしてボスミン0.3mg\r\n筋注、静脈ルート確保してソルラクトTMRの急速点滴投与を行った。血\r\n圧不安定だった。\r\n2月12日、2月13日は血圧は100以上で安定し低酸素血症も改善した\r\n（なお、この時期は両上肢に小さな筋痙攣が継続出現していた）。\r\n2月14日 患者は血圧低下、呼吸不全増悪し死亡した。報告された死\r\n因は、低酸素血症/呼吸不全増悪、肝機能障害、急性循環不全、足の\r\n蒼白化（レイノー現象の疑い）、四肢のチアノーゼ、頻脈、熱発、痙攣\r\nであった。剖検が実施されたかどうかは不明であった。\r\n【担当医等の意見】\r\nアナフィラキシーショックにしてはワクチン接種後48時間近くたっている\r\nことから、重篤な全身炎症（CRP：27.7mg/ｄL）やDICを含む肺塞栓血\r\n栓症などの血栓性疾患が出来したのではないかと疑う。また四肢のチ\r\nアノーゼ、足・足趾の蒼白化、冷感が最後まで改善せず、これらは末\r\n梢動脈血流不全の結果とも思える。血小板数はいつもは30万から40\r\n万/ｍLだが、2月13日の検査では12.4万/ｍLと著明に減っていた。",
-    "PT_names": [
-      "循環虚脱",
-      "チアノーゼ",
-      "蒼白",
-      "頻脈"
-    ],
-    "tests_used_for_determination": "不明",
-    "causal_relationship": "関連あり",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "（コメント無し）※～7/29から変更なし。",
-    "id": "スパイクバックス筋注(1価:オミクロン株XBB.1.5)-12"
-  },
-  {
-    "no": 12,
     "manufacturer": "モデルナ",
     "vaccine_name": "スパイクバックス筋注",
     "age": 47,
@@ -2595,25 +2639,48 @@
   },
   {
     "no": 12,
-    "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)",
-    "age": 81,
-    "gender": "男",
-    "vaccinated_dates": "2023/10/12",
+    "manufacturer": "モデルナ",
+    "vaccine_name": "スパイクバックス筋注(2価:起源株/オミクロン株BA.4-5",
+    "age": 78,
+    "gender": "女",
+    "vaccinated_dates": "2023/6/15",
     "onset_dates": [
-      "2023/10/13"
+      "2023/10/31"
     ],
-    "lot_no": "HD9868",
-    "vaccinated_times": "",
-    "pre_existing_conditions": "基礎疾患等：発作性心房細動、大腿筋層内出血\r\n併用薬：ワルファリン（1.75mg　2023.9.21　PT-INR　2.01）\r\n患者には2022年1月 原因不明の大腿筋層内出血の既往があった。\r\n2023年10月12日　7回目のコミナティ筋注施行。接種前の体温は36.4\r\n度。\r\n10/13未明、患者はふらふらしていて、妻が救急搬送依頼。脳外科に\r\n救急搬送され、脳出血と診断された。脳出血で手術予定となっていた\r\nが急変し死亡した。",
+    "lot_no": "400085A",
+    "vaccinated_times": "6回目",
+    "pre_existing_conditions": "基礎疾患等：不明2023年6月15日 スパイクバックス筋注",
     "PT_names": [
-      "脳出血"
+      "間質性肺疾患"
     ],
     "tests_used_for_determination": "不明",
-    "causal_relationship": "評価不能",
+    "causal_relationship": "関連あり",
     "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "状況からは脳出血で死亡したと考えられる。PT-INR値はワーファリン内服中として適正ではあるものの、大腿筋層内出血の既往があり、出血リスクはやや高かった可能性がある。ワクチン接種が脳出血発症に何らかの影響を与えた可能性は否定できないが、発症までの状況に関する情報が不足しており評価できない。※～7/29から変更なし。",
-    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-12"
+    "comments_by_expert": "（コメント無し）",
+    "id": "スパイクバックス筋注(2価:起源株/オミクロン株BA.4-5-12"
+  },
+  {
+    "no": 13,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)",
+    "age": 91,
+    "gender": "男",
+    "vaccinated_dates": "2023/11/16",
+    "onset_dates": [
+      "2023/11/17"
+    ],
+    "lot_no": "HH1299",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "基礎疾患等：アルツハイマー型認知症、前立腺肥大症、前立腺癌、慢\r\n性心不全、高脂血症、2型糖尿病、高血圧、駆出率低下を伴う心不\r\n全、心不全増悪、バイパス手術、逆流性食道炎、不眠症\r\n併用薬：ビソプロロールフマル酸塩、トラセミド錠、ジャディアンス錠、バ\r\nイアスピリン錠、ランソプラゾールOD錠、ピタバスチンCa錠、タムスロ\r\nシン塩酸塩OD錠、ドネペジル塩酸塩OD錠、ラメルテオン錠、エストラ\r\nサイトカプセル、テルミサルタン20mg錠、トラゼンタ錠、スピロノラクトン\r\n25mg錠、ピモベンダン錠、フロセミド錠\r\n前立腺癌・心不全HFrEF・認知症を主病名に訪問診察を行っていた。\r\n2023年9月に心不全の増悪を来し循環器病院にて約10日間入院加療\r\nし、心不全の症状の改善を認めていた。\r\n接種当日は特に問題なく過ごされており、直前はホールにて相撲を観\r\nておりお元気であった。接種後15分以上施設にて経過観察して気分不\r\n快や接種部位の疼痛などの訴えもなく退出した。接種当日の夕食は普\r\n通に食べ、夜間に発熱なども認めなかった。\r\n翌2023年11月17日、午前7時10分に施設看護師が巡回したところ、体\r\n熱感があり、呼びかけに反応が悪かった。そのためバイタルチェックし\r\n40.4℃の発熱を確認した。カロナール200mg内服実施した。その1時間\r\n半後、8時40分頃巡回したところ、呼吸停止していた。剖検は実施され\r\nなかった。\r\n【報告者のコメント】\r\n発熱による心不全の急性増悪と思われるが、経過が早すぎ、ワクチン\r\nの影響は否定できないと思われる。",
+    "PT_names": [
+      "意識変容状態",
+      "心不全"
+    ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "関連あり",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "（コメント無し）※～7/29から変更なし。",
+    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-13"
   },
   {
     "no": 13,
@@ -2662,28 +2729,6 @@
   {
     "no": 13,
     "manufacturer": "モデルナ",
-    "vaccine_name": "スパイクバックス筋注(2価:起源株/オミクロン株BA.4-5",
-    "age": 66,
-    "gender": "女",
-    "vaccinated_dates": "2023/6/13",
-    "onset_dates": [
-      "不明"
-    ],
-    "lot_no": "不明",
-    "vaccinated_times": "6回目",
-    "pre_existing_conditions": "基礎疾患等：脳性麻痺、うっ血性心不全、心房細動、筋緊張性障害、骨粗鬆症、脊椎骨折、肋軟骨骨折、慢性呼吸不全、尿路結石症、神経因性膀胱、窒息(新生児仮死）2023年6月13日 スパイクバックス筋注",
-    "PT_names": [
-      "大脳基底核出血"
-    ],
-    "tests_used_for_determination": "頭部CT",
-    "causal_relationship": "不明",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "（コメント無し）",
-    "id": "スパイクバックス筋注(2価:起源株/オミクロン株BA.4-5-13"
-  },
-  {
-    "no": 13,
-    "manufacturer": "モデルナ",
     "vaccine_name": "スパイクバックス筋注",
     "age": 57,
     "gender": "男",
@@ -2705,26 +2750,76 @@
   },
   {
     "no": 13,
+    "manufacturer": "モデルナ",
+    "vaccine_name": "スパイクバックス筋注(2価:起源株/オミクロン株BA.4-5",
+    "age": 66,
+    "gender": "女",
+    "vaccinated_dates": "2023/6/13",
+    "onset_dates": [
+      "不明"
+    ],
+    "lot_no": "不明",
+    "vaccinated_times": "6回目",
+    "pre_existing_conditions": "基礎疾患等：脳性麻痺、うっ血性心不全、心房細動、筋緊張性障害、骨粗鬆症、脊椎骨折、肋軟骨骨折、慢性呼吸不全、尿路結石症、神経因性膀胱、窒息(新生児仮死）2023年6月13日 スパイクバックス筋注",
+    "PT_names": [
+      "大脳基底核出血"
+    ],
+    "tests_used_for_determination": "頭部CT",
+    "causal_relationship": "不明",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "（コメント無し）",
+    "id": "スパイクバックス筋注(2価:起源株/オミクロン株BA.4-5-13"
+  },
+  {
+    "no": 14,
     "manufacturer": "ファイザー",
     "vaccine_name": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)",
-    "age": 91,
-    "gender": "男",
-    "vaccinated_dates": "2023/11/16",
+    "age": 81,
+    "gender": "女",
+    "vaccinated_dates": "2023/11/8",
     "onset_dates": [
-      "2023/11/17"
+      "2023/11/9"
     ],
-    "lot_no": "HH1299",
+    "lot_no": "HG2346",
     "vaccinated_times": "",
-    "pre_existing_conditions": "基礎疾患等：アルツハイマー型認知症、前立腺肥大症、前立腺癌、慢\r\n性心不全、高脂血症、2型糖尿病、高血圧、駆出率低下を伴う心不\r\n全、心不全増悪、バイパス手術、逆流性食道炎、不眠症\r\n併用薬：ビソプロロールフマル酸塩、トラセミド錠、ジャディアンス錠、バ\r\nイアスピリン錠、ランソプラゾールOD錠、ピタバスチンCa錠、タムスロ\r\nシン塩酸塩OD錠、ドネペジル塩酸塩OD錠、ラメルテオン錠、エストラ\r\nサイトカプセル、テルミサルタン20mg錠、トラゼンタ錠、スピロノラクトン\r\n25mg錠、ピモベンダン錠、フロセミド錠\r\n前立腺癌・心不全HFrEF・認知症を主病名に訪問診察を行っていた。\r\n2023年9月に心不全の増悪を来し循環器病院にて約10日間入院加療\r\nし、心不全の症状の改善を認めていた。\r\n接種当日は特に問題なく過ごされており、直前はホールにて相撲を観\r\nておりお元気であった。接種後15分以上施設にて経過観察して気分不\r\n快や接種部位の疼痛などの訴えもなく退出した。接種当日の夕食は普\r\n通に食べ、夜間に発熱なども認めなかった。\r\n翌2023年11月17日、午前7時10分に施設看護師が巡回したところ、体\r\n熱感があり、呼びかけに反応が悪かった。そのためバイタルチェックし\r\n40.4℃の発熱を確認した。カロナール200mg内服実施した。その1時間\r\n半後、8時40分頃巡回したところ、呼吸停止していた。剖検は実施され\r\nなかった。\r\n【報告者のコメント】\r\n発熱による心不全の急性増悪と思われるが、経過が早すぎ、ワクチン\r\nの影響は否定できないと思われる。",
+    "pre_existing_conditions": "基礎疾患等：高血圧、喘息、骨粗鬆症、食欲不振\r\n併用薬：ノルバスク、オルメテック、エディロール、モンテルカスト、クレ\r\nストール、ムコダイン、ゾルピデム、ビレーズトリ、ビラノア\r\n81歳12ヶ月の高齢者に対してのワクチン接種で、患者はこれまでの6\r\n回の新型コロナウイルス予防接種では問題がなかった。\r\n今回患者は7回目を接種したが、接種直後の観察では異常なかった。\r\nその翌日に警察から電話があり、患者が自宅で死亡したことが判明し\r\nた。ご遺族に電話にて確認したところでは、接種当日は普通にしてお\r\nり、翌日早朝から同居の夫は外出しており、患者の変化はわからな\r\nかったと。夫が帰宅したのが午後4時頃で、その時点でお亡くなりに\r\nなっていることを発見して警察に通報した。警察の見解では死亡推定\r\n時刻は同日の午前10時頃とのことであった。死亡原因については不\r\n明であり、原病の関与、他偶然のイベントの可能性もあると思料。\r\n【報告者のコメント】\r\n死亡との因果関係は不明であるが、接種翌日の死亡確認のために報\r\n告した。",
     "PT_names": [
-      "意識変容状態",
-      "心不全"
+      "不明"
     ],
     "tests_used_for_determination": "不明",
-    "causal_relationship": "関連あり",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）※～7/29から変更なし。",
-    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-13"
+    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-14"
+  },
+  {
+    "no": 14,
+    "manufacturer": "モデルナ",
+    "vaccine_name": "スパイクバックス筋注(1価:オミクロン株XBB.1.5)",
+    "age": 89,
+    "gender": "女",
+    "vaccinated_dates": "2023/11/10",
+    "onset_dates": [
+      "2023/11/11"
+    ],
+    "lot_no": "710010A",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "基礎疾患等：COVID-19、腰部脊柱管狭窄症、側弯症、喘鳴、起立困\r\n難、心疾患、腎障害、慢性心不全、糖尿病、尿路感染\r\n併用薬：リバーロキサバン、リナグリプチン、フェブキソスタット、トリア\r\nゾラム、エドキサバン\r\n要介護４\r\n2023年11月10日午後、スパイクバックス筋注（1価：オミクロン株\r\nXBB.1.5）の6回目を接種した（ロット番号：7100１0Ａ）。37℃の発熱が\r\nあった。\r\n19時頃（接種後約6時間）、背中や大腿部周辺の痛みを訴えるようにな\r\nり、21時10分頃から嘔吐が続くようになった。\r\n21時45分頃、振戦、悪寒があり、保温の措置がなされた。バイタルが\r\n95/75mmHgとなり、23時頃には体温が38.5℃まで上昇した。\r\n11月11日 07時45分、娘は看護師から「コロナワクチンの副反応で意\r\n識がない」と告げられた。\r\n同日、患者は朝食及び昼食を取りやめ、10時頃から点滴投与が開始\r\nされた。\r\n11時30分頃、職員の声がけにうなずき「梅干を食べたい」と述べた。\r\n15時30分頃から呼吸が浅くなり、左足下腿と右足底部にチアノーゼが\r\n発生した。\r\n20時10分頃に呼吸が少し浅くなり、20時30分頃に呼吸の間隔が長くな\r\nる。\r\n20時49分に呼吸が停止し、21時25分に医師が死亡を確認した。\r\n患者は左足の足首から指の先までチアノーゼになり、皮膚が破壊され\r\nて左足の膝下リンパから体液が出た。\r\n死因はうっ血性心不全と診断された。剖検は行われなかった。",
+    "PT_names": [
+      "意識消失",
+      "呼吸困難",
+      "嘔吐",
+      "振戦",
+      "悪寒",
+      "四肢痛",
+      "皮膚病変",
+      "背部痛"
+    ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "不明",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "死因の特定が困難であり因果関係の評価ができない。",
+    "id": "スパイクバックス筋注(1価:オミクロン株XBB.1.5)-14"
   },
   {
     "no": 14,
@@ -2773,57 +2868,6 @@
   {
     "no": 14,
     "manufacturer": "モデルナ",
-    "vaccine_name": "スパイクバックス筋注(2価:起源株/オミクロン株BA.4-5",
-    "age": 87,
-    "gender": "男",
-    "vaccinated_dates": "2023/6/7",
-    "onset_dates": [
-      "2024/2/5"
-    ],
-    "lot_no": "400095A",
-    "vaccinated_times": "6回目",
-    "pre_existing_conditions": "基礎疾患等：不明予診票での留意点：なし2023年6月7日 スパイクバックス筋注",
-    "PT_names": [
-      "間質性肺疾患"
-    ],
-    "tests_used_for_determination": "不明",
-    "causal_relationship": "関連あり",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "（コメント無し）",
-    "id": "スパイクバックス筋注(2価:起源株/オミクロン株BA.4-5-14"
-  },
-  {
-    "no": 14,
-    "manufacturer": "モデルナ",
-    "vaccine_name": "スパイクバックス筋注(1価:オミクロン株XBB.1.5)",
-    "age": 89,
-    "gender": "女",
-    "vaccinated_dates": "2023/11/10",
-    "onset_dates": [
-      "2023/11/11"
-    ],
-    "lot_no": "710010A",
-    "vaccinated_times": "",
-    "pre_existing_conditions": "基礎疾患等：COVID-19、腰部脊柱管狭窄症、側弯症、喘鳴、起立困\r\n難、心疾患、腎障害、慢性心不全、糖尿病、尿路感染\r\n併用薬：リバーロキサバン、リナグリプチン、フェブキソスタット、トリア\r\nゾラム、エドキサバン\r\n要介護４\r\n2023年11月10日午後、スパイクバックス筋注（1価：オミクロン株\r\nXBB.1.5）の6回目を接種した（ロット番号：7100１0Ａ）。37℃の発熱が\r\nあった。\r\n19時頃（接種後約6時間）、背中や大腿部周辺の痛みを訴えるようにな\r\nり、21時10分頃から嘔吐が続くようになった。\r\n21時45分頃、振戦、悪寒があり、保温の措置がなされた。バイタルが\r\n95/75mmHgとなり、23時頃には体温が38.5℃まで上昇した。\r\n11月11日 07時45分、娘は看護師から「コロナワクチンの副反応で意\r\n識がない」と告げられた。\r\n同日、患者は朝食及び昼食を取りやめ、10時頃から点滴投与が開始\r\nされた。\r\n11時30分頃、職員の声がけにうなずき「梅干を食べたい」と述べた。\r\n15時30分頃から呼吸が浅くなり、左足下腿と右足底部にチアノーゼが\r\n発生した。\r\n20時10分頃に呼吸が少し浅くなり、20時30分頃に呼吸の間隔が長くな\r\nる。\r\n20時49分に呼吸が停止し、21時25分に医師が死亡を確認した。\r\n患者は左足の足首から指の先までチアノーゼになり、皮膚が破壊され\r\nて左足の膝下リンパから体液が出た。\r\n死因はうっ血性心不全と診断された。剖検は行われなかった。",
-    "PT_names": [
-      "意識消失",
-      "呼吸困難",
-      "嘔吐",
-      "振戦",
-      "悪寒",
-      "四肢痛",
-      "皮膚病変",
-      "背部痛"
-    ],
-    "tests_used_for_determination": "不明",
-    "causal_relationship": "不明",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "死因の特定が困難であり因果関係の評価ができない。",
-    "id": "スパイクバックス筋注(1価:オミクロン株XBB.1.5)-14"
-  },
-  {
-    "no": 14,
-    "manufacturer": "モデルナ",
     "vaccine_name": "スパイクバックス筋注",
     "age": "不明",
     "gender": "女",
@@ -2845,25 +2889,70 @@
   },
   {
     "no": 14,
+    "manufacturer": "モデルナ",
+    "vaccine_name": "スパイクバックス筋注(2価:起源株/オミクロン株BA.4-5",
+    "age": 87,
+    "gender": "男",
+    "vaccinated_dates": "2023/6/7",
+    "onset_dates": [
+      "2024/2/5"
+    ],
+    "lot_no": "400095A",
+    "vaccinated_times": "6回目",
+    "pre_existing_conditions": "基礎疾患等：不明予診票での留意点：なし2023年6月7日 スパイクバックス筋注",
+    "PT_names": [
+      "間質性肺疾患"
+    ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "関連あり",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "（コメント無し）",
+    "id": "スパイクバックス筋注(2価:起源株/オミクロン株BA.4-5-14"
+  },
+  {
+    "no": 15,
     "manufacturer": "ファイザー",
     "vaccine_name": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)",
-    "age": 81,
-    "gender": "女",
-    "vaccinated_dates": "2023/11/8",
+    "age": 79,
+    "gender": "男",
+    "vaccinated_dates": "2023/10/27",
     "onset_dates": [
-      "2023/11/9"
+      "2023/10/28"
     ],
-    "lot_no": "HG2346",
+    "lot_no": "不明",
     "vaccinated_times": "",
-    "pre_existing_conditions": "基礎疾患等：高血圧、喘息、骨粗鬆症、食欲不振\r\n併用薬：ノルバスク、オルメテック、エディロール、モンテルカスト、クレ\r\nストール、ムコダイン、ゾルピデム、ビレーズトリ、ビラノア\r\n81歳12ヶ月の高齢者に対してのワクチン接種で、患者はこれまでの6\r\n回の新型コロナウイルス予防接種では問題がなかった。\r\n今回患者は7回目を接種したが、接種直後の観察では異常なかった。\r\nその翌日に警察から電話があり、患者が自宅で死亡したことが判明し\r\nた。ご遺族に電話にて確認したところでは、接種当日は普通にしてお\r\nり、翌日早朝から同居の夫は外出しており、患者の変化はわからな\r\nかったと。夫が帰宅したのが午後4時頃で、その時点でお亡くなりに\r\nなっていることを発見して警察に通報した。警察の見解では死亡推定\r\n時刻は同日の午前10時頃とのことであった。死亡原因については不\r\n明であり、原病の関与、他偶然のイベントの可能性もあると思料。\r\n【報告者のコメント】\r\n死亡との因果関係は不明であるが、接種翌日の死亡確認のために報\r\n告した。",
+    "pre_existing_conditions": "【\r\n基礎疾患等：発作性心房細動、心筋梗塞\r\n2023年10月27日 ワクチン接種前の体温は36.7度であった。\r\n患者に同時接種されたワクチンはインフルエンザであった。\r\n2023年10月27日　20時50分（コロナワクチン接種9時間50分後）、患者\r\nはアナフィラキシー、心筋炎（急性心筋炎疑いとも報告され、劇症型心\r\n筋炎であった）、および熱性けいれんを発現した。\r\nコロナワクチン接種後、40度の発熱（急激な発熱）と酸素化低下を認\r\nめ、血圧も低値傾向（血圧低下）であった。インフルエンザワクチン接\r\n種後、患者はアナフィラキシーを発現した。アナフィラキシーと心筋炎\r\nは酸素を含む治療を必要とした。その後急激に急変を認め、心停止に\r\n至った。\r\n患者の死亡日は2023年10月28日であった。遺族の意思により剖検は\r\n実施されなかった。\r\n2023/12/26 医師は、心筋炎は劇症型に該当すると報告した。\r\n心筋炎調査票上、病理組織学的検査は未実施であった。心臓組織の\r\n炎症所見はなかった。検査所見：CRP上なし。トロポニンT、トロポニン\r\nI、CK.、CK-MB、高感度CRP、ESR（1時間値）、Dダイマーはすべて未\r\n実施。心臓MRI検査を含む画像検査はすべて未実施。直近の冠動脈\r\n検査、心臓超音波検査、心電図検査未実施。\r\nアナフィラキシーの分類評価（ブライトン分類）として、随伴症状の\r\nmajor基準は測定された血圧低下の循環器症状を含み、随伴症状の\r\nminor基準は頻脈と意識レベルの低下の循環器症状を含んだ。\r\n診断の必須条件として、突然発症、徴候および症状の急速な進行が\r\nあり、患者は酸素の医学的介入を必要とした。多臓器障害は不明で\r\nあった。\r\n報告者のコメント】\r\n急激な経過と、既往に心筋梗塞もあり、急性心筋炎を起こした可能性\r\nが高いと判断する。ワクチン接種前は全身状態は特に問題なしであ\r\nり、ワクチン接種後に心筋炎様症状がでたため、急性心筋炎による心\r\n室細動の疑いであった。",
     "PT_names": [
-      "不明"
+      "心筋炎",
+      "熱性痙攣"
+    ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "関連あり",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "コロナウイルスワクチンとインフルエンザワクチンを同時に接種した症例である。　心筋炎と診断するには、客観的な情報の記載がなく困難である。アナフィラキシーに関しても、血圧低下を認めているが、皮膚症状や呼吸器症状の記載がなく、診断根拠となる情報が乏しい。　心筋炎は市中感染症などを契機として自然発生することが知られている疾患であり、ワクチンによる心筋炎なのか、ワクチンとは関係の無い自然発生した心筋炎なのかを判別することは困難である。そのため、ワクチンとの因果関係を有と判断することはできないと考えた。※～7/29から変更なし。",
+    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-15"
+  },
+  {
+    "no": 15,
+    "manufacturer": "モデルナ",
+    "vaccine_name": "スパイクバックス筋注(1価:オミクロン株XBB.1.5)",
+    "age": 63,
+    "gender": "男",
+    "vaccinated_dates": "2023/10/24",
+    "onset_dates": [
+      "2023/12/11"
+    ],
+    "lot_no": "710004A",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "（家族から申請があったことに基づく医療機関からの報告）\r\n基礎疾患等：関節リウマチ、間質性肺炎\r\n併用薬：サラゾスルファピリジン、イグラチモド、プレドニゾロン\r\n関節リウマチのために通院していた。\r\n2023年10月24日 スパイクバックス筋注（１価：オミクロン株XBB1.5)の\r\n７回目を接種した。\r\n11月14日 息苦しさがあり、食欲が徐々に低下していた。呼吸不全、間\r\n質性肺炎が発現した。\r\n11月15日 夕方にかけて、呼吸困難が増悪し、うごけなくなってしまい、\r\n救急要請し、緊急救命室に搬送された。抗菌薬、ステロイドパルス療\r\n法が開始されたが、同日夜には気管挿管、人工呼吸器管理となった。\r\n以後ステロイドパルスを繰り返し、エンドキサンパルスを施行したが、\r\n呼吸不全の改善はなかった。気管切開のうえで、緩和治療に切り替\r\nえ、モルヒネとミダゾラムで緩和治療したが、呼吸不全が進行した。\r\n12月11日、05時09分 死亡した。\r\n報告された死因は間質性肺疾患であった。解剖は実施されなかった。\r\n【担当医等の意見】\r\nもともと関節リウマチと間質性肺炎がある方なので、なんらかの炎症を\r\n契機に増悪しますので、必ずしもワクチンが原因とは言い切れませ\r\nん。",
+    "PT_names": [
+      "間質性肺疾患"
     ],
     "tests_used_for_determination": "不明",
     "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "（コメント無し）※～7/29から変更なし。",
-    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-14"
+    "comments_by_expert": "担当医等の意見にもある通り、基礎疾患を考えると基礎疾患の急性増悪の原因としてワクチン接種との関連性は否定も肯定もできない。急性増悪までの外来管理時経過や検査所見、剖検検討もないため評価は困難であるが、あったとしても断定材料になるという断言もできないため、本事象とワクチン接種との関連は否定も肯定もできない。",
+    "id": "スパイクバックス筋注(1価:オミクロン株XBB.1.5)-15"
   },
   {
     "no": 15,
@@ -2913,28 +3002,6 @@
   {
     "no": 15,
     "manufacturer": "モデルナ",
-    "vaccine_name": "スパイクバックス筋注(1価:オミクロン株XBB.1.5)",
-    "age": 63,
-    "gender": "男",
-    "vaccinated_dates": "2023/10/24",
-    "onset_dates": [
-      "2023/12/11"
-    ],
-    "lot_no": "710004A",
-    "vaccinated_times": "",
-    "pre_existing_conditions": "（家族から申請があったことに基づく医療機関からの報告）\r\n基礎疾患等：関節リウマチ、間質性肺炎\r\n併用薬：サラゾスルファピリジン、イグラチモド、プレドニゾロン\r\n関節リウマチのために通院していた。\r\n2023年10月24日 スパイクバックス筋注（１価：オミクロン株XBB1.5)の\r\n７回目を接種した。\r\n11月14日 息苦しさがあり、食欲が徐々に低下していた。呼吸不全、間\r\n質性肺炎が発現した。\r\n11月15日 夕方にかけて、呼吸困難が増悪し、うごけなくなってしまい、\r\n救急要請し、緊急救命室に搬送された。抗菌薬、ステロイドパルス療\r\n法が開始されたが、同日夜には気管挿管、人工呼吸器管理となった。\r\n以後ステロイドパルスを繰り返し、エンドキサンパルスを施行したが、\r\n呼吸不全の改善はなかった。気管切開のうえで、緩和治療に切り替\r\nえ、モルヒネとミダゾラムで緩和治療したが、呼吸不全が進行した。\r\n12月11日、05時09分 死亡した。\r\n報告された死因は間質性肺疾患であった。解剖は実施されなかった。\r\n【担当医等の意見】\r\nもともと関節リウマチと間質性肺炎がある方なので、なんらかの炎症を\r\n契機に増悪しますので、必ずしもワクチンが原因とは言い切れませ\r\nん。",
-    "PT_names": [
-      "間質性肺疾患"
-    ],
-    "tests_used_for_determination": "不明",
-    "causal_relationship": "評価不能",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "担当医等の意見にもある通り、基礎疾患を考えると基礎疾患の急性増悪の原因としてワクチン接種との関連性は否定も肯定もできない。急性増悪までの外来管理時経過や検査所見、剖検検討もないため評価は困難であるが、あったとしても断定材料になるという断言もできないため、本事象とワクチン接種との関連は否定も肯定もできない。",
-    "id": "スパイクバックス筋注(1価:オミクロン株XBB.1.5)-15"
-  },
-  {
-    "no": 15,
-    "manufacturer": "モデルナ",
     "vaccine_name": "スパイクバックス筋注",
     "age": 57,
     "gender": "男",
@@ -2955,27 +3022,49 @@
     "id": "スパイクバックス筋注-15"
   },
   {
-    "no": 15,
+    "no": 16,
     "manufacturer": "ファイザー",
     "vaccine_name": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)",
-    "age": 79,
+    "age": 82,
     "gender": "男",
-    "vaccinated_dates": "2023/10/27",
+    "vaccinated_dates": "2023/11/14",
     "onset_dates": [
-      "2023/10/28"
+      "2023/11/18"
     ],
-    "lot_no": "不明",
+    "lot_no": "HG2346",
     "vaccinated_times": "",
-    "pre_existing_conditions": "【\r\n基礎疾患等：発作性心房細動、心筋梗塞\r\n2023年10月27日 ワクチン接種前の体温は36.7度であった。\r\n患者に同時接種されたワクチンはインフルエンザであった。\r\n2023年10月27日　20時50分（コロナワクチン接種9時間50分後）、患者\r\nはアナフィラキシー、心筋炎（急性心筋炎疑いとも報告され、劇症型心\r\n筋炎であった）、および熱性けいれんを発現した。\r\nコロナワクチン接種後、40度の発熱（急激な発熱）と酸素化低下を認\r\nめ、血圧も低値傾向（血圧低下）であった。インフルエンザワクチン接\r\n種後、患者はアナフィラキシーを発現した。アナフィラキシーと心筋炎\r\nは酸素を含む治療を必要とした。その後急激に急変を認め、心停止に\r\n至った。\r\n患者の死亡日は2023年10月28日であった。遺族の意思により剖検は\r\n実施されなかった。\r\n2023/12/26 医師は、心筋炎は劇症型に該当すると報告した。\r\n心筋炎調査票上、病理組織学的検査は未実施であった。心臓組織の\r\n炎症所見はなかった。検査所見：CRP上なし。トロポニンT、トロポニン\r\nI、CK.、CK-MB、高感度CRP、ESR（1時間値）、Dダイマーはすべて未\r\n実施。心臓MRI検査を含む画像検査はすべて未実施。直近の冠動脈\r\n検査、心臓超音波検査、心電図検査未実施。\r\nアナフィラキシーの分類評価（ブライトン分類）として、随伴症状の\r\nmajor基準は測定された血圧低下の循環器症状を含み、随伴症状の\r\nminor基準は頻脈と意識レベルの低下の循環器症状を含んだ。\r\n診断の必須条件として、突然発症、徴候および症状の急速な進行が\r\nあり、患者は酸素の医学的介入を必要とした。多臓器障害は不明で\r\nあった。\r\n報告者のコメント】\r\n急激な経過と、既往に心筋梗塞もあり、急性心筋炎を起こした可能性\r\nが高いと判断する。ワクチン接種前は全身状態は特に問題なしであ\r\nり、ワクチン接種後に心筋炎様症状がでたため、急性心筋炎による心\r\n室細動の疑いであった。",
+    "pre_existing_conditions": "基礎疾患等：間質性肺炎、認知症、脳梗塞後遺症、呼吸不全、胸部大\r\n動脈瘤\r\n併用薬：マグミット、メマンチン、シロドシン、クエチアピン、センノシド\r\n生活の場：介護医療院。ワクチン接種前体温36.8度。\r\n2023/11/14 14:00ごろコミナティ筋注（１価：オミクロン株XBB1.5）を接\r\n種し、17:30（3時間半後）から呼吸状態が悪くなった。自室で喘鳴、呼\r\n吸苦。SpO2測定し、50％前後であった。18:00ごろA病院に搬送され\r\nた。\r\n2023/11/18 16:30ごろ、患者は死亡した。\r\nA病院のB先生が治療を引き継いだため、治療内容や経過については\r\n不明とのことであった。\r\n事象は5日間の入院および死亡となった。剖検は実施されなかった。",
     "PT_names": [
-      "心筋炎",
-      "熱性痙攣"
+      "喘鳴",
+      "呼吸困難"
     ],
     "tests_used_for_determination": "不明",
-    "causal_relationship": "関連あり",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "コロナウイルスワクチンとインフルエンザワクチンを同時に接種した症例である。　心筋炎と診断するには、客観的な情報の記載がなく困難である。アナフィラキシーに関しても、血圧低下を認めているが、皮膚症状や呼吸器症状の記載がなく、診断根拠となる情報が乏しい。　心筋炎は市中感染症などを契機として自然発生することが知られている疾患であり、ワクチンによる心筋炎なのか、ワクチンとは関係の無い自然発生した心筋炎なのかを判別することは困難である。そのため、ワクチンとの因果関係を有と判断することはできないと考えた。※～7/29から変更なし。",
-    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-15"
+    "comments_by_expert": "（コメント無し）※～7/29から変更なし。",
+    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-16"
+  },
+  {
+    "no": 16,
+    "manufacturer": "モデルナ",
+    "vaccine_name": "スパイクバックス筋注(1価:オミクロン株XBB.1.5)",
+    "age": 34,
+    "gender": "女",
+    "vaccinated_dates": "2023/11/1",
+    "onset_dates": [
+      "2023/11/7"
+    ],
+    "lot_no": "710011A",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "基礎疾患等：精神遅滞\r\n接種前の体温：36度5分\r\n2023年11月01日14時00分、スパイクバックス筋注（1価：オミクロン株\r\nXBB.1.5）の7回目（ロット番号：710011A）を接種した。\r\n11月06日 夕方トイレで少量の嘔吐、顔面蒼白、意識消失あり。血圧\r\n145/98、酸素飽和度96%であった。10分したら反応が見られるように\r\nなった。左足の運びが少し悪く、近医を受診した。翌日、神経内科受診\r\nを考えた。帰園後は食事を食べ、声かけにも反応がよかった。\r\n11月07日 深夜02時頃までは自分でトイレに行っていることを確認して\r\nいた。起床介護のため部屋に入ると心肺停止状態であった。\r\nただちに救急搬送、診断はくも膜下出血であった。\r\n06時、死亡した。\r\n報告された死亡原因はくも膜下出血であった。剖検が実施したかどう\r\nかは不明であった。",
+    "PT_names": [
+      "くも膜下出血"
+    ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "年齢を考えるとワクチン接種による副作用発現の可能性は否定できないが、精神発達遅滞があるとのことで、この器質的原因検索結果等情報がないことや、症状出現後精査がなされていないため評価できない。",
+    "id": "スパイクバックス筋注(1価:オミクロン株XBB.1.5)-16"
   },
   {
     "no": 16,
@@ -3025,28 +3114,6 @@
   {
     "no": 16,
     "manufacturer": "モデルナ",
-    "vaccine_name": "スパイクバックス筋注(1価:オミクロン株XBB.1.5)",
-    "age": 34,
-    "gender": "女",
-    "vaccinated_dates": "2023/11/1",
-    "onset_dates": [
-      "2023/11/7"
-    ],
-    "lot_no": "710011A",
-    "vaccinated_times": "",
-    "pre_existing_conditions": "基礎疾患等：精神遅滞\r\n接種前の体温：36度5分\r\n2023年11月01日14時00分、スパイクバックス筋注（1価：オミクロン株\r\nXBB.1.5）の7回目（ロット番号：710011A）を接種した。\r\n11月06日 夕方トイレで少量の嘔吐、顔面蒼白、意識消失あり。血圧\r\n145/98、酸素飽和度96%であった。10分したら反応が見られるように\r\nなった。左足の運びが少し悪く、近医を受診した。翌日、神経内科受診\r\nを考えた。帰園後は食事を食べ、声かけにも反応がよかった。\r\n11月07日 深夜02時頃までは自分でトイレに行っていることを確認して\r\nいた。起床介護のため部屋に入ると心肺停止状態であった。\r\nただちに救急搬送、診断はくも膜下出血であった。\r\n06時、死亡した。\r\n報告された死亡原因はくも膜下出血であった。剖検が実施したかどう\r\nかは不明であった。",
-    "PT_names": [
-      "くも膜下出血"
-    ],
-    "tests_used_for_determination": "不明",
-    "causal_relationship": "評価不能",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "年齢を考えるとワクチン接種による副作用発現の可能性は否定できないが、精神発達遅滞があるとのことで、この器質的原因検索結果等情報がないことや、症状出現後精査がなされていないため評価できない。",
-    "id": "スパイクバックス筋注(1価:オミクロン株XBB.1.5)-16"
-  },
-  {
-    "no": 16,
-    "manufacturer": "モデルナ",
     "vaccine_name": "スパイクバックス筋注",
     "age": 43,
     "gender": "男",
@@ -3067,27 +3134,26 @@
     "id": "スパイクバックス筋注-16"
   },
   {
-    "no": 16,
+    "no": 17,
     "manufacturer": "ファイザー",
     "vaccine_name": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)",
-    "age": 82,
-    "gender": "男",
-    "vaccinated_dates": "2023/11/14",
+    "age": 86,
+    "gender": "女",
+    "vaccinated_dates": "2023/10/18",
     "onset_dates": [
-      "2023/11/18"
+      "2023/10/21"
     ],
-    "lot_no": "HG2346",
+    "lot_no": "HG2251",
     "vaccinated_times": "",
-    "pre_existing_conditions": "基礎疾患等：間質性肺炎、認知症、脳梗塞後遺症、呼吸不全、胸部大\r\n動脈瘤\r\n併用薬：マグミット、メマンチン、シロドシン、クエチアピン、センノシド\r\n生活の場：介護医療院。ワクチン接種前体温36.8度。\r\n2023/11/14 14:00ごろコミナティ筋注（１価：オミクロン株XBB1.5）を接\r\n種し、17:30（3時間半後）から呼吸状態が悪くなった。自室で喘鳴、呼\r\n吸苦。SpO2測定し、50％前後であった。18:00ごろA病院に搬送され\r\nた。\r\n2023/11/18 16:30ごろ、患者は死亡した。\r\nA病院のB先生が治療を引き継いだため、治療内容や経過については\r\n不明とのことであった。\r\n事象は5日間の入院および死亡となった。剖検は実施されなかった。",
+    "pre_existing_conditions": "基礎疾患等：間質性肺炎、糖尿病、急性心筋梗塞、2型糖尿病\r\n2023年10月18日 体温など全身状態確認後に左上肢にコミナティを筋\r\n注した。\r\n翌10月19日 14:00頃より、経皮酸素濃度低下が出現し、酸素投与を開\r\n始した。間質性肺炎急性増悪を発現した。\r\n10月20日 間質性肺炎のため、ステロイド大量投与した。間質性肺炎\r\nはワクチン接種時点ですでに罹患していたが、ワクチン接種により間\r\n質性肺炎が増悪した。血液検査にてWBC14700　CRP3.36mg/dL。胸\r\n部CT検査では胸膜下中心に網状影の拡大あり、間質性肺炎増悪の\r\n可能性を疑った。追加KL-6にて結果は1110IU/mL(正常高値：500以\r\n下）であった。メチルプレドニゾロン大量点滴等の治療を開始した。\r\n10月21日の胸部CT：前回よりすりガラス陰影増強した。\r\n10月21日　午前8時05分患者は死亡の転帰に至った。（因果関係は不\r\n明、死因は間質性肺炎増悪であった）。\r\n主に臨床症状経過とCT画像所見より、以前からの間質性肺炎が急性\r\n増悪したものと考えられ、治療としてメチルプレドニゾロン大量投与（年\r\n齢、糖尿病の合併を考慮して500mg/日）を中心とする対応を行った\r\nが、症状は進行し、呼吸不全による死亡の転帰に至った。剖検は実施\r\nされなかった。",
     "PT_names": [
-      "喘鳴",
-      "呼吸困難"
+      "間質性肺疾患"
     ],
-    "tests_used_for_determination": "不明",
+    "tests_used_for_determination": "胸部CT",
     "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）※～7/29から変更なし。",
-    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-16"
+    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-17"
   },
   {
     "no": 17,
@@ -3162,26 +3228,27 @@
     "id": "スパイクバックス筋注-17"
   },
   {
-    "no": 17,
+    "no": 18,
     "manufacturer": "ファイザー",
     "vaccine_name": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)",
-    "age": 86,
-    "gender": "女",
-    "vaccinated_dates": "2023/10/18",
+    "age": 73,
+    "gender": "男",
+    "vaccinated_dates": "2023/11/27",
     "onset_dates": [
-      "2023/10/21"
+      "2023/11/29"
     ],
-    "lot_no": "HG2251",
+    "lot_no": "HH1299",
     "vaccinated_times": "",
-    "pre_existing_conditions": "基礎疾患等：間質性肺炎、糖尿病、急性心筋梗塞、2型糖尿病\r\n2023年10月18日 体温など全身状態確認後に左上肢にコミナティを筋\r\n注した。\r\n翌10月19日 14:00頃より、経皮酸素濃度低下が出現し、酸素投与を開\r\n始した。間質性肺炎急性増悪を発現した。\r\n10月20日 間質性肺炎のため、ステロイド大量投与した。間質性肺炎\r\nはワクチン接種時点ですでに罹患していたが、ワクチン接種により間\r\n質性肺炎が増悪した。血液検査にてWBC14700　CRP3.36mg/dL。胸\r\n部CT検査では胸膜下中心に網状影の拡大あり、間質性肺炎増悪の\r\n可能性を疑った。追加KL-6にて結果は1110IU/mL(正常高値：500以\r\n下）であった。メチルプレドニゾロン大量点滴等の治療を開始した。\r\n10月21日の胸部CT：前回よりすりガラス陰影増強した。\r\n10月21日　午前8時05分患者は死亡の転帰に至った。（因果関係は不\r\n明、死因は間質性肺炎増悪であった）。\r\n主に臨床症状経過とCT画像所見より、以前からの間質性肺炎が急性\r\n増悪したものと考えられ、治療としてメチルプレドニゾロン大量投与（年\r\n齢、糖尿病の合併を考慮して500mg/日）を中心とする対応を行った\r\nが、症状は進行し、呼吸不全による死亡の転帰に至った。剖検は実施\r\nされなかった。",
+    "pre_existing_conditions": "種 患\r\n基礎疾患等：心房細動、高血圧、高尿酸血症\r\n併用薬：エリキュース、テルミサルタン、ニフェジピン、アゾセミド、フェブ\r\nリク\r\n2023年11月20日　インフルエンザワクチン（製造販売業者：ビケン）接\r\n者は自宅で妻と同居。要介護度はなし。ADL自立度は自立してい\r\nた。\r\n2023年11月27日15時30分　コミナティ筋注（１価：オミクロン株XBB1.5）\r\nを接種した。接種後、体調不良があった。\r\n2023年11月28日　患者は寝たきり状態となった。\r\n2023年11月29日　早朝、患者はベッドで心肺停止状態で発見された。\r\n2023年11月29日　午前中（ワクチン接種2日後）、患者は脳梗塞を発\r\n現した。午前8時20分、妻が異状に気づき、患者が心肺停止状態であ\r\nるのを発見した。\r\n救急要請は、2023年11月29日午前8時20分に要請された。 救急隊到\r\n着時の状態は、心肺停止（CPAと報告された）であった。 搬送手段は、\r\n搬送はしなかった。 搬送中の有害事象の経過及び処置内容は、警察\r\nへ通報した。 検査実施（血液・生化学検査、感染症関連検査、画像検\r\n査等）は実施されなかった。\r\n死亡確認日時は、2023年11月29日午前11時50分であった。\r\n死亡時画像診断は実施されなかった 家族の同意が得られず、剖検は\r\n実施されなかった。 警察の立ち合いの元、死体の検索が実施された。",
     "PT_names": [
-      "間質性肺疾患"
+      "血栓症",
+      "心房細動"
     ],
-    "tests_used_for_determination": "胸部CT",
-    "causal_relationship": "評価不能",
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "関連あり",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）※～7/29から変更なし。",
-    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-17"
+    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-18"
   },
   {
     "no": 18,
@@ -3231,27 +3298,26 @@
     "id": "コミナティ筋注-18"
   },
   {
-    "no": 18,
+    "no": 19,
     "manufacturer": "ファイザー",
     "vaccine_name": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)",
-    "age": 73,
+    "age": 85,
     "gender": "男",
-    "vaccinated_dates": "2023/11/27",
+    "vaccinated_dates": "2023/11/8",
     "onset_dates": [
-      "2023/11/29"
+      "2023/11/10"
     ],
-    "lot_no": "HH1299",
+    "lot_no": "HG2352",
     "vaccinated_times": "",
-    "pre_existing_conditions": "種 患\r\n基礎疾患等：心房細動、高血圧、高尿酸血症\r\n併用薬：エリキュース、テルミサルタン、ニフェジピン、アゾセミド、フェブ\r\nリク\r\n2023年11月20日　インフルエンザワクチン（製造販売業者：ビケン）接\r\n者は自宅で妻と同居。要介護度はなし。ADL自立度は自立してい\r\nた。\r\n2023年11月27日15時30分　コミナティ筋注（１価：オミクロン株XBB1.5）\r\nを接種した。接種後、体調不良があった。\r\n2023年11月28日　患者は寝たきり状態となった。\r\n2023年11月29日　早朝、患者はベッドで心肺停止状態で発見された。\r\n2023年11月29日　午前中（ワクチン接種2日後）、患者は脳梗塞を発\r\n現した。午前8時20分、妻が異状に気づき、患者が心肺停止状態であ\r\nるのを発見した。\r\n救急要請は、2023年11月29日午前8時20分に要請された。 救急隊到\r\n着時の状態は、心肺停止（CPAと報告された）であった。 搬送手段は、\r\n搬送はしなかった。 搬送中の有害事象の経過及び処置内容は、警察\r\nへ通報した。 検査実施（血液・生化学検査、感染症関連検査、画像検\r\n査等）は実施されなかった。\r\n死亡確認日時は、2023年11月29日午前11時50分であった。\r\n死亡時画像診断は実施されなかった 家族の同意が得られず、剖検は\r\n実施されなかった。 警察の立ち合いの元、死体の検索が実施された。",
+    "pre_existing_conditions": "基礎疾患等：慢性腎不全、閉塞性動脈硬化症\r\n併用薬：2023年11月20日　インフルエンザワクチン ビケンHA接種\r\n生活の場：自宅。要介護度：要介護４\r\n2023年11月8日14時40分　コミナティ筋注（１価：オミクロン株XBB1.5）\r\nを接種した。\r\n接種翌日（11月9日）より発熱、意識レベルも低下したため大学病院へ\r\n救急搬送。午前9時　血管炎が発現した。\r\n同日入院し感染症として加療が開始されたが入院翌日（11月10日）の\r\n朝に心肺停止状態となった。\r\n経皮的心肺補助法（PCPS）など対処を行ったが同日死亡した。\r\n後日判明したIL-6の数値が322147pg/mL(400倍希釈)と異常高値であ\r\nりサイトカインストームと考えられる。\r\n【報告者のコメント】\r\n在宅医療を受けておられた高齢者だったが内科的には安定していた\r\n患者。接種翌日に急変、2日後に死亡した。IL-6高値はサイトカインス\r\nトームと思われるが、間違いなくワクチンが原因であり、頻度について\r\n早急に調査すべきである。ステロイドを使用すれば救命できた可能性\r\nはなくはないが、極めて急激に重篤な状態へと陥ったため発症してし\r\nまった場合救命は極めて難しいと感じた。",
     "PT_names": [
-      "血栓症",
-      "心房細動"
+      "血管炎"
     ],
     "tests_used_for_determination": "不明",
     "causal_relationship": "関連あり",
     "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "（コメント無し）※～7/29から変更なし。",
-    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-18"
+    "comments_by_expert": "IL-6値が非常に高く、全身性の炎症が患者が死亡に至る経過に影響を与えたと考えられるが、患者背景の詳細や、鑑別のために必要な検査の実施状況についての情報は得られていない。ワクチンと死亡の因果関係は評価できない。※～7/29から変更なし。",
+    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-19"
   },
   {
     "no": 19,
@@ -3321,26 +3387,26 @@
     "id": "スパイクバックス筋注-19"
   },
   {
-    "no": 19,
+    "no": 20,
     "manufacturer": "ファイザー",
     "vaccine_name": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)",
-    "age": 85,
-    "gender": "男",
-    "vaccinated_dates": "2023/11/8",
+    "age": "不明",
+    "gender": "女",
+    "vaccinated_dates": "不明",
     "onset_dates": [
-      "2023/11/10"
+      "2023/11"
     ],
-    "lot_no": "HG2352",
+    "lot_no": "不明",
     "vaccinated_times": "",
-    "pre_existing_conditions": "基礎疾患等：慢性腎不全、閉塞性動脈硬化症\r\n併用薬：2023年11月20日　インフルエンザワクチン ビケンHA接種\r\n生活の場：自宅。要介護度：要介護４\r\n2023年11月8日14時40分　コミナティ筋注（１価：オミクロン株XBB1.5）\r\nを接種した。\r\n接種翌日（11月9日）より発熱、意識レベルも低下したため大学病院へ\r\n救急搬送。午前9時　血管炎が発現した。\r\n同日入院し感染症として加療が開始されたが入院翌日（11月10日）の\r\n朝に心肺停止状態となった。\r\n経皮的心肺補助法（PCPS）など対処を行ったが同日死亡した。\r\n後日判明したIL-6の数値が322147pg/mL(400倍希釈)と異常高値であ\r\nりサイトカインストームと考えられる。\r\n【報告者のコメント】\r\n在宅医療を受けておられた高齢者だったが内科的には安定していた\r\n患者。接種翌日に急変、2日後に死亡した。IL-6高値はサイトカインス\r\nトームと思われるが、間違いなくワクチンが原因であり、頻度について\r\n早急に調査すべきである。ステロイドを使用すれば救命できた可能性\r\nはなくはないが、極めて急激に重篤な状態へと陥ったため発症してし\r\nまった場合救命は極めて難しいと感じた。",
+    "pre_existing_conditions": "自分の母親が死んだ。ファイザー製薬のワクチンを打って死んだ。\r\n患者の死亡年月日は2023年11月であった。",
     "PT_names": [
-      "血管炎"
+      "不明"
     ],
     "tests_used_for_determination": "不明",
-    "causal_relationship": "関連あり",
+    "causal_relationship": "不明",
     "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "IL-6値が非常に高く、全身性の炎症が患者が死亡に至る経過に影響を与えたと考えられるが、患者背景の詳細や、鑑別のために必要な検査の実施状況についての情報は得られていない。ワクチンと死亡の因果関係は評価できない。※～7/29から変更なし。",
-    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-19"
+    "comments_by_expert": "死亡前後の臨床情報の記載がなく、本剤と死因との因果関係の評価はできない。※～7/29から変更なし。",
+    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-20"
   },
   {
     "no": 20,
@@ -3415,26 +3481,26 @@
     "id": "スパイクバックス筋注-20"
   },
   {
-    "no": 20,
+    "no": 21,
     "manufacturer": "ファイザー",
     "vaccine_name": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)",
-    "age": "不明",
+    "age": 98,
     "gender": "女",
-    "vaccinated_dates": "不明",
+    "vaccinated_dates": "2023/11/28",
     "onset_dates": [
-      "2023/11"
+      "2023/12/2"
     ],
-    "lot_no": "不明",
+    "lot_no": "HG2348",
     "vaccinated_times": "",
-    "pre_existing_conditions": "自分の母親が死んだ。ファイザー製薬のワクチンを打って死んだ。\r\n患者の死亡年月日は2023年11月であった。",
+    "pre_existing_conditions": "基礎疾患等：うつ病、椎間板障害、閉塞性動脈硬化症、アルツハイ\r\nマー型認知症、肺炎、心不全、膀胱炎、恥骨骨折、慢性心不全、慢性\r\n腎不全、腎性貧血、高血圧、胸部脊柱管狭窄症、白内障\r\n併用薬：ドネペジル、ベシケア、イリボー、アゾセミド、ロサルタンK、パ\r\nロキセチン、ミヤBM。\r\n老人保健施設入所中。要介護２。ADL自立度：A１。\r\n2023年11月28日10:30コミナティ筋注（1価：オミクロン株XBB）接種。ワ\r\nクチン接種前の体温は36.3度であった。\r\nワクチン接種後、15:00頃から発熱摂氏38.5度、夜摂氏40.0度継続し\r\nた。\r\n喘鳴、低酸素、発熱を発現した。\r\n15:10、KT：38.5度、P：83、BP：144/66、SpO2：86～88%。クーリング対\r\n応。\r\n20:55、KT：40.2度、P：94、BP：135/77、SpO2：84%。喘鳴、右肺雑音聴\r\n取。21:00～経鼻カニューラでO2：1Lを開始した。\r\n2023年11月29日　発熱は下熱せず、15:30に体温は39.3度まで上昇し\r\nた。クーリング続行。\r\n18:20、カロナール(200)、レバミピド1錠を内服した。\r\n2023年11月30日12:00、KT：38.0度、P：110、BP：198/84、SpO2：89～\r\n91%。\r\n点滴ポタコール開始。内服臨時薬カロナール(200)、レバミピド(100)。\r\n食事量低下あり。O2：1Lを2Lへ増加した。\r\n2023年12月1日23:00、KT：38.5度、HR：90～120台、BP：142/71、\r\nSpO2：70%台、O2：2Lから4Lへ増加、酸素マスクを装着した。喘鳴持\r\n続、呼吸浅表性、全身冷感(+)。\r\n2023年12月2日15:00、心停止を発現、患者は永眠した。",
     "PT_names": [
-      "不明"
+      "発熱"
     ],
     "tests_used_for_determination": "不明",
-    "causal_relationship": "不明",
+    "causal_relationship": "関連あり",
     "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "死亡前後の臨床情報の記載がなく、本剤と死因との因果関係の評価はできない。※～7/29から変更なし。",
-    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-20"
+    "comments_by_expert": "発熱を伴う全身状態の悪化が、死亡に至る経過に何らかの影響を与えたと疑われるものの、患者の有していた様々な疾患の治療並びにコントロール状況については不明であり、影響の度合いを比較することは出来ない。時間的関連性のみでは、因果関係評価は困難である。※～7/29から変更なし。",
+    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-21"
   },
   {
     "no": 21,
@@ -3504,26 +3570,26 @@
     "id": "スパイクバックス筋注-21"
   },
   {
-    "no": 21,
+    "no": 22,
     "manufacturer": "ファイザー",
     "vaccine_name": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)",
-    "age": 98,
+    "age": 95,
     "gender": "女",
-    "vaccinated_dates": "2023/11/28",
+    "vaccinated_dates": "2023/11/11",
     "onset_dates": [
-      "2023/12/2"
+      "2023/11/28"
     ],
-    "lot_no": "HG2348",
+    "lot_no": "HH1299",
     "vaccinated_times": "",
-    "pre_existing_conditions": "基礎疾患等：うつ病、椎間板障害、閉塞性動脈硬化症、アルツハイ\r\nマー型認知症、肺炎、心不全、膀胱炎、恥骨骨折、慢性心不全、慢性\r\n腎不全、腎性貧血、高血圧、胸部脊柱管狭窄症、白内障\r\n併用薬：ドネペジル、ベシケア、イリボー、アゾセミド、ロサルタンK、パ\r\nロキセチン、ミヤBM。\r\n老人保健施設入所中。要介護２。ADL自立度：A１。\r\n2023年11月28日10:30コミナティ筋注（1価：オミクロン株XBB）接種。ワ\r\nクチン接種前の体温は36.3度であった。\r\nワクチン接種後、15:00頃から発熱摂氏38.5度、夜摂氏40.0度継続し\r\nた。\r\n喘鳴、低酸素、発熱を発現した。\r\n15:10、KT：38.5度、P：83、BP：144/66、SpO2：86～88%。クーリング対\r\n応。\r\n20:55、KT：40.2度、P：94、BP：135/77、SpO2：84%。喘鳴、右肺雑音聴\r\n取。21:00～経鼻カニューラでO2：1Lを開始した。\r\n2023年11月29日　発熱は下熱せず、15:30に体温は39.3度まで上昇し\r\nた。クーリング続行。\r\n18:20、カロナール(200)、レバミピド1錠を内服した。\r\n2023年11月30日12:00、KT：38.0度、P：110、BP：198/84、SpO2：89～\r\n91%。\r\n点滴ポタコール開始。内服臨時薬カロナール(200)、レバミピド(100)。\r\n食事量低下あり。O2：1Lを2Lへ増加した。\r\n2023年12月1日23:00、KT：38.5度、HR：90～120台、BP：142/71、\r\nSpO2：70%台、O2：2Lから4Lへ増加、酸素マスクを装着した。喘鳴持\r\n続、呼吸浅表性、全身冷感(+)。\r\n2023年12月2日15:00、心停止を発現、患者は永眠した。",
+    "pre_existing_conditions": "既往歴：高血圧、脳梗塞、不全麻痺、冠攣縮性狭心症\r\n併用薬：シロスタゾール内服、オルメサルタン、アムロジピン、硝酸イソ\r\nソルビド、ニコランジル、メコバラミン、トコフェロール酢酸エステル、ラ\r\nンソプラゾール、酸化マグネシウム、ニトラゼパム、ゾルピデム、ロキソ\r\nプロフェン、デノタス、ノイロトロピン［シアノコバラミン;塩酸リドカイン;塩\r\n酸ピリドキシン;塩酸チアミン］。インフルエンザワクチン2023年10月接\r\n種。患者がコロナワクチンの前4週間以内にその他のワクチンを受け\r\nたかは不明。\r\n2023年11月11日　コミナティ（１価：オミクロン株XBB1.5）接種。\r\n2023年11月13日　前医での血液検査にて血小板4.1万と低下が認めら\r\nれた。ワクチン接種やウイルス感染等の影響での一過性低下など考\r\nえ、翌週前医にて再検査予定であった。\r\n11月14日17：30頃家族が帰宅したところ倒れていた患者を発見した。\r\n体動困難のため報告病院へ救急搬送。頭部CTにて急性硬膜下血腫\r\n認められ、入院となる。入院時血小板4万。入院時より定期薬のシロス\r\nタゾール中止。血小板輸血にて血小板9.5万まで回復するも再度2.9万\r\nまで低下。その後肺炎併発。DICの状態となり、\r\n11月28日DICにて死亡退院となる。\r\n【報告者のコメント】\r\n著明な血小板減少を伴い、輸血を行うも効果なく、DICへ移行となり死\r\n亡退院。今回のワクチン接種前までは特に問題なく経過しており、因\r\n果関係が否定できない。",
     "PT_names": [
-      "発熱"
+      "播種性血管内凝固"
     ],
     "tests_used_for_determination": "不明",
-    "causal_relationship": "関連あり",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "発熱を伴う全身状態の悪化が、死亡に至る経過に何らかの影響を与えたと疑われるものの、患者の有していた様々な疾患の治療並びにコントロール状況については不明であり、影響の度合いを比較することは出来ない。時間的関連性のみでは、因果関係評価は困難である。※～7/29から変更なし。",
-    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-21"
+    "comments_by_expert": "（コメント無し）※～7/29から変更なし。",
+    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-22"
   },
   {
     "no": 22,
@@ -3572,26 +3638,28 @@
     "id": "スパイクバックス筋注-22"
   },
   {
-    "no": 22,
+    "no": 23,
     "manufacturer": "ファイザー",
     "vaccine_name": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)",
-    "age": 95,
-    "gender": "女",
-    "vaccinated_dates": "2023/11/11",
+    "age": 81,
+    "gender": "男",
+    "vaccinated_dates": "2023/10/19",
     "onset_dates": [
-      "2023/11/28"
+      "2023/11/12"
     ],
-    "lot_no": "HH1299",
+    "lot_no": "HG2346",
     "vaccinated_times": "",
-    "pre_existing_conditions": "既往歴：高血圧、脳梗塞、不全麻痺、冠攣縮性狭心症\r\n併用薬：シロスタゾール内服、オルメサルタン、アムロジピン、硝酸イソ\r\nソルビド、ニコランジル、メコバラミン、トコフェロール酢酸エステル、ラ\r\nンソプラゾール、酸化マグネシウム、ニトラゼパム、ゾルピデム、ロキソ\r\nプロフェン、デノタス、ノイロトロピン［シアノコバラミン;塩酸リドカイン;塩\r\n酸ピリドキシン;塩酸チアミン］。インフルエンザワクチン2023年10月接\r\n種。患者がコロナワクチンの前4週間以内にその他のワクチンを受け\r\nたかは不明。\r\n2023年11月11日　コミナティ（１価：オミクロン株XBB1.5）接種。\r\n2023年11月13日　前医での血液検査にて血小板4.1万と低下が認めら\r\nれた。ワクチン接種やウイルス感染等の影響での一過性低下など考\r\nえ、翌週前医にて再検査予定であった。\r\n11月14日17：30頃家族が帰宅したところ倒れていた患者を発見した。\r\n体動困難のため報告病院へ救急搬送。頭部CTにて急性硬膜下血腫\r\n認められ、入院となる。入院時血小板4万。入院時より定期薬のシロス\r\nタゾール中止。血小板輸血にて血小板9.5万まで回復するも再度2.9万\r\nまで低下。その後肺炎併発。DICの状態となり、\r\n11月28日DICにて死亡退院となる。\r\n【報告者のコメント】\r\n著明な血小板減少を伴い、輸血を行うも効果なく、DICへ移行となり死\r\n亡退院。今回のワクチン接種前までは特に問題なく経過しており、因\r\n果関係が否定できない。",
+    "pre_existing_conditions": "基礎疾患等：高血圧、脂質異常症、脂質異常\r\n併用薬：オルメサルタンOD錠20mg、アムロジピンOD錠5mg、アトルバ\r\nスタチン錠5mg\r\n妻と二人暮らし、ADL自立\r\n2023年10月19日 7回目のCOVID-19ワクチン(コミナティ筋注（１価：オ\r\nミクロン株XBB1.5）を接種した。同日夜間から発熱があった。\r\n10月20日14時頃、急に悪寒と全身の疼痛を自覚し前医を受診した。\r\n体温38℃、SpO2：90％（室内気）、インフルエンザ・コロナウイルス抗\r\n原は陰性、炎症反応高値、胸部CTで両側肺広範にすりガラス影を認\r\nめた。細菌性肺炎としてLVFXとCTRXが投与されたが、改善なく、29日\r\nから酸素化が急速に悪化した。CTで肺炎像の悪化を認め、\r\n10月30日に報告病院に転院した。\r\n来院時、SpO2：95％（HFNC:FiO2 100％）、D-dimer36.7㎍/ｍL、発熱\r\nと炎症所見を認め、造影CTで両側肺に広範なすりガラス影と浸潤影\r\n及び右肺動脈末梢・左下腿静脈に造影欠損域を認めた。膠原病関連\r\n自己抗体はいずれも陰性であった。\r\n10月30日 臨床検査値はマイコプラズマ抗原(-)、SARS-CoV2 PCR(-\r\n)、KL-6 1211μ/mL\r\n病歴からCOVID-19ワクチン関連の薬剤性肺障害を疑い、ステロイド\r\nパルス療法を開始、その後ｍPSL125mg点滴投与を行った。血栓症に\r\n対しヘパリン持続静注を行った。しかし、治療への反応は乏しく病状は\r\n進行、1週間後に2度目のステロイドパルス療法を行うも改善なく、11月\r\n12日に死亡した。死亡時画像診断、剖検は実施されなかった。\r\n【報告医師のコメント】\r\nADL自立し肺疾患を指摘されたことのない方がワクチン接種後夜から\r\n発熱あり翌日に急性呼吸不全を呈し救急搬送された事例であった。搬\r\n送時の胸部CTでは両肺びまん性にすりガラス影が見られ、急性発症\r\nの間質性肺炎が疑われた。市中肺炎、非定型肺炎も考慮した抗菌薬\r\n投与に反応はなく、自己免疫疾患を示唆する身体所見や血清学的検\r\n査陽性所見も認めなかった。血栓症の存在がいつからかが不明であ\r\nるが、肺血栓塞栓症を合併した薬剤性肺障害と、ワクチンとの関連は\r\n否定できない。",
     "PT_names": [
-      "播種性血管内凝固"
+      "肺塞栓症",
+      "肺毒性",
+      "急性呼吸不全"
     ],
-    "tests_used_for_determination": "不明",
-    "causal_relationship": "評価不能",
+    "tests_used_for_determination": "胸部CT",
+    "causal_relationship": "関連あり",
     "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "（コメント無し）※～7/29から変更なし。",
-    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-22"
+    "comments_by_expert": "ワクチン接種翌日の発症であり、発症のタイミングとしては早い印象であるが、薬剤性肺障害の可能性を完全に否定することはできない。喀痰から腸球菌が検出されており、無症状の間質性肺炎が感染症によって急激に悪化した可能性も考えられる。※～7/29から変更なし。",
+    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-23"
   },
   {
     "no": 23,
@@ -3638,28 +3706,26 @@
     "id": "スパイクバックス筋注-23"
   },
   {
-    "no": 23,
+    "no": 24,
     "manufacturer": "ファイザー",
     "vaccine_name": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)",
-    "age": 81,
+    "age": 98,
     "gender": "男",
-    "vaccinated_dates": "2023/10/19",
+    "vaccinated_dates": "2023/11/20",
     "onset_dates": [
-      "2023/11/12"
+      "2023/11/21"
     ],
     "lot_no": "HG2346",
     "vaccinated_times": "",
-    "pre_existing_conditions": "基礎疾患等：高血圧、脂質異常症、脂質異常\r\n併用薬：オルメサルタンOD錠20mg、アムロジピンOD錠5mg、アトルバ\r\nスタチン錠5mg\r\n妻と二人暮らし、ADL自立\r\n2023年10月19日 7回目のCOVID-19ワクチン(コミナティ筋注（１価：オ\r\nミクロン株XBB1.5）を接種した。同日夜間から発熱があった。\r\n10月20日14時頃、急に悪寒と全身の疼痛を自覚し前医を受診した。\r\n体温38℃、SpO2：90％（室内気）、インフルエンザ・コロナウイルス抗\r\n原は陰性、炎症反応高値、胸部CTで両側肺広範にすりガラス影を認\r\nめた。細菌性肺炎としてLVFXとCTRXが投与されたが、改善なく、29日\r\nから酸素化が急速に悪化した。CTで肺炎像の悪化を認め、\r\n10月30日に報告病院に転院した。\r\n来院時、SpO2：95％（HFNC:FiO2 100％）、D-dimer36.7㎍/ｍL、発熱\r\nと炎症所見を認め、造影CTで両側肺に広範なすりガラス影と浸潤影\r\n及び右肺動脈末梢・左下腿静脈に造影欠損域を認めた。膠原病関連\r\n自己抗体はいずれも陰性であった。\r\n10月30日 臨床検査値はマイコプラズマ抗原(-)、SARS-CoV2 PCR(-\r\n)、KL-6 1211μ/mL\r\n病歴からCOVID-19ワクチン関連の薬剤性肺障害を疑い、ステロイド\r\nパルス療法を開始、その後ｍPSL125mg点滴投与を行った。血栓症に\r\n対しヘパリン持続静注を行った。しかし、治療への反応は乏しく病状は\r\n進行、1週間後に2度目のステロイドパルス療法を行うも改善なく、11月\r\n12日に死亡した。死亡時画像診断、剖検は実施されなかった。\r\n【報告医師のコメント】\r\nADL自立し肺疾患を指摘されたことのない方がワクチン接種後夜から\r\n発熱あり翌日に急性呼吸不全を呈し救急搬送された事例であった。搬\r\n送時の胸部CTでは両肺びまん性にすりガラス影が見られ、急性発症\r\nの間質性肺炎が疑われた。市中肺炎、非定型肺炎も考慮した抗菌薬\r\n投与に反応はなく、自己免疫疾患を示唆する身体所見や血清学的検\r\n査陽性所見も認めなかった。血栓症の存在がいつからかが不明であ\r\nるが、肺血栓塞栓症を合併した薬剤性肺障害と、ワクチンとの関連は\r\n否定できない。",
+    "pre_existing_conditions": "基礎疾患等：尿路感染\r\n併用薬：レボフロキサシン、マグミット、シルニジピン、タムスロシン\r\n施設入所予定であった。要介護度２、ADL自立度不明、ゼリー食を食\r\nべていた。\r\n2023年11月20日14時15分　コミナティ筋注（１価オミクロン株XBB1.5）\r\nを接種。\r\n17時50分、病室で夕食前の車椅子移動介助中、看護師が嘔吐してい\r\nるのを発見。輸液500mL/12hrペースおよびソリタ1T+プリンペランを含\r\nむ治療を行った。\r\n11月21日0時11分患者は呼吸停止し、0時50分死亡した。",
     "PT_names": [
-      "肺塞栓症",
-      "肺毒性",
-      "急性呼吸不全"
+      "嘔吐"
     ],
-    "tests_used_for_determination": "胸部CT",
-    "causal_relationship": "関連あり",
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "ワクチン接種翌日の発症であり、発症のタイミングとしては早い印象であるが、薬剤性肺障害の可能性を完全に否定することはできない。喀痰から腸球菌が検出されており、無症状の間質性肺炎が感染症によって急激に悪化した可能性も考えられる。※～7/29から変更なし。",
-    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-23"
+    "comments_by_expert": "（コメント無し）※～7/29から変更なし。",
+    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-24"
   },
   {
     "no": 24,
@@ -3731,26 +3797,27 @@
     "id": "スパイクバックス筋注-24"
   },
   {
-    "no": 24,
+    "no": 25,
     "manufacturer": "ファイザー",
     "vaccine_name": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)",
-    "age": 98,
-    "gender": "男",
-    "vaccinated_dates": "2023/11/20",
+    "age": 99,
+    "gender": "女",
+    "vaccinated_dates": "2023/12/12",
     "onset_dates": [
-      "2023/11/21"
+      "2023/12/12"
     ],
-    "lot_no": "HG2346",
+    "lot_no": "HH1299",
     "vaccinated_times": "",
-    "pre_existing_conditions": "基礎疾患等：尿路感染\r\n併用薬：レボフロキサシン、マグミット、シルニジピン、タムスロシン\r\n施設入所予定であった。要介護度２、ADL自立度不明、ゼリー食を食\r\nべていた。\r\n2023年11月20日14時15分　コミナティ筋注（１価オミクロン株XBB1.5）\r\nを接種。\r\n17時50分、病室で夕食前の車椅子移動介助中、看護師が嘔吐してい\r\nるのを発見。輸液500mL/12hrペースおよびソリタ1T+プリンペランを含\r\nむ治療を行った。\r\n11月21日0時11分患者は呼吸停止し、0時50分死亡した。",
+    "pre_existing_conditions": "基礎疾患等：高血圧\r\n2023年12月12日10時50分　コミナティ筋注（１価：オミクロン株XBB1.5）\r\nを接種した。\r\n12時00分（ワクチン接種の1時間10分後）食欲不振が発現した。昼食\r\nを飲み込めなかった。\r\n14時00分　37.3℃\r\n17時00分　夕の薬を内服した。夕食は飲み込めず、開眼していなかっ\r\nたた。\r\n18時11分　死亡が確認された。",
     "PT_names": [
-      "嘔吐"
+      "脳梗塞",
+      "心筋梗塞"
     ],
     "tests_used_for_determination": "不明",
     "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）※～7/29から変更なし。",
-    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-24"
+    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-25"
   },
   {
     "no": 25,
@@ -3826,27 +3893,26 @@
     "id": "スパイクバックス筋注-25"
   },
   {
-    "no": 25,
+    "no": 26,
     "manufacturer": "ファイザー",
     "vaccine_name": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)",
-    "age": 99,
-    "gender": "女",
-    "vaccinated_dates": "2023/12/12",
+    "age": "高齢者",
+    "gender": "男",
+    "vaccinated_dates": "不明",
     "onset_dates": [
-      "2023/12/12"
+      "2023"
     ],
-    "lot_no": "HH1299",
+    "lot_no": "不明",
     "vaccinated_times": "",
-    "pre_existing_conditions": "基礎疾患等：高血圧\r\n2023年12月12日10時50分　コミナティ筋注（１価：オミクロン株XBB1.5）\r\nを接種した。\r\n12時00分（ワクチン接種の1時間10分後）食欲不振が発現した。昼食\r\nを飲み込めなかった。\r\n14時00分　37.3℃\r\n17時00分　夕の薬を内服した。夕食は飲み込めず、開眼していなかっ\r\nたた。\r\n18時11分　死亡が確認された。",
+    "pre_existing_conditions": "2023年日付不明日、患者は死亡を発現した。",
     "PT_names": [
-      "脳梗塞",
-      "心筋梗塞"
+      "不明"
     ],
     "tests_used_for_determination": "不明",
-    "causal_relationship": "評価不能",
+    "causal_relationship": "不明",
     "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "（コメント無し）※～7/29から変更なし。",
-    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-25"
+    "comments_by_expert": "患者背景や死亡に至る経過の詳細情報が得られておらず、ワクチン接種と死亡の因果関係は評価できない。※～7/29から変更なし。",
+    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-26"
   },
   {
     "no": 26,
@@ -3893,26 +3959,26 @@
     "id": "スパイクバックス筋注-26"
   },
   {
-    "no": 26,
+    "no": 27,
     "manufacturer": "ファイザー",
     "vaccine_name": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)",
-    "age": "高齢者",
+    "age": 90,
     "gender": "男",
-    "vaccinated_dates": "不明",
+    "vaccinated_dates": "2023/12/19",
     "onset_dates": [
-      "2023"
+      "2023/12/22"
     ],
-    "lot_no": "不明",
+    "lot_no": "HG2348",
     "vaccinated_times": "",
-    "pre_existing_conditions": "2023年日付不明日、患者は死亡を発現した。",
+    "pre_existing_conditions": "基礎疾患等：うっ血性心不全、陳旧性心筋梗塞、心房細動、動脈瘤、\r\n慢性心不全、慢性腎臓病、高尿酸血症\r\n併用薬：タケプロン、レニベース、フェブリク、メインテート、イグザレルト\r\n独居、要支援、ＡＤＬ自立\r\n2023年12月19日 10:00頃、コミナティ筋注を接種した（１価：オミクロン\r\n株XBB1.5、7回目、筋肉内投与、左肩）。\r\n身元引き受け人が後見人であり、同意を得られる遺族がいなかった。\r\n12月21日 15:00（推定）、患者は心臓突然死を発現した。\r\n12月22日、ヘルパーが訪問時、患者が死亡しているのを発見した。土\r\n間で倒れていた。\r\n元気な患者で、ワクチン接種後も特に何の症状もなく帰宅したと報告さ\r\nれた。 それまでのワクチン接種後も特に症状は何もでていなかった。\r\n死亡確認日時：2023年12月22日　10：00頃、検案の結果、死亡時刻は\r\n12月21日の15：00頃と判断した。死亡時画像診断は実施されなかっ\r\nた。\r\n【報告者のコメント】\r\n発見前日に訪問したヘルパーに対して患者はワクチンを接種してから\r\nひどい下痢をしていると訴えていた。脱水や電解質の異常が誘因とな\r\nり、心臓突然死をきたしたものと判断した。ワクチン接種前まで病状が\r\n安定しており、接種後、下痢をしていたと思われ因果関係は否定でき\r\nない。",
     "PT_names": [
-      "不明"
+      "心突然死"
     ],
     "tests_used_for_determination": "不明",
-    "causal_relationship": "不明",
+    "causal_relationship": "否定できない",
     "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "患者背景や死亡に至る経過の詳細情報が得られておらず、ワクチン接種と死亡の因果関係は評価できない。※～7/29から変更なし。",
-    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-26"
+    "comments_by_expert": "（コメント無し）※～7/29から変更なし。",
+    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-27"
   },
   {
     "no": 27,
@@ -3982,26 +4048,26 @@
     "id": "スパイクバックス筋注-27"
   },
   {
-    "no": 27,
+    "no": 28,
     "manufacturer": "ファイザー",
     "vaccine_name": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)",
-    "age": 90,
+    "age": 60,
     "gender": "男",
-    "vaccinated_dates": "2023/12/19",
+    "vaccinated_dates": "2023/12/15",
     "onset_dates": [
-      "2023/12/22"
+      "2024/1/10"
     ],
-    "lot_no": "HG2348",
+    "lot_no": "不明",
     "vaccinated_times": "",
-    "pre_existing_conditions": "基礎疾患等：うっ血性心不全、陳旧性心筋梗塞、心房細動、動脈瘤、\r\n慢性心不全、慢性腎臓病、高尿酸血症\r\n併用薬：タケプロン、レニベース、フェブリク、メインテート、イグザレルト\r\n独居、要支援、ＡＤＬ自立\r\n2023年12月19日 10:00頃、コミナティ筋注を接種した（１価：オミクロン\r\n株XBB1.5、7回目、筋肉内投与、左肩）。\r\n身元引き受け人が後見人であり、同意を得られる遺族がいなかった。\r\n12月21日 15:00（推定）、患者は心臓突然死を発現した。\r\n12月22日、ヘルパーが訪問時、患者が死亡しているのを発見した。土\r\n間で倒れていた。\r\n元気な患者で、ワクチン接種後も特に何の症状もなく帰宅したと報告さ\r\nれた。 それまでのワクチン接種後も特に症状は何もでていなかった。\r\n死亡確認日時：2023年12月22日　10：00頃、検案の結果、死亡時刻は\r\n12月21日の15：00頃と判断した。死亡時画像診断は実施されなかっ\r\nた。\r\n【報告者のコメント】\r\n発見前日に訪問したヘルパーに対して患者はワクチンを接種してから\r\nひどい下痢をしていると訴えていた。脱水や電解質の異常が誘因とな\r\nり、心臓突然死をきたしたものと判断した。ワクチン接種前まで病状が\r\n安定しており、接種後、下痢をしていたと思われ因果関係は否定でき\r\nない。",
+    "pre_existing_conditions": "基礎疾患等：高血圧、脂質異常症\r\n併用薬：イルベサルタン、ニフェジピン、アトルバスタチン\r\n2023年12月15日　新型コロナワクチン接種（ロット番号、製造販売業\r\n者不明）。\r\n12月16日(ワクチン接種翌日）から微熱･咳認め、同時に両手指の紅\r\n潮・腫張、皮膚の肥厚を自覚し、かかりつけ医へ受診。ゴッドロン丘\r\n疹、メカニックハンドを認めた。以降も発熱認め徴候増悪経過した。\r\n発熱悪化時39℃あり。\r\n2024年1月6日 喉・呼吸苦悪化認め当院発熱外来受診。\r\n新型コロナウイルス、インフルエンザ迅速抗原ともに陰性であった。し\r\nかし、胸部X線・CTより、膠原病関連間質性肺炎疑いであった。CTで\r\n両肺末梢有意に非区域性のスリガラス影多数あり、皮膚筋炎に伴う急\r\n速進行性間質性肺炎を疑い、患者は同日精査加療目的に入院し次の\r\n自己抗体検査を実施した。\r\n抗CCP抗体：7.6IU/mL（陽性）、抗MDA5抗体インデックス値：4755（陽\r\n性）、抗SS-A抗体9.9IU/mL（弱陽性）、抗核抗体価（Speckled型）：\r\n1280倍（陽性）、CPK：2546IU/L、KL-6：571U/mL、リウマチ因子：144\r\n（陽性）\r\n1月7日　気管支鏡予定であったが、呼吸状態悪化あり、ｍPSL1000mg\r\nパルス療法開始。以降も改善乏しくNHFで酸素40L対応とし呼吸管理。\r\n1月9日　CPK382IU/L、フェリチン1665.7ｎｇ/ｍL、検尿：潜血２＋、蛋\r\n白定性４＋\r\n1月10日　呼吸状態が急激に悪化。自己抗体結果が一部未着であっ\r\nたが、ステロイド治療抵抗性、急性進行性の多発性筋炎/皮膚筋炎に\r\n伴う間質性肺炎の治療としてプレドニン高用量投与継続し、同日夕よ\r\nり免疫抑制剤の併用療法を開始を予定。\r\nその後も呼吸状態は悪化し、気管挿管し人工呼吸器装着。経鼻胃管、\r\n右内頚CVC留置し、NAD、DOA持続投与を開始するも呼吸不全が急\r\n激に進行し、同日17：33に死亡した。\r\n【報告者のコメント】\r\n当院の通院歴はなく、前医からの紹介受診ではないが、ゴッドロン徴\r\n候とX線・CT所見より膠原病関連間質性肺炎疑いで精査加療目的に\r\n入院となった患者。家族歴として実妹が関節リウマチに罹患されてい\r\nたが、前医にて膠原病疑いがあったかは定かではない。新型コロナワ\r\nクチンに関する接種歴は、計5回の接種を情報聴取しているが、本ワク\r\nチン4回までの接種後副反応事象の詳細、他の予防接種歴は不明で\r\nある。5回目の接種との因果関係は評価不能ではあるが、当患者の5\r\n回目接種と本有害事象の発症時期には時間的密接性があり、副反応\r\nとして疑われたため報告する。",
     "PT_names": [
-      "心突然死"
+      "間質性肺疾患"
     ],
     "tests_used_for_determination": "不明",
-    "causal_relationship": "否定できない",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）※～7/29から変更なし。",
-    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-27"
+    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-28"
   },
   {
     "no": 28,
@@ -4072,18 +4138,18 @@
     "id": "スパイクバックス筋注-28"
   },
   {
-    "no": 28,
+    "no": 29,
     "manufacturer": "ファイザー",
     "vaccine_name": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)",
-    "age": 60,
-    "gender": "男",
-    "vaccinated_dates": "2023/12/15",
+    "age": 63,
+    "gender": "女",
+    "vaccinated_dates": "2023/9/23",
     "onset_dates": [
-      "2024/1/10"
+      "2023/11/13"
     ],
     "lot_no": "不明",
     "vaccinated_times": "",
-    "pre_existing_conditions": "基礎疾患等：高血圧、脂質異常症\r\n併用薬：イルベサルタン、ニフェジピン、アトルバスタチン\r\n2023年12月15日　新型コロナワクチン接種（ロット番号、製造販売業\r\n者不明）。\r\n12月16日(ワクチン接種翌日）から微熱･咳認め、同時に両手指の紅\r\n潮・腫張、皮膚の肥厚を自覚し、かかりつけ医へ受診。ゴッドロン丘\r\n疹、メカニックハンドを認めた。以降も発熱認め徴候増悪経過した。\r\n発熱悪化時39℃あり。\r\n2024年1月6日 喉・呼吸苦悪化認め当院発熱外来受診。\r\n新型コロナウイルス、インフルエンザ迅速抗原ともに陰性であった。し\r\nかし、胸部X線・CTより、膠原病関連間質性肺炎疑いであった。CTで\r\n両肺末梢有意に非区域性のスリガラス影多数あり、皮膚筋炎に伴う急\r\n速進行性間質性肺炎を疑い、患者は同日精査加療目的に入院し次の\r\n自己抗体検査を実施した。\r\n抗CCP抗体：7.6IU/mL（陽性）、抗MDA5抗体インデックス値：4755（陽\r\n性）、抗SS-A抗体9.9IU/mL（弱陽性）、抗核抗体価（Speckled型）：\r\n1280倍（陽性）、CPK：2546IU/L、KL-6：571U/mL、リウマチ因子：144\r\n（陽性）\r\n1月7日　気管支鏡予定であったが、呼吸状態悪化あり、ｍPSL1000mg\r\nパルス療法開始。以降も改善乏しくNHFで酸素40L対応とし呼吸管理。\r\n1月9日　CPK382IU/L、フェリチン1665.7ｎｇ/ｍL、検尿：潜血２＋、蛋\r\n白定性４＋\r\n1月10日　呼吸状態が急激に悪化。自己抗体結果が一部未着であっ\r\nたが、ステロイド治療抵抗性、急性進行性の多発性筋炎/皮膚筋炎に\r\n伴う間質性肺炎の治療としてプレドニン高用量投与継続し、同日夕よ\r\nり免疫抑制剤の併用療法を開始を予定。\r\nその後も呼吸状態は悪化し、気管挿管し人工呼吸器装着。経鼻胃管、\r\n右内頚CVC留置し、NAD、DOA持続投与を開始するも呼吸不全が急\r\n激に進行し、同日17：33に死亡した。\r\n【報告者のコメント】\r\n当院の通院歴はなく、前医からの紹介受診ではないが、ゴッドロン徴\r\n候とX線・CT所見より膠原病関連間質性肺炎疑いで精査加療目的に\r\n入院となった患者。家族歴として実妹が関節リウマチに罹患されてい\r\nたが、前医にて膠原病疑いがあったかは定かではない。新型コロナワ\r\nクチンに関する接種歴は、計5回の接種を情報聴取しているが、本ワク\r\nチン4回までの接種後副反応事象の詳細、他の予防接種歴は不明で\r\nある。5回目の接種との因果関係は評価不能ではあるが、当患者の5\r\n回目接種と本有害事象の発症時期には時間的密接性があり、副反応\r\nとして疑われたため報告する。",
+    "pre_existing_conditions": "基礎疾患等：間質性肺炎\r\n2023年9月23日 コミナティ筋注（１価：オミクロン株XBB1.5、6回目）を\r\n接種した。ワクチン接種前の体温は37.2度であった。\r\nその後倦怠感増強。食欲低下もあり、呼吸困難悪化。\r\n9月29日に入院した。画像上は悪化なし。補液とリハビリテーション施\r\n行し11月5日 軽快退院した。\r\n11月10日 間質性肺炎増悪により再入院。11月13日(ワクチン接種１ヵ\r\n月22日後） 呼吸不全により死亡。剖検が実施されたかは不明。\r\n【報告者のコメント】\r\n重症の間質性肺炎がワクチン接種を契機に悪化した可能性がある",
     "PT_names": [
       "間質性肺疾患"
     ],
@@ -4091,7 +4157,7 @@
     "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）※～7/29から変更なし。",
-    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-28"
+    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-29"
   },
   {
     "no": 29,
@@ -4161,26 +4227,26 @@
     "id": "スパイクバックス筋注-29"
   },
   {
-    "no": 29,
+    "no": 30,
     "manufacturer": "ファイザー",
     "vaccine_name": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)",
-    "age": 63,
-    "gender": "女",
-    "vaccinated_dates": "2023/9/23",
+    "age": 65,
+    "gender": "男",
+    "vaccinated_dates": "不明",
     "onset_dates": [
-      "2023/11/13"
+      "不明"
     ],
     "lot_no": "不明",
     "vaccinated_times": "",
-    "pre_existing_conditions": "基礎疾患等：間質性肺炎\r\n2023年9月23日 コミナティ筋注（１価：オミクロン株XBB1.5、6回目）を\r\n接種した。ワクチン接種前の体温は37.2度であった。\r\nその後倦怠感増強。食欲低下もあり、呼吸困難悪化。\r\n9月29日に入院した。画像上は悪化なし。補液とリハビリテーション施\r\n行し11月5日 軽快退院した。\r\n11月10日 間質性肺炎増悪により再入院。11月13日(ワクチン接種１ヵ\r\n月22日後） 呼吸不全により死亡。剖検が実施されたかは不明。\r\n【報告者のコメント】\r\n重症の間質性肺炎がワクチン接種を契機に悪化した可能性がある",
+    "pre_existing_conditions": "明 剖\r\n65歳の男性がコミナティ筋注（１価：オミクロン株XBB1.5）を接種した。\r\n日付不明日、患者は死亡した。\r\nCOVIDワクチン接種前4週間以内のその他のワクチン接種の有無不\r\n検が実施されたかどうか、患者が処置を受けたかどうかは不明で\r\nあった。",
     "PT_names": [
-      "間質性肺疾患"
+      "不明"
     ],
     "tests_used_for_determination": "不明",
-    "causal_relationship": "評価不能",
+    "causal_relationship": "不明",
     "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "（コメント無し）※～7/29から変更なし。",
-    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-29"
+    "comments_by_expert": "経過が不明であり評価できない。※～7/29から変更なし。",
+    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-30"
   },
   {
     "no": 30,
@@ -4261,7 +4327,7 @@
     "id": "スパイクバックス筋注-30"
   },
   {
-    "no": 30,
+    "no": 31,
     "manufacturer": "ファイザー",
     "vaccine_name": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)",
     "age": 65,
@@ -4272,15 +4338,15 @@
     ],
     "lot_no": "不明",
     "vaccinated_times": "",
-    "pre_existing_conditions": "明 剖\r\n65歳の男性がコミナティ筋注（１価：オミクロン株XBB1.5）を接種した。\r\n日付不明日、患者は死亡した。\r\nCOVIDワクチン接種前4週間以内のその他のワクチン接種の有無不\r\n検が実施されたかどうか、患者が処置を受けたかどうかは不明で\r\nあった。",
+    "pre_existing_conditions": "65歳の男性がコミナティ筋注（１価：オミクロン株XBB1.5）を接種した。\r\n日付不明日、患者は死亡した。\r\nCOVIDワクチン接種前4週間以内のその他のワクチン接種の有無不\r\n明",
     "PT_names": [
       "不明"
     ],
     "tests_used_for_determination": "不明",
     "causal_relationship": "不明",
     "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "経過が不明であり評価できない。※～7/29から変更なし。",
-    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-30"
+    "comments_by_expert": "（コメント無し）※～7/29から変更なし。",
+    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-31"
   },
   {
     "no": 31,
@@ -4351,26 +4417,26 @@
     "id": "スパイクバックス筋注-31"
   },
   {
-    "no": 31,
+    "no": 32,
     "manufacturer": "ファイザー",
     "vaccine_name": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)",
-    "age": 65,
-    "gender": "男",
-    "vaccinated_dates": "不明",
+    "age": 83,
+    "gender": "女",
+    "vaccinated_dates": "2024/1/17",
     "onset_dates": [
-      "不明"
+      "2024/2/9"
     ],
-    "lot_no": "不明",
+    "lot_no": "HJ3098",
     "vaccinated_times": "",
-    "pre_existing_conditions": "65歳の男性がコミナティ筋注（１価：オミクロン株XBB1.5）を接種した。\r\n日付不明日、患者は死亡した。\r\nCOVIDワクチン接種前4週間以内のその他のワクチン接種の有無不\r\n明",
+    "pre_existing_conditions": "基礎疾患等：高血圧、大動脈解離、胃潰瘍\r\n併用薬：イミダプリル、ビソプロロールフマル酸塩、エソメプラゾール\r\n薬剤歴：アスピリン（反応：「アレルギー」）\r\n特別養護老人ホーム入居中、嚥下機能良好、経口接種可\r\n2024年1月17日 14:10 コミナティ筋注（１価：オミクロン株XBB1.5）を接\r\n種した。接種の4週間以内にその他のワクチン接種はなかった。\r\n2月7日（6回目のワクチン接種21日後）14時20分頃 突然の意識障害、\r\n血圧低下あり、救急搬送。胸部CT：急性大動脈解離、心タンポナー\r\nデ。\r\n2024年2月9日　患者は死亡した。",
     "PT_names": [
-      "不明"
+      "心タンポナーデ"
     ],
-    "tests_used_for_determination": "不明",
-    "causal_relationship": "不明",
+    "tests_used_for_determination": "胸部CT",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）※～7/29から変更なし。",
-    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-31"
+    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-32"
   },
   {
     "no": 32,
@@ -4439,26 +4505,26 @@
     "id": "スパイクバックス筋注-32"
   },
   {
-    "no": 32,
+    "no": 33,
     "manufacturer": "ファイザー",
     "vaccine_name": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)",
-    "age": 83,
-    "gender": "女",
-    "vaccinated_dates": "2024/1/17",
+    "age": 81,
+    "gender": "男",
+    "vaccinated_dates": "2023/12/1",
     "onset_dates": [
-      "2024/2/9"
+      "不明"
     ],
-    "lot_no": "HJ3098",
+    "lot_no": "HG2347",
     "vaccinated_times": "",
-    "pre_existing_conditions": "基礎疾患等：高血圧、大動脈解離、胃潰瘍\r\n併用薬：イミダプリル、ビソプロロールフマル酸塩、エソメプラゾール\r\n薬剤歴：アスピリン（反応：「アレルギー」）\r\n特別養護老人ホーム入居中、嚥下機能良好、経口接種可\r\n2024年1月17日 14:10 コミナティ筋注（１価：オミクロン株XBB1.5）を接\r\n種した。接種の4週間以内にその他のワクチン接種はなかった。\r\n2月7日（6回目のワクチン接種21日後）14時20分頃 突然の意識障害、\r\n血圧低下あり、救急搬送。胸部CT：急性大動脈解離、心タンポナー\r\nデ。\r\n2024年2月9日　患者は死亡した。",
+    "pre_existing_conditions": "2023年12月１日 81歳の男性がコミナティ筋注（１価：オミクロン株\r\nXBB1.5、HG2347）を接種した。\r\n患者の家族より町役場経由で病院に連絡があった。現在進行中で調\r\n査を実施中であり、病院も状況を把握できていない。状況がわかり次\r\n第再度連絡をすることとなっている。\r\n死亡日および死因は不明であった。",
     "PT_names": [
-      "心タンポナーデ"
+      "不明"
     ],
-    "tests_used_for_determination": "胸部CT",
-    "causal_relationship": "評価不能",
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "不明",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）※～7/29から変更なし。",
-    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-32"
+    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-33"
   },
   {
     "no": 33,
@@ -4529,26 +4595,26 @@
     "id": "スパイクバックス筋注-33"
   },
   {
-    "no": 33,
+    "no": 34,
     "manufacturer": "ファイザー",
     "vaccine_name": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)",
-    "age": 81,
+    "age": "高齢者",
     "gender": "男",
-    "vaccinated_dates": "2023/12/1",
+    "vaccinated_dates": "不明",
     "onset_dates": [
       "不明"
     ],
-    "lot_no": "HG2347",
+    "lot_no": "不明",
     "vaccinated_times": "",
-    "pre_existing_conditions": "2023年12月１日 81歳の男性がコミナティ筋注（１価：オミクロン株\r\nXBB1.5、HG2347）を接種した。\r\n患者の家族より町役場経由で病院に連絡があった。現在進行中で調\r\n査を実施中であり、病院も状況を把握できていない。状況がわかり次\r\n第再度連絡をすることとなっている。\r\n死亡日および死因は不明であった。",
+    "pre_existing_conditions": "明 ワ\r\n高齢の男性がコミナティ筋注（１価：オミクロン株XBB1.5）を接種した。\r\n日付不明日、患者は死亡した。\r\nCOVIDワクチン接種前4週間以内のその他のワクチン接種の有無不\r\nクチン接種2週間以内のその他の薬剤投与の有無不明",
     "PT_names": [
       "不明"
     ],
     "tests_used_for_determination": "不明",
     "causal_relationship": "不明",
     "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "（コメント無し）※～7/29から変更なし。",
-    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-33"
+    "comments_by_expert": "詳細情報なく評価不能。※～7/29から変更なし。",
+    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-34"
   },
   {
     "no": 34,
@@ -4619,7 +4685,7 @@
     "id": "スパイクバックス筋注-34"
   },
   {
-    "no": 34,
+    "no": 35,
     "manufacturer": "ファイザー",
     "vaccine_name": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)",
     "age": "高齢者",
@@ -4630,7 +4696,7 @@
     ],
     "lot_no": "不明",
     "vaccinated_times": "",
-    "pre_existing_conditions": "明 ワ\r\n高齢の男性がコミナティ筋注（１価：オミクロン株XBB1.5）を接種した。\r\n日付不明日、患者は死亡した。\r\nCOVIDワクチン接種前4週間以内のその他のワクチン接種の有無不\r\nクチン接種2週間以内のその他の薬剤投与の有無不明",
+    "pre_existing_conditions": "高齢の男性がコミナティ筋注（１価：オミクロン株XBB1.5）を接種した。\r\n投与回数は5であった。\r\n日付不明日、患者は死亡した。\r\n死亡日および死因は不明であった。\r\n事象に対し治療を受けたかどうかは不明であった。",
     "PT_names": [
       "不明"
     ],
@@ -4638,7 +4704,7 @@
     "causal_relationship": "不明",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "詳細情報なく評価不能。※～7/29から変更なし。",
-    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-34"
+    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-35"
   },
   {
     "no": 35,
@@ -4711,26 +4777,26 @@
     "id": "スパイクバックス筋注-35"
   },
   {
-    "no": 35,
+    "no": 36,
     "manufacturer": "ファイザー",
     "vaccine_name": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)",
-    "age": "高齢者",
-    "gender": "男",
-    "vaccinated_dates": "不明",
+    "age": 93,
+    "gender": "女",
+    "vaccinated_dates": "2023/10/26",
     "onset_dates": [
-      "不明"
+      "2023/10/26"
     ],
-    "lot_no": "不明",
+    "lot_no": "HG2352",
     "vaccinated_times": "",
-    "pre_existing_conditions": "高齢の男性がコミナティ筋注（１価：オミクロン株XBB1.5）を接種した。\r\n投与回数は5であった。\r\n日付不明日、患者は死亡した。\r\n死亡日および死因は不明であった。\r\n事象に対し治療を受けたかどうかは不明であった。",
+    "pre_existing_conditions": "基礎疾患等：なし\r\n2023年10月26日11:45（ワクチン接種２時間後）、患者は誤嚥性肺炎を\r\n発現した。\r\n接種直後は特に問題なく経過できており、施設にてシャワー浴も行え\r\nていた。呼吸状態の悪化に伴いA病院へ搬送後、バイタルサインや身\r\n体所見からショックを疑わせる所見としては乏しい。ただし、接種後4時\r\n間以内の急変であり完全にショックを否定できない。\r\n【報告者のコメント】\r\nワクチンが直接死因に繋がったのかは判定が難しい。ワクチン接種回\r\n数は通算7回目です。",
     "PT_names": [
-      "不明"
+      "ショック"
     ],
     "tests_used_for_determination": "不明",
-    "causal_relationship": "不明",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "詳細情報なく評価不能。※～7/29から変更なし。",
-    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-35"
+    "comments_by_expert": "当症例では誤嚥性肺炎あるいはショックによる死亡と判断されている。しかし、直前の心電図・超音波・X線・CT・各種採血などの情報がなく、また剖検の実施状況も不明であることから、ワクチン接種が死亡を引き起こしたかどうかも含め、断定的な判断は困難である。",
+    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-36"
   },
   {
     "no": 36,
@@ -4809,26 +4875,26 @@
     "id": "スパイクバックス筋注-36"
   },
   {
-    "no": 36,
+    "no": 37,
     "manufacturer": "ファイザー",
     "vaccine_name": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)",
-    "age": 93,
-    "gender": "女",
-    "vaccinated_dates": "2023/10/26",
+    "age": 72,
+    "gender": "男",
+    "vaccinated_dates": "2023/12/8",
     "onset_dates": [
-      "2023/10/26"
+      "2023/12/11"
     ],
-    "lot_no": "HG2352",
+    "lot_no": "HG2348",
     "vaccinated_times": "",
-    "pre_existing_conditions": "基礎疾患等：なし\r\n2023年10月26日11:45（ワクチン接種２時間後）、患者は誤嚥性肺炎を\r\n発現した。\r\n接種直後は特に問題なく経過できており、施設にてシャワー浴も行え\r\nていた。呼吸状態の悪化に伴いA病院へ搬送後、バイタルサインや身\r\n体所見からショックを疑わせる所見としては乏しい。ただし、接種後4時\r\n間以内の急変であり完全にショックを否定できない。\r\n【報告者のコメント】\r\nワクチンが直接死因に繋がったのかは判定が難しい。ワクチン接種回\r\n数は通算7回目です。",
+    "pre_existing_conditions": "基礎疾患等：脳梗塞、出血性梗塞、右側麻痺、失語症、意識障害、嚥\r\n下障害、胃瘻造設術、経管栄養、譫妄、在宅ケア\r\n2020年12月21日左内頸動脈領域の脳梗塞、出血性梗塞を認めた。右\r\n半身麻痺、失語症、意識障害、嚥下障害等が残存。嚥下機能等障害\r\nのため、胃瘻造設し経管栄養を開始。\r\n2021年6月30日退院、訪問診療開始となった。訪問看護、通所サービ\r\nスを開始。当初、経管栄養と経口摂取を併用した。せん妄に対して向\r\n精神薬を調整。\r\n2023年1月20日胃瘻を自己抜去。経口接種可能となっていたため胃瘻\r\nカテーテルを再挿入しない方針とした。\r\n7月28日COVID-19感染あり。その後は精神状態を含め全身状態は概\r\nね落ち着いていた。",
     "PT_names": [
-      "ショック"
+      "呼吸障害"
     ],
     "tests_used_for_determination": "不明",
     "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "当症例では誤嚥性肺炎あるいはショックによる死亡と判断されている。しかし、直前の心電図・超音波・X線・CT・各種採血などの情報がなく、また剖検の実施状況も不明であることから、ワクチン接種が死亡を引き起こしたかどうかも含め、断定的な判断は困難である。",
-    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-36"
+    "comments_by_expert": "既往に脳梗塞，右片麻痺，嚥下障害がある．ワクチン接種後３日目の呼吸困難であるが，それまでの自他覚所見および剖検の情報がないためワクチンとの因果関係は情報不足と考える",
+    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-37"
   },
   {
     "no": 37,
@@ -4901,26 +4967,27 @@
     "id": "スパイクバックス筋注-37"
   },
   {
-    "no": 37,
+    "no": 38,
     "manufacturer": "ファイザー",
     "vaccine_name": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)",
-    "age": 72,
-    "gender": "男",
-    "vaccinated_dates": "2023/12/8",
+    "age": 79,
+    "gender": "女",
+    "vaccinated_dates": "2023/10/12",
     "onset_dates": [
-      "2023/12/11"
+      "2024/2/12"
     ],
-    "lot_no": "HG2348",
+    "lot_no": "不明",
     "vaccinated_times": "",
-    "pre_existing_conditions": "基礎疾患等：脳梗塞、出血性梗塞、右側麻痺、失語症、意識障害、嚥\r\n下障害、胃瘻造設術、経管栄養、譫妄、在宅ケア\r\n2020年12月21日左内頸動脈領域の脳梗塞、出血性梗塞を認めた。右\r\n半身麻痺、失語症、意識障害、嚥下障害等が残存。嚥下機能等障害\r\nのため、胃瘻造設し経管栄養を開始。\r\n2021年6月30日退院、訪問診療開始となった。訪問看護、通所サービ\r\nスを開始。当初、経管栄養と経口摂取を併用した。せん妄に対して向\r\n精神薬を調整。\r\n2023年1月20日胃瘻を自己抜去。経口接種可能となっていたため胃瘻\r\nカテーテルを再挿入しない方針とした。\r\n7月28日COVID-19感染あり。その後は精神状態を含め全身状態は概\r\nね落ち着いていた。",
+    "pre_existing_conditions": "基礎疾患等：高血圧、糖尿病、高脂血症、頚動脈血栓症、腎性浮腫、\r\n腎症、肺間質影、消化管出血、間質性肺炎、発熱、蕁麻疹\r\n2023/10/12（ワクチン接種日）、コミナティ（1価：オミクロン株XBB.1.5）\r\nの7回目を接種した。\r\n2023/10/12（ワクチン接種後）、直後に咳が悪化した。\r\n2023/11/08、胸部X-Pで間質影増加を示した。同日、患者は他院に紹\r\n介された。\r\nステロイドパルス施行し2023/11/30よりタクロリムスを追加し治療を継\r\n続した。ステロイド漸減後も悪化なく経過したため、2023/12/20退院と\r\nし、外来でのフォローを行うこととした。\r\n外来にてステロイド漸減し、2024/01/04の受診時にオフェブを追加し、\r\n下記処方での治療を行っていた。\r\nビオスリーOD錠、プログラフカプセル、プレドニゾロン、オフェブカプセ\r\nル、フロセミド錠、アムロジピンOD、クロピドグレル錠\r\n糖尿病についてはステロイド使用の影響もあり悪化傾向が認められ、\r\n内分泌内科にてフォローしていた。\r\n2024/01/16に腹痛で救急搬送され、胆のう炎の診断にて入院となっ\r\nた。間質性肺炎等の既往から保存的加療となった。\r\n間質性肺炎は悪化なく経過していたが、腎機能障害が出現し、タクロリ\r\nムスの濃度上昇を認めた。薬物性を考慮し、いったんタクロリムスは中\r\n止し、腎機能は改善した。いったんは転院を検討したが 、\r\n2024/02/12朝方より大量の下血あり、循環不全により全身状態悪化\r\nし2024/02/12 08:37に永眠した。 剖検は無かった。\r\n【報告者からのコメント】\r\n直接死因は上部消化管出血と思われるが背景に間質性肺炎に対する\r\nステロイド等の処方があり、患者はとてもやせて体力の低下があった。\r\n度重なるワクチンの投与により間質性肺炎が広がり、合併症での死亡\r\nに至った。糖尿病、腎症の関与もあったかもしれない。",
     "PT_names": [
-      "呼吸障害"
+      "循環虚脱",
+      "糖尿病"
     ],
     "tests_used_for_determination": "不明",
-    "causal_relationship": "評価不能",
+    "causal_relationship": "不明",
     "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "既往に脳梗塞，右片麻痺，嚥下障害がある．ワクチン接種後３日目の呼吸困難であるが，それまでの自他覚所見および剖検の情報がないためワクチンとの因果関係は情報不足と考える",
-    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-37"
+    "comments_by_expert": "主治医が「度重なるワクチン接種で間質性肺炎が広がった」との記載があるが，それにかんする自他覚所見，画像所見など経時的なデータが無いため因果関係判断は情報不足でできない",
+    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-38"
   },
   {
     "no": 38,
@@ -4989,27 +5056,26 @@
     "id": "スパイクバックス筋注-38"
   },
   {
-    "no": 38,
+    "no": 39,
     "manufacturer": "ファイザー",
     "vaccine_name": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)",
-    "age": 79,
-    "gender": "女",
-    "vaccinated_dates": "2023/10/12",
+    "age": 63,
+    "gender": "男",
+    "vaccinated_dates": "2023/10/14",
     "onset_dates": [
-      "2024/2/12"
+      "2023/10/15"
     ],
-    "lot_no": "不明",
+    "lot_no": "HG2251",
     "vaccinated_times": "",
-    "pre_existing_conditions": "基礎疾患等：高血圧、糖尿病、高脂血症、頚動脈血栓症、腎性浮腫、\r\n腎症、肺間質影、消化管出血、間質性肺炎、発熱、蕁麻疹\r\n2023/10/12（ワクチン接種日）、コミナティ（1価：オミクロン株XBB.1.5）\r\nの7回目を接種した。\r\n2023/10/12（ワクチン接種後）、直後に咳が悪化した。\r\n2023/11/08、胸部X-Pで間質影増加を示した。同日、患者は他院に紹\r\n介された。\r\nステロイドパルス施行し2023/11/30よりタクロリムスを追加し治療を継\r\n続した。ステロイド漸減後も悪化なく経過したため、2023/12/20退院と\r\nし、外来でのフォローを行うこととした。\r\n外来にてステロイド漸減し、2024/01/04の受診時にオフェブを追加し、\r\n下記処方での治療を行っていた。\r\nビオスリーOD錠、プログラフカプセル、プレドニゾロン、オフェブカプセ\r\nル、フロセミド錠、アムロジピンOD、クロピドグレル錠\r\n糖尿病についてはステロイド使用の影響もあり悪化傾向が認められ、\r\n内分泌内科にてフォローしていた。\r\n2024/01/16に腹痛で救急搬送され、胆のう炎の診断にて入院となっ\r\nた。間質性肺炎等の既往から保存的加療となった。\r\n間質性肺炎は悪化なく経過していたが、腎機能障害が出現し、タクロリ\r\nムスの濃度上昇を認めた。薬物性を考慮し、いったんタクロリムスは中\r\n止し、腎機能は改善した。いったんは転院を検討したが 、\r\n2024/02/12朝方より大量の下血あり、循環不全により全身状態悪化\r\nし2024/02/12 08:37に永眠した。 剖検は無かった。\r\n【報告者からのコメント】\r\n直接死因は上部消化管出血と思われるが背景に間質性肺炎に対する\r\nステロイド等の処方があり、患者はとてもやせて体力の低下があった。\r\n度重なるワクチンの投与により間質性肺炎が広がり、合併症での死亡\r\nに至った。糖尿病、腎症の関与もあったかもしれない。",
+    "pre_existing_conditions": "基礎疾患等：なし\r\n2023年10月14日、コミナティ筋注（１価：オミクロン株XBB1.5）を接種し\r\nた。\r\n10月15日夕方4時頃、買い物途中にて急に倒れ、病院へ救急搬送さ\r\nれた。同日、搬送先病院にて死亡確認された（大動脈剥離）。\r\n【報告者コメント】\r\n死因（大動脈剥離）とコロナワクチン接種との関連性を完全に証明する\r\nことは難しいと判断する。",
     "PT_names": [
-      "循環虚脱",
-      "糖尿病"
+      "大動脈解離"
     ],
     "tests_used_for_determination": "不明",
-    "causal_relationship": "不明",
+    "causal_relationship": "関連なし",
     "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "主治医が「度重なるワクチン接種で間質性肺炎が広がった」との記載があるが，それにかんする自他覚所見，画像所見など経時的なデータが無いため因果関係判断は情報不足でできない",
-    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-38"
+    "comments_by_expert": "動脈の硬化性変化（もしくは脆弱性）＋血圧上昇という解離性動脈瘤の病態を考えると、そのような変化が1－2日で起こることは考え難い。",
+    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-39"
   },
   {
     "no": 39,
@@ -5083,26 +5149,26 @@
     "id": "スパイクバックス筋注-39"
   },
   {
-    "no": 39,
+    "no": 40,
     "manufacturer": "ファイザー",
     "vaccine_name": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)",
-    "age": 63,
+    "age": 60,
     "gender": "男",
-    "vaccinated_dates": "2023/10/14",
+    "vaccinated_dates": "2023/12/15",
     "onset_dates": [
-      "2023/10/15"
+      "2023/12"
     ],
-    "lot_no": "HG2251",
+    "lot_no": "HG5983",
     "vaccinated_times": "",
-    "pre_existing_conditions": "基礎疾患等：なし\r\n2023年10月14日、コミナティ筋注（１価：オミクロン株XBB1.5）を接種し\r\nた。\r\n10月15日夕方4時頃、買い物途中にて急に倒れ、病院へ救急搬送さ\r\nれた。同日、搬送先病院にて死亡確認された（大動脈剥離）。\r\n【報告者コメント】\r\n死因（大動脈剥離）とコロナワクチン接種との関連性を完全に証明する\r\nことは難しいと判断する。",
+    "pre_existing_conditions": "症状：37℃～38℃台の発熱が2週間ほど継続\r\n診断：急性上気道炎、右肺炎",
     "PT_names": [
-      "大動脈解離"
+      "肺炎"
     ],
     "tests_used_for_determination": "不明",
-    "causal_relationship": "関連なし",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "動脈の硬化性変化（もしくは脆弱性）＋血圧上昇という解離性動脈瘤の病態を考えると、そのような変化が1－2日で起こることは考え難い。",
-    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-39"
+    "comments_by_expert": "（コメント無し）",
+    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-40"
   },
   {
     "no": 40,
@@ -5170,28 +5236,6 @@
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "解剖所見として認められた「心筋症」すなわち心臓障害の発症時期が不明のため、ワクチンとの因果関係の判定は困難である。ただし、mRNAワクチン接種後の副反応として心筋炎/心膜炎は認知されており、同様の症例が集積しないかの継続観察が必要である。※～1/26から変更なし。",
     "id": "スパイクバックス筋注-40"
-  },
-  {
-    "no": 40,
-    "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)",
-    "age": 60,
-    "gender": "男",
-    "vaccinated_dates": "2023/12/15",
-    "onset_dates": [
-      "2023/12"
-    ],
-    "lot_no": "HG5983",
-    "vaccinated_times": "",
-    "pre_existing_conditions": "症状：37℃～38℃台の発熱が2週間ほど継続\r\n診断：急性上気道炎、右肺炎",
-    "PT_names": [
-      "肺炎"
-    ],
-    "tests_used_for_determination": "不明",
-    "causal_relationship": "評価不能",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "（コメント無し）",
-    "id": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)-40"
   },
   {
     "no": 41,

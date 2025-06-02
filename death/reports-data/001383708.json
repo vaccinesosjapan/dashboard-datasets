@@ -6,7 +6,9 @@
     "age": "不明",
     "gender": "女",
     "vaccinated_dates": "不明",
-    "onset_dates": "不明",
+    "onset_dates": [
+      "不明"
+    ],
     "lot_no": "不明",
     "vaccinated_times": "",
     "pre_existing_conditions": "ＣＯＶＩＤ－１９",

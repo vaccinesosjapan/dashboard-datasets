@@ -44,6 +44,8 @@ df['id'] = df['vaccine_name'].str.cat(df['no'].astype(str), sep='-')
 # %%
 fixed_df = df.copy()
 
+fixed_df.loc[:, 'onset_dates'] = fixed_df['onset_dates'].str.replace('年', '/').str.replace('月', '/').str.replace('日', '').str.replace('/$', '', regex=True).str.replace('\r\n', '\n').str.split('\n')
+
 # PT_namesには、 "['A, 'B', 'C']" というような文字列が入ってしまっているので、astを使って配列として取り出す
 fixed_df.loc[:, 'PT_names'] = fixed_df['PT_names'].map(lambda x: ast.literal_eval(x))
 
@@ -58,7 +60,7 @@ df_dict = fixed_df.to_dict("records")
 df_string = json.dumps(df_dict, ensure_ascii=False, indent=2)
 
 json_file_path = os.path.join(json_folder, json_file_name)
-with open(json_file_path, encoding='utf-8', mode='w') as f:
+with open(json_file_path, encoding='utf-8', mode='w', newline="\n") as f:
 	f.write(df_string)
 
 print(f'{json_file_path} にJSON形式で保存しました。')

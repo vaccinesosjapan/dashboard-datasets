@@ -6,7 +6,9 @@
     "age": 88,
     "gender": "男",
     "vaccinated_dates": "2024/11/12",
-    "onset_dates": "不明",
+    "onset_dates": [
+      "不明"
+    ],
     "lot_no": "",
     "vaccinated_times": "",
     "pre_existing_conditions": "認知症\n高血圧",
@@ -26,7 +28,9 @@
     "age": 70,
     "gender": "男",
     "vaccinated_dates": "2024/11/15",
-    "onset_dates": "不明",
+    "onset_dates": [
+      "不明"
+    ],
     "lot_no": "",
     "vaccinated_times": "",
     "pre_existing_conditions": "肝機能異常\n脱水",
