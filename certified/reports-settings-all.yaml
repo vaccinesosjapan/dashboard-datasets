@@ -1998,5 +1998,20 @@ settings: [
     source: {
       url: https://www.mhlw.go.jp/content/10900000/001492351.pdf,
     },
+  },
+  {
+    date: '2025/05/30',
+    file: '001497532.csv',
+    output: '001497532.json',
+    pages: '',
+    expected_count: {
+      certified: 10,
+      repudiation: 3
+    },
+    reason-type: 'TypeB',
+    script-version: v2,
+    source: {
+      url: https://www.mhlw.go.jp/content/10900000/001497532.pdf,
+    },
   }
 ]
