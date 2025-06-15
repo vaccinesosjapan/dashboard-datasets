@@ -11,12 +11,11 @@
 #  source: 使用するPDFが扱われている審議会の名称と、PDFのURL
 #
 
-name: 'ヌバキソビッド筋注'
-file_id: '001321072'
-pages: '7'
-symptoms: 'myocarditis'
-count: '2'
+name: 'コミナティ筋注シリンジ12歳以上用'
+manufacturer: 'ファイザー'
+file_id: '001475667-pericarditis'
+count: '1'
 source: {
-  name: '第104回',
-  url: 'https://www.mhlw.go.jp/content/11120000/001321072.pdf'
+  name: '第106回',
+  url: 'https://www.mhlw.go.jp/content/11120000/001475667.pdf'
 }
