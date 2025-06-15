@@ -130,3 +130,22 @@ source: {
   name: '第104回',
   url: 'https://www.mhlw.go.jp/content/11120000/001321072.pdf'
 }
+
+# 106th
+name: 'コミナティ筋注シリンジ12歳以上用'
+manufacturer: 'ファイザー'
+file_id: '001475667-myocarditis'
+count: '2'
+source: {
+  name: '第106回',
+  url: 'https://www.mhlw.go.jp/content/11120000/001475667.pdf'
+}
+
+name: 'コミナティ筋注シリンジ12歳以上用'
+manufacturer: 'ファイザー'
+file_id: '001475667-pericarditis'
+count: '1'
+source: {
+  name: '第106回',
+  url: 'https://www.mhlw.go.jp/content/11120000/001475667.pdf'
+}

@@ -1,32 +1,39 @@
 # Carditis issues
 
-製造販売業者が発表した新型コロナウイルスワクチンに関する副反応疑い報告のうち、症状が心筋炎や心膜炎に該当する案件に関して`専門家`が評価を行った結果の症例一覧を扱うフォルダです。
+製造販売業者が発表した新型コロナウイルスワクチンに関する副反応疑い報告のうち、症状が心筋炎や心膜炎に該当する案件に関して`専門家`が評価を行った結果の症例一覧を扱うフォルダである。
 
 ## 準備
 
-過去の期間も含めた更新版のPDFが掲載されることが多いため、「どのPDF（データ）を削除してどれと入れ替えるのか？」を整理する必要がある。
+### メタデータの記載
 
-1. `carditis-table.csv`に使用するPDFの情報などをまとめる。
-1. 各PDFの冒頭に掲載されている心筋炎/心膜炎の件数を`expected-issues.csv`にまとめる。
-1. 検討部会に関する情報を`metadata.yaml`に記載する。
+過去の期間も含めた更新版のPDFが掲載されることが多く、データ抽出に用いたPDFの情報をまとめる。
 
-## 報告一覧の抽出
+1. `carditis-table.csv`にPDFの情報をまとめる。
+1. PDF冒頭に記載の心筋炎/心膜炎の件数を`expected-issues.csv`にまとめる。
+1. 検討部会の情報を`metadata.yaml`に記載する。
 
-以下の手順で行う。
+### PDFの分割
 
-1. `reports-settings.yaml`に、特定のPDF、特定の症例の情報を記載する。
-1. PDFからCSVファイルにデータ抽出する（`pdf-files`から`intermediate-files`へ）。
-    * python _1-extract-pdf-to-csv.py
-1. プログラムで表形式データの整形を行う（列とデータの対応がおかしい箇所への対応など）。
-    * python _2-standardize-csv.py
-    * `intermediate-files`フォルダに、`*-converted.csv`ファイルが作られる。
-1. プログラムでは対応が難しい表崩れを`手作業`で整形する。
-    * `*-converted.csv`ファイルをExcelなどで開き、手作業で表形式がおかしい箇所のデータを整形する。
-    * 整形完了したら`*-manually-fixed.csv`ファイルに保存する。
-1. 最終的な整形を行ってJSONデータを出力する（`intermediate-files`から`reports-files`へ）。
-    * _3-save-to-json.py
+心筋炎(`myocarditis`)と心膜炎(`pericarditis`)とで。症例一覧のPDFを分割しておく。
+例えば、情報ソースのPDFが`001325489.pdf`で、心筋炎の症例一覧が`P30からP45`に掲載されている場合、以下のようにする。
 
-うまく処理できたら、`reports-settings.yaml`の内容を`reports-settings-all.yaml`に転記して保管しておく。
+```sh
+pdftk 001325489.pdf cat 30-45 output 001325489-myocarditis.pdf
+```
+
+この分割したPDFファイルのファイル名`001325489-myocarditis`を、後述の`reports-settings.yaml`で指定する。
+
+※ `pdftk`コマンドを別途インストールしておく。
+
+## 症例一覧の抽出
+
+`reports-settings.yaml`に、抽出対象PDFのデータを書き込み以下のようにスクリプトを実行する。
+途中で指示が出たら、VSCodeの`Edit CSV`などを用いて手作業でCSVファイルを修正しつつ作業を続行する。
+最終的に`reports-data`ディレクトリにJSONデータが保存される。
+
+```sh
+python _convert-pdf-to-json.py
+```
 
 ## データをまとめる
 

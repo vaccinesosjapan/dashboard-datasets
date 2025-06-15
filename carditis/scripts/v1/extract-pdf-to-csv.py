@@ -7,7 +7,7 @@ pages = sys.argv[2] # '30-45'
 symptoms = sys.argv[3] # 'myocarditis'
 
 pdf_file_path = os.path.join('..', 'pdf-files', pdf_file_name)
-tables = camelot.read_pdf(pdf_file_path, pages=pages, encoding='utf-8')
+tables = camelot.read_pdf(pdf_file_path, pages=pages)
 
 print(f"症状: {symptoms}")
 print(f"抽出したtable数 {len(tables)}")

@@ -1,6 +1,79 @@
 [
   {
     "no": 1,
+    "age": 77,
+    "gender": "女性",
+    "vaccinated_date": "",
+    "onset_dates": [
+      ""
+    ],
+    "days_to_onset": "",
+    "vaccine_name": "コミナティ",
+    "manufacturer": "ファイザー",
+    "vaccinated_times": "",
+    "lot_no": "",
+    "pre_existing_disease_names": [
+      "慢性腎臓病"
+    ],
+    "PT_names": [],
+    "gross_result_dates": [
+      ""
+    ],
+    "gross_results": [
+      "回復",
+      "回復",
+      "不明",
+      "不明",
+      "不明"
+    ],
+    "evaluated_PT": "",
+    "evaluated_result": "γ",
+    "brighton_classification": 4,
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第106回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001475667.pdf"
+    }
+  },
+  {
+    "no": 1,
+    "age": 81,
+    "gender": "男性",
+    "vaccinated_date": "",
+    "onset_dates": [
+      ""
+    ],
+    "days_to_onset": "",
+    "vaccine_name": "コミナティ",
+    "manufacturer": "ファイザー",
+    "vaccinated_times": "",
+    "lot_no": "LK7363",
+    "pre_existing_disease_names": [
+      "良性前立腺肥大症\n胃潰瘍\n貧血"
+    ],
+    "PT_names": [],
+    "gross_result_dates": [
+      ""
+    ],
+    "gross_results": [
+      "軽快",
+      "不明",
+      "軽快",
+      "不明"
+    ],
+    "evaluated_PT": "",
+    "evaluated_result": "γ",
+    "brighton_classification": 4,
+    "expert_opinion": "ボルタレンに誘発されたアスピリン喘息の可能性も否定できない。",
+    "remarks": "",
+    "source": {
+      "name": "第106回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001475667.pdf"
+    }
+  },
+  {
+    "no": 1,
     "age": "",
     "gender": "男性",
     "vaccinated_date": "2022/12",
@@ -36,6 +109,40 @@
     "source": {
       "name": "第104回",
       "url": "https://www.mhlw.go.jp/content/11120000/001321072.pdf"
+    }
+  },
+  {
+    "no": 2,
+    "age": 89,
+    "gender": "男性",
+    "vaccinated_date": "",
+    "onset_dates": [
+      ""
+    ],
+    "days_to_onset": "",
+    "vaccine_name": "コミナティ",
+    "manufacturer": "ファイザー",
+    "vaccinated_times": "",
+    "lot_no": "LL7260",
+    "pre_existing_disease_names": [
+      "心不全\n入院\n血中コレステロール増加\n便秘\n狭心症\n脳梗塞\n頚動脈狭窄\n糖尿病\n高コレステロール血症\n高血圧\n脳内動脈瘤手術\n混合型認知症"
+    ],
+    "PT_names": [],
+    "gross_result_dates": [
+      ""
+    ],
+    "gross_results": [
+      "死亡",
+      "死亡"
+    ],
+    "evaluated_PT": "",
+    "evaluated_result": "γ",
+    "brighton_classification": 4,
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第106回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001475667.pdf"
     }
   },
   {

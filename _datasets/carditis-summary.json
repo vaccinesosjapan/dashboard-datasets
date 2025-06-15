@@ -1,16 +1,16 @@
 {
   "carditis_summary": {
-    "date": "2024/10/25",
-    "total": 803,
-    "myocarditis": 617,
-    "pericarditis": 186,
+    "date": "2025/04/14",
+    "total": 806,
+    "myocarditis": 619,
+    "pericarditis": 187,
     "source": {
-      "name": "第104回厚生科学審議会予防接種・ワクチン分科会副反応検討部会",
-      "url": "https://www.mhlw.go.jp/stf/shingi2/newpage_00109.html"
+      "name": "第106回厚生科学審議会予防接種・ワクチン分科会副反応検討部会",
+      "url": "https://www.mhlw.go.jp/stf/shingi2/newpage_00138.html"
     }
   },
   "carditis_issues": {
-    "date": "2024/08/04",
+    "date": "2024/12/31",
     "issues_with_vaccine_name": [
       {
         "vaccine_name": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)",
@@ -81,12 +81,17 @@
         "vaccine_name": "コミナティ筋注6ヵ月~4歳用",
         "myocarditis_count": 0,
         "pericarditis_count": 0
+      },
+      {
+        "vaccine_name": "コミナティ筋注シリンジ12歳以上用",
+        "myocarditis_count": 2,
+        "pericarditis_count": 1
       }
     ],
     "issues_m_by_manufacturers": [
       {
         "manufacturer": "ファイザー",
-        "count": 396
+        "count": 398
       },
       {
         "manufacturer": "モデルナ",
@@ -104,7 +109,7 @@
     "issues_p_by_manufacturers": [
       {
         "manufacturer": "ファイザー",
-        "count": 134
+        "count": 135
       },
       {
         "manufacturer": "モデルナ",
@@ -120,7 +125,7 @@
       }
     ],
     "issues_by_ages": {
-      "ages_count": 759,
+      "ages_count": 762,
       "unknown_ages_count": 44,
       "issues": [
         {
@@ -153,11 +158,11 @@
         },
         {
           "x": "70代",
-          "y": 60
+          "y": 61
         },
         {
           "x": "80代",
-          "y": 53
+          "y": 55
         },
         {
           "x": "90代",
