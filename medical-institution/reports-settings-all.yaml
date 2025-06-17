@@ -1322,6 +1322,22 @@ source: {
   url: 'https://www.mhlw.go.jp/content/11120000/001325450.pdf'
 }
 
+# 105th
+relative_dir: '105th'
+file_id: '001383702-MIN'
+pages: '7'
+count: '1'
+has_concurrent_vaccination: 'true'
+script-version: v2
+source: {
+  name: '第105回',
+  url: 'https://www.mhlw.go.jp/content/11120000/001383702.pdf'
+}
+id_metadata: {
+  number: '105th',
+  kind: 'MIN'
+}
+
 # 106th
 relative_dir: '106th'
 file_id: '001475703'

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "105th-MIN-1",
+    "no": 1,
+    "age": 62,
+    "gender": "女",
+    "vaccinated_dates": [
+      "不明"
+    ],
+    "vaccine_name": "コミナティ",
+    "lot_no": "不明",
+    "manufacturer": "ファイザー",
+    "concurrent_vaccination_flag": false,
+    "concurrent_vaccination": "",
+    "pre_existing_disease_names": [
+      "造影剤でくしゃみに副作用歴"
+    ],
+    "PT_names": [
+      "心房細動"
+    ],
+    "onset_dates": [
+      "不明"
+    ],
+    "days_to_onset": [
+      "不明"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "不明"
+    ],
+    "gross_results": [
+      "後遺症【症状：動悸、眩暈】"
+    ],
+    "pt_by_expert": "",
+    "causal_relationship_by_expert": "",
+    "brighton_classification_by_expert": "",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第105回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001383702.pdf"
+    }
+  }
+]
