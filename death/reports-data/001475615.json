@@ -19,7 +19,11 @@
     "causal_relationship": "ー",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "新型コロナワクチン接種3日後に急性心筋梗塞を発症し、死亡した\n症例である。高齢であり、急性心筋梗塞の危険因子である慢性腎臓\n病、糖尿病、高血圧があることから、ワクチン接種と関係がなく心\n筋梗塞を発症した可能性も考えられる。",
-    "id": "ダイチロナ-1"
+    "id": "106-ダイチロナ筋注-1",
+    "source": {
+      "name": "第106回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001475615.pdf"
+    }
   },
   {
     "no": 2,
@@ -41,7 +45,11 @@
     "causal_relationship": "ー",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "新型コロナワクチンとインフルエンザワクチンを同時接種し、翌日\n発熱し、翌々日に死亡した症例である。死因に関しては詳細な情報\nはないが、発熱に関してはワクチン接種後に生じたことから、因果\n関係は否定できないと判断した。",
-    "id": "ダイチロナ\nインフルエンザHAワクチン\n*デンカ-2"
+    "id": "106-ダイチロナ筋注-2",
+    "source": {
+      "name": "第106回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001475615.pdf"
+    }
   },
   {
     "no": 3,
@@ -64,7 +72,11 @@
     "causal_relationship": "ー",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "",
-    "id": "ダイチロナ-3"
+    "id": "106-ダイチロナ筋注-3",
+    "source": {
+      "name": "第106回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001475615.pdf"
+    }
   },
   {
     "no": 4,
@@ -86,7 +98,11 @@
     "causal_relationship": "ー",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "新型コロナワクチン接種後、翌日に発熱し、その後誤嚥性肺炎によ\nり死亡した症例である。本症例は基礎疾患としてシャルコーマリー\nトゥース病があり、この疾患は嚥下反射の低下を伴う。本症例にお\nいても嚥下性肺炎の既往歴があり、嚥下反射は低下していたため、\n誤嚥性肺炎を発症した可能性が考えられる。発熱に関しては、誤嚥\n性肺炎による発熱の可能性も考えられるが、ワクチンによる影響も\n否定できず、発熱による嚥下反射低下から誤嚥性肺炎を来した可能\n性があるため、因果関係は否定できないと判断した。",
-    "id": "ダイチロナ-4"
+    "id": "106-ダイチロナ筋注-4",
+    "source": {
+      "name": "第106回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001475615.pdf"
+    }
   },
   {
     "no": 5,
@@ -108,7 +124,11 @@
     "causal_relationship": "ー",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "",
-    "id": "ダイチロナ-5"
+    "id": "106-ダイチロナ筋注-5",
+    "source": {
+      "name": "第106回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001475615.pdf"
+    }
   },
   {
     "no": 6,
@@ -130,6 +150,10 @@
     "causal_relationship": "関連あり",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "",
-    "id": "ダイチロナ-6"
+    "id": "106-ダイチロナ筋注-6",
+    "source": {
+      "name": "第106回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001475615.pdf"
+    }
   }
 ]
