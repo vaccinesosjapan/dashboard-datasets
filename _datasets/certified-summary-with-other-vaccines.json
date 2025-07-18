@@ -2,9 +2,9 @@
   "meta_data": {
     "covid19_vaccine": {
       "first_date": "2021/08/19",
-      "last_date": "2025/07/10",
+      "last_date": "2025/07/17",
       "period": "3年11ヶ月",
-      "certified_count": 9226,
+      "certified_count": 9239,
       "source_url": "https://www.mhlw.go.jp/stf/shingi/shingi-shippei_127696_00001.html"
     },
     "other_vaccines": {
@@ -194,10 +194,10 @@
       },
       {
         "vaccine_name": "新型コロナ",
-        "medical": 7980,
+        "medical": 7992,
         "disability_of_children": 1,
         "disability": 216,
-        "death": 1029
+        "death": 1030
       }
     ]
   }
