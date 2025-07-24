@@ -816,6 +816,14 @@
     }
   },
   {
+    "name": "めまいを伴う右突発性難聴",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
     "name": "めまいを伴う突発性難聴",
     "counts": {
       "male": 0,
@@ -1442,9 +1450,9 @@
   {
     "name": "ステロイド糖尿病",
     "counts": {
-      "male": 1,
+      "male": 2,
       "female": 1,
-      "sum": 2
+      "sum": 3
     }
   },
   {
@@ -1810,9 +1818,9 @@
   {
     "name": "リウマチ性多発筋痛症",
     "counts": {
-      "male": 19,
-      "female": 21,
-      "sum": 40
+      "male": 20,
+      "female": 22,
+      "sum": 42
     }
   },
   {
@@ -7488,6 +7496,14 @@
     }
   },
   {
+    "name": "右肩甲骨部筋肉痛",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
     "name": "右肩疼痛",
     "counts": {
       "male": 1,
@@ -8736,6 +8752,14 @@
     }
   },
   {
+    "name": "四肢感覚障害",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
     "name": "四肢感覚障害・脱力",
     "counts": {
       "male": 0,
@@ -8851,8 +8875,8 @@
     "name": "四肢筋力低下",
     "counts": {
       "male": 5,
-      "female": 5,
-      "sum": 10
+      "female": 6,
+      "sum": 11
     }
   },
   {
@@ -12914,9 +12938,9 @@
   {
     "name": "左肩関節周囲炎",
     "counts": {
-      "male": 109,
+      "male": 110,
       "female": 202,
-      "sum": 311
+      "sum": 312
     }
   },
   {
@@ -15291,8 +15315,8 @@
     "name": "急性肝炎",
     "counts": {
       "male": 6,
-      "female": 6,
-      "sum": 12
+      "female": 7,
+      "sum": 13
     }
   },
   {
@@ -16619,8 +16643,8 @@
     "name": "掌蹠膿疱症",
     "counts": {
       "male": 1,
-      "female": 2,
-      "sum": 3
+      "female": 3,
+      "sum": 4
     }
   },
   {
@@ -22989,6 +23013,14 @@
       "male": 33,
       "female": 36,
       "sum": 69
+    }
+  },
+  {
+    "name": "関節リウマチの再燃",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
     }
   },
   {
