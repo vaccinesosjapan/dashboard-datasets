@@ -8,21 +8,21 @@
 #  source: 使用するPDFが扱われている審議会の名称と、PDFのURL
 #  id_metadata: idを生成するために必要な「第何回目の検討部会か」「どの種類の表か」といったメタ情報を記載する
 #    MA: 製造販売業者（Manufacturer）
-#    MI: 医療機関（Medical institution）
+#    MI: 医療機関（Medical Institution）
 #      MIS: 重い(Serious)症例
 #      MIN: 上記以外の（Not serious）症例
 
-relative_dir: '105th'
-file_id: '001383702-MIN'
-pages: '7'
-count: '1'
+relative_dir: '107th'
+file_id: '001522528-2'
+pages: '8'
+count: '5'
 has_concurrent_vaccination: 'true'
 script-version: v2
 source: {
-  name: '第105回',
-  url: 'https://www.mhlw.go.jp/content/11120000/001383702.pdf'
+  name: '第107回',
+  url: 'https://www.mhlw.go.jp/content/11120000/001522528.pdf'
 }
 id_metadata: {
-  number: '105th',
+  number: '107th',
   kind: 'MIN'
 }
