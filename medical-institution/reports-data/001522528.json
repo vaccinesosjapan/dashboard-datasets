@@ -96,11 +96,11 @@
     "vaccinated_dates": [
       "2024/10/31"
     ],
-    "vaccine_name": "インフルエンザ",
-    "lot_no": "754-A",
-    "manufacturer": "デンカ",
+    "vaccine_name": "コミナティ",
+    "lot_no": "LL7260",
+    "manufacturer": "ファイザー",
     "concurrent_vaccination_flag": true,
-    "concurrent_vaccination": "コミナティ;ファイザー;LL7260",
+    "concurrent_vaccination": "インフルエンザ;デンカ;754-A",
     "pre_existing_disease_names": [
       "糖尿病",
       "高血圧",
