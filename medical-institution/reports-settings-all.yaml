@@ -1415,3 +1415,63 @@ id_metadata: {
   number: '106th',
   kind: 'MIN'
 }
+
+relative_dir: '107th'
+file_id: '001522528'
+pages: '7'
+count: '7'
+has_concurrent_vaccination: 'true'
+script-version: v2
+source: {
+  name: '第107回',
+  url: 'https://www.mhlw.go.jp/content/11120000/001522528.pdf'
+}
+id_metadata: {
+  number: '107th',
+  kind: 'MIN'
+}
+
+relative_dir: '107th'
+file_id: '001522528'
+pages: '8'
+count: '5'
+has_concurrent_vaccination: 'true'
+script-version: v2
+source: {
+  name: '第107回',
+  url: 'https://www.mhlw.go.jp/content/11120000/001522528.pdf'
+}
+id_metadata: {
+  number: '107th',
+  kind: 'MIN'
+}
+
+relative_dir: '107th'
+file_id: '001522538-1'
+pages: '6'
+count: '1'
+has_concurrent_vaccination: 'true'
+script-version: v2
+source: {
+  name: '第107回',
+  url: 'https://www.mhlw.go.jp/content/11120000/001522538.pdf'
+}
+id_metadata: {
+  number: '107th',
+  kind: 'MIS'
+}
+
+relative_dir: '107th'
+file_id: '001522542-1'
+pages: '7'
+count: '1'
+has_concurrent_vaccination: 'true'
+script-version: v2
+source: {
+  name: '第107回',
+  url: 'https://www.mhlw.go.jp/content/11120000/001522542.pdf'
+}
+id_metadata: {
+  number: '107th',
+  kind: 'MIN'
+}

@@ -1,17 +1,17 @@
 {
   "medical_institution_summary_from_reports": {
-    "date": "2024/12/31",
-    "total_count": 37679,
+    "date": "2025/03/31",
+    "total_count": 37693,
     "sum_causal_relationship": {
-      "関連あり": 21481,
-      "評価不能": 10591,
+      "関連あり": 21487,
+      "評価不能": 10598,
       "(空白)": 4065,
-      "関連なし": 1540,
+      "関連なし": 1541,
       "記載なし": 2
     },
     "sum_severities_of_related": {
-      "重くない": 16747,
-      "重い": 4734
+      "重くない": 16749,
+      "重い": 4738
     },
     "lot_no_info": {
       "top_ten_list": [
@@ -118,7 +118,7 @@
           "manufacturer": "モデルナ/武田"
         }
       ],
-      "invalid_count": 3143
+      "invalid_count": 3148
     }
   }
 }
