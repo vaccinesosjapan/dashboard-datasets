@@ -1445,3 +1445,18 @@ id_metadata: {
   number: '107th',
   kind: 'MIN'
 }
+
+relative_dir: '107th'
+file_id: '001522538-1'
+pages: '6'
+count: '1'
+has_concurrent_vaccination: 'true'
+script-version: v2
+source: {
+  name: '第107回',
+  url: 'https://www.mhlw.go.jp/content/11120000/001522538.pdf'
+}
+id_metadata: {
+  number: '107th',
+  kind: 'MIS'
+}

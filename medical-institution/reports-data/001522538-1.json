@@ -1,0 +1,44 @@
+[
+  {
+    "id": "107th-MIS-1",
+    "no": 1,
+    "age": 76,
+    "gender": "女",
+    "vaccinated_dates": [
+      "2024/12/10"
+    ],
+    "vaccine_name": "ダイチロナ",
+    "lot_no": "VPA016A",
+    "manufacturer": "第一三共",
+    "concurrent_vaccination_flag": false,
+    "concurrent_vaccination": "",
+    "pre_existing_disease_names": [
+      "なし"
+    ],
+    "PT_names": [
+      "意識レベルの低下"
+    ],
+    "onset_dates": [
+      "2024/12/10"
+    ],
+    "days_to_onset": [
+      "0"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "2025/01/02"
+    ],
+    "gross_results": [
+      "死亡"
+    ],
+    "pt_by_expert": "意識レベルの低下",
+    "causal_relationship_by_expert": "γ",
+    "brighton_classification_by_expert": "-",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第107回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001522538.pdf"
+    }
+  }
+]
