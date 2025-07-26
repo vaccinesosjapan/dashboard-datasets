@@ -28,4 +28,7 @@
 1. 最終的な整形を行ってJSONデータを出力する（`intermediate-files`から`reports-files`へ）。
     * python _3-save-to-json.py
 
-`death-table.csv`にメモした全てのPDFで処理ができたら、`try-sum-reports.ipynb`を実行してレポートや集計データを完成させる。
+`death-table.csv`にメモした全てのPDFで処理ができたら、
+
+1. `try-apply-source.ipynb`を実行して、新形式の`id`や`source`データを個々のJSONデータに付与。
+1. `try-sum-reports.ipynb`を実行して、レポートや集計データを完成させる。
