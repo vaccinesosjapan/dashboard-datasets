@@ -1,15 +1,15 @@
 {
   "death_summary": {
-    "date": "2025/04/14",
+    "date": "2025/07/25",
     "source": {
-      "name": "第106回厚生科学審議会予防接種・ワクチン分科会副反応検討部会",
-      "url": "https://www.mhlw.go.jp/stf/shingi2/newpage_00138.html"
+      "name": "第107回厚生科学審議会予防接種・ワクチン分科会副反応検討部会",
+      "url": "https://www.mhlw.go.jp/stf/shingi2/newpage_00156.html"
     },
     "sum_by_evaluation": {
-      "total": 2283,
+      "total": 2298,
       "alpha": 2,
       "beta": 11,
-      "gamma": 2270
+      "gamma": 2285
     },
     "sum_by_vaccine_name": [
       {
@@ -17,7 +17,7 @@
         "evaluations": {
           "alpha": 0,
           "beta": 0,
-          "gamma": 2
+          "gamma": 3
         }
       },
       {
@@ -49,7 +49,7 @@
         "evaluations": {
           "alpha": 0,
           "beta": 0,
-          "gamma": 11
+          "gamma": 18
         }
       },
       {
@@ -105,7 +105,7 @@
         "evaluations": {
           "alpha": 0,
           "beta": 0,
-          "gamma": 6
+          "gamma": 11
         }
       },
       {
@@ -121,7 +121,7 @@
         "evaluations": {
           "alpha": 0,
           "beta": 0,
-          "gamma": 4
+          "gamma": 6
         }
       },
       {
@@ -136,7 +136,7 @@
     "sum_by_manufacturer": [
       {
         "manufacturer": "ファイザー",
-        "death_count": 2001
+        "death_count": 2008
       },
       {
         "manufacturer": "モデルナ",
@@ -144,15 +144,15 @@
       },
       {
         "manufacturer": "第一三共",
-        "death_count": 6
+        "death_count": 11
       },
       {
         "manufacturer": "ノババックス／武田",
-        "death_count": 4
+        "death_count": 6
       },
       {
         "manufacturer": "Meiji Seika ファルマ",
-        "death_count": 2
+        "death_count": 3
       },
       {
         "manufacturer": "アストラゼネカ",
@@ -161,6 +161,6 @@
     ]
   },
   "death_issues": {
-    "date": "2024/12/31"
+    "date": "2025/03/31"
   }
 }
