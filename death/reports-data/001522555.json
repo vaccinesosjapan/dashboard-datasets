@@ -1,0 +1,46 @@
+[
+  {
+    "no": 1,
+    "manufacturer": "ノババックス／武田",
+    "vaccine_name": "ビケンHA\r\nヌバキソビッド",
+    "age": 72,
+    "gender": "男",
+    "vaccinated_dates": "2024/10/26",
+    "onset_dates": [
+      "2024/10/29"
+    ],
+    "lot_no": "HA237C\r\nNT001",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "",
+    "PT_names": [
+      "突然死"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "ー",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "",
+    "id": "ビケンHA\r\nヌバキソビッド-1"
+  },
+  {
+    "no": 2,
+    "manufacturer": "ノババックス／武田",
+    "vaccine_name": "ヌバキソビッド",
+    "age": 77,
+    "gender": "女",
+    "vaccinated_dates": "2024/11/15",
+    "onset_dates": [
+      "2024/11/26"
+    ],
+    "lot_no": "",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "アナフィラキシーショック\n深部静脈血栓症\n肺高血圧症",
+    "PT_names": [
+      "胃腸出血"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "ー",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "",
+    "id": "ヌバキソビッド-2"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "no": 1,
+    "manufacturer": "第一三共",
+    "vaccine_name": "ダイチロナ",
+    "age": 86,
+    "gender": "女",
+    "vaccinated_dates": "2024/11/21",
+    "onset_dates": [
+      "2024/11/22"
+    ],
+    "lot_no": "",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "認知症\n骨粗鬆症\n高尿酸血症\n高血圧",
+    "PT_names": [
+      "突然死"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "ー",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "",
+    "id": "ダイチロナ-1"
+  },
+  {
+    "no": 2,
+    "manufacturer": "第一三共",
+    "vaccine_name": "ダイチロナ",
+    "age": 101,
+    "gender": "女",
+    "vaccinated_dates": "2025/02/07",
+    "onset_dates": [
+      "2025/02/09"
+    ],
+    "lot_no": "VPA024A",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "",
+    "PT_names": [
+      "死亡"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "ー",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "",
+    "id": "ダイチロナ-2"
+  },
+  {
+    "no": 3,
+    "manufacturer": "第一三共",
+    "vaccine_name": "ダイチロナ",
+    "age": 76,
+    "gender": "女",
+    "vaccinated_dates": "2024/12/10",
+    "onset_dates": [
+      "2025/01/02"
+    ],
+    "lot_no": "VPA016A",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "",
+    "PT_names": [
+      "意識レベルの低下"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "",
+    "id": "ダイチロナ-3"
+  },
+  {
+    "no": 4,
+    "manufacturer": "第一三共",
+    "vaccine_name": "ダイチロナ",
+    "age": 91,
+    "gender": "女",
+    "vaccinated_dates": "2024/11/29",
+    "onset_dates": [
+      "2025/02/14"
+    ],
+    "lot_no": "VPA020A",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "アレルギー性鼻炎\n便秘\n倦怠感\n歩行障害\n歯肉痛\n緊張性膀胱\n肺腫瘤\n自己免疫性甲状腺炎\n非タバコ使用者\n食欲減退\n高尿酸血症\nＣ型肝炎",
+    "PT_names": [
+      "発熱性好中球減少症"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "ー",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "",
+    "id": "ダイチロナ-4"
+  },
+  {
+    "no": 5,
+    "manufacturer": "第一三共",
+    "vaccine_name": "ダイチロナ",
+    "age": 93,
+    "gender": "女",
+    "vaccinated_dates": "2024/11/27",
+    "onset_dates": [
+      "2025/01/19"
+    ],
+    "lot_no": "VPA015A",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "アルツハイマー型認知症\n外科手術\n大腿骨頚部骨折\n胆石症\n脳梗塞\n関節リウマチ",
+    "PT_names": [
+      "痙攣発作"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "ー",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "",
+    "id": "ダイチロナ-5"
+  }
+]
