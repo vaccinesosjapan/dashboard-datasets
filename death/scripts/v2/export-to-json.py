@@ -45,6 +45,7 @@ df['id'] = df['vaccine_name'].str.cat(df['no'].astype(str), sep='-')
 fixed_df = df.copy()
 
 fixed_df.loc[:, 'onset_dates'] = fixed_df['onset_dates'].str.replace('年', '/').str.replace('月', '/').str.replace('日', '').str.replace('/$', '', regex=True).str.replace('\r\n', '\n').str.split('\n')
+fixed_df.loc[:, 'pre_existing_conditions'] = fixed_df['pre_existing_conditions'].str.replace('\r\n', '\n')
 
 # PT_namesには、 "['A, 'B', 'C']" というような文字列が入ってしまっているので、astを使って配列として取り出す
 fixed_df.loc[:, 'PT_names'] = fixed_df['PT_names'].map(lambda x: ast.literal_eval(x))

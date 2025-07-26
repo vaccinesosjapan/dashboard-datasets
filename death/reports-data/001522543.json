@@ -1,0 +1,162 @@
+[
+  {
+    "no": 1,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ",
+    "age": "高齢者",
+    "gender": "女",
+    "vaccinated_dates": "",
+    "onset_dates": [
+      "不明"
+    ],
+    "lot_no": "",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "",
+    "PT_names": [
+      "心筋梗塞"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "-",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "",
+    "id": "コミナティ-1"
+  },
+  {
+    "no": 2,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ",
+    "age": 103,
+    "gender": "女",
+    "vaccinated_dates": "2024/11/27",
+    "onset_dates": [
+      "2024/12/01"
+    ],
+    "lot_no": "",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "",
+    "PT_names": [
+      "肝新生物"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "-",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "",
+    "id": "コミナティ-2"
+  },
+  {
+    "no": 3,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ",
+    "age": 95,
+    "gender": "男",
+    "vaccinated_dates": "2024/12/17",
+    "onset_dates": [
+      "2024/12/25"
+    ],
+    "lot_no": "LK7363",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "そう痒症\n不整脈\n尿路感染\n心室性期外収縮\n心障害\n栄養障害\n肺炎\n脳梗塞\n虚血性大腸炎\n認知症\n転倒\n高血圧",
+    "PT_names": [
+      "呼吸不全",
+      "多臓器機能不全症候群",
+      "徐脈",
+      "心不全",
+      "心筋梗塞",
+      "急性腎障害",
+      "横紋筋融解症"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "-",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "",
+    "id": "コミナティ-3"
+  },
+  {
+    "no": 4,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ",
+    "age": 81,
+    "gender": "女",
+    "vaccinated_dates": "2024/11/29",
+    "onset_dates": [
+      "2024/11/30"
+    ],
+    "lot_no": "LL7309",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "アルコール症\nアルツハイマー型認知症\n不動症候群\n脳挫傷\n脳症",
+    "PT_names": [
+      "急性心筋梗塞"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "-",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "",
+    "id": "コミナティ-4"
+  },
+  {
+    "no": 5,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ",
+    "age": 50,
+    "gender": "女",
+    "vaccinated_dates": "2025/01/14",
+    "onset_dates": [
+      "2025/01/20"
+    ],
+    "lot_no": "",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "",
+    "PT_names": [
+      "死亡"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "-",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "",
+    "id": "コミナティ-5"
+  },
+  {
+    "no": 6,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ",
+    "age": "高齢者",
+    "gender": "",
+    "vaccinated_dates": "2024/12",
+    "onset_dates": [
+      "2024/12"
+    ],
+    "lot_no": "",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "",
+    "PT_names": [
+      "死亡"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "-",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "",
+    "id": "コミナティ-6"
+  },
+  {
+    "no": 7,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ",
+    "age": 67,
+    "gender": "男",
+    "vaccinated_dates": "",
+    "onset_dates": [
+      "2024/09/03"
+    ],
+    "lot_no": "",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "",
+    "PT_names": [
+      "胸痛"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "-",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "",
+    "id": "コミナティ-7"
+  }
+]
