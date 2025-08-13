@@ -1,6 +1,5 @@
+import sys, os, subprocess
 import yaml
-import sys
-import subprocess
 
 if len(sys.argv) > 1:
     settings_file_path = sys.argv[1]
@@ -11,10 +10,14 @@ with open(settings_file_path, "r", encoding='utf-8') as file:
     settings_root = yaml.safe_load(file)
 settings = settings_root['settings']
 
+script_dir = os.path.dirname(os.path.abspath(__file__))
+
 for s in settings:
     print(f'日付「{s["date"]}」のデータを抽出して {s["output"]} に保存中: ', end='', flush=True)
     script_version = s['script-version'].lower()
+    extract_script_path = os.path.join(script_dir, f"extract-certified-reports-{script_version}.py")
     certified_count = s['expected_count']['certified']
     repudiation_count = s['expected_count']['repudiation']
-    subprocess.run([ "python", f"extract-certified-reports-{script_version}.py",
-                    s['file'], s['output'], s['pages'], s['date'], s['reason-type'], f'{certified_count}', f'{repudiation_count}', s['source']['url'] ])
+    subprocess.run([ "python", extract_script_path,
+                    s['file'], s['output'], s['pages'], s['date'], s['reason-type'], f'{certified_count}', f'{repudiation_count}', s['source']['url'] ],
+                    cwd=script_dir)

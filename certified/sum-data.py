@@ -1,0 +1,14 @@
+import subprocess
+import os
+
+script_dir = os.path.dirname(os.path.abspath(__file__))
+
+sum_certified_path = os.path.join(script_dir, 'scripts', 'sum-certified-reports-v1.py')
+sum_judged_data_path = os.path.join(script_dir, 'scripts', 'sum-judged-data.py')
+sum_trends_path = os.path.join(script_dir, 'scripts', 'sum-trends.py')
+sum_split_issues_path = os.path.join(script_dir, 'scripts', 'sum-split-issues.py')
+
+subprocess.run(['python', sum_certified_path], cwd=script_dir)
+subprocess.run(['python', sum_judged_data_path], cwd=script_dir)
+subprocess.run(['python', sum_trends_path], cwd=script_dir)
+subprocess.run(['python', sum_split_issues_path], cwd=script_dir)
