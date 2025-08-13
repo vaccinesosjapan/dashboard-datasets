@@ -1,6 +1,6 @@
 # %%
 import pandas as pd
-import json, os
+import json, os, copy
 
 source_dir = '../_datasets'
 output_dir = '../_datasets'
@@ -23,14 +23,16 @@ pivot_df.rename(columns={'merged': '死亡一時金・葬祭料'}, inplace=True)
 
 # %%
 # 列名を半角英数の文字列に変換しつつ、MultiIndexを解除してフラットな文字列に。
-columns_replace_dict = {
+columns_dict = {
 	'医療費・医療手当': 'medical',
 	'死亡一時金・葬祭料': 'death',
 	'障害児養育年金': 'disability_of_children',
-	'障害年金': 'disability',
-	'認定': 'certified',
-	'否認': 'denied'
+	'障害年金': 'disability'
 }
+columns_replace_dict = copy.deepcopy(columns_dict)
+columns_replace_dict['認定'] = 'certified'
+columns_replace_dict['否認'] = 'denied'
+
 pivot_df.rename(columns=columns_replace_dict, inplace=True)
 pivot_df.columns = ['_'.join(col) for col in pivot_df.columns]
 
@@ -49,37 +51,78 @@ for col in pivot_df.columns:
 	pivot_df[f'{col}_sum'] = pivot_df[col].cumsum()
 
 # %%
-# 列名から、グラフ側で表示する名称を得るための辞書を作る。
-display_name_base_dict = {
-	'medical_certified': "認定件数（医療費・医療手当）",
-	'medical_denied': '否認件数（医療費・医療手当）',
-	'death_certified': '認定件数（死亡一時金・葬祭料）',
-	'death_denied': '否認件数（死亡一時金・葬祭料）',
-	'disability_of_children_certified': '認定件数（障害児養育年金）',
-	'disability_of_children_denied': '否認件数（障害児養育年金）',
-	'disability_certified': '認定件数（障害年金）',
-	'disability_denied': '否認件数（障害年金）',
-}
+# グラフ側で表示する名称を得るための辞書を作る。
 display_name_dict = dict()
-for k, v in display_name_base_dict.items():
-	display_name_dict[k] = v
-	display_name_dict[f'{k}_sum'] = v
+for k, v in columns_dict.items():
+	display_name_dict[v] = k
+
+# %%
+def get_margin(data: int) -> int:
+	if 0 < data and data < 50:
+		return 5
+	elif 50 <= data and data < 100:
+		return 10
+	elif 100 <= data and data < 1000:
+		return 50
+	elif 1000 <= data and data < 5000:
+		return 100
+	elif 5000 <= data and data < 10000:
+		return 500
+	else:
+		return 1000
+
+def get_round_param(data: int) -> int:
+	if 0 < data and data < 100:
+		return -1
+	elif 100 <= data and data < 1000:
+		return -1
+	elif 1000 <= data and data < 10000:
+		return -2
+	else:
+		return -3
+
+def get_fine_rounded_value(max_val: int) -> int:
+	margin = get_margin(max_val)
+	param = get_round_param(max_val)
+	return int(round(max_val + margin, param))
 
 # %%
 data_list = []
-for col in pivot_df.columns:
+for k, v in display_name_dict.items():
+    # グラフ側でY軸の値をどのぐらいにすればよいかを示す値を計算してデータに含める。
+    max_data = (pivot_df[f'{k}_certified'] + pivot_df[f'{k}_denied']).max()
+    normal_y_axis_max = get_fine_rounded_value(max_data)
+
+    last_sum_data = pivot_df[f'{k}_certified_sum'].iloc[-1] + pivot_df[f'{k}_denied_sum'].iloc[-1]
+    sum_y_axis_max = get_fine_rounded_value(last_sum_data)
+
+    '''
+    # debug print
+    print(k)
+    print(f'normal: max={max_data}, axis_max={normal_y_axis_max}')
+    print(f'sum   : max={last_sum_data}, axis_max={sum_y_axis_max}')
+    print()
+    '''
+
+	# NaNをnullに変換しておけば、JSON出力した際にもフロントエンドで解釈可能なnullとして出力される。
+    # 最初はfillna(0)でゼロ埋めしようと思ったのだが、認定比率のグラフ的に微妙だったのでやめた。
     data = {
-        "id": pivot_df[col].name,
-        "display_name": display_name_dict[pivot_df[col].name],
-        "certified": col.__contains__('certified'),
-        "cumulative": col.endswith('_sum'),
-        "y_axis_data": pivot_df[col].tolist()
-	}
+			"id": k,
+			"display_name": v,
+			"certified_data": pivot_df[f'{k}_certified'].tolist(),
+			"certified_sum_data": pivot_df[f'{k}_certified_sum'].tolist(),
+			"denied_data": pivot_df[f'{k}_denied'].tolist(),
+			"denied_sum_data": pivot_df[f'{k}_denied_sum'].tolist(),
+			"certified_rate": round(pivot_df[f'{k}_certified'] / (pivot_df[f'{k}_certified'] + pivot_df[f'{k}_denied']) * 100, 2).fillna(0).tolist(),
+            "certified_rate_sum": round(pivot_df[f'{k}_certified_sum'] / (pivot_df[f'{k}_certified_sum'] + pivot_df[f'{k}_denied_sum']) * 100, 2).fillna(0).tolist(),
+            "normal_y_axis_max": normal_y_axis_max,
+            "sum_y_axis_max": sum_y_axis_max,
+		}
     data_list.append(data)
 
 data_for_frontend = {
     "x_axis_data": pivot_df.index.to_list(),
-	"data_list": data_list,
+	"data_list": data_list
 }
 
 output_path = os.path.join(output_dir, 'judged-split-data.json')
