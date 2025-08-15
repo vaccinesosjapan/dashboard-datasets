@@ -1,5 +1,6 @@
 # %%
 import pandas as pd
+import numpy as np
 import json, os, copy
 
 source_dir = '../_datasets'
@@ -86,6 +87,18 @@ def get_fine_rounded_value(max_val: int) -> int:
 	param = get_round_param(max_val)
 	return int(round(max_val + margin, param))
 
+#%%
+# NaNをNoneに変換する関数
+def replace_nan_to_null(obj):
+    if isinstance(obj, float) and np.isnan(obj):
+        return None
+    elif isinstance(obj, dict):
+        return {k: replace_nan_to_null(v) for k, v in obj.items()}
+    elif isinstance(obj, list):
+        return [replace_nan_to_null(v) for v in obj]
+    else:
+        return obj
+
 # %%
 data_list = []
 for k, v in display_name_dict.items():
@@ -106,6 +119,11 @@ for k, v in display_name_dict.items():
 
 	# NaNをnullに変換しておけば、JSON出力した際にもフロントエンドで解釈可能なnullとして出力される。
     # 最初はfillna(0)でゼロ埋めしようと思ったのだが、認定比率のグラフ的に微妙だったのでやめた。
+    certified_rate = round(pivot_df[f'{k}_certified'] / (pivot_df[f'{k}_certified'] + pivot_df[f'{k}_denied']) * 100, 2).tolist()
+    certified_rate = [replace_nan_to_null(x) for x in certified_rate]
+    certified_rate_sum = round(pivot_df[f'{k}_certified_sum'] / (pivot_df[f'{k}_certified_sum'] + pivot_df[f'{k}_denied_sum']) * 100, 2).tolist()
+    certified_rate_sum = [replace_nan_to_null(x) for x in certified_rate_sum]
+
     data = {
 			"id": k,
 			"display_name": v,
@@ -113,8 +131,8 @@ for k, v in display_name_dict.items():
 			"certified_sum_data": pivot_df[f'{k}_certified_sum'].tolist(),
 			"denied_data": pivot_df[f'{k}_denied'].tolist(),
 			"denied_sum_data": pivot_df[f'{k}_denied_sum'].tolist(),
-			"certified_rate": round(pivot_df[f'{k}_certified'] / (pivot_df[f'{k}_certified'] + pivot_df[f'{k}_denied']) * 100, 2).fillna(0).tolist(),
-            "certified_rate_sum": round(pivot_df[f'{k}_certified_sum'] / (pivot_df[f'{k}_certified_sum'] + pivot_df[f'{k}_denied_sum']) * 100, 2).fillna(0).tolist(),
+			"certified_rate": certified_rate,
+            "certified_rate_sum": certified_rate_sum,
             "normal_y_axis_max": normal_y_axis_max,
             "sum_y_axis_max": sum_y_axis_max,
 		}
