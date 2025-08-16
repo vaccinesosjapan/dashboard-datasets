@@ -21,7 +21,7 @@ for index, repo_item in enumerate(sorted_reports):
 def save_to_json(data, out_dir, filename):
 	json_string = json.dumps(data, ensure_ascii=False, indent=2)
 	output_path = os.path.join(out_dir, filename)
-	with open( output_path, "w", encoding='utf-8') as f:
+	with open( output_path, "w", encoding='utf-8', newline="\n") as f:
 		f.write(json_string)
 
 # %%

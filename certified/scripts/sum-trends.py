@@ -26,5 +26,5 @@ trends_data = {
 }
 trends_data_string = json.dumps(trends_data, ensure_ascii=False, indent=2)
 
-with open(os.path.join(output_dir, 'certified-trends.json'), 'w', encoding='utf-8') as f:
+with open(os.path.join(output_dir, 'certified-trends.json'), 'w', encoding='utf-8', newline="\n") as f:
     f.write(trends_data_string)

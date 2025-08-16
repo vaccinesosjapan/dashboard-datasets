@@ -47,5 +47,5 @@ for rowIndex in unique_date_set:
 
 output_file_path = os.path.join(output_dir, 'judged-data.json')
 json_string = json.dumps(data_list, ensure_ascii=False, indent=2)
-with open(output_file_path, "w", encoding='utf-8') as f:
+with open(output_file_path, "w", encoding='utf-8', newline="\n") as f:
 	f.write(json_string)
