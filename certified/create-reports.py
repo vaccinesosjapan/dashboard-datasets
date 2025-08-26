@@ -15,7 +15,7 @@ script_dir = os.path.dirname(os.path.abspath(__file__))
 for s in settings:
     print(f'日付「{s["date"]}」のデータを抽出して {s["output"]} に保存中: ', end='', flush=True)
     script_version = s['script-version'].lower()
-    extract_script_path = os.path.join(script_dir, f"extract-certified-reports-{script_version}.py")
+    extract_script_path = os.path.join(script_dir, 'scripts', f"extract-certified-reports-{script_version}.py")
     certified_count = s['expected_count']['certified']
     repudiation_count = s['expected_count']['repudiation']
     subprocess.run([ "python", extract_script_path,

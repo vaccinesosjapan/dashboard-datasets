@@ -171,8 +171,8 @@
     "name": "IgA腎症の増悪",
     "counts": {
       "male": 1,
-      "female": 3,
-      "sum": 4
+      "female": 4,
+      "sum": 5
     }
   },
   {
@@ -243,8 +243,8 @@
     "name": "I型糖尿病",
     "counts": {
       "male": 3,
-      "female": 8,
-      "sum": 11
+      "female": 9,
+      "sum": 12
     }
   },
   {
@@ -1818,9 +1818,9 @@
   {
     "name": "リウマチ性多発筋痛症",
     "counts": {
-      "male": 20,
+      "male": 21,
       "female": 22,
-      "sum": 42
+      "sum": 43
     }
   },
   {
@@ -2657,6 +2657,14 @@
   },
   {
     "name": "下垂体卒中",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
+    "name": "下垂体性ADH分泌異常症(自己免疫性下垂体炎疑い)",
     "counts": {
       "male": 0,
       "female": 1,
@@ -12954,9 +12962,9 @@
   {
     "name": "左肩関節周囲炎",
     "counts": {
-      "male": 111,
+      "male": 112,
       "female": 202,
-      "sum": 313
+      "sum": 314
     }
   },
   {
@@ -14042,9 +14050,9 @@
   {
     "name": "心タンポナーデ",
     "counts": {
-      "male": 7,
+      "male": 9,
       "female": 7,
-      "sum": 14
+      "sum": 16
     }
   },
   {
@@ -14834,9 +14842,9 @@
   {
     "name": "急性大動脈解離",
     "counts": {
-      "male": 19,
+      "male": 21,
       "female": 17,
-      "sum": 36
+      "sum": 38
     }
   },
   {
@@ -20530,9 +20538,9 @@
   {
     "name": "脳梗塞",
     "counts": {
-      "male": 113,
+      "male": 114,
       "female": 79,
-      "sum": 192
+      "sum": 193
     }
   },
   {
