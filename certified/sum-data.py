@@ -15,6 +15,7 @@ subprocess.run(['python', sum_trends_path], cwd=script_dir)
 subprocess.run(['python', sum_split_issues_path], cwd=script_dir)
 
 # 参考データ
-sum_csv_files_path = os.path.join(script_dir, 'scripts', 'sum-csv-files.py')
-
-subprocess.run(['python', sum_csv_files_path], cwd=script_dir)
+# ダッシュボードでCSVとしてダウンロードすれば、ソースURLなども含む「より完全なCSVデータ」が
+# ダウンロード可能なため、この処理は不要。
+#sum_csv_files_path = os.path.join(script_dir, 'scripts', 'sum-csv-files.py')
+#subprocess.run(['python', sum_csv_files_path], cwd=script_dir)
