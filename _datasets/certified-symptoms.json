@@ -67,8 +67,8 @@
     "name": "ANCA関連血管炎",
     "counts": {
       "male": 7,
-      "female": 7,
-      "sum": 14
+      "female": 8,
+      "sum": 15
     }
   },
   {
@@ -1512,11 +1512,19 @@
     }
   },
   {
+    "name": "ニューモシスチス肺炎",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
     "name": "ネフローゼ症候群",
     "counts": {
       "male": 16,
-      "female": 6,
-      "sum": 22
+      "female": 7,
+      "sum": 23
     }
   },
   {
@@ -4490,9 +4498,9 @@
   {
     "name": "中毒疹",
     "counts": {
-      "male": 59,
+      "male": 60,
       "female": 99,
-      "sum": 158
+      "sum": 159
     }
   },
   {
@@ -5059,8 +5067,8 @@
     "name": "全身の掻痒感",
     "counts": {
       "male": 0,
-      "female": 1,
-      "sum": 1
+      "female": 2,
+      "sum": 2
     }
   },
   {
@@ -5506,9 +5514,9 @@
   {
     "name": "円形脱毛症",
     "counts": {
-      "male": 18,
+      "male": 19,
       "female": 36,
-      "sum": 54
+      "sum": 55
     }
   },
   {
@@ -8435,8 +8443,8 @@
     "name": "嗅覚障害",
     "counts": {
       "male": 4,
-      "female": 3,
-      "sum": 7
+      "female": 4,
+      "sum": 8
     }
   },
   {
@@ -8531,8 +8539,8 @@
     "name": "嚥下機能障害",
     "counts": {
       "male": 0,
-      "female": 3,
-      "sum": 3
+      "female": 4,
+      "sum": 4
     }
   },
   {
@@ -10425,6 +10433,14 @@
   },
   {
     "name": "左上肢末梢のしびれ",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
+    "name": "左上肢末梢神経損傷",
     "counts": {
       "male": 1,
       "female": 0,
@@ -12971,8 +12987,8 @@
     "name": "左肩関節周囲炎",
     "counts": {
       "male": 112,
-      "female": 202,
-      "sum": 314
+      "female": 204,
+      "sum": 316
     }
   },
   {
@@ -13011,8 +13027,8 @@
     "name": "左肩関節拘縮",
     "counts": {
       "male": 12,
-      "female": 45,
-      "sum": 57
+      "female": 46,
+      "sum": 58
     }
   },
   {
@@ -14058,9 +14074,9 @@
   {
     "name": "心タンポナーデ",
     "counts": {
-      "male": 12,
+      "male": 13,
       "female": 7,
-      "sum": 19
+      "sum": 20
     }
   },
   {
@@ -14194,9 +14210,9 @@
   {
     "name": "心嚢液貯留",
     "counts": {
-      "male": 0,
+      "male": 1,
       "female": 1,
-      "sum": 1
+      "sum": 2
     }
   },
   {
@@ -15884,6 +15900,14 @@
     "counts": {
       "male": 0,
       "female": 1,
+      "sum": 1
+    }
+  },
+  {
+    "name": "慢性心不全の憎悪",
+    "counts": {
+      "male": 1,
+      "female": 0,
       "sum": 1
     }
   },
@@ -19192,6 +19216,14 @@
     }
   },
   {
+    "name": "紫斑病性腎炎(IgA血管炎)",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
     "name": "細菌性肺炎",
     "counts": {
       "male": 1,
@@ -20483,8 +20515,16 @@
     "name": "脳幹部出血",
     "counts": {
       "male": 4,
-      "female": 2,
-      "sum": 6
+      "female": 3,
+      "sum": 7
+    }
+  },
+  {
+    "name": "脳幹部出血による両上下肢運動麻痺",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
     }
   },
   {
