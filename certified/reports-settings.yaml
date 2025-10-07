@@ -14,18 +14,18 @@
 #
 settings: [
   {
-    date: '2025/09/30',
-    file: '001572205.csv',
-    output: '001572205.json',
+    date: '2025/10/06',
+    file: '001575237.csv',
+    output: '001575237.json',
     pages: '',
     expected_count: {
-      certified: 6,
-      repudiation: 30
+      certified: 9,
+      repudiation: 25
     },
     reason-type: 'TypeB',
     script-version: v2,
     source: {
-      url: https://www.mhlw.go.jp/content/10900000/001572205.pdf,
+      url: https://www.mhlw.go.jp/content/10900000/001575237.pdf,
     },
   }
 ]
