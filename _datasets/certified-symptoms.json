@@ -14083,8 +14083,8 @@
     "name": "心不全",
     "counts": {
       "male": 11,
-      "female": 9,
-      "sum": 20
+      "female": 10,
+      "sum": 21
     }
   },
   {
@@ -14274,9 +14274,9 @@
   {
     "name": "心室細動",
     "counts": {
-      "male": 44,
+      "male": 45,
       "female": 4,
-      "sum": 48
+      "sum": 49
     }
   },
   {
@@ -14410,9 +14410,9 @@
   {
     "name": "心筋梗塞",
     "counts": {
-      "male": 11,
+      "male": 12,
       "female": 11,
-      "sum": 22
+      "sum": 23
     }
   },
   {
@@ -14428,6 +14428,14 @@
     "counts": {
       "male": 1,
       "female": 0,
+      "sum": 1
+    }
+  },
+  {
+    "name": "心筋梗塞疑い",
+    "counts": {
+      "male": 0,
+      "female": 1,
       "sum": 1
     }
   },
@@ -14490,9 +14498,9 @@
   {
     "name": "心肺停止",
     "counts": {
-      "male": 60,
+      "male": 62,
       "female": 39,
-      "sum": 99
+      "sum": 101
     }
   },
   {
@@ -15034,9 +15042,9 @@
   {
     "name": "急性心筋梗塞",
     "counts": {
-      "male": 83,
+      "male": 84,
       "female": 25,
-      "sum": 108
+      "sum": 109
     }
   },
   {
@@ -17179,8 +17187,8 @@
     "name": "横紋筋融解",
     "counts": {
       "male": 0,
-      "female": 1,
-      "sum": 1
+      "female": 2,
+      "sum": 2
     }
   },
   {
@@ -17757,6 +17765,14 @@
       "male": 2,
       "female": 1,
       "sum": 3
+    }
+  },
+  {
+    "name": "溶連菌敗血症",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
     }
   },
   {
@@ -21995,8 +22011,8 @@
     "name": "蜂窩織炎",
     "counts": {
       "male": 0,
-      "female": 2,
-      "sum": 2
+      "female": 3,
+      "sum": 3
     }
   },
   {
@@ -22602,9 +22618,9 @@
   {
     "name": "誤嚥性肺炎",
     "counts": {
-      "male": 30,
+      "male": 32,
       "female": 11,
-      "sum": 41
+      "sum": 43
     }
   },
   {
@@ -24003,8 +24019,8 @@
     "name": "顕微鏡的多発血管炎",
     "counts": {
       "male": 1,
-      "female": 5,
-      "sum": 6
+      "female": 6,
+      "sum": 7
     }
   },
   {
