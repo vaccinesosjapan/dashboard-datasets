@@ -1475,3 +1475,33 @@ id_metadata: {
   number: '107th',
   kind: 'MIN'
 }
+
+relative_dir: '109th'
+file_id: '001585488-1'
+pages: '7'
+count: '3'
+has_concurrent_vaccination: 'true'
+script-version: v2
+source: {
+  name: '第109回',
+  url: 'https://www.mhlw.go.jp/content/11120000/001585488.pdf'
+}
+id_metadata: {
+  number: '109th',
+  kind: 'MIS'
+}
+
+relative_dir: '109th'
+file_id: '001585488-2'
+pages: '8'
+count: '2'
+has_concurrent_vaccination: 'true'
+script-version: v2
+source: {
+  name: '第109回',
+  url: 'https://www.mhlw.go.jp/content/11120000/001585488.pdf'
+}
+id_metadata: {
+  number: '109th',
+  kind: 'MIN'
+}

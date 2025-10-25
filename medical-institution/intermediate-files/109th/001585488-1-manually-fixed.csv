@@ -1,0 +1,4 @@
+no,age,gender,vaccinated_dates,vaccine_name,lot_no,manufacturer,concurrent_vaccination_flag,concurrent_vaccination,pre_existing_disease_names,PT_names,onset_dates,days_to_onset,causal_relationship,severity,gross_result_dates,gross_results,pt_by_expert,causal_relationship_by_expert,brighton_classification_by_expert,comments_by_expert
+1,46歳,女,2024/10/11,コミナティ,LL7260,ファイザー,True,インフルエンザ;デンカ;不明,高血圧、過敏症、髄膜炎、卵巣癌,ＩｇＡ腎症,2024/10/13,2,関連あり,重い,不明,未回復,,,,
+2,93歳,女,2024/11/29,コミナティ,不明,ファイザー,False,,なし,間質性肺疾患,2024/11/30,1,関連あり,重い,2025/1/9,回復,,,,
+3,66歳,女,2025/2/13,コミナティ,LL7309,ファイザー,False,,糖尿病、高脂血症、間質性肺疾患、高血圧、神経因性膀胱,播種性血管内凝固、意識変容状態,2025/2/16,3,評価不能,重い,2025/2/21,死亡,播種性血管内凝固、意識変容状態,γ,-,
