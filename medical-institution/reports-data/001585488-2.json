@@ -1,0 +1,98 @@
+[
+  {
+    "id": "109th-MIN-1",
+    "no": 1,
+    "age": 85,
+    "gender": "女",
+    "vaccinated_dates": [
+      "2024/10/11"
+    ],
+    "vaccine_name": "コミナティ",
+    "lot_no": "LL6410",
+    "manufacturer": "ファイザー",
+    "concurrent_vaccination_flag": false,
+    "concurrent_vaccination": "",
+    "pre_existing_disease_names": [
+      "高血圧・狭心症"
+    ],
+    "PT_names": [
+      "頭位めまい症"
+    ],
+    "onset_dates": [
+      "2024/10/12"
+    ],
+    "days_to_onset": [
+      "1"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "2024/12/9"
+    ],
+    "gross_results": [
+      "回復"
+    ],
+    "pt_by_expert": "",
+    "causal_relationship_by_expert": "",
+    "brighton_classification_by_expert": "",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第109回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001585488.pdf"
+    }
+  },
+  {
+    "id": "109th-MIN-2",
+    "no": 2,
+    "age": 70,
+    "gender": "男",
+    "vaccinated_dates": [
+      "2024/12/3"
+    ],
+    "vaccine_name": "コミナティ",
+    "lot_no": "LL7260",
+    "manufacturer": "ファイザー",
+    "concurrent_vaccination_flag": true,
+    "concurrent_vaccination": "インフルエンザ;デンカ;756-A",
+    "pre_existing_disease_names": [
+      "A病院にて49歳で心房細動狭心症に対しステント挿入",
+      "フルバスタチン",
+      "バイアスピリン錠",
+      "フェブキソスタット錠",
+      "ビソプロロールフマル酸塩錠",
+      "カムシア配合錠",
+      "ニコランジル錠",
+      "ランソプラゾールOD錠",
+      "メトホルミン塩酸塩錠内服し定期処方中B病院泌尿器科にて前立腺癌で放射線治療後",
+      "ホルモン注射",
+      "ビカルタミドOD錠",
+      "シロドシンOD錠で定期通院中"
+    ],
+    "PT_names": [
+      "味覚障害",
+      "嗅覚障害"
+    ],
+    "onset_dates": [
+      "2024/12/5"
+    ],
+    "days_to_onset": [
+      "2"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "2025/6/6"
+    ],
+    "gross_results": [
+      "未回復"
+    ],
+    "pt_by_expert": "",
+    "causal_relationship_by_expert": "",
+    "brighton_classification_by_expert": "",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第109回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001585488.pdf"
+    }
+  }
+]

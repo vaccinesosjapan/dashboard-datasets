@@ -13,26 +13,31 @@
 
 ## 手順
 
-1. 新しいPDFを`pdf-files`フォルダにダウンロードする。
-1. ダウンロードしたPDFのファイル名やリンクURLなどを`reports-settings.yaml`に記入する。
-1. 同じ内容を`reports-settings-all.yaml`の末尾にも追記する。
-1. 以下のコマンドを実行して、PDFからCSV形式でデータ抽出する。
-    * `python _1-extract-pdf-to-csv.py`
-    * 先に、フォルダ `./intermediate-files./{relative_dir}` を作っておくこと。
-    * 抽出結果は `./intermediate-files./{relative_dir}/{file_id}.csv` に保存される。
-1. CSVを開き、ヘッダ情報を手作業で追加して`{file_id}-pre.csv`に保存する。
-    * ヘッダ情報は、以下を使うと良い（データと一致しない場合は更新して使う）。
-    * `No,年齢,性別,接種日,発生日,接種から発生までの日数,ワクチン名,同時接種,製造販売業者,ロット番号,症状名（PT名）,因果関係（報告医評価）,重篤度（報告医評価）,転帰日,転帰内容`
-1. 以下のコマンドを実行して、CSVのデータを整形する。
-    * `python _2-standardize-csv.py`
-    * 抽出結果は `./intermediate-files./{relative_dir}/{file_id}-converted.csv` に保存される。
-1. CSVを開き、列がおかしくなっている箇所などが無いか目視で確認し、必要に応じて手作業で修正する。
-    * `VSCode`の`EditCSV`拡張や`Excel`で開いて確認するとスムーズ。
-    * 修正結果は `./intermediate-files./{relative_dir}/{file_id}-manually-fixed.csv` に保存する。
+医療機関からの報告（重篤、非重篤の両方）に対して、以下の手順を実行する。
+
+1. 新しいPDFを「pdf-files」フォルダにダウンロードする。
+1. ダウンロードしたPDFのファイル名やリンクURLなどを「**reports-settings.yaml**」に記入する。
+1. 同じ内容を「**reports-settings-all.yaml**」の末尾にも追記する。
+1. フォルダ 「./intermediate-files./{relative_dir}」 を作る。
+1. コマンド`python _1-extract-pdf-to-csv.py`を実行して、PDFからCSV形式でデータを抽出する。
+    * 抽出結果は 「**{file_id}.csv**」 に保存される。
+1. CSVファイルをコピーして「**{file_id}-pre.csv**」に保存する。
+1. コピーしたCSVを開き、ヘッダ情報を手作業で追加して保存する。
+    * ヘッダ情報は前回の分を参考にする。
+    * 前回と異なる場合、スクリプトをバージョンアップして対応する。yamlの「script-version」も更新する。
+1. コマンド`python _2-standardize-csv.py`を実行して、CSVのデータを整形する。
+    * 抽出結果は「**{file_id}-converted.csv**」に保存される。
+1. CSVファイルをコピーして「**{file_id}-manually-fixed.csv**」に保存する。
+1. コピーしたCSVを開き、列がおかしい箇所などが無いか目視で確認。必要に応じて手作業で修正する。
+    * 「VSCode」の「EditCSV」拡張や「Excel」で開いて確認するとスムーズ。
 1. 以下のコマンドを実行して、データの最終的な整形をしつつCSVをJSONに変換して保存する。
     * `python _3-save-to-json.py`
-1. `summary-metadata.yaml` を更新する。
-1. `sum-medical-institution-reports-v1.py` を実行する。
+
+一通りのPDFに対して上記手順を実行できたら、最後にサマリ情報を更新する。
+
+1. 「**summary-metadata.yaml**」 を更新する。
+1. `python _4-sum-reports.py` を実行する。
+1. `python _5-generate-id-with-sorting.py` を実行する。
 
 ## メモ
 

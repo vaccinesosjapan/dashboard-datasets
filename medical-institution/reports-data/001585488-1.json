@@ -1,0 +1,136 @@
+[
+  {
+    "id": "109th-MIS-1",
+    "no": 1,
+    "age": 46,
+    "gender": "女",
+    "vaccinated_dates": [
+      "2024/10/11"
+    ],
+    "vaccine_name": "コミナティ",
+    "lot_no": "LL7260",
+    "manufacturer": "ファイザー",
+    "concurrent_vaccination_flag": true,
+    "concurrent_vaccination": "インフルエンザ;デンカ;不明",
+    "pre_existing_disease_names": [
+      "高血圧",
+      "過敏症",
+      "髄膜炎",
+      "卵巣癌"
+    ],
+    "PT_names": [
+      "ＩｇＡ腎症"
+    ],
+    "onset_dates": [
+      "2024/10/13"
+    ],
+    "days_to_onset": [
+      "2"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "不明"
+    ],
+    "gross_results": [
+      "未回復"
+    ],
+    "pt_by_expert": "",
+    "causal_relationship_by_expert": "",
+    "brighton_classification_by_expert": "",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第109回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001585488.pdf"
+    }
+  },
+  {
+    "id": "109th-MIS-2",
+    "no": 2,
+    "age": 93,
+    "gender": "女",
+    "vaccinated_dates": [
+      "2024/11/29"
+    ],
+    "vaccine_name": "コミナティ",
+    "lot_no": "不明",
+    "manufacturer": "ファイザー",
+    "concurrent_vaccination_flag": false,
+    "concurrent_vaccination": "",
+    "pre_existing_disease_names": [
+      "なし"
+    ],
+    "PT_names": [
+      "間質性肺疾患"
+    ],
+    "onset_dates": [
+      "2024/11/30"
+    ],
+    "days_to_onset": [
+      "1"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "2025/1/9"
+    ],
+    "gross_results": [
+      "回復"
+    ],
+    "pt_by_expert": "",
+    "causal_relationship_by_expert": "",
+    "brighton_classification_by_expert": "",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第109回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001585488.pdf"
+    }
+  },
+  {
+    "id": "109th-MIS-3",
+    "no": 3,
+    "age": 66,
+    "gender": "女",
+    "vaccinated_dates": [
+      "2025/2/13"
+    ],
+    "vaccine_name": "コミナティ",
+    "lot_no": "LL7309",
+    "manufacturer": "ファイザー",
+    "concurrent_vaccination_flag": false,
+    "concurrent_vaccination": "",
+    "pre_existing_disease_names": [
+      "糖尿病",
+      "高脂血症",
+      "間質性肺疾患",
+      "高血圧",
+      "神経因性膀胱"
+    ],
+    "PT_names": [
+      "播種性血管内凝固",
+      "意識変容状態"
+    ],
+    "onset_dates": [
+      "2025/2/16"
+    ],
+    "days_to_onset": [
+      "3"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "2025/2/21"
+    ],
+    "gross_results": [
+      "死亡"
+    ],
+    "pt_by_expert": "播種性血管内凝固、意識変容状態",
+    "causal_relationship_by_expert": "γ",
+    "brighton_classification_by_expert": "-",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第109回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001585488.pdf"
+    }
+  }
+]
