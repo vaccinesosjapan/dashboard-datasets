@@ -1,0 +1,54 @@
+[
+  {
+    "no": 1,
+    "manufacturer": "Meiji Seika ファルマ",
+    "vaccine_name": "コスタイベ",
+    "age": 101,
+    "gender": "女",
+    "vaccinated_dates": "2025/02/27",
+    "onset_dates": [
+      "2025/03/17"
+    ],
+    "lot_no": "",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "便秘\n変形性関節症\n心房細動\n慢性心不全\n認知症\n高血圧",
+    "PT_names": [
+      "吐血"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "ー",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "",
+    "id": "109-コスタイベ筋注-1",
+    "source": {
+      "name": "第109回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001585513.pdf"
+    }
+  },
+  {
+    "no": 2,
+    "manufacturer": "Meiji Seika ファルマ",
+    "vaccine_name": "コスタイベ",
+    "age": 88,
+    "gender": "男",
+    "vaccinated_dates": "2025/03/08",
+    "onset_dates": [
+      "2025/06/03"
+    ],
+    "lot_no": "00001",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "アトピー性皮膚炎\n全身性剥脱性皮膚炎\n大動脈弁閉鎖不全症\n間質性肺疾患\n高血圧",
+    "PT_names": [
+      "溺死"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "ー",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "",
+    "id": "109-コスタイベ筋注-2",
+    "source": {
+      "name": "第109回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001585513.pdf"
+    }
+  }
+]

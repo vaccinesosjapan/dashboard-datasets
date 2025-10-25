@@ -5659,32 +5659,6 @@
   {
     "no": 114,
     "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
-    "age": 76,
-    "gender": "女",
-    "vaccinated_dates": "2023/6/29",
-    "onset_dates": [
-      "2023/7/9"
-    ],
-    "lot_no": "GJ9259",
-    "vaccinated_times": "6回目",
-    "pre_existing_conditions": "圧 併基礎疾患等：骨粗鬆症、脳梗塞、脂質異常症、高血用薬：アルファカルシドール、バイアスピリン、アトルバスタチン、アムロジピンOD2023/06/29、報告者の施設にて、入院患者はファイザー・ワクチンの接種を受けた。2023/06/30",
-    "PT_names": [
-      "急性心不全"
-    ],
-    "tests_used_for_determination": "不明",
-    "causal_relationship": "評価不能",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
-    "id": "104-コミナティ筋注-114",
-    "source": {
-      "name": "第104回",
-      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
-    }
-  },
-  {
-    "no": 114,
-    "manufacturer": "ファイザー",
     "vaccine_name": "コミナティ筋注",
     "age": 86,
     "gender": "男",
@@ -5702,6 +5676,32 @@
     "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "死因を検討するための情報が得られておらず、ワクチンと死亡の因果関係は評価できない。※～1/26から変更なし。",
+    "id": "104-コミナティ筋注-114",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
+    }
+  },
+  {
+    "no": 114,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
+    "age": 76,
+    "gender": "女",
+    "vaccinated_dates": "2023/6/29",
+    "onset_dates": [
+      "2023/7/9"
+    ],
+    "lot_no": "GJ9259",
+    "vaccinated_times": "6回目",
+    "pre_existing_conditions": "圧 併基礎疾患等：骨粗鬆症、脳梗塞、脂質異常症、高血用薬：アルファカルシドール、バイアスピリン、アトルバスタチン、アムロジピンOD2023/06/29、報告者の施設にて、入院患者はファイザー・ワクチンの接種を受けた。2023/06/30",
+    "PT_names": [
+      "急性心不全"
+    ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
     "id": "104-コミナティ筋注-114",
     "source": {
       "name": "第104回",
@@ -6293,32 +6293,6 @@
   {
     "no": 116,
     "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
-    "age": 68,
-    "gender": "男",
-    "vaccinated_dates": "2022/11/20",
-    "onset_dates": [
-      "2022/12/27"
-    ],
-    "lot_no": "GJ1852",
-    "vaccinated_times": "5回目",
-    "pre_existing_conditions": "健康診断でコレステロールが少し高いこと、ときどき脈が飛ぶことがあると言っていた。2022年12月27日夕食後にウィスキー60mL飲んだ。22時30分頃、首の周りが肩こりのように痛んだ。徐々に前胸部も痛み始めた。排便して顔色が悪くなった。着替え中に顔色は元の状態に戻った。23時10分頃に歩いて来院し、椅子に座って問診中に心肺停止した。心肺蘇生措置を試みたが、2022年12月27日23時43分に死亡した。胸痛や血液検査異常から数時間前からの心筋障害を疑い、CTや病理解剖からも年齢相当の動脈硬化も確認した。病理解剖で心疾患を同定できなかったが、心房心筋や伝導路は未評価だった。胸腹部CT：頭蓋内出血なし。大動脈弓部に石灰化。動脈瘤破裂や心タンポナーゼなし。病理解剖報告書：心筋組織は保たれ、急性心筋梗塞を示唆する心筋線維の変性や好中球浸潤なし。肉眼的に冠動脈に動脈硬化と狭窄あるが閉塞ない。内膜に線維性肥厚、コレステリン沈着・石灰化・泡沫細胞が集蔟する粥腫が形成。内腔の狭窄は右冠動脈に75％、左冠動脈前下行枝と回旋枝に50％。胸部から腹部大動脈に一部石灰化を伴う粥状動脈硬化、組織学的に泡沫細胞の集簇を伴う粥腫形成。両肺とも重量が増加、全体的に暗赤色調。組織学的に高度のうっ血性肺水腫。",
-    "PT_names": [
-      "肺水腫"
-    ],
-    "tests_used_for_determination": "剖検",
-    "causal_relationship": "関連あり",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "ワクチン接種から1ヶ月以上経過後のイベントであり，関連性は乏しいと思われます※～1/26から変更なし。",
-    "id": "104-コミナティ筋注-116",
-    "source": {
-      "name": "第104回",
-      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
-    }
-  },
-  {
-    "no": 116,
-    "manufacturer": "ファイザー",
     "vaccine_name": "コミナティ筋注",
     "age": 89,
     "gender": "男",
@@ -6336,6 +6310,32 @@
     "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "前立腺癌はβ、その他のPT（心停止、意識消失、疾患振興、死亡）はγ。※～1/26から変更なし。",
+    "id": "104-コミナティ筋注-116",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
+    }
+  },
+  {
+    "no": 116,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
+    "age": 68,
+    "gender": "男",
+    "vaccinated_dates": "2022/11/20",
+    "onset_dates": [
+      "2022/12/27"
+    ],
+    "lot_no": "GJ1852",
+    "vaccinated_times": "5回目",
+    "pre_existing_conditions": "健康診断でコレステロールが少し高いこと、ときどき脈が飛ぶことがあると言っていた。2022年12月27日夕食後にウィスキー60mL飲んだ。22時30分頃、首の周りが肩こりのように痛んだ。徐々に前胸部も痛み始めた。排便して顔色が悪くなった。着替え中に顔色は元の状態に戻った。23時10分頃に歩いて来院し、椅子に座って問診中に心肺停止した。心肺蘇生措置を試みたが、2022年12月27日23時43分に死亡した。胸痛や血液検査異常から数時間前からの心筋障害を疑い、CTや病理解剖からも年齢相当の動脈硬化も確認した。病理解剖で心疾患を同定できなかったが、心房心筋や伝導路は未評価だった。胸腹部CT：頭蓋内出血なし。大動脈弓部に石灰化。動脈瘤破裂や心タンポナーゼなし。病理解剖報告書：心筋組織は保たれ、急性心筋梗塞を示唆する心筋線維の変性や好中球浸潤なし。肉眼的に冠動脈に動脈硬化と狭窄あるが閉塞ない。内膜に線維性肥厚、コレステリン沈着・石灰化・泡沫細胞が集蔟する粥腫が形成。内腔の狭窄は右冠動脈に75％、左冠動脈前下行枝と回旋枝に50％。胸部から腹部大動脈に一部石灰化を伴う粥状動脈硬化、組織学的に泡沫細胞の集簇を伴う粥腫形成。両肺とも重量が増加、全体的に暗赤色調。組織学的に高度のうっ血性肺水腫。",
+    "PT_names": [
+      "肺水腫"
+    ],
+    "tests_used_for_determination": "剖検",
+    "causal_relationship": "関連あり",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "ワクチン接種から1ヶ月以上経過後のイベントであり，関連性は乏しいと思われます※～1/26から変更なし。",
     "id": "104-コミナティ筋注-116",
     "source": {
       "name": "第104回",
@@ -7502,6 +7502,33 @@
   {
     "no": 12,
     "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ筋注",
+    "age": 90,
+    "gender": "女",
+    "vaccinated_dates": "2021/4/20",
+    "onset_dates": [
+      "2021/4/22"
+    ],
+    "lot_no": "ET3674",
+    "vaccinated_times": "1回目",
+    "pre_existing_conditions": "心臓病、高血圧、大動脈解離",
+    "PT_names": [
+      "急性心不全",
+      "心筋梗塞"
+    ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
+    "id": "104-コミナティ筋注-12",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
+    }
+  },
+  {
+    "no": 12,
+    "manufacturer": "ファイザー",
     "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
     "age": 50,
     "gender": "男",
@@ -7553,27 +7580,26 @@
     }
   },
   {
-    "no": 12,
+    "no": 120,
     "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティ筋注",
-    "age": 90,
+    "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
+    "age": 93,
     "gender": "女",
-    "vaccinated_dates": "2021/4/20",
+    "vaccinated_dates": "2023/5/27",
     "onset_dates": [
-      "2021/4/22"
+      "2023/5/31"
     ],
-    "lot_no": "ET3674",
-    "vaccinated_times": "1回目",
-    "pre_existing_conditions": "心臓病、高血圧、大動脈解離",
+    "lot_no": "GJ7141",
+    "vaccinated_times": "6回目",
+    "pre_existing_conditions": "基礎疾患等：不明2023年5月27日 コミナティ筋注",
     "PT_names": [
-      "急性心不全",
-      "心筋梗塞"
+      "心不全"
     ],
-    "tests_used_for_determination": "不明",
-    "causal_relationship": "評価不能",
+    "tests_used_for_determination": "検死",
+    "causal_relationship": "不明",
     "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
-    "id": "104-コミナティ筋注-12",
+    "comments_by_expert": "（コメント無し）",
+    "id": "104-コミナティ筋注-120",
     "source": {
       "name": "第104回",
       "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
@@ -7602,32 +7628,6 @@
     "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "基礎疾患の治療経過に関する情報は得られておらず、状態が悪化した際の病態を把握するための情報も不足している。ワクチン接種と死亡の因果関係は　評価できない。※～1/26から変更なし。",
-    "id": "104-コミナティ筋注-120",
-    "source": {
-      "name": "第104回",
-      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
-    }
-  },
-  {
-    "no": 120,
-    "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
-    "age": 93,
-    "gender": "女",
-    "vaccinated_dates": "2023/5/27",
-    "onset_dates": [
-      "2023/5/31"
-    ],
-    "lot_no": "GJ7141",
-    "vaccinated_times": "6回目",
-    "pre_existing_conditions": "基礎疾患等：不明2023年5月27日 コミナティ筋注",
-    "PT_names": [
-      "心不全"
-    ],
-    "tests_used_for_determination": "検死",
-    "causal_relationship": "不明",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "（コメント無し）",
     "id": "104-コミナティ筋注-120",
     "source": {
       "name": "第104回",
@@ -7878,32 +7878,6 @@
   {
     "no": 121,
     "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティ筋注",
-    "age": 89,
-    "gender": "女",
-    "vaccinated_dates": "2021/5/24",
-    "onset_dates": [
-      "2021/5/26"
-    ],
-    "lot_no": "FA2453",
-    "vaccinated_times": "1回目",
-    "pre_existing_conditions": "下腿浮腫",
-    "PT_names": [
-      "急性心筋梗塞"
-    ],
-    "tests_used_for_determination": "腹部エコー\r\n→心エコー、心電\r\n図、CT、血液検\r\n査\r\n（～7/21の情報\r\nに基づく）",
-    "causal_relationship": "評価不能",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
-    "id": "104-コミナティ筋注-121",
-    "source": {
-      "name": "第104回",
-      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
-    }
-  },
-  {
-    "no": 121,
-    "manufacturer": "ファイザー",
     "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
     "age": 86,
     "gender": "男",
@@ -7921,6 +7895,32 @@
     "causal_relationship": "関連あり",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）",
+    "id": "104-コミナティ筋注-121",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
+    }
+  },
+  {
+    "no": 121,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ筋注",
+    "age": 89,
+    "gender": "女",
+    "vaccinated_dates": "2021/5/24",
+    "onset_dates": [
+      "2021/5/26"
+    ],
+    "lot_no": "FA2453",
+    "vaccinated_times": "1回目",
+    "pre_existing_conditions": "下腿浮腫",
+    "PT_names": [
+      "急性心筋梗塞"
+    ],
+    "tests_used_for_determination": "腹部エコー\r\n→心エコー、心電\r\n図、CT、血液検\r\n査\r\n（～7/21の情報\r\nに基づく）",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
     "id": "104-コミナティ筋注-121",
     "source": {
       "name": "第104回",
@@ -13434,32 +13434,6 @@
   {
     "no": 14,
     "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティ筋注",
-    "age": 91,
-    "gender": "女",
-    "vaccinated_dates": "2021/4/21",
-    "onset_dates": [
-      "2021/4/26"
-    ],
-    "lot_no": "ER7449",
-    "vaccinated_times": "1回目",
-    "pre_existing_conditions": "無",
-    "PT_names": [
-      "脳出血"
-    ],
-    "tests_used_for_determination": "CT",
-    "causal_relationship": "評価不能",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "画像所見からは、内服中の抗血小板薬が脳出血の悪化に影響したことが考えられる。脳出血の発症そのものにワクチン接種が与えた影響は不明である。※～1/26から変更なし。",
-    "id": "104-コミナティ筋注-14",
-    "source": {
-      "name": "第104回",
-      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
-    }
-  },
-  {
-    "no": 14,
-    "manufacturer": "ファイザー",
     "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
     "age": 97,
     "gender": "女",
@@ -13477,6 +13451,32 @@
     "causal_relationship": "関連なし",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
+    "id": "104-コミナティ筋注-14",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
+    }
+  },
+  {
+    "no": 14,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ筋注",
+    "age": 91,
+    "gender": "女",
+    "vaccinated_dates": "2021/4/21",
+    "onset_dates": [
+      "2021/4/26"
+    ],
+    "lot_no": "ER7449",
+    "vaccinated_times": "1回目",
+    "pre_existing_conditions": "無",
+    "PT_names": [
+      "脳出血"
+    ],
+    "tests_used_for_determination": "CT",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "画像所見からは、内服中の抗血小板薬が脳出血の悪化に影響したことが考えられる。脳出血の発症そのものにワクチン接種が与えた影響は不明である。※～1/26から変更なし。",
     "id": "104-コミナティ筋注-14",
     "source": {
       "name": "第104回",
@@ -16357,32 +16357,6 @@
   {
     "no": 15,
     "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
-    "age": 55,
-    "gender": "女",
-    "vaccinated_dates": "2022/11/20",
-    "onset_dates": [
-      "2022/11/22"
-    ],
-    "lot_no": "GJ1842",
-    "vaccinated_times": "4回目",
-    "pre_existing_conditions": "R4/11/20夜頃、腹痛、嘔吐、倦怠感発現。11/21自宅で療養。11/22午前4時頃心肺停止で発見。午前4：59死亡確認。心筋炎で急死したと考えられる。12/1剖検が行われた。心筋組織の炎症所見あり。心筋に広くリンパ球マクロファージ浸潤を認めた。",
-    "PT_names": [
-      "心筋炎"
-    ],
-    "tests_used_for_determination": "不明\r\n剖検",
-    "causal_relationship": "関連あり",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "剖検上は心筋炎で矛盾しない※～1/26から変更なし。",
-    "id": "104-コミナティ筋注-15",
-    "source": {
-      "name": "第104回",
-      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
-    }
-  },
-  {
-    "no": 15,
-    "manufacturer": "ファイザー",
     "vaccine_name": "コミナティ筋注",
     "age": 85,
     "gender": "男",
@@ -16401,6 +16375,32 @@
     "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "既往歴である糖尿病や不整脈の治療状況などの情報がなく、心臓死リスクがどの程度存在していたのか不明である。ワクチン接種と死亡の因果関係は評価できない。※～1/26から変更なし。",
+    "id": "104-コミナティ筋注-15",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
+    }
+  },
+  {
+    "no": 15,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
+    "age": 55,
+    "gender": "女",
+    "vaccinated_dates": "2022/11/20",
+    "onset_dates": [
+      "2022/11/22"
+    ],
+    "lot_no": "GJ1842",
+    "vaccinated_times": "4回目",
+    "pre_existing_conditions": "R4/11/20夜頃、腹痛、嘔吐、倦怠感発現。11/21自宅で療養。11/22午前4時頃心肺停止で発見。午前4：59死亡確認。心筋炎で急死したと考えられる。12/1剖検が行われた。心筋組織の炎症所見あり。心筋に広くリンパ球マクロファージ浸潤を認めた。",
+    "PT_names": [
+      "心筋炎"
+    ],
+    "tests_used_for_determination": "不明\r\n剖検",
+    "causal_relationship": "関連あり",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "剖検上は心筋炎で矛盾しない※～1/26から変更なし。",
     "id": "104-コミナティ筋注-15",
     "source": {
       "name": "第104回",
@@ -27322,6 +27322,32 @@
   {
     "no": 19,
     "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ筋注",
+    "age": 101,
+    "gender": "女",
+    "vaccinated_dates": "2021/4/23",
+    "onset_dates": [
+      "2021/4/26"
+    ],
+    "lot_no": "ER7449",
+    "vaccinated_times": "1回目",
+    "pre_existing_conditions": "高齢、高度アルツハイマー型認知症",
+    "PT_names": [
+      "心肺停止"
+    ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "高度の認知症を有する高齢者であることと、接種前に微熱があったこと以外に病態を考察する情報は得られておらず、ワクチン接種との因果関係は評価できない。※～1/26から変更なし。",
+    "id": "104-コミナティ筋注-19",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
+    }
+  },
+  {
+    "no": 19,
+    "manufacturer": "ファイザー",
     "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
     "age": 88,
     "gender": "男",
@@ -27340,32 +27366,6 @@
     "causal_relationship": "関連あり",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
-    "id": "104-コミナティ筋注-19",
-    "source": {
-      "name": "第104回",
-      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
-    }
-  },
-  {
-    "no": 19,
-    "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティ筋注",
-    "age": 101,
-    "gender": "女",
-    "vaccinated_dates": "2021/4/23",
-    "onset_dates": [
-      "2021/4/26"
-    ],
-    "lot_no": "ER7449",
-    "vaccinated_times": "1回目",
-    "pre_existing_conditions": "高齢、高度アルツハイマー型認知症",
-    "PT_names": [
-      "心肺停止"
-    ],
-    "tests_used_for_determination": "不明",
-    "causal_relationship": "評価不能",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "高度の認知症を有する高齢者であることと、接種前に微熱があったこと以外に病態を考察する情報は得られておらず、ワクチン接種との因果関係は評価できない。※～1/26から変更なし。",
     "id": "104-コミナティ筋注-19",
     "source": {
       "name": "第104回",
@@ -27714,6 +27714,33 @@
   {
     "no": 20,
     "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ筋注",
+    "age": 87,
+    "gender": "男",
+    "vaccinated_dates": "2021/4/16",
+    "onset_dates": [
+      "2021/4/17"
+    ],
+    "lot_no": "ER9480",
+    "vaccinated_times": "1回目",
+    "pre_existing_conditions": "アレルギー歴なし併用薬：イグザレルト15、ナフトピジル75、ベタニス50、酸化マグネシウム、ルネスタ",
+    "PT_names": [
+      "心不全",
+      "心肺停止"
+    ],
+    "tests_used_for_determination": "死亡時画像診断\r\n（～5/26の情報\r\nに基づく）",
+    "causal_relationship": "不明",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
+    "id": "104-コミナティ筋注-20",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
+    }
+  },
+  {
+    "no": 20,
+    "manufacturer": "ファイザー",
     "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
     "age": 65,
     "gender": "男",
@@ -27732,33 +27759,6 @@
     ],
     "tests_used_for_determination": "不明",
     "causal_relationship": "評価不能",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
-    "id": "104-コミナティ筋注-20",
-    "source": {
-      "name": "第104回",
-      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
-    }
-  },
-  {
-    "no": 20,
-    "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティ筋注",
-    "age": 87,
-    "gender": "男",
-    "vaccinated_dates": "2021/4/16",
-    "onset_dates": [
-      "2021/4/17"
-    ],
-    "lot_no": "ER9480",
-    "vaccinated_times": "1回目",
-    "pre_existing_conditions": "アレルギー歴なし併用薬：イグザレルト15、ナフトピジル75、ベタニス50、酸化マグネシウム、ルネスタ",
-    "PT_names": [
-      "心不全",
-      "心肺停止"
-    ],
-    "tests_used_for_determination": "死亡時画像診断\r\n（～5/26の情報\r\nに基づく）",
-    "causal_relationship": "不明",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
     "id": "104-コミナティ筋注-20",
@@ -29224,32 +29224,6 @@
   {
     "no": 25,
     "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティ筋注",
-    "age": 70,
-    "gender": "男",
-    "vaccinated_dates": "2021/4/22",
-    "onset_dates": [
-      "2021/4/28"
-    ],
-    "lot_no": "ET9480",
-    "vaccinated_times": "1回目",
-    "pre_existing_conditions": "統合失調症併用薬：オランザピン",
-    "PT_names": [
-      "不明"
-    ],
-    "tests_used_for_determination": "不明",
-    "causal_relationship": "評価不能",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
-    "id": "104-コミナティ筋注-25",
-    "source": {
-      "name": "第104回",
-      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
-    }
-  },
-  {
-    "no": 25,
-    "manufacturer": "ファイザー",
     "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
     "age": 66,
     "gender": "女",
@@ -29273,6 +29247,32 @@
     "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "高血圧症及び脳梗塞の基礎疾患のある66歳女性で脳梗塞再発予防で抗血小板薬内服中だった。5回目のワクチン接種の約2時間後に転倒し頭部打撲、約5時間15分後に昏睡状態で発見され、救急搬送となった。搬送先の頭部CTで脳内出血で救命困難な状況、約6時間30分後に死亡確認の経過。時系列的にはワクチンの影響も否定しきれないが、抗血小板薬内服中であり、また頭部打撲もあり、ワクチンとの因果関係が肯定も否定もできない状況と考える。※～1/26から変更なし。",
+    "id": "104-コミナティ筋注-25",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
+    }
+  },
+  {
+    "no": 25,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ筋注",
+    "age": 70,
+    "gender": "男",
+    "vaccinated_dates": "2021/4/22",
+    "onset_dates": [
+      "2021/4/28"
+    ],
+    "lot_no": "ET9480",
+    "vaccinated_times": "1回目",
+    "pre_existing_conditions": "統合失調症併用薬：オランザピン",
+    "PT_names": [
+      "不明"
+    ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
     "id": "104-コミナティ筋注-25",
     "source": {
       "name": "第104回",
@@ -29833,6 +29833,32 @@
   {
     "no": 27,
     "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
+    "age": 82,
+    "gender": "女",
+    "vaccinated_dates": "2022/12/13",
+    "onset_dates": [
+      "2022/12/14"
+    ],
+    "lot_no": "GJ7139",
+    "vaccinated_times": "4回目",
+    "pre_existing_conditions": "基礎疾患等：逆流性食道炎、間質性肺炎、胆嚢炎、ＣＯＶＩＤ－１９、魚アレルギー",
+    "PT_names": [
+      "不明気管支拡張症"
+    ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
+    "id": "104-コミナティ筋注-27",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
+    }
+  },
+  {
+    "no": 27,
+    "manufacturer": "ファイザー",
     "vaccine_name": "コミナティ筋注",
     "age": 91,
     "gender": "女",
@@ -29849,32 +29875,6 @@
     ],
     "tests_used_for_determination": "不明",
     "causal_relationship": "関連あり",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
-    "id": "104-コミナティ筋注-27",
-    "source": {
-      "name": "第104回",
-      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
-    }
-  },
-  {
-    "no": 27,
-    "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
-    "age": 82,
-    "gender": "女",
-    "vaccinated_dates": "2022/12/13",
-    "onset_dates": [
-      "2022/12/14"
-    ],
-    "lot_no": "GJ7139",
-    "vaccinated_times": "4回目",
-    "pre_existing_conditions": "基礎疾患等：逆流性食道炎、間質性肺炎、胆嚢炎、ＣＯＶＩＤ－１９、魚アレルギー",
-    "PT_names": [
-      "不明気管支拡張症"
-    ],
-    "tests_used_for_determination": "不明",
-    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
     "id": "104-コミナティ筋注-27",
@@ -30147,32 +30147,6 @@
   {
     "no": 28,
     "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティ筋注",
-    "age": 40,
-    "gender": "女",
-    "vaccinated_dates": "不明",
-    "onset_dates": [
-      "2021/4/26"
-    ],
-    "lot_no": "不明",
-    "vaccinated_times": "不明",
-    "pre_existing_conditions": "不明",
-    "PT_names": [
-      "心肺停止"
-    ],
-    "tests_used_for_determination": "不明",
-    "causal_relationship": "不明",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "接種日の記載なし。※～1/26から変更なし。",
-    "id": "104-コミナティ筋注-28",
-    "source": {
-      "name": "第104回",
-      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
-    }
-  },
-  {
-    "no": 28,
-    "manufacturer": "ファイザー",
     "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
     "age": 79,
     "gender": "女",
@@ -30191,6 +30165,32 @@
     "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "臨床経過、画像所見がない。※～1/26から変更なし。",
+    "id": "104-コミナティ筋注-28",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
+    }
+  },
+  {
+    "no": 28,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ筋注",
+    "age": 40,
+    "gender": "女",
+    "vaccinated_dates": "不明",
+    "onset_dates": [
+      "2021/4/26"
+    ],
+    "lot_no": "不明",
+    "vaccinated_times": "不明",
+    "pre_existing_conditions": "不明",
+    "PT_names": [
+      "心肺停止"
+    ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "不明",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "接種日の記載なし。※～1/26から変更なし。",
     "id": "104-コミナティ筋注-28",
     "source": {
       "name": "第104回",
@@ -30435,32 +30435,6 @@
   {
     "no": 29,
     "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
-    "age": 81,
-    "gender": "男",
-    "vaccinated_dates": "2022/12/14",
-    "onset_dates": [
-      "2022/12/15"
-    ],
-    "lot_no": "GK1328",
-    "vaccinated_times": "5回目",
-    "pre_existing_conditions": "基礎疾患等：糖尿病、関節リウマチ、寝たきり、前立腺肥大症、便秘、逆流性食道炎、胃炎、皮膚そう痒症、頚椎症、緑内障、誤嚥性肺炎、食欲低下、低血圧、貧血、廃用症候群併用薬：プレドニン［プレドニゾロン］、メトトレキサート、グラクティブ、ライゾデグ、シロドシン、アミティーザ、ランソプラゾール、アレグラ［フェキソフェナジン塩酸塩］、ノイロトロピン［シアノコバラミン；リドカイン塩酸塩；塩酸ピリドキシン；塩酸チアミン］、コソプト、アイファガン、グラナテック、キサラタン寝たきり状態の方で、訪問診療をしていたため、12月14日13時40分に接種。その後体調に著変なく、妻によると夕食も普通に食べた。21時に38.6℃の発熱との連絡があったためカロナール300mg1錠の服薬を指示した。その後未明に意識がなく、呼吸をしていない事に家族が気付いた。12月15日午前8時57分に死亡確認した。7月にコロナに感染した既往のある患者で、2022/12/14の午後に5回目接種として、RTU製剤",
-    "PT_names": [
-      "不明"
-    ],
-    "tests_used_for_determination": "不明",
-    "causal_relationship": "評価不能",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
-    "id": "104-コミナティ筋注-29",
-    "source": {
-      "name": "第104回",
-      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
-    }
-  },
-  {
-    "no": 29,
-    "manufacturer": "ファイザー",
     "vaccine_name": "コミナティ筋注",
     "age": 26,
     "gender": "男",
@@ -30475,6 +30449,32 @@
       "心肺停止"
     ],
     "tests_used_for_determination": "死亡時画像診断\r\n（CT）",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
+    "id": "104-コミナティ筋注-29",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
+    }
+  },
+  {
+    "no": 29,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
+    "age": 81,
+    "gender": "男",
+    "vaccinated_dates": "2022/12/14",
+    "onset_dates": [
+      "2022/12/15"
+    ],
+    "lot_no": "GK1328",
+    "vaccinated_times": "5回目",
+    "pre_existing_conditions": "基礎疾患等：糖尿病、関節リウマチ、寝たきり、前立腺肥大症、便秘、逆流性食道炎、胃炎、皮膚そう痒症、頚椎症、緑内障、誤嚥性肺炎、食欲低下、低血圧、貧血、廃用症候群併用薬：プレドニン［プレドニゾロン］、メトトレキサート、グラクティブ、ライゾデグ、シロドシン、アミティーザ、ランソプラゾール、アレグラ［フェキソフェナジン塩酸塩］、ノイロトロピン［シアノコバラミン；リドカイン塩酸塩；塩酸ピリドキシン；塩酸チアミン］、コソプト、アイファガン、グラナテック、キサラタン寝たきり状態の方で、訪問診療をしていたため、12月14日13時40分に接種。その後体調に著変なく、妻によると夕食も普通に食べた。21時に38.6℃の発熱との連絡があったためカロナール300mg1錠の服薬を指示した。その後未明に意識がなく、呼吸をしていない事に家族が気付いた。12月15日午前8時57分に死亡確認した。7月にコロナに感染した既往のある患者で、2022/12/14の午後に5回目接種として、RTU製剤",
+    "PT_names": [
+      "不明"
+    ],
+    "tests_used_for_determination": "不明",
     "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
@@ -30783,32 +30783,6 @@
   {
     "no": 3,
     "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティ筋注",
-    "age": 72,
-    "gender": "女",
-    "vaccinated_dates": "2021/3/24",
-    "onset_dates": [
-      "2021/3/29"
-    ],
-    "lot_no": "EP9605",
-    "vaccinated_times": "1回目",
-    "pre_existing_conditions": "肝臓病",
-    "PT_names": [
-      "脳出血"
-    ],
-    "tests_used_for_determination": "CT",
-    "causal_relationship": "関連なし",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "ワクチン接種3日後に脳出血をきたしていますが、ワクチン接種と脳出血との因果関係は否定も肯定もできないと思います。※～1/26から変更なし。",
-    "id": "104-コミナティ筋注-3",
-    "source": {
-      "name": "第104回",
-      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
-    }
-  },
-  {
-    "no": 3,
-    "manufacturer": "ファイザー",
     "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.1)",
     "age": 66,
     "gender": "女",
@@ -30830,6 +30804,32 @@
     "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "家族が見ていない間にアナフィラキシー反応があった可能性は否定出来ないと記載があるがアナフィラキシーの可能性を示唆する自他覚所見の記載が無い．※～1/26から変更なし。",
+    "id": "104-コミナティ筋注-3",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
+    }
+  },
+  {
+    "no": 3,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ筋注",
+    "age": 72,
+    "gender": "女",
+    "vaccinated_dates": "2021/3/24",
+    "onset_dates": [
+      "2021/3/29"
+    ],
+    "lot_no": "EP9605",
+    "vaccinated_times": "1回目",
+    "pre_existing_conditions": "肝臓病",
+    "PT_names": [
+      "脳出血"
+    ],
+    "tests_used_for_determination": "CT",
+    "causal_relationship": "関連なし",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "ワクチン接種3日後に脳出血をきたしていますが、ワクチン接種と脳出血との因果関係は否定も肯定もできないと思います。※～1/26から変更なし。",
     "id": "104-コミナティ筋注-3",
     "source": {
       "name": "第104回",
@@ -31783,6 +31783,32 @@
   {
     "no": 33,
     "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ筋注",
+    "age": 76,
+    "gender": "女",
+    "vaccinated_dates": "2021/4/28",
+    "onset_dates": [
+      "2021/5/7"
+    ],
+    "lot_no": "EW4811",
+    "vaccinated_times": "1回目",
+    "pre_existing_conditions": "先天性聾唖、アスパラカリウム散剤、ランソプラゾール、モサプリドクエン酸、直近１か月は入院中だったがリハビリ治療や栄養療法などの療養が主体で、内服薬以外の医学的介入はしていない",
+    "PT_names": [
+      "脳梗塞"
+    ],
+    "tests_used_for_determination": "頭部CT、症状経\r\n過",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "接種後詳細不十分※～1/26から変更なし。",
+    "id": "104-コミナティ筋注-33",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
+    }
+  },
+  {
+    "no": 33,
+    "manufacturer": "ファイザー",
     "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
     "age": 75,
     "gender": "男",
@@ -31802,32 +31828,6 @@
     "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "ワクチン接種との関連を示す画像・病理による客観的情報が不足している。※～1/26から変更なし。",
-    "id": "104-コミナティ筋注-33",
-    "source": {
-      "name": "第104回",
-      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
-    }
-  },
-  {
-    "no": 33,
-    "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティ筋注",
-    "age": 76,
-    "gender": "女",
-    "vaccinated_dates": "2021/4/28",
-    "onset_dates": [
-      "2021/5/7"
-    ],
-    "lot_no": "EW4811",
-    "vaccinated_times": "1回目",
-    "pre_existing_conditions": "先天性聾唖、アスパラカリウム散剤、ランソプラゾール、モサプリドクエン酸、直近１か月は入院中だったがリハビリ治療や栄養療法などの療養が主体で、内服薬以外の医学的介入はしていない",
-    "PT_names": [
-      "脳梗塞"
-    ],
-    "tests_used_for_determination": "頭部CT、症状経\r\n過",
-    "causal_relationship": "評価不能",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "接種後詳細不十分※～1/26から変更なし。",
     "id": "104-コミナティ筋注-33",
     "source": {
       "name": "第104回",
@@ -32415,33 +32415,6 @@
   {
     "no": 35,
     "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
-    "age": 83,
-    "gender": "男",
-    "vaccinated_dates": "2022/12/13",
-    "onset_dates": [
-      "不明"
-    ],
-    "lot_no": "GJ2674",
-    "vaccinated_times": "5回目",
-    "pre_existing_conditions": "防併基礎疾患等：糖尿病、前立腺肥大、高血圧、不眠、不穏、末梢循環不全、認知症、介護を受ける生活、胃腸障害予用薬：トラゼンタ、デュタステリド、アムロジピン、ロゼレム、トラゾドン、シロドシン、ビオフェルミンＲ、ベルソムラ、リマプロストアルファデクス。2022/12/14、患者は発熱、呼吸停止の症状で病院に来院した。呼吸確保し、心臓マッサージをしながら救急車が要請された。後日、患者の家族が、患者の死亡を通知した。死亡日は不明であった。",
-    "PT_names": [
-      "嘔吐",
-      "発熱"
-    ],
-    "tests_used_for_determination": "不明",
-    "causal_relationship": "不明",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
-    "id": "104-コミナティ筋注-35",
-    "source": {
-      "name": "第104回",
-      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
-    }
-  },
-  {
-    "no": 35,
-    "manufacturer": "ファイザー",
     "vaccine_name": "コミナティ筋注",
     "age": 69,
     "gender": "男",
@@ -32461,6 +32434,33 @@
     "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "基礎疾患や内服薬からは、胸部大動脈解離のリスク因子を有していたことが示唆されるが、経過の詳細な情報は得られていない。ワクチン接種が胸部大動脈解離の発症に与えた影響は評価できない。※～1/26から変更なし。",
+    "id": "104-コミナティ筋注-35",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
+    }
+  },
+  {
+    "no": 35,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
+    "age": 83,
+    "gender": "男",
+    "vaccinated_dates": "2022/12/13",
+    "onset_dates": [
+      "不明"
+    ],
+    "lot_no": "GJ2674",
+    "vaccinated_times": "5回目",
+    "pre_existing_conditions": "防併基礎疾患等：糖尿病、前立腺肥大、高血圧、不眠、不穏、末梢循環不全、認知症、介護を受ける生活、胃腸障害予用薬：トラゼンタ、デュタステリド、アムロジピン、ロゼレム、トラゾドン、シロドシン、ビオフェルミンＲ、ベルソムラ、リマプロストアルファデクス。2022/12/14、患者は発熱、呼吸停止の症状で病院に来院した。呼吸確保し、心臓マッサージをしながら救急車が要請された。後日、患者の家族が、患者の死亡を通知した。死亡日は不明であった。",
+    "PT_names": [
+      "嘔吐",
+      "発熱"
+    ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "不明",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
     "id": "104-コミナティ筋注-35",
     "source": {
       "name": "第104回",
@@ -33055,32 +33055,6 @@
   {
     "no": 37,
     "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティ筋注",
-    "age": 70,
-    "gender": "男",
-    "vaccinated_dates": "2021/4/30",
-    "onset_dates": [
-      "2021/5/1"
-    ],
-    "lot_no": "EW4811",
-    "vaccinated_times": "1回目",
-    "pre_existing_conditions": "進行性核上性麻痺",
-    "PT_names": [
-      "痰貯留"
-    ],
-    "tests_used_for_determination": "不明",
-    "causal_relationship": "評価不能",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
-    "id": "104-コミナティ筋注-37",
-    "source": {
-      "name": "第104回",
-      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
-    }
-  },
-  {
-    "no": 37,
-    "manufacturer": "ファイザー",
     "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
     "age": 79,
     "gender": "女",
@@ -33099,6 +33073,32 @@
       "急性心不全"
     ],
     "tests_used_for_determination": "不明検死\r\n（～4/28の情報\r\nに基づく。）",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
+    "id": "104-コミナティ筋注-37",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
+    }
+  },
+  {
+    "no": 37,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ筋注",
+    "age": 70,
+    "gender": "男",
+    "vaccinated_dates": "2021/4/30",
+    "onset_dates": [
+      "2021/5/1"
+    ],
+    "lot_no": "EW4811",
+    "vaccinated_times": "1回目",
+    "pre_existing_conditions": "進行性核上性麻痺",
+    "PT_names": [
+      "痰貯留"
+    ],
+    "tests_used_for_determination": "不明",
     "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
@@ -33686,6 +33686,32 @@
   {
     "no": 39,
     "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ筋注",
+    "age": 90,
+    "gender": "男",
+    "vaccinated_dates": "2021/5/6",
+    "onset_dates": [
+      "2021/5/6"
+    ],
+    "lot_no": "不明",
+    "vaccinated_times": "1回目",
+    "pre_existing_conditions": "既往歴：急性膵炎、嘔吐",
+    "PT_names": [
+      "閉塞性気道障害"
+    ],
+    "tests_used_for_determination": "死亡時画像診断\r\n（～6/9の情報に\r\n基づく）",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "窒息は、誤嚥の結果もたらされた可能性があります。心肺停止は、窒息の結果起きた可能性があります。※～1/26から変更なし。",
+    "id": "104-コミナティ筋注-39",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
+    }
+  },
+  {
+    "no": 39,
+    "manufacturer": "ファイザー",
     "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
     "age": 83,
     "gender": "男",
@@ -33706,32 +33732,6 @@
     "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
-    "id": "104-コミナティ筋注-39",
-    "source": {
-      "name": "第104回",
-      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
-    }
-  },
-  {
-    "no": 39,
-    "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティ筋注",
-    "age": 90,
-    "gender": "男",
-    "vaccinated_dates": "2021/5/6",
-    "onset_dates": [
-      "2021/5/6"
-    ],
-    "lot_no": "不明",
-    "vaccinated_times": "1回目",
-    "pre_existing_conditions": "既往歴：急性膵炎、嘔吐",
-    "PT_names": [
-      "閉塞性気道障害"
-    ],
-    "tests_used_for_determination": "死亡時画像診断\r\n（～6/9の情報に\r\n基づく）",
-    "causal_relationship": "評価不能",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "窒息は、誤嚥の結果もたらされた可能性があります。心肺停止は、窒息の結果起きた可能性があります。※～1/26から変更なし。",
     "id": "104-コミナティ筋注-39",
     "source": {
       "name": "第104回",
@@ -34028,32 +34028,6 @@
   {
     "no": 40,
     "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティ筋注",
-    "age": 53,
-    "gender": "女",
-    "vaccinated_dates": "2021/4/14",
-    "onset_dates": [
-      "2021/4/16"
-    ],
-    "lot_no": "ER2659",
-    "vaccinated_times": "2回目",
-    "pre_existing_conditions": "上部食道癌既往、詳細不明、定期フォロー中",
-    "PT_names": [
-      "縊死"
-    ],
-    "tests_used_for_determination": "-",
-    "causal_relationship": "評価不能",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
-    "id": "104-コミナティ筋注-40",
-    "source": {
-      "name": "第104回",
-      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
-    }
-  },
-  {
-    "no": 40,
-    "manufacturer": "ファイザー",
     "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
     "age": 87,
     "gender": "男",
@@ -34069,6 +34043,32 @@
       "右心不全"
     ],
     "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
+    "id": "104-コミナティ筋注-40",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
+    }
+  },
+  {
+    "no": 40,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ筋注",
+    "age": 53,
+    "gender": "女",
+    "vaccinated_dates": "2021/4/14",
+    "onset_dates": [
+      "2021/4/16"
+    ],
+    "lot_no": "ER2659",
+    "vaccinated_times": "2回目",
+    "pre_existing_conditions": "上部食道癌既往、詳細不明、定期フォロー中",
+    "PT_names": [
+      "縊死"
+    ],
+    "tests_used_for_determination": "-",
     "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
@@ -34317,32 +34317,6 @@
   {
     "no": 41,
     "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティ筋注",
-    "age": 92,
-    "gender": "女",
-    "vaccinated_dates": "2021/4/16",
-    "onset_dates": [
-      "2021/5/3"
-    ],
-    "lot_no": "ET3674",
-    "vaccinated_times": "1回目",
-    "pre_existing_conditions": "心不全",
-    "PT_names": [
-      "心不全"
-    ],
-    "tests_used_for_determination": "不明",
-    "causal_relationship": "関連なし",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
-    "id": "104-コミナティ筋注-41",
-    "source": {
-      "name": "第104回",
-      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
-    }
-  },
-  {
-    "no": 41,
-    "manufacturer": "ファイザー",
     "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
     "age": 82,
     "gender": "女",
@@ -34358,6 +34332,32 @@
     ],
     "tests_used_for_determination": "検案",
     "causal_relationship": "不明",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
+    "id": "104-コミナティ筋注-41",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
+    }
+  },
+  {
+    "no": 41,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ筋注",
+    "age": 92,
+    "gender": "女",
+    "vaccinated_dates": "2021/4/16",
+    "onset_dates": [
+      "2021/5/3"
+    ],
+    "lot_no": "ET3674",
+    "vaccinated_times": "1回目",
+    "pre_existing_conditions": "心不全",
+    "PT_names": [
+      "心不全"
+    ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "関連なし",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
     "id": "104-コミナティ筋注-41",
@@ -35237,19 +35237,18 @@
   {
     "no": 44,
     "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティ筋注",
-    "age": 73,
+    "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
+    "age": 92,
     "gender": "男",
-    "vaccinated_dates": "2021/4/21",
+    "vaccinated_dates": "2022/12/24",
     "onset_dates": [
-      "2021/4/27"
+      "2022/12/25"
     ],
-    "lot_no": "ER2659",
-    "vaccinated_times": "1回目",
-    "pre_existing_conditions": "既往歴：虚血性心疾患アレルギー歴",
+    "lot_no": "GJ7141",
+    "vaccinated_times": "5回目",
+    "pre_existing_conditions": "基礎疾患等：心不全、心臓弁膜症、高血圧、慢性胃炎、心房細動、前立腺肥大併用薬：アムロジピン、テプレノン、ベタニス、ハルナールD、リクシアナOD、ハーフジゴキシン、ジャディアンス、フロセミド2022/12/25、",
     "PT_names": [
-      "不明",
-      "心障害"
+      "不明"
     ],
     "tests_used_for_determination": "不明",
     "causal_relationship": "不明",
@@ -35264,18 +35263,19 @@
   {
     "no": 44,
     "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
-    "age": 92,
+    "vaccine_name": "コミナティ筋注",
+    "age": 73,
     "gender": "男",
-    "vaccinated_dates": "2022/12/24",
+    "vaccinated_dates": "2021/4/21",
     "onset_dates": [
-      "2022/12/25"
+      "2021/4/27"
     ],
-    "lot_no": "GJ7141",
-    "vaccinated_times": "5回目",
-    "pre_existing_conditions": "基礎疾患等：心不全、心臓弁膜症、高血圧、慢性胃炎、心房細動、前立腺肥大併用薬：アムロジピン、テプレノン、ベタニス、ハルナールD、リクシアナOD、ハーフジゴキシン、ジャディアンス、フロセミド2022/12/25、",
+    "lot_no": "ER2659",
+    "vaccinated_times": "1回目",
+    "pre_existing_conditions": "既往歴：虚血性心疾患アレルギー歴",
     "PT_names": [
-      "不明"
+      "不明",
+      "心障害"
     ],
     "tests_used_for_determination": "不明",
     "causal_relationship": "不明",
@@ -35873,6 +35873,32 @@
   {
     "no": 46,
     "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
+    "age": 84,
+    "gender": "女",
+    "vaccinated_dates": "2022/10/28",
+    "onset_dates": [
+      "不明"
+    ],
+    "lot_no": "GJ1836",
+    "vaccinated_times": "4回目",
+    "pre_existing_conditions": "基礎疾患等：高血圧病歴：左大腿骨頭部骨折、COVID-19感染ワクチン接種日",
+    "PT_names": [
+      "汎血球減少症"
+    ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
+    "id": "104-コミナティ筋注-46",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
+    }
+  },
+  {
+    "no": 46,
+    "manufacturer": "ファイザー",
     "vaccine_name": "コミナティ筋注",
     "age": 25,
     "gender": "男",
@@ -35891,32 +35917,6 @@
     "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "精神疾患の既往がなく、通常に勤務していた若年者である。ワクチン接種後に精神障害を突然発症している。因果関係については、否定も肯定もできず、同様の有害事象の収集に努めるべきと考える。※～1/26から変更なし。",
-    "id": "104-コミナティ筋注-46",
-    "source": {
-      "name": "第104回",
-      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
-    }
-  },
-  {
-    "no": 46,
-    "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
-    "age": 84,
-    "gender": "女",
-    "vaccinated_dates": "2022/10/28",
-    "onset_dates": [
-      "不明"
-    ],
-    "lot_no": "GJ1836",
-    "vaccinated_times": "4回目",
-    "pre_existing_conditions": "基礎疾患等：高血圧病歴：左大腿骨頭部骨折、COVID-19感染ワクチン接種日",
-    "PT_names": [
-      "汎血球減少症"
-    ],
-    "tests_used_for_determination": "不明",
-    "causal_relationship": "評価不能",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
     "id": "104-コミナティ筋注-46",
     "source": {
       "name": "第104回",
@@ -36476,6 +36476,33 @@
   {
     "no": 48,
     "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ筋注",
+    "age": 79,
+    "gender": "男",
+    "vaccinated_dates": "2021/4/30",
+    "onset_dates": [
+      "2021/5/5"
+    ],
+    "lot_no": "EW4811",
+    "vaccinated_times": "1回目",
+    "pre_existing_conditions": "基礎疾患：心房細動",
+    "PT_names": [
+      "急性心筋梗塞",
+      "脳梗塞"
+    ],
+    "tests_used_for_determination": "不明\r\n→心電図、心エ\r\nコー、血液検査、\r\n頭部MRI、頭部\r\nCT\r\n（～７/2１の情報\r\nに基づく）",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "心筋梗塞発症のリスクについて情報が不足しており、ワクチン接種と心筋梗塞発症の因果関係は評価不能である。また、直接の死因と考えられる脳梗塞、脳ヘルニアについては、所見から脳塞栓症の可能性も考えられ、基礎疾患である心房細動の関与が疑われるが、ワーファリンによる治療状況の詳細は不明である。ワクチン接種と脳梗塞発症の因果関係も評価不能である。※～1/26から変更なし。",
+    "id": "104-コミナティ筋注-48",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
+    }
+  },
+  {
+    "no": 48,
+    "manufacturer": "ファイザー",
     "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
     "age": 91,
     "gender": "女",
@@ -36495,33 +36522,6 @@
     "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
-    "id": "104-コミナティ筋注-48",
-    "source": {
-      "name": "第104回",
-      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
-    }
-  },
-  {
-    "no": 48,
-    "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティ筋注",
-    "age": 79,
-    "gender": "男",
-    "vaccinated_dates": "2021/4/30",
-    "onset_dates": [
-      "2021/5/5"
-    ],
-    "lot_no": "EW4811",
-    "vaccinated_times": "1回目",
-    "pre_existing_conditions": "基礎疾患：心房細動",
-    "PT_names": [
-      "急性心筋梗塞",
-      "脳梗塞"
-    ],
-    "tests_used_for_determination": "不明\r\n→心電図、心エ\r\nコー、血液検査、\r\n頭部MRI、頭部\r\nCT\r\n（～７/2１の情報\r\nに基づく）",
-    "causal_relationship": "評価不能",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "心筋梗塞発症のリスクについて情報が不足しており、ワクチン接種と心筋梗塞発症の因果関係は評価不能である。また、直接の死因と考えられる脳梗塞、脳ヘルニアについては、所見から脳塞栓症の可能性も考えられ、基礎疾患である心房細動の関与が疑われるが、ワーファリンによる治療状況の詳細は不明である。ワクチン接種と脳梗塞発症の因果関係も評価不能である。※～1/26から変更なし。",
     "id": "104-コミナティ筋注-48",
     "source": {
       "name": "第104回",
@@ -37106,6 +37106,32 @@
   {
     "no": 5,
     "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ筋注",
+    "age": 62,
+    "gender": "男",
+    "vaccinated_dates": "2021/4/1",
+    "onset_dates": [
+      "2021/4/2"
+    ],
+    "lot_no": "ER2659",
+    "vaccinated_times": "2回目",
+    "pre_existing_conditions": "基礎疾患：糖尿病",
+    "PT_names": [
+      "溺死"
+    ],
+    "tests_used_for_determination": "解剖",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "通常の生活を送れていた62歳の男性が意識の消失なく入浴中に溺死することは考えにくく、痙攣や不整脈等の急性の心不全に伴う意識消失があった可能性は否定できません。剖検ではそれを示唆する所見は得られておらず、あくまで推測の域を出ません。得られている情報で因果関係を判定するのは極めて困難と考えます。※～1/26から変更なし。",
+    "id": "104-コミナティ筋注-5",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
+    }
+  },
+  {
+    "no": 5,
+    "manufacturer": "ファイザー",
     "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
     "age": 27,
     "gender": "男",
@@ -37157,26 +37183,26 @@
     }
   },
   {
-    "no": 5,
+    "no": 50,
     "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティ筋注",
-    "age": 62,
+    "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
+    "age": 84,
     "gender": "男",
-    "vaccinated_dates": "2021/4/1",
+    "vaccinated_dates": "2022/12/28",
     "onset_dates": [
-      "2021/4/2"
+      "2022/12/28"
     ],
-    "lot_no": "ER2659",
-    "vaccinated_times": "2回目",
-    "pre_existing_conditions": "基礎疾患：糖尿病",
+    "lot_no": "GL1585",
+    "vaccinated_times": "5回目",
+    "pre_existing_conditions": "10:15、5回目の新型コロナウイルスワクチン接種を受けた。15分間観察後、10:30に医療機関を出て、当地に移動した。14：00過ぎにトイレに行った。約5分が、家族はトイレを見に行き、患者が床に倒れているのを発見した。救急が要請された。15：11、報告病院の救急外来へ搬送され、蘇生処置が実施された。しかし自己心拍の再開は認められず、16：36に死亡が確認された。当院受診歴のない患者が心肺停止状態で搬送された。ワクチン接種は他の医療機関で実施されており、問診票記載内容も不明であった。蘇生処置に反応せず死亡確認となった。過去に4回のワクチン接種を受けており今回が5回目の接種であったことから、過去4回の接種時には重篤な副反応が認められなかったものと推測される。剖検は行われず、心肺停止状態での搬送であったことから死因の特定は困難だが、ワクチン接種後でもあり、関連の有無については断定できない。",
     "PT_names": [
-      "溺死"
+      "不明"
     ],
-    "tests_used_for_determination": "解剖",
+    "tests_used_for_determination": "不明",
     "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "通常の生活を送れていた62歳の男性が意識の消失なく入浴中に溺死することは考えにくく、痙攣や不整脈等の急性の心不全に伴う意識消失があった可能性は否定できません。剖検ではそれを示唆する所見は得られておらず、あくまで推測の域を出ません。得られている情報で因果関係を判定するのは極めて困難と考えます。※～1/26から変更なし。",
-    "id": "104-コミナティ筋注-5",
+    "comments_by_expert": "死因が不明確であり、関連性の推定は困難と考えます。※～1/26から変更なし。",
+    "id": "104-コミナティ筋注-50",
     "source": {
       "name": "第104回",
       "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
@@ -37202,32 +37228,6 @@
     "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
-    "id": "104-コミナティ筋注-50",
-    "source": {
-      "name": "第104回",
-      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
-    }
-  },
-  {
-    "no": 50,
-    "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
-    "age": 84,
-    "gender": "男",
-    "vaccinated_dates": "2022/12/28",
-    "onset_dates": [
-      "2022/12/28"
-    ],
-    "lot_no": "GL1585",
-    "vaccinated_times": "5回目",
-    "pre_existing_conditions": "10:15、5回目の新型コロナウイルスワクチン接種を受けた。15分間観察後、10:30に医療機関を出て、当地に移動した。14：00過ぎにトイレに行った。約5分が、家族はトイレを見に行き、患者が床に倒れているのを発見した。救急が要請された。15：11、報告病院の救急外来へ搬送され、蘇生処置が実施された。しかし自己心拍の再開は認められず、16：36に死亡が確認された。当院受診歴のない患者が心肺停止状態で搬送された。ワクチン接種は他の医療機関で実施されており、問診票記載内容も不明であった。蘇生処置に反応せず死亡確認となった。過去に4回のワクチン接種を受けており今回が5回目の接種であったことから、過去4回の接種時には重篤な副反応が認められなかったものと推測される。剖検は行われず、心肺停止状態での搬送であったことから死因の特定は困難だが、ワクチン接種後でもあり、関連の有無については断定できない。",
-    "PT_names": [
-      "不明"
-    ],
-    "tests_used_for_determination": "不明",
-    "causal_relationship": "評価不能",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "死因が不明確であり、関連性の推定は困難と考えます。※～1/26から変更なし。",
     "id": "104-コミナティ筋注-50",
     "source": {
       "name": "第104回",
@@ -37497,6 +37497,33 @@
   {
     "no": 51,
     "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
+    "age": 92,
+    "gender": "女",
+    "vaccinated_dates": "2022/12/8",
+    "onset_dates": [
+      "2023/1/7"
+    ],
+    "lot_no": "GJ1857",
+    "vaccinated_times": "5回目",
+    "pre_existing_conditions": "基礎疾患等：慢性腎不全、慢性貧血、摂食障害、腎不全、高血圧、高脂血症、便秘、２型糖尿病、糖尿病性腎症、腎硬化症、腎機能悪化、本態性高血圧症、認知症、腰部脊柱管狭窄症、不安定併用薬：フロセミド、カンデサルタン、ランソプラゾール、ベラプロスト、メコバラミン、ニフェジピン、プラバスタチン、パンテチン、マグミットR4/12/8施設にて接種。12/15に約1週間前からの高度の摂食不良及び同時期より急な両側足背下腿浮腫増悪を認めたとの報告あり。摂食障害、急性心不全にて緊急入院となる。胸部レントゲン上は心拡大心胸郭比66％両側中等量胸水を認め入院時のNTproBNPは13966と増加しており急性心不全と診断した。コロナワクチン5回目接種後より、同日もしくは翌日からの足背浮腫の急な増悪および摂取不良の急激な悪化があったことから緊急入院に至った。現在も摂食不良及び心不全の改善は認めず。全身状態の悪化から腎不全も悪化している。コロナワクチン接種により心不全の悪化が発生し、食欲不振も継続しており接種により心不全を来した可能性が高いと判断する。その後も経口摂取量は数口から1割程度で推移した。末梢点滴での輸液も併用した。全身状態の改善は得られずR5/1/7 死亡。ワクチン接種が心不全、慢性腎不全の悪化を引き起こし死亡につながった可能性は否定できないと考える。(～4/28の情報に基づく。）",
+    "PT_names": [
+      "急性心不全",
+      "慢性腎臓病"
+    ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "関連あり",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "92歳女性で２型糖尿病、糖尿病性腎症、腎硬化症、慢性腎不全、認知症、本態性高血圧、脊柱管狭窄症を基礎疾患として有する。当該ワクチン接種の1か月前である2022年11月(日時詳細不明)の採血でHb5.7と極度の貧血、BUN86.7、Cr3.51と末期腎不全の状態であった。コミナティ投与との前後関係は不明だが、2022年12月より食欲低下を認めた。2022年12月8日コミナティ５回目投与同日頃より下腿浮腫、経口摂取の低下。2022年12月15日、急性心不全、摂食障害で入院し、2023年1月7日急性心不全で死亡。コミナティ投与前の1か月前の検査値で著しい貧血と腎不全末期で全身状態不良と判断できる状況であり、この時からも急性心不全発生の原因と十分なりうる状況であるが、ワクチン投与までの治療状況や身体状況の情報が充分ないため、本剤と関連性を評価するのための情報が充分にないと考えます。※～1/26から変更なし。",
+    "id": "104-コミナティ筋注-51",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
+    }
+  },
+  {
+    "no": 51,
+    "manufacturer": "ファイザー",
     "vaccine_name": "コミナティ筋注",
     "age": 88,
     "gender": "男",
@@ -37516,33 +37543,6 @@
     "causal_relationship": "関連なし",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
-    "id": "104-コミナティ筋注-51",
-    "source": {
-      "name": "第104回",
-      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
-    }
-  },
-  {
-    "no": 51,
-    "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
-    "age": 92,
-    "gender": "女",
-    "vaccinated_dates": "2022/12/8",
-    "onset_dates": [
-      "2023/1/7"
-    ],
-    "lot_no": "GJ1857",
-    "vaccinated_times": "5回目",
-    "pre_existing_conditions": "基礎疾患等：慢性腎不全、慢性貧血、摂食障害、腎不全、高血圧、高脂血症、便秘、２型糖尿病、糖尿病性腎症、腎硬化症、腎機能悪化、本態性高血圧症、認知症、腰部脊柱管狭窄症、不安定併用薬：フロセミド、カンデサルタン、ランソプラゾール、ベラプロスト、メコバラミン、ニフェジピン、プラバスタチン、パンテチン、マグミットR4/12/8施設にて接種。12/15に約1週間前からの高度の摂食不良及び同時期より急な両側足背下腿浮腫増悪を認めたとの報告あり。摂食障害、急性心不全にて緊急入院となる。胸部レントゲン上は心拡大心胸郭比66％両側中等量胸水を認め入院時のNTproBNPは13966と増加しており急性心不全と診断した。コロナワクチン5回目接種後より、同日もしくは翌日からの足背浮腫の急な増悪および摂取不良の急激な悪化があったことから緊急入院に至った。現在も摂食不良及び心不全の改善は認めず。全身状態の悪化から腎不全も悪化している。コロナワクチン接種により心不全の悪化が発生し、食欲不振も継続しており接種により心不全を来した可能性が高いと判断する。その後も経口摂取量は数口から1割程度で推移した。末梢点滴での輸液も併用した。全身状態の改善は得られずR5/1/7 死亡。ワクチン接種が心不全、慢性腎不全の悪化を引き起こし死亡につながった可能性は否定できないと考える。(～4/28の情報に基づく。）",
-    "PT_names": [
-      "急性心不全",
-      "慢性腎臓病"
-    ],
-    "tests_used_for_determination": "不明",
-    "causal_relationship": "関連あり",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "92歳女性で２型糖尿病、糖尿病性腎症、腎硬化症、慢性腎不全、認知症、本態性高血圧、脊柱管狭窄症を基礎疾患として有する。当該ワクチン接種の1か月前である2022年11月(日時詳細不明)の採血でHb5.7と極度の貧血、BUN86.7、Cr3.51と末期腎不全の状態であった。コミナティ投与との前後関係は不明だが、2022年12月より食欲低下を認めた。2022年12月8日コミナティ５回目投与同日頃より下腿浮腫、経口摂取の低下。2022年12月15日、急性心不全、摂食障害で入院し、2023年1月7日急性心不全で死亡。コミナティ投与前の1か月前の検査値で著しい貧血と腎不全末期で全身状態不良と判断できる状況であり、この時からも急性心不全発生の原因と十分なりうる状況であるが、ワクチン投与までの治療状況や身体状況の情報が充分ないため、本剤と関連性を評価するのための情報が充分にないと考えます。※～1/26から変更なし。",
     "id": "104-コミナティ筋注-51",
     "source": {
       "name": "第104回",
@@ -38105,32 +38105,6 @@
   {
     "no": 53,
     "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティ筋注",
-    "age": 95,
-    "gender": "女",
-    "vaccinated_dates": "2021/5/10",
-    "onset_dates": [
-      "2021/5/12"
-    ],
-    "lot_no": "EW4811",
-    "vaccinated_times": "1回目",
-    "pre_existing_conditions": "肝臓疾患",
-    "PT_names": [
-      "脳出血"
-    ],
-    "tests_used_for_determination": "不明",
-    "causal_relationship": "評価不能",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "既往症に肝疾患があったとの事であるが、詳細な情報は得られていない。ワクチン接種が脳出血の発症や重篤化に与えた影響は評価できない。※～1/26から変更なし。",
-    "id": "104-コミナティ筋注-53",
-    "source": {
-      "name": "第104回",
-      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
-    }
-  },
-  {
-    "no": 53,
-    "manufacturer": "ファイザー",
     "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
     "age": 92,
     "gender": "女",
@@ -38150,6 +38124,32 @@
     "causal_relationship": "関連あり",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "アナフィラキシーの基準を判断するための呼吸症状以外の情報が不十分であり、判定は困難。※～1/26から変更なし。",
+    "id": "104-コミナティ筋注-53",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
+    }
+  },
+  {
+    "no": 53,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ筋注",
+    "age": 95,
+    "gender": "女",
+    "vaccinated_dates": "2021/5/10",
+    "onset_dates": [
+      "2021/5/12"
+    ],
+    "lot_no": "EW4811",
+    "vaccinated_times": "1回目",
+    "pre_existing_conditions": "肝臓疾患",
+    "PT_names": [
+      "脳出血"
+    ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "既往症に肝疾患があったとの事であるが、詳細な情報は得られていない。ワクチン接種が脳出血の発症や重篤化に与えた影響は評価できない。※～1/26から変更なし。",
     "id": "104-コミナティ筋注-53",
     "source": {
       "name": "第104回",
@@ -38655,32 +38655,6 @@
   {
     "no": 55,
     "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティ筋注",
-    "age": 87,
-    "gender": "女",
-    "vaccinated_dates": "2021/5/12",
-    "onset_dates": [
-      "2021/5/12"
-    ],
-    "lot_no": "EW4811",
-    "vaccinated_times": "1回目",
-    "pre_existing_conditions": "脳梗塞",
-    "PT_names": [
-      "脳出血"
-    ],
-    "tests_used_for_determination": "解剖",
-    "causal_relationship": "評価不能",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
-    "id": "104-コミナティ筋注-55",
-    "source": {
-      "name": "第104回",
-      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
-    }
-  },
-  {
-    "no": 55,
-    "manufacturer": "ファイザー",
     "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
     "age": 78,
     "gender": "女",
@@ -38698,6 +38672,32 @@
     "causal_relationship": "関連なし",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "高血圧・狭心症・パーキンソン病の治療歴の詳細や併存する疾患の詳細、過去の胸部動脈瘤の指摘の有無、血圧・脈拍数管理の有無などが不明であり、評価困難と考えます。※～1/26から変更なし。",
+    "id": "104-コミナティ筋注-55",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
+    }
+  },
+  {
+    "no": 55,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ筋注",
+    "age": 87,
+    "gender": "女",
+    "vaccinated_dates": "2021/5/12",
+    "onset_dates": [
+      "2021/5/12"
+    ],
+    "lot_no": "EW4811",
+    "vaccinated_times": "1回目",
+    "pre_existing_conditions": "脳梗塞",
+    "PT_names": [
+      "脳出血"
+    ],
+    "tests_used_for_determination": "解剖",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
     "id": "104-コミナティ筋注-55",
     "source": {
       "name": "第104回",
@@ -38943,32 +38943,6 @@
   {
     "no": 56,
     "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティ筋注",
-    "age": 95,
-    "gender": "女",
-    "vaccinated_dates": "2021/4/20",
-    "onset_dates": [
-      "2021/4/25"
-    ],
-    "lot_no": "ER9480",
-    "vaccinated_times": "1回目",
-    "pre_existing_conditions": "高血圧",
-    "PT_names": [
-      "脳梗塞"
-    ],
-    "tests_used_for_determination": "不明",
-    "causal_relationship": "評価不能",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
-    "id": "104-コミナティ筋注-56",
-    "source": {
-      "name": "第104回",
-      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
-    }
-  },
-  {
-    "no": 56,
-    "manufacturer": "ファイザー",
     "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
     "age": 84,
     "gender": "女",
@@ -38985,6 +38959,32 @@
     ],
     "tests_used_for_determination": "CT検査",
     "causal_relationship": "なし",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
+    "id": "104-コミナティ筋注-56",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
+    }
+  },
+  {
+    "no": 56,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ筋注",
+    "age": 95,
+    "gender": "女",
+    "vaccinated_dates": "2021/4/20",
+    "onset_dates": [
+      "2021/4/25"
+    ],
+    "lot_no": "ER9480",
+    "vaccinated_times": "1回目",
+    "pre_existing_conditions": "高血圧",
+    "PT_names": [
+      "脳梗塞"
+    ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
     "id": "104-コミナティ筋注-56",
@@ -39814,6 +39814,32 @@
   {
     "no": 59,
     "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ筋注",
+    "age": 86,
+    "gender": "男",
+    "vaccinated_dates": "2021/4/26",
+    "onset_dates": [
+      "2021/5/16注：5/26の合同部会資料では、死亡の「16」を症状発生の「8」と誤記載。"
+    ],
+    "lot_no": "ET9096",
+    "vaccinated_times": "1回目",
+    "pre_existing_conditions": "心臓病",
+    "PT_names": [
+      "脳梗塞"
+    ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "死亡に至った経過について情報がなく、ワクチンとの因果関係評価はできない。※～1/26から変更なし。",
+    "id": "104-コミナティ筋注-59",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
+    }
+  },
+  {
+    "no": 59,
+    "manufacturer": "ファイザー",
     "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
     "age": 82,
     "gender": "男",
@@ -39832,32 +39858,6 @@
     "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "死亡後10日後の発見では何も判断できない。※～1/26から変更なし。",
-    "id": "104-コミナティ筋注-59",
-    "source": {
-      "name": "第104回",
-      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
-    }
-  },
-  {
-    "no": 59,
-    "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティ筋注",
-    "age": 86,
-    "gender": "男",
-    "vaccinated_dates": "2021/4/26",
-    "onset_dates": [
-      "2021/5/16注：5/26の合同部会資料では、死亡の「16」を症状発生の「8」と誤記載。"
-    ],
-    "lot_no": "ET9096",
-    "vaccinated_times": "1回目",
-    "pre_existing_conditions": "心臓病",
-    "PT_names": [
-      "脳梗塞"
-    ],
-    "tests_used_for_determination": "不明",
-    "causal_relationship": "評価不能",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "死亡に至った経過について情報がなく、ワクチンとの因果関係評価はできない。※～1/26から変更なし。",
     "id": "104-コミナティ筋注-59",
     "source": {
       "name": "第104回",
@@ -40131,32 +40131,6 @@
   {
     "no": 6,
     "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティ筋注",
-    "age": 69,
-    "gender": "女",
-    "vaccinated_dates": "2021/3/17",
-    "onset_dates": [
-      "2021/3/26"
-    ],
-    "lot_no": "EP9605",
-    "vaccinated_times": "1回目",
-    "pre_existing_conditions": "無",
-    "PT_names": [
-      "脳出血"
-    ],
-    "tests_used_for_determination": "解剖",
-    "causal_relationship": "評価不能",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "死亡後の画像診断では脳出血、頭蓋内出血が明らかにされていますが、脳動脈瘤や脳動静脈奇形が基礎疾患としてあったかどうかは不明です。現時点では、当該ワクチンが血小板減少や血管炎を惹起し基礎疾患が無くても出血をきたしやすいというエビデンスはありませんので因果関係を評価することはできませんが、否定もできないと思います。※～1/26から変更なし。",
-    "id": "104-コミナティ筋注-6",
-    "source": {
-      "name": "第104回",
-      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
-    }
-  },
-  {
-    "no": 6,
-    "manufacturer": "ファイザー",
     "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.1)",
     "age": 51,
     "gender": "男",
@@ -40207,26 +40181,26 @@
     }
   },
   {
-    "no": 60,
+    "no": 6,
     "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
-    "age": 68,
+    "vaccine_name": "コミナティ筋注",
+    "age": 69,
     "gender": "女",
-    "vaccinated_dates": "2022/11/12",
+    "vaccinated_dates": "2021/3/17",
     "onset_dates": [
-      "2022/11/12"
+      "2021/3/26"
     ],
-    "lot_no": "GJ7139",
-    "vaccinated_times": "5回目",
-    "pre_existing_conditions": "ワクチン接種の30分後、患者は気分不良、めまい、動悸を訴えた。患者は倒れ、心肺停止となった。心室細動",
+    "lot_no": "EP9605",
+    "vaccinated_times": "1回目",
+    "pre_existing_conditions": "無",
     "PT_names": [
-      "不明"
+      "脳出血"
     ],
-    "tests_used_for_determination": "不明",
+    "tests_used_for_determination": "解剖",
     "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
-    "id": "104-コミナティ筋注-60",
+    "comments_by_expert": "死亡後の画像診断では脳出血、頭蓋内出血が明らかにされていますが、脳動脈瘤や脳動静脈奇形が基礎疾患としてあったかどうかは不明です。現時点では、当該ワクチンが血小板減少や血管炎を惹起し基礎疾患が無くても出血をきたしやすいというエビデンスはありませんので因果関係を評価することはできませんが、否定もできないと思います。※～1/26から変更なし。",
+    "id": "104-コミナティ筋注-6",
     "source": {
       "name": "第104回",
       "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
@@ -40252,6 +40226,32 @@
     "causal_relationship": "関係あり",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "ワクチンが原因である可能性は高くないと考えるが、同様の症例が集積しないかは継続観察する必要がある。※～1/26から変更なし。",
+    "id": "104-コミナティ筋注-60",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
+    }
+  },
+  {
+    "no": 60,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
+    "age": 68,
+    "gender": "女",
+    "vaccinated_dates": "2022/11/12",
+    "onset_dates": [
+      "2022/11/12"
+    ],
+    "lot_no": "GJ7139",
+    "vaccinated_times": "5回目",
+    "pre_existing_conditions": "ワクチン接種の30分後、患者は気分不良、めまい、動悸を訴えた。患者は倒れ、心肺停止となった。心室細動",
+    "PT_names": [
+      "不明"
+    ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
     "id": "104-コミナティ筋注-60",
     "source": {
       "name": "第104回",
@@ -40522,6 +40522,32 @@
   {
     "no": 61,
     "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
+    "age": 80,
+    "gender": "女",
+    "vaccinated_dates": "2023/1/18",
+    "onset_dates": [
+      "2023/1/21"
+    ],
+    "lot_no": "GJ2674",
+    "vaccinated_times": "5回目",
+    "pre_existing_conditions": "基礎疾患：高血圧、糖尿病、白内障併用薬：アムロジピン、イミダプリル、ジャヌビア、メトグルコ接種当日、接種後の観察時間内には異常の訴えもなく帰宅。家族によるとその後も異常はなかったが、1月20日午後11時15分頃臥床し呼吸停止していることに気付き、救急搬送。(～7/28の情報に基づく。）",
+    "PT_names": [
+      "急性大動脈解離"
+    ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
+    "id": "104-コミナティ筋注-61",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
+    }
+  },
+  {
+    "no": 61,
+    "manufacturer": "ファイザー",
     "vaccine_name": "コミナティ筋注",
     "age": 93,
     "gender": "女",
@@ -40542,32 +40568,6 @@
     "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "接種翌日に肺動脈血栓塞栓症、上腸間膜動脈血栓症、敗血症性ショック、消化管出血を発現したものの、その11日後には摂食可能となり問題なく過ごされている。その後急変し死亡に至っているが、報告内容は死因の診断根拠に乏しく、ワクチン接種と死亡の因果関係は評価できない。※～1/26から変更なし。",
-    "id": "104-コミナティ筋注-61",
-    "source": {
-      "name": "第104回",
-      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
-    }
-  },
-  {
-    "no": 61,
-    "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
-    "age": 80,
-    "gender": "女",
-    "vaccinated_dates": "2023/1/18",
-    "onset_dates": [
-      "2023/1/21"
-    ],
-    "lot_no": "GJ2674",
-    "vaccinated_times": "5回目",
-    "pre_existing_conditions": "基礎疾患：高血圧、糖尿病、白内障併用薬：アムロジピン、イミダプリル、ジャヌビア、メトグルコ接種当日、接種後の観察時間内には異常の訴えもなく帰宅。家族によるとその後も異常はなかったが、1月20日午後11時15分頃臥床し呼吸停止していることに気付き、救急搬送。(～7/28の情報に基づく。）",
-    "PT_names": [
-      "急性大動脈解離"
-    ],
-    "tests_used_for_determination": "不明",
-    "causal_relationship": "評価不能",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
     "id": "104-コミナティ筋注-61",
     "source": {
       "name": "第104回",
@@ -43285,32 +43285,6 @@
   {
     "no": 7,
     "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティ筋注",
-    "age": 51,
-    "gender": "男",
-    "vaccinated_dates": "2021/3/25",
-    "onset_dates": [
-      "2021/4/8"
-    ],
-    "lot_no": "EP9605",
-    "vaccinated_times": "1回目",
-    "pre_existing_conditions": "無",
-    "PT_names": [
-      "心室細動"
-    ],
-    "tests_used_for_determination": "不明",
-    "causal_relationship": "評価不能",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
-    "id": "104-コミナティ筋注-7",
-    "source": {
-      "name": "第104回",
-      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
-    }
-  },
-  {
-    "no": 7,
-    "manufacturer": "ファイザー",
     "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
     "age": 84,
     "gender": "男",
@@ -43327,6 +43301,32 @@
     ],
     "tests_used_for_determination": "不明",
     "causal_relationship": "不明評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
+    "id": "104-コミナティ筋注-7",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
+    }
+  },
+  {
+    "no": 7,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ筋注",
+    "age": 51,
+    "gender": "男",
+    "vaccinated_dates": "2021/3/25",
+    "onset_dates": [
+      "2021/4/8"
+    ],
+    "lot_no": "EP9605",
+    "vaccinated_times": "1回目",
+    "pre_existing_conditions": "無",
+    "PT_names": [
+      "心室細動"
+    ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
     "id": "104-コミナティ筋注-7",
@@ -44230,32 +44230,6 @@
   {
     "no": 73,
     "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
-    "age": 81,
-    "gender": "女",
-    "vaccinated_dates": "2022/11/16",
-    "onset_dates": [
-      "2023/2/4"
-    ],
-    "lot_no": "GJ1852",
-    "vaccinated_times": "5回目",
-    "pre_existing_conditions": "基礎疾患等：甲状腺機能亢進症、高血圧、結腸癌、癌手術、甲状腺機能低下症併用薬：チラーヂンS、ザクラスHD、ノルバスク2022/11/19より、歩行時のふらつきが発現した。予防接種との因果関係は不明だが、2023/12/27",
-    "PT_names": [
-      "不明"
-    ],
-    "tests_used_for_determination": "不明",
-    "causal_relationship": "評価不能",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
-    "id": "104-コミナティ筋注-73",
-    "source": {
-      "name": "第104回",
-      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
-    }
-  },
-  {
-    "no": 73,
-    "manufacturer": "ファイザー",
     "vaccine_name": "コミナティ筋注",
     "age": 89,
     "gender": "女",
@@ -44273,6 +44247,32 @@
     ],
     "tests_used_for_determination": "不明",
     "causal_relationship": "関連なし",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
+    "id": "104-コミナティ筋注-73",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
+    }
+  },
+  {
+    "no": 73,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
+    "age": 81,
+    "gender": "女",
+    "vaccinated_dates": "2022/11/16",
+    "onset_dates": [
+      "2023/2/4"
+    ],
+    "lot_no": "GJ1852",
+    "vaccinated_times": "5回目",
+    "pre_existing_conditions": "基礎疾患等：甲状腺機能亢進症、高血圧、結腸癌、癌手術、甲状腺機能低下症併用薬：チラーヂンS、ザクラスHD、ノルバスク2022/11/19より、歩行時のふらつきが発現した。予防接種との因果関係は不明だが、2023/12/27",
+    "PT_names": [
+      "不明"
+    ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
     "id": "104-コミナティ筋注-73",
@@ -45123,6 +45123,32 @@
   {
     "no": 76,
     "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ筋注",
+    "age": 92,
+    "gender": "女",
+    "vaccinated_dates": "2021/5/14",
+    "onset_dates": [
+      "2021/5/15"
+    ],
+    "lot_no": "EX3617",
+    "vaccinated_times": "2回目",
+    "pre_existing_conditions": "胸部大動脈瘤",
+    "PT_names": [
+      "大動脈瘤破裂"
+    ],
+    "tests_used_for_determination": "死亡時画像診断",
+    "causal_relationship": "関連なし",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
+    "id": "104-コミナティ筋注-76",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
+    }
+  },
+  {
+    "no": 76,
+    "manufacturer": "ファイザー",
     "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
     "age": 85,
     "gender": "男",
@@ -45145,32 +45171,6 @@
     "causal_relationship": "関連あり",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "過剰な免疫応答が直接死因である可能性は高いが、ワクチン接種から発症まで59日間あり、その間に何らかの別の要因に曝露された可能性も否定できない。※～1/26から変更なし。",
-    "id": "104-コミナティ筋注-76",
-    "source": {
-      "name": "第104回",
-      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
-    }
-  },
-  {
-    "no": 76,
-    "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティ筋注",
-    "age": 92,
-    "gender": "女",
-    "vaccinated_dates": "2021/5/14",
-    "onset_dates": [
-      "2021/5/15"
-    ],
-    "lot_no": "EX3617",
-    "vaccinated_times": "2回目",
-    "pre_existing_conditions": "胸部大動脈瘤",
-    "PT_names": [
-      "大動脈瘤破裂"
-    ],
-    "tests_used_for_determination": "死亡時画像診断",
-    "causal_relationship": "関連なし",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
     "id": "104-コミナティ筋注-76",
     "source": {
       "name": "第104回",
@@ -45363,6 +45363,32 @@
   {
     "no": 77,
     "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ筋注",
+    "age": 92,
+    "gender": "男",
+    "vaccinated_dates": "2021/5/15",
+    "onset_dates": [
+      "2021/5/16"
+    ],
+    "lot_no": "EX3617",
+    "vaccinated_times": "1回目",
+    "pre_existing_conditions": "循環器内科通院中、訪問介護利用中",
+    "PT_names": [
+      "急性心不全"
+    ],
+    "tests_used_for_determination": "CT",
+    "causal_relationship": "関連なし",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
+    "id": "104-コミナティ筋注-77",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
+    }
+  },
+  {
+    "no": 77,
+    "manufacturer": "ファイザー",
     "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
     "age": 92,
     "gender": "女",
@@ -45386,32 +45412,6 @@
     "causal_relationship": "関連あり",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "血小板減少を新たに発症しておらずブライトン分類を「5」と評価します。※～1/26から変更なし。",
-    "id": "104-コミナティ筋注-77",
-    "source": {
-      "name": "第104回",
-      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
-    }
-  },
-  {
-    "no": 77,
-    "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティ筋注",
-    "age": 92,
-    "gender": "男",
-    "vaccinated_dates": "2021/5/15",
-    "onset_dates": [
-      "2021/5/16"
-    ],
-    "lot_no": "EX3617",
-    "vaccinated_times": "1回目",
-    "pre_existing_conditions": "循環器内科通院中、訪問介護利用中",
-    "PT_names": [
-      "急性心不全"
-    ],
-    "tests_used_for_determination": "CT",
-    "causal_relationship": "関連なし",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
     "id": "104-コミナティ筋注-77",
     "source": {
       "name": "第104回",
@@ -45685,32 +45685,6 @@
   {
     "no": 78,
     "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティ筋注",
-    "age": 94,
-    "gender": "女",
-    "vaccinated_dates": "2021/5/15",
-    "onset_dates": [
-      "2021/5/18"
-    ],
-    "lot_no": "EY2173",
-    "vaccinated_times": "1回目",
-    "pre_existing_conditions": "既往歴：糖尿病、抗利尿ホルモン不適切分泌症候群",
-    "PT_names": [
-      "マラスムス"
-    ],
-    "tests_used_for_determination": "不明",
-    "causal_relationship": "評価不能",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "高齢で基礎疾患を多く有しており、ワクチン接種前から摂食不良で輸液が実施されている状況だったことから、全身状態はもともと悪かったことがうかがわれるものの、急変時に詳細な検査は実施されておらず、ワクチン接種と死亡の因果関係は評価できない。※～1/26から変更なし。",
-    "id": "104-コミナティ筋注-78",
-    "source": {
-      "name": "第104回",
-      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
-    }
-  },
-  {
-    "no": 78,
-    "manufacturer": "ファイザー",
     "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
     "age": 81,
     "gender": "女",
@@ -45728,6 +45702,32 @@
     "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
+    "id": "104-コミナティ筋注-78",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
+    }
+  },
+  {
+    "no": 78,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ筋注",
+    "age": 94,
+    "gender": "女",
+    "vaccinated_dates": "2021/5/15",
+    "onset_dates": [
+      "2021/5/18"
+    ],
+    "lot_no": "EY2173",
+    "vaccinated_times": "1回目",
+    "pre_existing_conditions": "既往歴：糖尿病、抗利尿ホルモン不適切分泌症候群",
+    "PT_names": [
+      "マラスムス"
+    ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "高齢で基礎疾患を多く有しており、ワクチン接種前から摂食不良で輸液が実施されている状況だったことから、全身状態はもともと悪かったことがうかがわれるものの、急変時に詳細な検査は実施されておらず、ワクチン接種と死亡の因果関係は評価できない。※～1/26から変更なし。",
     "id": "104-コミナティ筋注-78",
     "source": {
       "name": "第104回",
@@ -46326,32 +46326,6 @@
   {
     "no": 8,
     "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.1)",
-    "age": 88,
-    "gender": "女",
-    "vaccinated_dates": "2022/11/17",
-    "onset_dates": [
-      "2022/11/19"
-    ],
-    "lot_no": "GD9574",
-    "vaccinated_times": "4回目",
-    "pre_existing_conditions": "基礎疾患等：洞不全症候群、心臓ペースメーカー挿入、大動脈弁置換、寝たきり、慢性心不全、心疾患、老衰、廃用症候群2022/11/19 2:30",
-    "PT_names": [
-      "不明"
-    ],
-    "tests_used_for_determination": "不明",
-    "causal_relationship": "評価不能",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "老衰寝たきりで、医療情報がないため判断不能※～1/26から変更なし。",
-    "id": "104-コミナティ筋注-8",
-    "source": {
-      "name": "第104回",
-      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
-    }
-  },
-  {
-    "no": 8,
-    "manufacturer": "ファイザー",
     "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
     "age": 79,
     "gender": "女",
@@ -46376,26 +46350,26 @@
     }
   },
   {
-    "no": 80,
+    "no": 8,
     "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティ筋注",
-    "age": 89,
+    "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.1)",
+    "age": 88,
     "gender": "女",
-    "vaccinated_dates": "2021/5/16",
+    "vaccinated_dates": "2022/11/17",
     "onset_dates": [
-      "2021/5/18"
+      "2022/11/19"
     ],
-    "lot_no": "EX3617",
-    "vaccinated_times": "1回目",
-    "pre_existing_conditions": "服用中の薬：血をサラサラにする薬",
+    "lot_no": "GD9574",
+    "vaccinated_times": "4回目",
+    "pre_existing_conditions": "基礎疾患等：洞不全症候群、心臓ペースメーカー挿入、大動脈弁置換、寝たきり、慢性心不全、心疾患、老衰、廃用症候群2022/11/19 2:30",
     "PT_names": [
-      "急性心筋梗塞"
+      "不明"
     ],
-    "tests_used_for_determination": "CT",
+    "tests_used_for_determination": "不明",
     "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "死因を確定するための情報や既往に関する詳細な情報が不足しており、ワクチン接種と死亡との因果関係を評価できない。※～1/26から変更なし。",
-    "id": "104-コミナティ筋注-80",
+    "comments_by_expert": "老衰寝たきりで、医療情報がないため判断不能※～1/26から変更なし。",
+    "id": "104-コミナティ筋注-8",
     "source": {
       "name": "第104回",
       "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
@@ -46422,6 +46396,32 @@
     "causal_relationship": "評価不能不明(～7/28の情報に基づく。）",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
+    "id": "104-コミナティ筋注-80",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
+    }
+  },
+  {
+    "no": 80,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ筋注",
+    "age": 89,
+    "gender": "女",
+    "vaccinated_dates": "2021/5/16",
+    "onset_dates": [
+      "2021/5/18"
+    ],
+    "lot_no": "EX3617",
+    "vaccinated_times": "1回目",
+    "pre_existing_conditions": "服用中の薬：血をサラサラにする薬",
+    "PT_names": [
+      "急性心筋梗塞"
+    ],
+    "tests_used_for_determination": "CT",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "死因を確定するための情報や既往に関する詳細な情報が不足しており、ワクチン接種と死亡との因果関係を評価できない。※～1/26から変更なし。",
     "id": "104-コミナティ筋注-80",
     "source": {
       "name": "第104回",
@@ -47013,6 +47013,32 @@
   {
     "no": 82,
     "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
+    "age": 94,
+    "gender": "男",
+    "vaccinated_dates": "2023/1/30",
+    "onset_dates": [
+      "2023/2/3"
+    ],
+    "lot_no": "GJ7140",
+    "vaccinated_times": "5回目",
+    "pre_existing_conditions": "病歴：高血圧、脂質異常症、心房細動、前立腺肥大2023/01/30 COVID-19ワクチン接種後から、調子が悪くなり、自宅で横になることが多くなった。ほとんど動けなくなった。2023/02/03 トイレに行こうとして、呼吸弱くなり、血圧低下を認め救急要請。2023/02/03 19:01、救急要請、19:06救急隊到着。救急隊到着時の患者の状態：反応なし、呼吸なし、脈なし。有害事象臨床経過及び搬送中処置内容：胸骨圧迫実施。2023/02/03 19:25、病院到着。 到着時身体所見：心静止。ボスミン1mg静注点滴。 死亡確認後、全身CTを造影した。2023/02/03 19:35、死亡確認。報告者意見：心肺低下で搬送されているため評価は難しいが、肺塞栓症なども考えられる。救急隊到着時には心静止となっていた。病院到着後、心肺蘇生を行ったが反応なく、死亡確認となった。CT上、両側胸水を多量に認めており、心筋梗塞後心不全と考えた。ワクチン接種後からの調子の悪さとCT所見、経過からは、心筋梗塞後心不全による心肺停止と考えた。接種直後からの調子の悪さがあるため、因果関係はあると考える。",
+    "PT_names": [
+      "心筋梗塞"
+    ],
+    "tests_used_for_determination": "不明CT\r\n（～10/27の情報\r\nに基づく）",
+    "causal_relationship": "評価不能関連あり",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
+    "id": "104-コミナティ筋注-82",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
+    }
+  },
+  {
+    "no": 82,
+    "manufacturer": "ファイザー",
     "vaccine_name": "コミナティ筋注",
     "age": 98,
     "gender": "女",
@@ -47029,32 +47055,6 @@
     ],
     "tests_used_for_determination": "不明",
     "causal_relationship": "関連なし",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
-    "id": "104-コミナティ筋注-82",
-    "source": {
-      "name": "第104回",
-      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
-    }
-  },
-  {
-    "no": 82,
-    "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
-    "age": 94,
-    "gender": "男",
-    "vaccinated_dates": "2023/1/30",
-    "onset_dates": [
-      "2023/2/3"
-    ],
-    "lot_no": "GJ7140",
-    "vaccinated_times": "5回目",
-    "pre_existing_conditions": "病歴：高血圧、脂質異常症、心房細動、前立腺肥大2023/01/30 COVID-19ワクチン接種後から、調子が悪くなり、自宅で横になることが多くなった。ほとんど動けなくなった。2023/02/03 トイレに行こうとして、呼吸弱くなり、血圧低下を認め救急要請。2023/02/03 19:01、救急要請、19:06救急隊到着。救急隊到着時の患者の状態：反応なし、呼吸なし、脈なし。有害事象臨床経過及び搬送中処置内容：胸骨圧迫実施。2023/02/03 19:25、病院到着。 到着時身体所見：心静止。ボスミン1mg静注点滴。 死亡確認後、全身CTを造影した。2023/02/03 19:35、死亡確認。報告者意見：心肺低下で搬送されているため評価は難しいが、肺塞栓症なども考えられる。救急隊到着時には心静止となっていた。病院到着後、心肺蘇生を行ったが反応なく、死亡確認となった。CT上、両側胸水を多量に認めており、心筋梗塞後心不全と考えた。ワクチン接種後からの調子の悪さとCT所見、経過からは、心筋梗塞後心不全による心肺停止と考えた。接種直後からの調子の悪さがあるため、因果関係はあると考える。",
-    "PT_names": [
-      "心筋梗塞"
-    ],
-    "tests_used_for_determination": "不明CT\r\n（～10/27の情報\r\nに基づく）",
-    "causal_relationship": "評価不能関連あり",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
     "id": "104-コミナティ筋注-82",
@@ -47326,32 +47326,6 @@
   {
     "no": 83,
     "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティ筋注",
-    "age": 98,
-    "gender": "女",
-    "vaccinated_dates": "2021/5/19",
-    "onset_dates": [
-      "2021/5/20"
-    ],
-    "lot_no": "EY0779",
-    "vaccinated_times": "1回目",
-    "pre_existing_conditions": "慢性心不全、不眠症、心房細動併用薬",
-    "PT_names": [
-      "発熱"
-    ],
-    "tests_used_for_determination": "不明\r\n→胸部CT\r\n（～7/7の情報に\r\n基づく）",
-    "causal_relationship": "関連あり",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "接種１日目の死亡例．WBC増加を伴う肺炎であり誤嚥が疑われる．ワクチン接種からの時間からみてワクチン接種が肺炎を誘発した可能性は低いと考える．発熱はワクチンの可能性があるが，誤嚥性肺炎もあるため判別は困難．発熱・頻脈・心不全・呼吸不全により心停止に至ったと考えられる．※～1/26から変更なし。",
-    "id": "104-コミナティ筋注-83",
-    "source": {
-      "name": "第104回",
-      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
-    }
-  },
-  {
-    "no": 83,
-    "manufacturer": "ファイザー",
     "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
     "age": 84,
     "gender": "男",
@@ -47369,6 +47343,32 @@
     "causal_relationship": "関連あり",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
+    "id": "104-コミナティ筋注-83",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
+    }
+  },
+  {
+    "no": 83,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ筋注",
+    "age": 98,
+    "gender": "女",
+    "vaccinated_dates": "2021/5/19",
+    "onset_dates": [
+      "2021/5/20"
+    ],
+    "lot_no": "EY0779",
+    "vaccinated_times": "1回目",
+    "pre_existing_conditions": "慢性心不全、不眠症、心房細動併用薬",
+    "PT_names": [
+      "発熱"
+    ],
+    "tests_used_for_determination": "不明\r\n→胸部CT\r\n（～7/7の情報に\r\n基づく）",
+    "causal_relationship": "関連あり",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "接種１日目の死亡例．WBC増加を伴う肺炎であり誤嚥が疑われる．ワクチン接種からの時間からみてワクチン接種が肺炎を誘発した可能性は低いと考える．発熱はワクチンの可能性があるが，誤嚥性肺炎もあるため判別は困難．発熱・頻脈・心不全・呼吸不全により心停止に至ったと考えられる．※～1/26から変更なし。",
     "id": "104-コミナティ筋注-83",
     "source": {
       "name": "第104回",
@@ -48219,32 +48219,6 @@
   {
     "no": 86,
     "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
-    "age": 85,
-    "gender": "女",
-    "vaccinated_dates": "2022/12/20",
-    "onset_dates": [
-      "2023/1/31"
-    ],
-    "lot_no": "GJ2675",
-    "vaccinated_times": "5回目",
-    "pre_existing_conditions": "ン ア基礎疾患等：重症筋無力症、骨粗しょう症、胃潰瘍、肩の損傷、卵巣新生物、白内障、肋骨骨折、脳出血、薬物性肝障害、脊椎骨折、関節捻挫、脊椎骨折、喫煙者、手の脱力、易疲労感、よろめき歩行、呼吸困難、脳卒中、動脈解離、ペニシリンアレルギー、卵巣新生物手術併用薬：タクロリムス、ランソプラゾール、プレドニゾロン、フロセミド、ゾルピデム、セレコキシブ、エルデカルシトール、疼痛時アセトアミノフェン、イバンドロレルギー：ロキソプロフェン、トラマドール、ペニシリン2022年12月20日に接種した。12月28日6時に開眼しているが声掛けに応答なかった。救急搬送された。3病日に発熱、粘稠痰からStaphylococcus aureusが培養され、薬剤感受性試験も踏まえセフトリアキソンが投与され改善した。25病日には、発熱、低酸素血症、血圧65/35mmHｇを記録し、敗血症性ショックと診断した。痰からStaphylococcus aureus、Corynebacterium speciesが培養され、貪食像もあった。シプロフロキサシンを開始したが、家族は血管性認知症終末期に準じて、繰り返す肺炎に、抗菌薬投与より適切な対症療法を望んだ。緩和医療に切り替えた。2023年1月31日22時46分に永眠した。発症前に高血圧症はなかった。以前の画像も含めアミロイドアンギオパチー、脳動脈瘤、脳動静脈奇形、脳腫瘍、血管炎などなかった。可逆性脳血管萎縮症候群もなかった。コロナウィルス修飾ウリジンRNAワクチン接種毎の血圧上昇、血管内皮障害を背景に脳出血の関連が検討されている。(～7/28の情報に基づく。）",
-    "PT_names": [
-      "脳出血"
-    ],
-    "tests_used_for_determination": "不明",
-    "causal_relationship": "関連あり",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
-    "id": "104-コミナティ筋注-86",
-    "source": {
-      "name": "第104回",
-      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
-    }
-  },
-  {
-    "no": 86,
-    "manufacturer": "ファイザー",
     "vaccine_name": "コミナティ筋注",
     "age": 86,
     "gender": "男",
@@ -48261,6 +48235,32 @@
     ],
     "tests_used_for_determination": "CT、血液検査",
     "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
+    "id": "104-コミナティ筋注-86",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
+    }
+  },
+  {
+    "no": 86,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
+    "age": 85,
+    "gender": "女",
+    "vaccinated_dates": "2022/12/20",
+    "onset_dates": [
+      "2023/1/31"
+    ],
+    "lot_no": "GJ2675",
+    "vaccinated_times": "5回目",
+    "pre_existing_conditions": "ン ア基礎疾患等：重症筋無力症、骨粗しょう症、胃潰瘍、肩の損傷、卵巣新生物、白内障、肋骨骨折、脳出血、薬物性肝障害、脊椎骨折、関節捻挫、脊椎骨折、喫煙者、手の脱力、易疲労感、よろめき歩行、呼吸困難、脳卒中、動脈解離、ペニシリンアレルギー、卵巣新生物手術併用薬：タクロリムス、ランソプラゾール、プレドニゾロン、フロセミド、ゾルピデム、セレコキシブ、エルデカルシトール、疼痛時アセトアミノフェン、イバンドロレルギー：ロキソプロフェン、トラマドール、ペニシリン2022年12月20日に接種した。12月28日6時に開眼しているが声掛けに応答なかった。救急搬送された。3病日に発熱、粘稠痰からStaphylococcus aureusが培養され、薬剤感受性試験も踏まえセフトリアキソンが投与され改善した。25病日には、発熱、低酸素血症、血圧65/35mmHｇを記録し、敗血症性ショックと診断した。痰からStaphylococcus aureus、Corynebacterium speciesが培養され、貪食像もあった。シプロフロキサシンを開始したが、家族は血管性認知症終末期に準じて、繰り返す肺炎に、抗菌薬投与より適切な対症療法を望んだ。緩和医療に切り替えた。2023年1月31日22時46分に永眠した。発症前に高血圧症はなかった。以前の画像も含めアミロイドアンギオパチー、脳動脈瘤、脳動静脈奇形、脳腫瘍、血管炎などなかった。可逆性脳血管萎縮症候群もなかった。コロナウィルス修飾ウリジンRNAワクチン接種毎の血圧上昇、血管内皮障害を背景に脳出血の関連が検討されている。(～7/28の情報に基づく。）",
+    "PT_names": [
+      "脳出血"
+    ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "関連あり",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
     "id": "104-コミナティ筋注-86",
@@ -49111,33 +49111,6 @@
   {
     "no": 89,
     "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティ筋注",
-    "age": 94,
-    "gender": "女",
-    "vaccinated_dates": "2021/5/12",
-    "onset_dates": [
-      "2021/5/14"
-    ],
-    "lot_no": "EW4811",
-    "vaccinated_times": "1回目",
-    "pre_existing_conditions": "無",
-    "PT_names": [
-      "肺塞栓症",
-      "心筋梗塞"
-    ],
-    "tests_used_for_determination": "血液検査",
-    "causal_relationship": "評価不能",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "経過・詳記不足※～1/26から変更なし。",
-    "id": "104-コミナティ筋注-89",
-    "source": {
-      "name": "第104回",
-      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
-    }
-  },
-  {
-    "no": 89,
-    "manufacturer": "ファイザー",
     "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
     "age": 77,
     "gender": "男",
@@ -49160,6 +49133,33 @@
     "causal_relationship": "関連あり",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "77歳の男性で、経過としてワクチン接種に引き続き心筋障害を発症したことは事実である。しかしながら、MRIや病理組織などの精査はされていないため心筋炎とは断定できない。すでに高度な冠動脈病変を持っていた可能性も否定できない。※～1/26から変更なし。",
+    "id": "104-コミナティ筋注-89",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
+    }
+  },
+  {
+    "no": 89,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ筋注",
+    "age": 94,
+    "gender": "女",
+    "vaccinated_dates": "2021/5/12",
+    "onset_dates": [
+      "2021/5/14"
+    ],
+    "lot_no": "EW4811",
+    "vaccinated_times": "1回目",
+    "pre_existing_conditions": "無",
+    "PT_names": [
+      "肺塞栓症",
+      "心筋梗塞"
+    ],
+    "tests_used_for_determination": "血液検査",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "経過・詳記不足※～1/26から変更なし。",
     "id": "104-コミナティ筋注-89",
     "source": {
       "name": "第104回",
@@ -49434,32 +49434,6 @@
   {
     "no": 9,
     "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
-    "age": 92,
-    "gender": "女",
-    "vaccinated_dates": "2022/11/19",
-    "onset_dates": [
-      "2022/11/20"
-    ],
-    "lot_no": "GJ1852",
-    "vaccinated_times": "5回目",
-    "pre_existing_conditions": "基礎疾患等：高度認知症、慢性心不全、骨粗鬆症、腰椎圧迫骨折、高血圧(～1/20の情報に基づく。)併用薬：アリセプト(5)1錠、アムロジン(2.5)1錠、エディロール(0.5)1錠浮腫なく安定。血圧も収縮期圧140を越えることなく、アムロジンの中止を検討していた。11/20の朝食は全量摂り、9：20に排泄された時点では通常便で、特に異常が見られなかったことが確認されている。11：10頃、心肺停止状態を発見。心肺蘇生を試みるも回復せず。異常死として死体検案を実施し、死亡推定時刻は11時頃、髄液は透明であり心筋梗塞疑いと検案された。",
-    "PT_names": [
-      "心筋梗塞"
-    ],
-    "tests_used_for_determination": "検案",
-    "causal_relationship": "関連あり",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "検査や剖検が実施できていないため、死因が不明であり評価できない。※～1/26から変更なし。",
-    "id": "104-コミナティ筋注-9",
-    "source": {
-      "name": "第104回",
-      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
-    }
-  },
-  {
-    "no": 9,
-    "manufacturer": "ファイザー",
     "vaccine_name": "コミナティ筋注",
     "age": 37,
     "gender": "男",
@@ -49503,6 +49477,32 @@
     "causal_relationship": "関連あり",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
+    "id": "104-コミナティ筋注-9",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
+    }
+  },
+  {
+    "no": 9,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
+    "age": 92,
+    "gender": "女",
+    "vaccinated_dates": "2022/11/19",
+    "onset_dates": [
+      "2022/11/20"
+    ],
+    "lot_no": "GJ1852",
+    "vaccinated_times": "5回目",
+    "pre_existing_conditions": "基礎疾患等：高度認知症、慢性心不全、骨粗鬆症、腰椎圧迫骨折、高血圧(～1/20の情報に基づく。)併用薬：アリセプト(5)1錠、アムロジン(2.5)1錠、エディロール(0.5)1錠浮腫なく安定。血圧も収縮期圧140を越えることなく、アムロジンの中止を検討していた。11/20の朝食は全量摂り、9：20に排泄された時点では通常便で、特に異常が見られなかったことが確認されている。11：10頃、心肺停止状態を発見。心肺蘇生を試みるも回復せず。異常死として死体検案を実施し、死亡推定時刻は11時頃、髄液は透明であり心筋梗塞疑いと検案された。",
+    "PT_names": [
+      "心筋梗塞"
+    ],
+    "tests_used_for_determination": "検案",
+    "causal_relationship": "関連あり",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "検査や剖検が実施できていないため、死因が不明であり評価できない。※～1/26から変更なし。",
     "id": "104-コミナティ筋注-9",
     "source": {
       "name": "第104回",
@@ -50435,32 +50435,6 @@
   {
     "no": 93,
     "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティ筋注",
-    "age": 93,
-    "gender": "男",
-    "vaccinated_dates": "2021/5/21",
-    "onset_dates": [
-      "2021/5/24"
-    ],
-    "lot_no": "EY2173",
-    "vaccinated_times": "1回目",
-    "pre_existing_conditions": "前立腺、高血圧、大脳障害併用薬：前立腺、高血圧と大脳障害に対する経口薬",
-    "PT_names": [
-      "肺炎"
-    ],
-    "tests_used_for_determination": "CT",
-    "causal_relationship": "評価不能",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "病状経過不十分※～1/26から変更なし。",
-    "id": "104-コミナティ筋注-93",
-    "source": {
-      "name": "第104回",
-      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
-    }
-  },
-  {
-    "no": 93,
-    "manufacturer": "ファイザー",
     "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
     "age": 83,
     "gender": "男",
@@ -50478,6 +50452,32 @@
     "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "事象発症時の、ワクチンとの因果関係を示唆する情報が、時間情報（ワクチン接種後であること）以外はないことから、因果関係は否定できないものの、症状・検査所見等の情報が無いため評価不能と判断いたします。※～1/26から変更なし。",
+    "id": "104-コミナティ筋注-93",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
+    }
+  },
+  {
+    "no": 93,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ筋注",
+    "age": 93,
+    "gender": "男",
+    "vaccinated_dates": "2021/5/21",
+    "onset_dates": [
+      "2021/5/24"
+    ],
+    "lot_no": "EY2173",
+    "vaccinated_times": "1回目",
+    "pre_existing_conditions": "前立腺、高血圧、大脳障害併用薬：前立腺、高血圧と大脳障害に対する経口薬",
+    "PT_names": [
+      "肺炎"
+    ],
+    "tests_used_for_determination": "CT",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "病状経過不十分※～1/26から変更なし。",
     "id": "104-コミナティ筋注-93",
     "source": {
       "name": "第104回",
@@ -51040,32 +51040,6 @@
   {
     "no": 95,
     "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティ筋注",
-    "age": 84,
-    "gender": "女",
-    "vaccinated_dates": "2021/5/23",
-    "onset_dates": [
-      "2021/5/24"
-    ],
-    "lot_no": "不明",
-    "vaccinated_times": "1回目",
-    "pre_existing_conditions": "未破裂脳動脈瘤",
-    "PT_names": [
-      "くも膜下出血"
-    ],
-    "tests_used_for_determination": "頭部CT",
-    "causal_relationship": "評価不能",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "くも膜下出血はそれだけでも重篤な病態であるが、もともと未破裂脳動脈瘤が指摘されていたという情報以外に、血圧コントロール状況やその他の患者背景は明らかになっておらず、ワクチン接種とくも膜下出血による死亡の因果関係を評価することはできない。※～1/26から変更なし。",
-    "id": "104-コミナティ筋注-95",
-    "source": {
-      "name": "第104回",
-      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
-    }
-  },
-  {
-    "no": 95,
-    "manufacturer": "ファイザー",
     "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
     "age": "80歳代",
     "gender": "女",
@@ -51083,6 +51057,32 @@
     "causal_relationship": "不明",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
+    "id": "104-コミナティ筋注-95",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
+    }
+  },
+  {
+    "no": 95,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ筋注",
+    "age": 84,
+    "gender": "女",
+    "vaccinated_dates": "2021/5/23",
+    "onset_dates": [
+      "2021/5/24"
+    ],
+    "lot_no": "不明",
+    "vaccinated_times": "1回目",
+    "pre_existing_conditions": "未破裂脳動脈瘤",
+    "PT_names": [
+      "くも膜下出血"
+    ],
+    "tests_used_for_determination": "頭部CT",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "くも膜下出血はそれだけでも重篤な病態であるが、もともと未破裂脳動脈瘤が指摘されていたという情報以外に、血圧コントロール状況やその他の患者背景は明らかになっておらず、ワクチン接種とくも膜下出血による死亡の因果関係を評価することはできない。※～1/26から変更なし。",
     "id": "104-コミナティ筋注-95",
     "source": {
       "name": "第104回",
@@ -51356,32 +51356,6 @@
   {
     "no": 96,
     "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティ筋注",
-    "age": 85,
-    "gender": "男",
-    "vaccinated_dates": "2021/5/24",
-    "onset_dates": [
-      "2021/5/25"
-    ],
-    "lot_no": "EY2173",
-    "vaccinated_times": "1回目",
-    "pre_existing_conditions": "慢性腎不全のため、週3回の外来血液透析施行中",
-    "PT_names": [
-      "急性心不全"
-    ],
-    "tests_used_for_determination": "不明",
-    "causal_relationship": "関連なし",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "原疾患の悪化による可能性がありますが、情報不足で評価できません。※～1/26から変更なし。",
-    "id": "104-コミナティ筋注-96",
-    "source": {
-      "name": "第104回",
-      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
-    }
-  },
-  {
-    "no": 96,
-    "manufacturer": "ファイザー",
     "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
     "age": 63,
     "gender": "男",
@@ -51399,6 +51373,32 @@
     "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
+    "id": "104-コミナティ筋注-96",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
+    }
+  },
+  {
+    "no": 96,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ筋注",
+    "age": 85,
+    "gender": "男",
+    "vaccinated_dates": "2021/5/24",
+    "onset_dates": [
+      "2021/5/25"
+    ],
+    "lot_no": "EY2173",
+    "vaccinated_times": "1回目",
+    "pre_existing_conditions": "慢性腎不全のため、週3回の外来血液透析施行中",
+    "PT_names": [
+      "急性心不全"
+    ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "関連なし",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "原疾患の悪化による可能性がありますが、情報不足で評価できません。※～1/26から変更なし。",
     "id": "104-コミナティ筋注-96",
     "source": {
       "name": "第104回",
@@ -51674,6 +51674,32 @@
   {
     "no": 97,
     "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
+    "age": 22,
+    "gender": "男",
+    "vaccinated_dates": "2023/2/10",
+    "onset_dates": [
+      "2023/2/17"
+    ],
+    "lot_no": "GK1328",
+    "vaccinated_times": "3回目",
+    "pre_existing_conditions": "2/10 3回目の新型コロナワクチン接種。2/13 1時15分、心肺停止のため救急要請、同日救命救急センターに入院。搬入時は心室細動が持続していた。ECMOによる体外循環を開始した。心原性ショックの状態であり、Impella CPSAの挿入を行った。ワクチン接種後の心筋炎も疑われた。2/17 集中管理を行うも全身状態の改善なく死亡退院となった。なお、原因解明のため病理解剖を行い現在精査中である。新型コロナワクチンによる影響とは断定できないが、ワクチン接種後に症状が出現し、死亡の原因となった可能性が考えられた。2023/02/13から2023/02/17まで、病理組織学的検査は実施された。検査の種類：剖検、心内膜心筋生検。所見の詳細：心筋生検では、炎症細胞浸潤を示さなかった。剖検でも、心筋炎と診断できるほどの炎症",
+    "PT_names": [
+      "心筋炎"
+    ],
+    "tests_used_for_determination": "病理解剖",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "（コメント無し）",
+    "id": "104-コミナティ筋注-97",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
+    }
+  },
+  {
+    "no": 97,
+    "manufacturer": "ファイザー",
     "vaccine_name": "コミナティ筋注",
     "age": 78,
     "gender": "女",
@@ -51700,32 +51726,6 @@
     "causal_relationship": "関連あり又は評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "ワクチン接種後に出血性イベントを認め、死亡に至っている。出血傾向、凝固活性の結果からは、凝固因子の欠乏症の可能性はあるが第五因子欠乏症と判断する根拠はない。また、そのほかの病態（DICや肝不全など）による凝固異常も考慮される。時間経過からはワクチン接種との関連も推測されるが詳細不明で判断は困難である。※～1/26から変更なし。",
-    "id": "104-コミナティ筋注-97",
-    "source": {
-      "name": "第104回",
-      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
-    }
-  },
-  {
-    "no": 97,
-    "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
-    "age": 22,
-    "gender": "男",
-    "vaccinated_dates": "2023/2/10",
-    "onset_dates": [
-      "2023/2/17"
-    ],
-    "lot_no": "GK1328",
-    "vaccinated_times": "3回目",
-    "pre_existing_conditions": "2/10 3回目の新型コロナワクチン接種。2/13 1時15分、心肺停止のため救急要請、同日救命救急センターに入院。搬入時は心室細動が持続していた。ECMOによる体外循環を開始した。心原性ショックの状態であり、Impella CPSAの挿入を行った。ワクチン接種後の心筋炎も疑われた。2/17 集中管理を行うも全身状態の改善なく死亡退院となった。なお、原因解明のため病理解剖を行い現在精査中である。新型コロナワクチンによる影響とは断定できないが、ワクチン接種後に症状が出現し、死亡の原因となった可能性が考えられた。2023/02/13から2023/02/17まで、病理組織学的検査は実施された。検査の種類：剖検、心内膜心筋生検。所見の詳細：心筋生検では、炎症細胞浸潤を示さなかった。剖検でも、心筋炎と診断できるほどの炎症",
-    "PT_names": [
-      "心筋炎"
-    ],
-    "tests_used_for_determination": "病理解剖",
-    "causal_relationship": "評価不能",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "（コメント無し）",
     "id": "104-コミナティ筋注-97",
     "source": {
       "name": "第104回",
@@ -51971,32 +51971,6 @@
   {
     "no": 98,
     "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティ筋注",
-    "age": 69,
-    "gender": "女",
-    "vaccinated_dates": "2021/5/17",
-    "onset_dates": [
-      "2021/5/22"
-    ],
-    "lot_no": "EY2173",
-    "vaccinated_times": "1回目",
-    "pre_existing_conditions": "体重減少、逆流性食道炎、骨粗鬆症、セフェム系アレルギー",
-    "PT_names": [
-      "多臓器機能不全症候群"
-    ],
-    "tests_used_for_determination": "試験開腹",
-    "causal_relationship": "評価不能",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "有害事象の原因が生じた時期はワクチン接種より前と考えられます。※～1/26から変更なし。",
-    "id": "104-コミナティ筋注-98",
-    "source": {
-      "name": "第104回",
-      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
-    }
-  },
-  {
-    "no": 98,
-    "manufacturer": "ファイザー",
     "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
     "age": 64,
     "gender": "女",
@@ -52014,6 +51988,32 @@
     "causal_relationship": "関連あり",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
+    "id": "104-コミナティ筋注-98",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
+    }
+  },
+  {
+    "no": 98,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ筋注",
+    "age": 69,
+    "gender": "女",
+    "vaccinated_dates": "2021/5/17",
+    "onset_dates": [
+      "2021/5/22"
+    ],
+    "lot_no": "EY2173",
+    "vaccinated_times": "1回目",
+    "pre_existing_conditions": "体重減少、逆流性食道炎、骨粗鬆症、セフェム系アレルギー",
+    "PT_names": [
+      "多臓器機能不全症候群"
+    ],
+    "tests_used_for_determination": "試験開腹",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "有害事象の原因が生じた時期はワクチン接種より前と考えられます。※～1/26から変更なし。",
     "id": "104-コミナティ筋注-98",
     "source": {
       "name": "第104回",
@@ -52284,32 +52284,6 @@
   {
     "no": 99,
     "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティ筋注",
-    "age": 94,
-    "gender": "男",
-    "vaccinated_dates": "2021/5/23",
-    "onset_dates": [
-      "2021/5/24"
-    ],
-    "lot_no": "EX3617",
-    "vaccinated_times": "2回目",
-    "pre_existing_conditions": "基礎疾患に心臓病、脳梗塞、高血圧症、前立腺肥大、内服薬にバイアスピリンの記載あり。既往にアレルギー歴、予防接種での体調不良歴等、過去の副作用は記載無し",
-    "PT_names": [
-      "急性心筋梗塞"
-    ],
-    "tests_used_for_determination": "不明",
-    "causal_relationship": "評価不能",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "検案の詳細が不明※～1/26から変更なし。",
-    "id": "104-コミナティ筋注-99",
-    "source": {
-      "name": "第104回",
-      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
-    }
-  },
-  {
-    "no": 99,
-    "manufacturer": "ファイザー",
     "vaccine_name": "コミナティRTU筋注(2価:起源株/オミクロン株BA.4-5)",
     "age": 72,
     "gender": "男",
@@ -52327,6 +52301,32 @@
     "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
+    "id": "104-コミナティ筋注-99",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325481.pdf"
+    }
+  },
+  {
+    "no": 99,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ筋注",
+    "age": 94,
+    "gender": "男",
+    "vaccinated_dates": "2021/5/23",
+    "onset_dates": [
+      "2021/5/24"
+    ],
+    "lot_no": "EX3617",
+    "vaccinated_times": "2回目",
+    "pre_existing_conditions": "基礎疾患に心臓病、脳梗塞、高血圧症、前立腺肥大、内服薬にバイアスピリンの記載あり。既往にアレルギー歴、予防接種での体調不良歴等、過去の副作用は記載無し",
+    "PT_names": [
+      "急性心筋梗塞"
+    ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "検案の詳細が不明※～1/26から変更なし。",
     "id": "104-コミナティ筋注-99",
     "source": {
       "name": "第104回",
@@ -53203,32 +53203,6 @@
   {
     "no": 10,
     "manufacturer": "モデルナ",
-    "vaccine_name": "スパイクバックス筋注",
-    "age": 86,
-    "gender": "男",
-    "vaccinated_dates": "2021/7/5",
-    "onset_dates": [
-      "2021/7/8"
-    ],
-    "lot_no": "不明",
-    "vaccinated_times": "2回目",
-    "pre_existing_conditions": "基礎疾患等は不明7月6日に37.8℃の発熱あったが7日に解熱。",
-    "PT_names": [
-      "不明"
-    ],
-    "tests_used_for_determination": "不明",
-    "causal_relationship": "不明",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
-    "id": "104-スパイクバックス筋注-10",
-    "source": {
-      "name": "第104回",
-      "url": "https://www.mhlw.go.jp/content/11120000/001325483.pdf"
-    }
-  },
-  {
-    "no": 10,
-    "manufacturer": "モデルナ",
     "vaccine_name": "スパイクバックス筋注(2価:起源株/オミクロン株BA.4-5",
     "age": 78,
     "gender": "男",
@@ -53246,6 +53220,32 @@
     "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "症例は元来、糖尿病、高血圧、発作性心房細動の基礎疾患を有し治療中であった。本ワクチン接種翌日に発症したことから、本ワクチンと急速進行性糸球体腎炎、及びARDSとの関連は否定できない。しかし、抗糸球体基底膜抗体陽性であったこと以外、腎機能検査についての情報が不足している。また、ARDSに関して肺機能、画像診断についての詳細な情報がなく、本剤と死因との因果関係は評価できない。※～1/26から変更なし。",
+    "id": "104-スパイクバックス筋注-10",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325483.pdf"
+    }
+  },
+  {
+    "no": 10,
+    "manufacturer": "モデルナ",
+    "vaccine_name": "スパイクバックス筋注",
+    "age": 86,
+    "gender": "男",
+    "vaccinated_dates": "2021/7/5",
+    "onset_dates": [
+      "2021/7/8"
+    ],
+    "lot_no": "不明",
+    "vaccinated_times": "2回目",
+    "pre_existing_conditions": "基礎疾患等は不明7月6日に37.8℃の発熱あったが7日に解熱。",
+    "PT_names": [
+      "不明"
+    ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "不明",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
     "id": "104-スパイクバックス筋注-10",
     "source": {
       "name": "第104回",
@@ -57924,24 +57924,24 @@
   {
     "no": 4,
     "manufacturer": "モデルナ",
-    "vaccine_name": "スパイクバックス筋注(2価:起源株/オミクロン株BA.1)",
-    "age": 87,
-    "gender": "男",
-    "vaccinated_dates": "2022/11/25",
+    "vaccine_name": "スパイクバックス筋注",
+    "age": 60,
+    "gender": "女",
+    "vaccinated_dates": "2021/7/7",
     "onset_dates": [
-      "2022/12/16"
+      "2021/7/8"
     ],
-    "lot_no": "不明",
-    "vaccinated_times": "5回目",
-    "pre_existing_conditions": "2022/11/25 本剤を5回目接種した。2022/11/27 心窩部痛と食欲不振となった。2022/11/30かかりつけ医へ受診し血液検査実施2022/12/2 血液検査で肝機能の悪化と筋酵素高値となり心筋炎疑いで入院となった。2022/12/8 心筋炎は否定されるも二次性血球貪食症候群の可能性とされた。2022/12/9 抗原検査にてCOVID-19陽性となった2022/12/15 転倒し頭部CTより悪性リンパ腫に続発二次性血球貪食症候群の可能性が示された。2022/12/16死亡。剖検は実施されなかった。",
+    "lot_no": "3002337",
+    "vaccinated_times": "1回目",
+    "pre_existing_conditions": "若年性アルツハイマー病",
     "PT_names": [
-      "播種性血管内凝固",
-      "リンパ腫"
+      "誤嚥性肺炎",
+      "敗血症"
     ],
     "tests_used_for_determination": "不明",
-    "causal_relationship": "不明",
+    "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "本症例の症状詳記では以下についての情報がないか不足しているーワクチン接種後に発現した自覚症状の経緯や原因、血液検査異常のワクチン接種前の値やその後の経過　　　血球貪食症候群、DIC、悪性リンパ腫等の診断根拠、COVID-19感染による症状、死亡時の状況等。従って本症例でワクチン接種後に発現した事象や死亡とワクチン接種との関係を評価することは困難である。※～1/26から変更なし。",
+    "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
     "id": "104-スパイクバックス筋注-4",
     "source": {
       "name": "第104回",
@@ -57977,24 +57977,24 @@
   {
     "no": 4,
     "manufacturer": "モデルナ",
-    "vaccine_name": "スパイクバックス筋注",
-    "age": 60,
-    "gender": "女",
-    "vaccinated_dates": "2021/7/7",
+    "vaccine_name": "スパイクバックス筋注(2価:起源株/オミクロン株BA.1)",
+    "age": 87,
+    "gender": "男",
+    "vaccinated_dates": "2022/11/25",
     "onset_dates": [
-      "2021/7/8"
+      "2022/12/16"
     ],
-    "lot_no": "3002337",
-    "vaccinated_times": "1回目",
-    "pre_existing_conditions": "若年性アルツハイマー病",
+    "lot_no": "不明",
+    "vaccinated_times": "5回目",
+    "pre_existing_conditions": "2022/11/25 本剤を5回目接種した。2022/11/27 心窩部痛と食欲不振となった。2022/11/30かかりつけ医へ受診し血液検査実施2022/12/2 血液検査で肝機能の悪化と筋酵素高値となり心筋炎疑いで入院となった。2022/12/8 心筋炎は否定されるも二次性血球貪食症候群の可能性とされた。2022/12/9 抗原検査にてCOVID-19陽性となった2022/12/15 転倒し頭部CTより悪性リンパ腫に続発二次性血球貪食症候群の可能性が示された。2022/12/16死亡。剖検は実施されなかった。",
     "PT_names": [
-      "誤嚥性肺炎",
-      "敗血症"
+      "播種性血管内凝固",
+      "リンパ腫"
     ],
     "tests_used_for_determination": "不明",
-    "causal_relationship": "評価不能",
+    "causal_relationship": "不明",
     "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "（コメント無し）※～1/26から変更なし。",
+    "comments_by_expert": "本症例の症状詳記では以下についての情報がないか不足しているーワクチン接種後に発現した自覚症状の経緯や原因、血液検査異常のワクチン接種前の値やその後の経過　　　血球貪食症候群、DIC、悪性リンパ腫等の診断根拠、COVID-19感染による症状、死亡時の状況等。従って本症例でワクチン接種後に発現した事象や死亡とワクチン接種との関係を評価することは困難である。※～1/26から変更なし。",
     "id": "104-スパイクバックス筋注-4",
     "source": {
       "name": "第104回",
@@ -58267,32 +58267,6 @@
   {
     "no": 5,
     "manufacturer": "モデルナ",
-    "vaccine_name": "スパイクバックス筋注(2価:起源株/オミクロン株BA.4-5",
-    "age": 91,
-    "gender": "女",
-    "vaccinated_dates": "2023/7/11",
-    "onset_dates": [
-      "2023/7/12"
-    ],
-    "lot_no": "400160A",
-    "vaccinated_times": "不明",
-    "pre_existing_conditions": "基礎疾患等：左被殻出血、狭心症、洞性徐脈、腹部大動脈瘤、高血圧症、脂質異常症併用薬：バイアスピリン、ロスバスタチン、カンデサルタン、ニコランジル、アムロジピン施設入所中。7/11　13時頃ワクチン接種。その後38℃の発熱あり。21時嘔吐あり。呼びかけに反応なし。7/12　3時頃訪室時肩で呼吸。4時に施設職員が巡回時CPA状態を発見。救急搬送。アドレナリン等蘇生試みるも反応なし。家人来院後永眠。ワクチン接種後より症状変化しており、急死との因果関係否定できないものと考える。",
-    "PT_names": [
-      "不明"
-    ],
-    "tests_used_for_determination": "不明",
-    "causal_relationship": "評価不能",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "死因が不明であり、発熱との関連を含め評価が難しい※～1/26から変更なし。",
-    "id": "104-スパイクバックス筋注-5",
-    "source": {
-      "name": "第104回",
-      "url": "https://www.mhlw.go.jp/content/11120000/001325483.pdf"
-    }
-  },
-  {
-    "no": 5,
-    "manufacturer": "モデルナ",
     "vaccine_name": "スパイクバックス筋注",
     "age": 53,
     "gender": "男",
@@ -58310,6 +58284,32 @@
     "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "情報不足、評価不可※～1/26から変更なし。",
+    "id": "104-スパイクバックス筋注-5",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325483.pdf"
+    }
+  },
+  {
+    "no": 5,
+    "manufacturer": "モデルナ",
+    "vaccine_name": "スパイクバックス筋注(2価:起源株/オミクロン株BA.4-5",
+    "age": 91,
+    "gender": "女",
+    "vaccinated_dates": "2023/7/11",
+    "onset_dates": [
+      "2023/7/12"
+    ],
+    "lot_no": "400160A",
+    "vaccinated_times": "不明",
+    "pre_existing_conditions": "基礎疾患等：左被殻出血、狭心症、洞性徐脈、腹部大動脈瘤、高血圧症、脂質異常症併用薬：バイアスピリン、ロスバスタチン、カンデサルタン、ニコランジル、アムロジピン施設入所中。7/11　13時頃ワクチン接種。その後38℃の発熱あり。21時嘔吐あり。呼びかけに反応なし。7/12　3時頃訪室時肩で呼吸。4時に施設職員が巡回時CPA状態を発見。救急搬送。アドレナリン等蘇生試みるも反応なし。家人来院後永眠。ワクチン接種後より症状変化しており、急死との因果関係否定できないものと考える。",
+    "PT_names": [
+      "不明"
+    ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "死因が不明であり、発熱との関連を含め評価が難しい※～1/26から変更なし。",
     "id": "104-スパイクバックス筋注-5",
     "source": {
       "name": "第104回",
@@ -58932,32 +58932,6 @@
   {
     "no": 7,
     "manufacturer": "モデルナ",
-    "vaccine_name": "スパイクバックス筋注(2価:起源株/オミクロン株BA.4-5",
-    "age": 76,
-    "gender": "女",
-    "vaccinated_dates": "2023/6/4",
-    "onset_dates": [
-      "2023/7/19"
-    ],
-    "lot_no": "400083A",
-    "vaccinated_times": "6回目",
-    "pre_existing_conditions": "基礎疾患等：高血圧症、脂質異常症、胃潰瘍後、子宮脱併用薬：アムロジピン、ロスバスタチン、ラベプラゾール2023年7月19日、海へ出た。船上で暑いと言っていた。急に倒れた。6時48分に消防へ連絡あった。7時2分に救急隊が心肺停止を確認し、蘇生措置を開始した。7時12分にアドレナリン1mgを静脈投与した。7時17分に病院に到着した。心肺蘇生措置を試みたが、2023年7月19日7時45分に死亡した。剖検は実施されなかった。",
-    "PT_names": [
-      "不明"
-    ],
-    "tests_used_for_determination": "不明",
-    "causal_relationship": "関連あり",
-    "causal_relationship_by_expert": "γ",
-    "comments_by_expert": "接種から死亡まで1ヶ月以上の時間間隔があること、死亡前の詳細な情報が不明であること、患者の死因に関して病理解剖など病理学的な検討が行われていないことから、因果関係の評価は極めて困難である。※～1/26から変更なし。",
-    "id": "104-スパイクバックス筋注-7",
-    "source": {
-      "name": "第104回",
-      "url": "https://www.mhlw.go.jp/content/11120000/001325483.pdf"
-    }
-  },
-  {
-    "no": 7,
-    "manufacturer": "モデルナ",
     "vaccine_name": "スパイクバックス筋注",
     "age": 50,
     "gender": "男",
@@ -58975,6 +58949,32 @@
     "causal_relationship": "評価不能",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "剖検情報のない突然死症例において原因を特定することは困難である。※～1/26から変更なし。",
+    "id": "104-スパイクバックス筋注-7",
+    "source": {
+      "name": "第104回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001325483.pdf"
+    }
+  },
+  {
+    "no": 7,
+    "manufacturer": "モデルナ",
+    "vaccine_name": "スパイクバックス筋注(2価:起源株/オミクロン株BA.4-5",
+    "age": 76,
+    "gender": "女",
+    "vaccinated_dates": "2023/6/4",
+    "onset_dates": [
+      "2023/7/19"
+    ],
+    "lot_no": "400083A",
+    "vaccinated_times": "6回目",
+    "pre_existing_conditions": "基礎疾患等：高血圧症、脂質異常症、胃潰瘍後、子宮脱併用薬：アムロジピン、ロスバスタチン、ラベプラゾール2023年7月19日、海へ出た。船上で暑いと言っていた。急に倒れた。6時48分に消防へ連絡あった。7時2分に救急隊が心肺停止を確認し、蘇生措置を開始した。7時12分にアドレナリン1mgを静脈投与した。7時17分に病院に到着した。心肺蘇生措置を試みたが、2023年7月19日7時45分に死亡した。剖検は実施されなかった。",
+    "PT_names": [
+      "不明"
+    ],
+    "tests_used_for_determination": "不明",
+    "causal_relationship": "関連あり",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "接種から死亡まで1ヶ月以上の時間間隔があること、死亡前の詳細な情報が不明であること、患者の死因に関して病理解剖など病理学的な検討が行われていないことから、因果関係の評価は極めて困難である。※～1/26から変更なし。",
     "id": "104-スパイクバックス筋注-7",
     "source": {
       "name": "第104回",
@@ -60899,6 +60899,168 @@
     "source": {
       "name": "第107回",
       "url": "https://www.mhlw.go.jp/content/11120000/001522555.pdf"
+    }
+  },
+  {
+    "no": 1,
+    "manufacturer": "Meiji Seika ファルマ",
+    "vaccine_name": "コスタイベ",
+    "age": 101,
+    "gender": "女",
+    "vaccinated_dates": "2025/02/27",
+    "onset_dates": [
+      "2025/03/17"
+    ],
+    "lot_no": "",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "便秘変形性関節症心房細動慢性心不全認知症高血圧",
+    "PT_names": [
+      "吐血"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "ー",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "",
+    "id": "109-コスタイベ筋注-1",
+    "source": {
+      "name": "第109回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001585513.pdf"
+    }
+  },
+  {
+    "no": 2,
+    "manufacturer": "Meiji Seika ファルマ",
+    "vaccine_name": "コスタイベ",
+    "age": 88,
+    "gender": "男",
+    "vaccinated_dates": "2025/03/08",
+    "onset_dates": [
+      "2025/06/03"
+    ],
+    "lot_no": "00001",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "アトピー性皮膚炎全身性剥脱性皮膚炎大動脈弁閉鎖不全症間質性肺疾患高血圧",
+    "PT_names": [
+      "溺死"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "ー",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "",
+    "id": "109-コスタイベ筋注-2",
+    "source": {
+      "name": "第109回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001585513.pdf"
+    }
+  },
+  {
+    "no": 1,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ",
+    "age": 82,
+    "gender": "女",
+    "vaccinated_dates": "",
+    "onset_dates": [
+      "不明"
+    ],
+    "lot_no": "",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "呼吸不全",
+    "PT_names": [
+      "呼吸不全",
+      "薬効欠如",
+      "ＣＯＶＩＤ－１９"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "ー",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "",
+    "id": "109-コミナティ筋注シリンジ12歳以上用-1",
+    "source": {
+      "name": "第109回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001585504.pdf"
+    }
+  },
+  {
+    "no": 2,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ",
+    "age": 100,
+    "gender": "女",
+    "vaccinated_dates": "",
+    "onset_dates": [
+      "不明"
+    ],
+    "lot_no": "",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "呼吸不全",
+    "PT_names": [
+      "呼吸不全",
+      "薬効欠如",
+      "ＣＯＶＩＤ－１９"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "ー",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "",
+    "id": "109-コミナティ筋注シリンジ12歳以上用-2",
+    "source": {
+      "name": "第109回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001585504.pdf"
+    }
+  },
+  {
+    "no": 3,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ",
+    "age": 77,
+    "gender": "男",
+    "vaccinated_dates": "2024/11/22",
+    "onset_dates": [
+      "2024/12/25"
+    ],
+    "lot_no": "LL7260",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "ラクナ梗塞慢性閉塞性肺疾患糖尿病脳出血高血圧",
+    "PT_names": [
+      "肺炎",
+      "骨髄異形成症候群"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "ー",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "",
+    "id": "109-コミナティ筋注シリンジ12歳以上用-3",
+    "source": {
+      "name": "第109回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001585504.pdf"
+    }
+  },
+  {
+    "no": 4,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ",
+    "age": 66,
+    "gender": "女",
+    "vaccinated_dates": "2025/02/13",
+    "onset_dates": [
+      "2025/02/21"
+    ],
+    "lot_no": "LL7309",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "神経因性膀胱糖尿病間質性肺疾患高脂血症高血圧",
+    "PT_names": [
+      "意識変容状態",
+      "播種性血管内凝固"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "",
+    "id": "109-コミナティ筋注シリンジ12歳以上用-4",
+    "source": {
+      "name": "第109回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001585504.pdf"
     }
   },
   {
