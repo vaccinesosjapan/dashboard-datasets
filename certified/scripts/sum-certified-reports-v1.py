@@ -226,10 +226,20 @@ save_to_json(summary_with_other_vaccines, output_dir, 'certified-summary-with-ot
 
 # %%
 # 判定日などの一覧データを作成して、ダッシュボードで表示するためのメタデータとして保存する処理
+
+## '死亡一時金・葬祭料' というように、他の項目が内包された項目がある。
+## ダッシュボードで「◯◯を含む」という選択肢にしたいので、他の項目を含むものを除外する。
+claim_data = df['description_of_claim'].unique()
+claim_elements_list = []
+for item in claim_data:
+    if not any((other in item and other != item) for other in claim_data):
+        claim_elements_list.append(item)
+
 certified_metadata = {
 	"judged_dates": sorted(df['certified_date'].unique().tolist(), reverse=True),
 	"judged_result_list": sorted(df['judgment_result'].unique().tolist(), reverse=True),
-	"gender_list": sorted(df['gender'].unique().tolist(), reverse=True)
+	"gender_list": sorted(df['gender'].unique().tolist(), reverse=True),
+	"claim_elements_list": sorted(claim_elements_list)
 }
 save_to_json(certified_metadata, output_dir, 'certified-metadata.json')
 
@@ -240,5 +250,3 @@ certified_symptoms_metadata = {
 	"symptom_name_list": sorted(symptoms_df['name'].unique().tolist()),
 }
 save_to_json(certified_symptoms_metadata, output_dir, 'certified-symptoms-metadata.json')
-
-
