@@ -147,8 +147,8 @@
     "name": "IgA腎症",
     "counts": {
       "male": 13,
-      "female": 44,
-      "sum": 57
+      "female": 46,
+      "sum": 59
     }
   },
   {
@@ -435,8 +435,8 @@
     "name": "うっ血性心不全の増悪",
     "counts": {
       "male": 2,
-      "female": 6,
-      "sum": 8
+      "female": 7,
+      "sum": 9
     }
   },
   {
@@ -1146,9 +1146,9 @@
   {
     "name": "ギラン・バレー症候群",
     "counts": {
-      "male": 54,
-      "female": 61,
-      "sum": 115
+      "male": 56,
+      "female": 62,
+      "sum": 118
     }
   },
   {
@@ -1827,8 +1827,8 @@
     "name": "リウマチ性多発筋痛症",
     "counts": {
       "male": 21,
-      "female": 22,
-      "sum": 43
+      "female": 23,
+      "sum": 44
     }
   },
   {
@@ -5515,8 +5515,8 @@
     "name": "円形脱毛症",
     "counts": {
       "male": 19,
-      "female": 36,
-      "sum": 55
+      "female": 37,
+      "sum": 56
     }
   },
   {
@@ -7131,8 +7131,8 @@
     "name": "右末梢性顔面神経麻痺",
     "counts": {
       "male": 4,
-      "female": 5,
-      "sum": 9
+      "female": 6,
+      "sum": 10
     }
   },
   {
@@ -9730,9 +9730,9 @@
   {
     "name": "好酸球性多発血管炎性肉芽腫症",
     "counts": {
-      "male": 6,
+      "male": 7,
       "female": 3,
-      "sum": 9
+      "sum": 10
     }
   },
   {
@@ -14514,9 +14514,9 @@
   {
     "name": "心肺停止",
     "counts": {
-      "male": 62,
+      "male": 63,
       "female": 39,
-      "sum": 101
+      "sum": 102
     }
   },
   {
@@ -15178,9 +15178,9 @@
   {
     "name": "急性心臓死",
     "counts": {
-      "male": 12,
+      "male": 13,
       "female": 7,
-      "sum": 19
+      "sum": 20
     }
   },
   {
@@ -17745,6 +17745,14 @@
   },
   {
     "name": "混合性結合組織病の再燃",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
+    "name": "混合性結合組織病の増悪",
     "counts": {
       "male": 0,
       "female": 1,
@@ -20371,8 +20379,8 @@
     "name": "脳出血",
     "counts": {
       "male": 41,
-      "female": 32,
-      "sum": 73
+      "female": 33,
+      "sum": 74
     }
   },
   {
@@ -20835,8 +20843,8 @@
     "name": "脳血栓症",
     "counts": {
       "male": 1,
-      "female": 0,
-      "sum": 1
+      "female": 1,
+      "sum": 2
     }
   },
   {
@@ -21516,6 +21524,14 @@
     "counts": {
       "male": 0,
       "female": 1,
+      "sum": 1
+    }
+  },
+  {
+    "name": "自己免疫性基底核脳炎",
+    "counts": {
+      "male": 1,
+      "female": 0,
       "sum": 1
     }
   },
@@ -23122,9 +23138,9 @@
   {
     "name": "関節リウマチ",
     "counts": {
-      "male": 34,
-      "female": 37,
-      "sum": 71
+      "male": 36,
+      "female": 38,
+      "sum": 74
     }
   },
   {
@@ -23139,8 +23155,8 @@
     "name": "関節リウマチの増悪",
     "counts": {
       "male": 4,
-      "female": 3,
-      "sum": 7
+      "female": 5,
+      "sum": 9
     }
   },
   {
