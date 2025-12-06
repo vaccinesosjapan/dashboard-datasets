@@ -145,8 +145,11 @@ def extract_reasons_for_repudiation(cell, rType):
 	reasons_for_repudiation: string[]
 		否認理由（まれに複数列挙されている場合があるため配列で表現する。空の場合も多い。）
 	'''
-	# 区切り文字が読点「、」の場合や、タイポっぽく「.」の場合があるので、まずカンマに置換
-	cell = cell.replace('、', ',').replace('.', ',')
+	# 区切り文字が読点「、」の場合や、タイポっぽく「.」の場合があり、これらをカンマに置換。
+	# 
+	# strip()では「1、 3」というように文字列中に半角スペースがある場合に、半角スペースの除去
+	# がうまくいかないのでreplace()で対応する。
+	cell = cell.replace('、', ',').replace('.', ',').replace(' ', '')
 
 	reasons_for_repudiation = []
 	if cell != '':

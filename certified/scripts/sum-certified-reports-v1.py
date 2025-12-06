@@ -56,6 +56,7 @@ denied_count = denied_df.shape[0]
 
 print(f'判定結果: {df["judgment_result"].unique()}')
 print(f'請求内容: {df['description_of_claim'].unique()}')
+print(f'否認理由: {sorted(df['reasons_for_repudiation'].map(lambda x: ','.join(x)).unique())}')
 print(' -> 意図していない内容が含まれている場合は、データの調査が必要。')
 
 # %%
