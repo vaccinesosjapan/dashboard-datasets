@@ -922,9 +922,9 @@
   {
     "name": "アトピー性皮膚炎の増悪",
     "counts": {
-      "male": 4,
+      "male": 5,
       "female": 4,
-      "sum": 8
+      "sum": 9
     }
   },
   {
@@ -1827,8 +1827,8 @@
     "name": "リウマチ性多発筋痛症",
     "counts": {
       "male": 21,
-      "female": 23,
-      "sum": 44
+      "female": 24,
+      "sum": 45
     }
   },
   {
@@ -3091,8 +3091,8 @@
     "name": "不明熱",
     "counts": {
       "male": 1,
-      "female": 5,
-      "sum": 6
+      "female": 6,
+      "sum": 7
     }
   },
   {
@@ -4984,6 +4984,14 @@
     }
   },
   {
+    "name": "免疫性血小板減少症の増悪",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
     "name": "免疫性血小板減少症の疑い",
     "counts": {
       "male": 2,
@@ -5530,9 +5538,9 @@
   {
     "name": "円形脱毛症の増悪",
     "counts": {
-      "male": 0,
+      "male": 1,
       "female": 6,
-      "sum": 6
+      "sum": 7
     }
   },
   {
@@ -5810,9 +5818,9 @@
   {
     "name": "劇症1型糖尿病",
     "counts": {
-      "male": 2,
+      "male": 3,
       "female": 0,
-      "sum": 2
+      "sum": 3
     }
   },
   {
@@ -7997,6 +8005,14 @@
       "male": 19,
       "female": 14,
       "sum": 33
+    }
+  },
+  {
+    "name": "右顔面頭部帯状疱疹",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
     }
   },
   {
@@ -10538,9 +10554,9 @@
   {
     "name": "左上肢疼痛",
     "counts": {
-      "male": 4,
+      "male": 5,
       "female": 6,
-      "sum": 10
+      "sum": 11
     }
   },
   {
@@ -10611,8 +10627,8 @@
     "name": "左上肢痛",
     "counts": {
       "male": 5,
-      "female": 25,
-      "sum": 30
+      "female": 26,
+      "sum": 31
     }
   },
   {
@@ -11336,6 +11352,14 @@
     }
   },
   {
+    "name": "左下腿切断による歩行障害",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
     "name": "左下腿切断後",
     "counts": {
       "male": 1,
@@ -11348,6 +11372,14 @@
     "counts": {
       "male": 1,
       "female": 0,
+      "sum": 1
+    }
+  },
+  {
+    "name": "左下腿閉塞性動脈硬化症の増悪",
+    "counts": {
+      "male": 0,
+      "female": 1,
       "sum": 1
     }
   },
@@ -11434,9 +11466,9 @@
   {
     "name": "左側頭葉皮質下出血",
     "counts": {
-      "male": 0,
+      "male": 1,
       "female": 1,
-      "sum": 1
+      "sum": 2
     }
   },
   {
@@ -14298,9 +14330,9 @@
   {
     "name": "心室細動",
     "counts": {
-      "male": 45,
+      "male": 47,
       "female": 4,
-      "sum": 49
+      "sum": 51
     }
   },
   {
@@ -15515,8 +15547,8 @@
     "name": "急性腎不全",
     "counts": {
       "male": 11,
-      "female": 6,
-      "sum": 17
+      "female": 7,
+      "sum": 18
     }
   },
   {
@@ -16202,9 +16234,9 @@
   {
     "name": "慢性閉塞性肺疾患の急性増悪",
     "counts": {
-      "male": 5,
+      "male": 6,
       "female": 0,
-      "sum": 5
+      "sum": 6
     }
   },
   {
@@ -16605,6 +16637,14 @@
       "male": 0,
       "female": 3,
       "sum": 3
+    }
+  },
+  {
+    "name": "抗MOG抗体関連脳炎",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
     }
   },
   {
@@ -18914,9 +18954,9 @@
   {
     "name": "突然死",
     "counts": {
-      "male": 149,
+      "male": 150,
       "female": 99,
-      "sum": 248
+      "sum": 249
     }
   },
   {
@@ -19035,8 +19075,8 @@
     "name": "筋力低下",
     "counts": {
       "male": 7,
-      "female": 6,
-      "sum": 13
+      "female": 7,
+      "sum": 14
     }
   },
   {
@@ -19602,9 +19642,9 @@
   {
     "name": "肝機能障害",
     "counts": {
-      "male": 19,
+      "male": 20,
       "female": 47,
-      "sum": 66
+      "sum": 67
     }
   },
   {
