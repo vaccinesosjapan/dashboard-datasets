@@ -32,6 +32,22 @@
     }
   },
   {
+    "name": "2021年7月に発症した右ラクナ梗塞",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
+    "name": "2022年5月発症の脳炎",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
     "name": "2回目接種後の発熱",
     "counts": {
       "male": 0,
@@ -475,8 +491,8 @@
     "name": "くも膜下出血",
     "counts": {
       "male": 25,
-      "female": 55,
-      "sum": 80
+      "female": 56,
+      "sum": 81
     }
   },
   {
@@ -906,9 +922,9 @@
   {
     "name": "アテローム血栓性脳梗塞",
     "counts": {
-      "male": 10,
+      "male": 11,
       "female": 8,
-      "sum": 18
+      "sum": 19
     }
   },
   {
@@ -5523,8 +5539,8 @@
     "name": "円形脱毛症",
     "counts": {
       "male": 19,
-      "female": 37,
-      "sum": 56
+      "female": 38,
+      "sum": 57
     }
   },
   {
@@ -8107,16 +8123,16 @@
     "name": "味覚障害",
     "counts": {
       "male": 8,
-      "female": 6,
-      "sum": 14
+      "female": 7,
+      "sum": 15
     }
   },
   {
     "name": "呼吸不全",
     "counts": {
-      "male": 7,
+      "male": 8,
       "female": 11,
-      "sum": 18
+      "sum": 19
     }
   },
   {
@@ -9410,9 +9426,9 @@
   {
     "name": "多発神経根炎",
     "counts": {
-      "male": 0,
+      "male": 1,
       "female": 1,
-      "sum": 1
+      "sum": 2
     }
   },
   {
@@ -13218,9 +13234,17 @@
   {
     "name": "左脳梗塞",
     "counts": {
-      "male": 5,
+      "male": 6,
       "female": 3,
-      "sum": 8
+      "sum": 9
+    }
+  },
+  {
+    "name": "左脳梗塞による右上下肢麻痺",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
     }
   },
   {
@@ -16776,6 +16800,14 @@
     }
   },
   {
+    "name": "掌蹠膿疱症の増悪",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
     "name": "排尿障害",
     "counts": {
       "male": 1,
@@ -18954,9 +18986,9 @@
   {
     "name": "突然死",
     "counts": {
-      "male": 150,
+      "male": 151,
       "female": 99,
-      "sum": 249
+      "sum": 250
     }
   },
   {
@@ -18979,8 +19011,8 @@
     "name": "突発性難聴",
     "counts": {
       "male": 1,
-      "female": 1,
-      "sum": 2
+      "female": 2,
+      "sum": 3
     }
   },
   {
@@ -19169,6 +19201,14 @@
   },
   {
     "name": "粃糠疹",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
+    "name": "粘膜類天疱瘡",
     "counts": {
       "male": 1,
       "female": 0,
@@ -20042,9 +20082,9 @@
   {
     "name": "胸痛",
     "counts": {
-      "male": 36,
+      "male": 37,
       "female": 39,
-      "sum": 75
+      "sum": 76
     }
   },
   {
@@ -20810,9 +20850,9 @@
   {
     "name": "脳炎",
     "counts": {
-      "male": 6,
+      "male": 7,
       "female": 15,
-      "sum": 21
+      "sum": 22
     }
   },
   {
