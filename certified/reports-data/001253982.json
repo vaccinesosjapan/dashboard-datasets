@@ -277,12 +277,12 @@
     "vaccine_name": "新型コロナ",
     "description_of_claim": "医療費・医療手当",
     "symptoms": [
-      "3回目接種後の多形紅斑"
+      "多形紅斑"
     ],
     "judgment_result": "認定",
     "pre_existing_conditions": [],
     "reasons_for_repudiation": [],
-    "remarks": "",
+    "remarks": "3回目接種後の多形紅斑",
     "source_url": "https://www.mhlw.go.jp/content/10900000/001253982.pdf"
   },
   {
@@ -451,12 +451,12 @@
     "vaccine_name": "新型コロナ",
     "description_of_claim": "医療費・医療手当",
     "symptoms": [
-      "2回目接種後の発熱"
+      "発熱"
     ],
     "judgment_result": "認定",
     "pre_existing_conditions": [],
     "reasons_for_repudiation": [],
-    "remarks": "",
+    "remarks": "2回目接種後の発熱",
     "source_url": "https://www.mhlw.go.jp/content/10900000/001253982.pdf"
   },
   {

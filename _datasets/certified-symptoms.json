@@ -32,38 +32,6 @@
     }
   },
   {
-    "name": "2021年7月に発症した右ラクナ梗塞",
-    "counts": {
-      "male": 0,
-      "female": 1,
-      "sum": 1
-    }
-  },
-  {
-    "name": "2022年5月発症の脳炎",
-    "counts": {
-      "male": 1,
-      "female": 0,
-      "sum": 1
-    }
-  },
-  {
-    "name": "2回目接種後の発熱",
-    "counts": {
-      "male": 0,
-      "female": 1,
-      "sum": 1
-    }
-  },
-  {
-    "name": "3回目接種後の多形紅斑",
-    "counts": {
-      "male": 1,
-      "female": 0,
-      "sum": 1
-    }
-  },
-  {
     "name": "ACTH単独欠損症(基礎疾患)の増悪",
     "counts": {
       "male": 0,
@@ -6323,8 +6291,8 @@
     "name": "右ラクナ梗塞",
     "counts": {
       "male": 1,
-      "female": 0,
-      "sum": 1
+      "female": 1,
+      "sum": 2
     }
   },
   {
@@ -9194,9 +9162,9 @@
   {
     "name": "多形紅斑",
     "counts": {
-      "male": 16,
+      "male": 17,
       "female": 26,
-      "sum": 42
+      "sum": 43
     }
   },
   {
@@ -18419,8 +18387,8 @@
     "name": "発熱",
     "counts": {
       "male": 210,
-      "female": 303,
-      "sum": 513
+      "female": 304,
+      "sum": 514
     }
   },
   {
@@ -20850,9 +20818,9 @@
   {
     "name": "脳炎",
     "counts": {
-      "male": 7,
+      "male": 8,
       "female": 15,
-      "sum": 22
+      "sum": 23
     }
   },
   {
