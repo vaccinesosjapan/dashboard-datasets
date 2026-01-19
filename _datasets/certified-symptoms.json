@@ -4858,9 +4858,9 @@
   {
     "name": "倦怠感",
     "counts": {
-      "male": 121,
+      "male": 122,
       "female": 171,
-      "sum": 292
+      "sum": 293
     }
   },
   {
@@ -6508,6 +6508,14 @@
     "counts": {
       "male": 0,
       "female": 1,
+      "sum": 1
+    }
+  },
+  {
+    "name": "右上肢筋肉痛",
+    "counts": {
+      "male": 1,
+      "female": 0,
       "sum": 1
     }
   },
@@ -9834,9 +9842,9 @@
   {
     "name": "小脳出血",
     "counts": {
-      "male": 4,
+      "male": 6,
       "female": 2,
-      "sum": 6
+      "sum": 8
     }
   },
   {
@@ -13690,9 +13698,9 @@
   {
     "name": "左顔面神経麻痺",
     "counts": {
-      "male": 24,
-      "female": 15,
-      "sum": 39
+      "male": 25,
+      "female": 16,
+      "sum": 41
     }
   },
   {
@@ -14731,8 +14739,8 @@
     "name": "急性アレルギー反応",
     "counts": {
       "male": 67,
-      "female": 274,
-      "sum": 341
+      "female": 275,
+      "sum": 342
     }
   },
   {
@@ -17451,8 +17459,8 @@
     "name": "気管支喘息の増悪",
     "counts": {
       "male": 1,
-      "female": 16,
-      "sum": 17
+      "female": 17,
+      "sum": 18
     }
   },
   {
@@ -22275,8 +22283,8 @@
     "name": "血清反応陰性関節リウマチ",
     "counts": {
       "male": 1,
-      "female": 0,
-      "sum": 1
+      "female": 1,
+      "sum": 2
     }
   },
   {
@@ -23195,8 +23203,8 @@
     "name": "関節リウマチ",
     "counts": {
       "male": 36,
-      "female": 38,
-      "sum": 74
+      "female": 39,
+      "sum": 75
     }
   },
   {
