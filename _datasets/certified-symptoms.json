@@ -4947,8 +4947,8 @@
     "name": "免疫性血小板減少性紫斑病の増悪",
     "counts": {
       "male": 0,
-      "female": 1,
-      "sum": 1
+      "female": 2,
+      "sum": 2
     }
   },
   {
@@ -5171,8 +5171,8 @@
     "name": "全身性エリテマトーデス",
     "counts": {
       "male": 3,
-      "female": 2,
-      "sum": 5
+      "female": 3,
+      "sum": 6
     }
   },
   {
@@ -6804,6 +6804,14 @@
     "counts": {
       "male": 0,
       "female": 1,
+      "sum": 1
+    }
+  },
+  {
+    "name": "右側頭葉皮質脳内出血",
+    "counts": {
+      "male": 1,
+      "female": 0,
       "sum": 1
     }
   },
@@ -8482,9 +8490,9 @@
   {
     "name": "嘔気",
     "counts": {
-      "male": 55,
+      "male": 56,
       "female": 107,
-      "sum": 162
+      "sum": 163
     }
   },
   {
@@ -14336,6 +14344,14 @@
     }
   },
   {
+    "name": "心室細動)",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
     "name": "心室頻拍",
     "counts": {
       "male": 9,
@@ -14554,9 +14570,9 @@
   {
     "name": "心肺停止",
     "counts": {
-      "male": 63,
+      "male": 65,
       "female": 39,
-      "sum": 102
+      "sum": 104
     }
   },
   {
@@ -14572,6 +14588,14 @@
     "counts": {
       "male": 0,
       "female": 1,
+      "sum": 1
+    }
+  },
+  {
+    "name": "心肺蘇生後(肥大型心筋症",
+    "counts": {
+      "male": 1,
+      "female": 0,
       "sum": 1
     }
   },
@@ -15018,9 +15042,9 @@
   {
     "name": "急性循環不全",
     "counts": {
-      "male": 7,
+      "male": 8,
       "female": 10,
-      "sum": 17
+      "sum": 18
     }
   },
   {
@@ -18962,9 +18986,9 @@
   {
     "name": "突然死",
     "counts": {
-      "male": 151,
+      "male": 152,
       "female": 99,
-      "sum": 250
+      "sum": 251
     }
   },
   {
@@ -19658,9 +19682,9 @@
   {
     "name": "肝機能障害",
     "counts": {
-      "male": 20,
+      "male": 21,
       "female": 47,
-      "sum": 67
+      "sum": 68
     }
   },
   {
@@ -19697,6 +19721,14 @@
   },
   {
     "name": "肥大型心筋症",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
+    "name": "肥大型心筋症(心室細動)",
     "counts": {
       "male": 1,
       "female": 0,
@@ -21330,9 +21362,9 @@
   {
     "name": "腹痛",
     "counts": {
-      "male": 13,
+      "male": 14,
       "female": 29,
-      "sum": 42
+      "sum": 43
     }
   },
   {
@@ -22283,8 +22315,8 @@
     "name": "血清反応陰性関節リウマチ",
     "counts": {
       "male": 1,
-      "female": 1,
-      "sum": 2
+      "female": 2,
+      "sum": 3
     }
   },
   {
@@ -23218,9 +23250,9 @@
   {
     "name": "関節リウマチの増悪",
     "counts": {
-      "male": 4,
+      "male": 5,
       "female": 5,
-      "sum": 9
+      "sum": 10
     }
   },
   {
