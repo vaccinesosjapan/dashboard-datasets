@@ -13,9 +13,9 @@
 #      MIN: 上記以外の（Not serious）症例
 
 relative_dir: '110th'
-file_id: '001650158-1'
-pages: '7'
-count: '8'
+file_id: '001650158-2'
+pages: '8'
+count: '1'
 has_concurrent_vaccination: 'true'
 script-version: v2
 source: {
@@ -24,5 +24,5 @@ source: {
 }
 id_metadata: {
   number: '110th',
-  kind: 'MIS'
+  kind: 'MIN'
 }
