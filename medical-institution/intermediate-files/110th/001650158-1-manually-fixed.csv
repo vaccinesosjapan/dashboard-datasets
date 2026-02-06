@@ -1,0 +1,9 @@
+no,age,gender,vaccinated_dates,vaccine_name,lot_no,manufacturer,concurrent_vaccination_flag,concurrent_vaccination,pre_existing_disease_names,PT_names,onset_dates,days_to_onset,causal_relationship,severity,gross_result_dates,gross_results,pt_by_expert,causal_relationship_by_expert,brighton_classification_by_expert,comments_by_expert
+1,89歳,女,2024/10/21,コミナティ,LK7363,ファイザー,False,,なし,脳梗塞,2024/10/21,0,評価不能,重い,2025/3/22,死亡,脳梗塞,γ,-,
+2,73歳,男,2025/1/10,コミナティ,LL7309,ファイザー,False,,なし,肺毒性、咳嗽,2025/1/27,17,記載なし,重い,2025/6/25,軽快,,,,
+3,45歳,女,不明,コミナティ,不明,ファイザー,False,,なし,COVID-19後遺症様症状,不明,不明,関連あり,重い,不明,未回復,,,,
+4,71歳,男,2024/10/31,コミナティ,LL7260,ファイザー,True,インフルエンザ;KMバイオロジクス;542B,2021.6.27. EW0201　ファイザー2021.7.18. FF0843　ファイザー2022.2.26. 3006279　モデルナ・ジャパン2022.8.6. 000233A　モデルナ・ジャパン2022.11.19. GJ1842　ファイザー2023.5.21. 400082A　モデルナ・ジャパン2023.11.05. 710004A　モデルナ・ジャパン,不明熱、上肢帯を中心とする近位筋筋力低下、高VEGF血症、免疫性疾患,不明,不明,記載なし,重い,2025/9/24,軽快,,,,
+5,不明,男,不明,コミナティ,不明,ファイザー,False,,なし,COVID-19後遺症様症状,不明,不明,関連あり,重い,不明,不明,,,,
+6,不明,女,不明,コミナティ,不明,ファイザー,False,,なし,COVID-19後遺症様症状,不明,不明,関連あり,重い,不明,不明,,,,
+7,不明,女,不明,コミナティ,不明,ファイザー,False,,新型コロナワクチン3回接種しているが接種日記載なく不明,COVID-19後遺症様症状,不明,不明,関連あり,重い,不明,不明,,,,
+8,不明,女,不明,コミナティ,不明,ファイザー,False,,なし,COVID-19後遺症様症状,不明,不明,関連あり,重い,不明,軽快,,,,
