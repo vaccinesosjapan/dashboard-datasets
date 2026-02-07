@@ -1,0 +1,45 @@
+[
+  {
+    "id": "110th-MIN-1",
+    "no": 1,
+    "age": 78,
+    "gender": "女",
+    "vaccinated_dates": [
+      "2024/10/17"
+    ],
+    "vaccine_name": "コミナティ",
+    "lot_no": "LK7363",
+    "manufacturer": "ファイザー",
+    "concurrent_vaccination_flag": false,
+    "concurrent_vaccination": "",
+    "pre_existing_disease_names": [
+      "なし"
+    ],
+    "PT_names": [
+      "左上肢の痛み",
+      "左上肢の痺れ"
+    ],
+    "onset_dates": [
+      "2024/10/18"
+    ],
+    "days_to_onset": [
+      "1"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "2025/3/19"
+    ],
+    "gross_results": [
+      "未回復"
+    ],
+    "pt_by_expert": "",
+    "causal_relationship_by_expert": "",
+    "brighton_classification_by_expert": "",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第110回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001650158.pdf"
+    }
+  }
+]

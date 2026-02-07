@@ -1,0 +1,342 @@
+[
+  {
+    "id": "110th-MIS-1",
+    "no": 1,
+    "age": 89,
+    "gender": "女",
+    "vaccinated_dates": [
+      "2024/10/21"
+    ],
+    "vaccine_name": "コミナティ",
+    "lot_no": "LK7363",
+    "manufacturer": "ファイザー",
+    "concurrent_vaccination_flag": false,
+    "concurrent_vaccination": "",
+    "pre_existing_disease_names": [
+      "なし"
+    ],
+    "PT_names": [
+      "脳梗塞"
+    ],
+    "onset_dates": [
+      "2024/10/21"
+    ],
+    "days_to_onset": [
+      "0"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "2025/3/22"
+    ],
+    "gross_results": [
+      "死亡"
+    ],
+    "pt_by_expert": "脳梗塞",
+    "causal_relationship_by_expert": "γ",
+    "brighton_classification_by_expert": "-",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第110回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001650158.pdf"
+    }
+  },
+  {
+    "id": "110th-MIS-2",
+    "no": 2,
+    "age": 73,
+    "gender": "男",
+    "vaccinated_dates": [
+      "2025/1/10"
+    ],
+    "vaccine_name": "コミナティ",
+    "lot_no": "LL7309",
+    "manufacturer": "ファイザー",
+    "concurrent_vaccination_flag": false,
+    "concurrent_vaccination": "",
+    "pre_existing_disease_names": [
+      "なし"
+    ],
+    "PT_names": [
+      "肺毒性",
+      "咳嗽"
+    ],
+    "onset_dates": [
+      "2025/1/27"
+    ],
+    "days_to_onset": [
+      "17"
+    ],
+    "causal_relationship": "記載なし",
+    "severity": "重い",
+    "gross_result_dates": [
+      "2025/6/25"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "pt_by_expert": "",
+    "causal_relationship_by_expert": "",
+    "brighton_classification_by_expert": "",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第110回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001650158.pdf"
+    }
+  },
+  {
+    "id": "110th-MIS-3",
+    "no": 3,
+    "age": 45,
+    "gender": "女",
+    "vaccinated_dates": [
+      "不明"
+    ],
+    "vaccine_name": "コミナティ",
+    "lot_no": "不明",
+    "manufacturer": "ファイザー",
+    "concurrent_vaccination_flag": false,
+    "concurrent_vaccination": "",
+    "pre_existing_disease_names": [
+      "なし"
+    ],
+    "PT_names": [
+      "COVID-19後遺症様症状"
+    ],
+    "onset_dates": [
+      "不明"
+    ],
+    "days_to_onset": [
+      "不明"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "不明"
+    ],
+    "gross_results": [
+      "未回復"
+    ],
+    "pt_by_expert": "",
+    "causal_relationship_by_expert": "",
+    "brighton_classification_by_expert": "",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第110回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001650158.pdf"
+    }
+  },
+  {
+    "id": "110th-MIS-4",
+    "no": 4,
+    "age": 71,
+    "gender": "男",
+    "vaccinated_dates": [
+      "2024/10/31"
+    ],
+    "vaccine_name": "コミナティ",
+    "lot_no": "LL7260",
+    "manufacturer": "ファイザー",
+    "concurrent_vaccination_flag": true,
+    "concurrent_vaccination": "インフルエンザ;KMバイオロジクス;542B",
+    "pre_existing_disease_names": [
+      "2021.6.27. EW0201　ファイザー2021.7.18. FF0843　ファイザー2022.2.26. 3006279　モデルナ・ジャパン2022.8.6. 000233A　モデルナ・ジャパン2022.11.19. GJ1842　ファイザー2023.5.21. 400082A　モデルナ・ジャパン2023.11.05. 710004A　モデルナ・ジャパン"
+    ],
+    "PT_names": [
+      "不明熱",
+      "上肢帯を中心とする近位筋筋力低下",
+      "高VEGF血症",
+      "免疫性疾患"
+    ],
+    "onset_dates": [
+      "不明"
+    ],
+    "days_to_onset": [
+      "不明"
+    ],
+    "causal_relationship": "記載なし",
+    "severity": "重い",
+    "gross_result_dates": [
+      "2025/9/24"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "pt_by_expert": "",
+    "causal_relationship_by_expert": "",
+    "brighton_classification_by_expert": "",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第110回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001650158.pdf"
+    }
+  },
+  {
+    "id": "110th-MIS-5",
+    "no": 5,
+    "age": "不明",
+    "gender": "男",
+    "vaccinated_dates": [
+      "不明"
+    ],
+    "vaccine_name": "コミナティ",
+    "lot_no": "不明",
+    "manufacturer": "ファイザー",
+    "concurrent_vaccination_flag": false,
+    "concurrent_vaccination": "",
+    "pre_existing_disease_names": [
+      "なし"
+    ],
+    "PT_names": [
+      "COVID-19後遺症様症状"
+    ],
+    "onset_dates": [
+      "不明"
+    ],
+    "days_to_onset": [
+      "不明"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "不明"
+    ],
+    "gross_results": [
+      "不明"
+    ],
+    "pt_by_expert": "",
+    "causal_relationship_by_expert": "",
+    "brighton_classification_by_expert": "",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第110回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001650158.pdf"
+    }
+  },
+  {
+    "id": "110th-MIS-6",
+    "no": 6,
+    "age": "不明",
+    "gender": "女",
+    "vaccinated_dates": [
+      "不明"
+    ],
+    "vaccine_name": "コミナティ",
+    "lot_no": "不明",
+    "manufacturer": "ファイザー",
+    "concurrent_vaccination_flag": false,
+    "concurrent_vaccination": "",
+    "pre_existing_disease_names": [
+      "なし"
+    ],
+    "PT_names": [
+      "COVID-19後遺症様症状"
+    ],
+    "onset_dates": [
+      "不明"
+    ],
+    "days_to_onset": [
+      "不明"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "不明"
+    ],
+    "gross_results": [
+      "不明"
+    ],
+    "pt_by_expert": "",
+    "causal_relationship_by_expert": "",
+    "brighton_classification_by_expert": "",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第110回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001650158.pdf"
+    }
+  },
+  {
+    "id": "110th-MIS-7",
+    "no": 7,
+    "age": "不明",
+    "gender": "女",
+    "vaccinated_dates": [
+      "不明"
+    ],
+    "vaccine_name": "コミナティ",
+    "lot_no": "不明",
+    "manufacturer": "ファイザー",
+    "concurrent_vaccination_flag": false,
+    "concurrent_vaccination": "",
+    "pre_existing_disease_names": [
+      "新型コロナワクチン3回接種しているが接種日記載なく不明"
+    ],
+    "PT_names": [
+      "COVID-19後遺症様症状"
+    ],
+    "onset_dates": [
+      "不明"
+    ],
+    "days_to_onset": [
+      "不明"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "不明"
+    ],
+    "gross_results": [
+      "不明"
+    ],
+    "pt_by_expert": "",
+    "causal_relationship_by_expert": "",
+    "brighton_classification_by_expert": "",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第110回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001650158.pdf"
+    }
+  },
+  {
+    "id": "110th-MIS-8",
+    "no": 8,
+    "age": "不明",
+    "gender": "女",
+    "vaccinated_dates": [
+      "不明"
+    ],
+    "vaccine_name": "コミナティ",
+    "lot_no": "不明",
+    "manufacturer": "ファイザー",
+    "concurrent_vaccination_flag": false,
+    "concurrent_vaccination": "",
+    "pre_existing_disease_names": [
+      "なし"
+    ],
+    "PT_names": [
+      "COVID-19後遺症様症状"
+    ],
+    "onset_dates": [
+      "不明"
+    ],
+    "days_to_onset": [
+      "不明"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "不明"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "pt_by_expert": "",
+    "causal_relationship_by_expert": "",
+    "brighton_classification_by_expert": "",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第110回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001650158.pdf"
+    }
+  }
+]

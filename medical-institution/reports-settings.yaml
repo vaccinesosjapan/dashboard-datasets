@@ -12,17 +12,17 @@
 #      MIS: 重い(Serious)症例
 #      MIN: 上記以外の（Not serious）症例
 
-relative_dir: '109th'
-file_id: '001585488-2'
+relative_dir: '110th'
+file_id: '001650158-2'
 pages: '8'
-count: '2'
+count: '1'
 has_concurrent_vaccination: 'true'
 script-version: v2
 source: {
-  name: '第109回',
-  url: 'https://www.mhlw.go.jp/content/11120000/001585488.pdf'
+  name: '第110回',
+  url: 'https://www.mhlw.go.jp/content/11120000/001650158.pdf'
 }
 id_metadata: {
-  number: '109th',
+  number: '110th',
   kind: 'MIN'
 }
