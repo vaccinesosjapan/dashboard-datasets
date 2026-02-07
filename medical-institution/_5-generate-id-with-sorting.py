@@ -78,6 +78,13 @@ if len(id_nan_df) != 0:
 	df.loc[id_nan_df.index, 'id'] = source_name_series['id']
 
 # %%
+# id列が重複してる要素を表示
+id_duplicated_df = df[df["id"].duplicated()].iloc[:, [0,7,8]]
+if len(id_duplicated_df) != 0:
+	print("[Error] idが重複したデータがあります。修正してください。")
+	print(id_duplicated_df)
+
+# %%
 # IDでいい感じにソートする
 df = df.sort_values(
     by="id",

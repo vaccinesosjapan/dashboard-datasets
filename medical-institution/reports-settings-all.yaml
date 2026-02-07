@@ -1385,6 +1385,8 @@ id_metadata: {
   kind: 'MIN'
 }
 
+# 表の中でNo.1が重複しているので、JSON化した後にidの文字列だけ
+# 手作業で修正する。
 relative_dir: '106th'
 file_id: '001475649'
 pages: '6'
@@ -1428,11 +1430,11 @@ source: {
 }
 id_metadata: {
   number: '107th',
-  kind: 'MIN'
+  kind: 'MIS'
 }
 
 relative_dir: '107th'
-file_id: '001522528'
+file_id: '001522528-2'
 pages: '8'
 count: '5'
 has_concurrent_vaccination: 'true'
