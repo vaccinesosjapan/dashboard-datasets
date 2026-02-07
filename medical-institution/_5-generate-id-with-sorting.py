@@ -4,6 +4,8 @@ from collections import defaultdict
 import numpy as np
 import pandas as pd
 from natsort import index_natsorted
+import requests
+from http import HTTPStatus
 
 json_file_path = os.path.join('..', '_datasets', 'medical-institution-reports.json')
 df = pd.read_json(json_file_path)
@@ -76,6 +78,26 @@ if len(id_nan_df) != 0:
 	source_name_series['id'] = source_name_series['prefix'] + '-MI-' + source_name_series['no']
 
 	df.loc[id_nan_df.index, 'id'] = source_name_series['id']
+
+# %%
+# id列が重複してる要素を表示
+id_duplicated_df = df[df["id"].duplicated()].iloc[:, [0,7,8]]
+if len(id_duplicated_df) != 0:
+	print("[Error] idが重複したデータがあります。修正してください。")
+	print(id_duplicated_df)
+
+# %%
+url_list = []
+for source in df['source']:
+	url_list.append(source['url'])
+
+# 本当は並列処理するとスループットはあがるのだと思うが、あまり一気に厚生労働省の
+# サイトにコマンドラインからアクセスして負荷をかけてはいけないため、逐次1つずつ
+# リンクチェックを行う。
+for unique_url in list(set(url_list)):
+	r = requests.get(unique_url)
+	if r.status_code != HTTPStatus.OK:
+		print(f"[Error] PDFにアクセスできません '{unique_url}' : HttpStatusCode - {r.status_code}")
 
 # %%
 # IDでいい感じにソートする

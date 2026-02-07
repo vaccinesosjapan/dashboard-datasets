@@ -63,8 +63,12 @@ source_array = [{ "name": source_name, "url": source_url }] * df.shape[0]
 df['source'] = source_array
 
 # ID情報を一覧に追加する
-#df['id'] = df['no'].map(lambda x: f'{id_metadata_number}-{id_metadata_kind}-{x}')
-df.insert(0, 'id', df['no'].map(lambda x: f'{id_metadata_number}-{id_metadata_kind}-{x}'))
+file_name = source_url.split("/").pop().replace(".pdf", "")
+# 「{検討部会の番号}-{PDFファイル名}-{重篤/非重篤の識別子}-{そのPDF内でのNo}」をIDとする。
+# 第105回以降のデータを処理する本ファイルでは、「PDFファイル名」も使わないとユニークにはならない。
+# 一方で、第104回までは「注：「No」は、全新型コロナワクチンに係る副反応疑い報告（医療機関からの報告）の通番」
+# という扱いであったため、末尾に「No」を使うことでユニークな文字列になっていた。
+df.insert(0, 'id', df['no'].map(lambda x: f'{id_metadata_number}-{file_name}-{id_metadata_kind}-{x}'))
 
 # %%
 # 日付のスラッシュがエスケープされないようにするため、json.dumpsを使って文字列化する
