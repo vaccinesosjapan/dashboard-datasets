@@ -1,0 +1,53 @@
+[
+  {
+    "id": "107th-001542761-MIN-1",
+    "no": 1,
+    "age": 66,
+    "gender": "女",
+    "vaccinated_dates": [
+      "2024/10/10"
+    ],
+    "vaccine_name": "ヌバキソビッド",
+    "lot_no": "NT001",
+    "manufacturer": "武田薬品工業",
+    "concurrent_vaccination_flag": false,
+    "concurrent_vaccination": "",
+    "pre_existing_disease_names": [
+      "高血圧症",
+      "脂質異常症",
+      "アレルギー性鼻炎",
+      "便秘症のため",
+      "A医院よりノルバスク",
+      "テルミサルタン",
+      "メバレクト",
+      "ビラノア",
+      "マグミットが処方されている。"
+    ],
+    "PT_names": [
+      "発熱",
+      "空咳"
+    ],
+    "onset_dates": [
+      "2024/10/11"
+    ],
+    "days_to_onset": [
+      "1"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "2024/11/29"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "pt_by_expert": "",
+    "causal_relationship_by_expert": "",
+    "brighton_classification_by_expert": "",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第107回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001542761.pdf"
+    }
+  }
+]
