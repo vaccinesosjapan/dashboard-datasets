@@ -1,0 +1,56 @@
+[
+  {
+    "no": 1,
+    "manufacturer": "Meiji Seika ファルマ",
+    "vaccine_name": "コスタイベ",
+    "age": 89,
+    "gender": "男",
+    "vaccinated_dates": "2025/02/27",
+    "onset_dates": [
+      "2025/04/11"
+    ],
+    "lot_no": 1.0,
+    "vaccinated_times": "",
+    "pre_existing_conditions": "そう痒症\nアルツハイマー型認知症\n便秘\n尿閉\n激越\n肺の悪性新生物\n良性前立腺肥大症",
+    "PT_names": [
+      "嘔吐",
+      "肺炎"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "ー",
+    "causal_relationship_by_expert": "β",
+    "comments_by_expert": "",
+    "id": "110-001650183-1",
+    "source": {
+      "name": "第110回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001650183.pdf"
+    }
+  },
+  {
+    "no": 2,
+    "manufacturer": "Meiji Seika ファルマ",
+    "vaccine_name": "コスタイベ",
+    "age": 94,
+    "gender": "男",
+    "vaccinated_dates": "2025/03/10",
+    "onset_dates": [
+      "2025/04/30"
+    ],
+    "lot_no": "",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "便秘\n心房細動\n心筋梗塞\n慢性心不全\n湿疹\n胸水\n良性前立腺肥大症\n認知症",
+    "PT_names": [
+      "喘鳴",
+      "心不全"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "ー",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "",
+    "id": "110-001650183-2",
+    "source": {
+      "name": "第110回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001650183.pdf"
+    }
+  }
+]
