@@ -17,14 +17,14 @@ for file in jsonFileList:
 
 
 # %%
-# データの並べ替えやid列を先頭にする操作と、id重複チェックを実施する。
-# idが重複している場合は、処理を中断して保存を行わない。
-df = df.sort_values('id')
-
+# id列を先頭にする操作と、id重複チェックを実施する。
 start_with_id_columns = df.columns.delete(15).to_list()
 start_with_id_columns.insert(0, "id")
 df = df.reindex(columns=start_with_id_columns)
+# ソートすると思ったような順番にならないため、あえてやらない。インデックスの振り直しだけ実施する。
+df = df.reset_index(drop=True)
 
+# idが重複している場合は、処理を中断して保存を行わない。
 duplicated_df = df[df["id"].duplicated()].iloc[:, [0, 2, 3]]
 if len(duplicated_df) > 0:
 	print("[Error] idが重複したデータがあります。修正してください。")
