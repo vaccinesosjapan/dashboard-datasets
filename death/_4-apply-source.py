@@ -23,9 +23,14 @@ with open(json_file_path, "r", encoding='utf-8') as f:
 	ordinary_number = str(matched_row_df.loc[0, '開催回']).replace('第', '').replace('回', '')
 	each_df['no'] = each_df['no'].astype(str)
 
-	# ID文字列にワクチン名を使おうとしていたが、記号なども含まれていてややこしい文字列になるためJSONファイル名から
-	# 拡張子を除去した「JSONファイル名」を用いて、「{検討部会の番号}-{JSONファイル名}-{該当する表でのNo}」とする。
-	each_df['id'] = ordinary_number + '-' + json_file_name.replace(".json", "") + '-' + each_df['no']
+	# ID文字列のフォーマットは「{検討部会の番号}-{ワクチン名}-{該当する表でのNo}」とする。
+	vaccine_name = ""
+	for v_name in each_df.iloc[:, 2]:
+		vaccine_name = unicodedata.normalize("NFKC", str(v_name))
+		if "\n" in vaccine_name:
+			# 複数のワクチンが書かれているエントリーは使用したくないため、別の候補を探す。
+			continue
+	each_df['id'] = ordinary_number + '-' + vaccine_name + '-' + each_df['no']
 	
 	each_df['no'] = each_df['no'].astype(int)
 
