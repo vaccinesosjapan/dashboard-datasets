@@ -17,16 +17,28 @@ for file in jsonFileList:
 
 
 # %%
-# 亡くなった方の全症例をひとつにまとめて death-reports.json に保存する処理。
+# データの並べ替えやid列を先頭にする操作と、id重複チェックを実施する。
+# idが重複している場合は、処理を中断して保存を行わない。
 df = df.sort_values('id')
 
+start_with_id_columns = df.columns.delete(15).to_list()
+start_with_id_columns.insert(0, "id")
+df = df.reindex(columns=start_with_id_columns)
+
+duplicated_df = df[df["id"].duplicated()].iloc[:, [0, 2, 3]]
+if len(duplicated_df) > 0:
+	print("[Error] idが重複したデータがあります。修正してください。")
+	print(duplicated_df)
+	exit(code=1)
+
+# %%
+# 亡くなった方の全症例をひとつにまとめて death-reports.json に保存する処理。
 df_dict = df.to_dict("records")
 json_string = json.dumps(df_dict, ensure_ascii=False, indent=2)
 
 output_path = os.path.join(output_dir, 'death-reports.json')
 with open( output_path, "w", encoding='utf-8') as f:
     f.write(json_string)
-
 
 # %%
 # 性別などの一覧データを作成して、ダッシュボードで表示するためのメタデータとして
