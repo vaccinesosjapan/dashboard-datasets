@@ -12,7 +12,6 @@ for file in jsonFileList:
 	with open(file, "r", encoding='utf-8') as f:
 		data = json.load(f)
 		each_df = pd.DataFrame(data)
-		each_df['pre_existing_conditions'] = each_df['pre_existing_conditions'].str.replace('\r\n', '\n').str.replace('\n', '')
 		df = pd.concat([df, each_df])
 
 
