@@ -1,0 +1,28 @@
+[
+  {
+    "no": 1,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ",
+    "age": 89,
+    "gender": "女",
+    "vaccinated_dates": "2024/10/21",
+    "onset_dates": [
+      "2025/03/22"
+    ],
+    "lot_no": "LK7363",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "心臓ペースメーカー挿入\n慢性心不全\n房室ブロック\n糖尿病\n高血圧",
+    "PT_names": [
+      "脳梗塞"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "",
+    "id": "110-コミナティ-1",
+    "source": {
+      "name": "第110回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001650178.pdf"
+    }
+  }
+]

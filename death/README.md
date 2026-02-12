@@ -24,7 +24,7 @@
 1. `python _3-save-to-json.py`を実行して、JSONするファイルへと変換する。
     * **reports-files** フォルダに保存される。
 
-**death-table.csv** にメモした全てのPDFに対して、上記の処理ができたら以下を実行する。ｓ
+**death-table.csv** にメモした全てのPDFに対して、上記の処理ができたら以下を実行する。
 
 1. `python _4-apply-source.py` に **新しく作ったJSONファイルのパス** 渡しながら実行して、 **source** など付加情報を付与する。
 1. `python _5-sum-reports.py` を実行して、レポートや集計データを完成させる。
