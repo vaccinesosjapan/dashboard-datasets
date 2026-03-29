@@ -38,6 +38,10 @@ for file in jsonFileList:
 			for i, gr in enumerate(d['gross_results']):
 				# 2025年以降は「後遺症あり」ではなく「後遺症」と表記されるようになったので、そちらに統一する
 				d['gross_results'][i] = gr.strip().replace('後遺症あり', '後遺症')
+			
+			if d.get('pre_existing_disease_names') == None:
+				d['pre_existing_disease_names'] = []
+			
 			medical_institution_issues.append(d)
 
 # 抽出した事例一覧の保存
