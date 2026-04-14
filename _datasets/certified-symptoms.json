@@ -187,8 +187,8 @@
     "name": "IgA血管炎",
     "counts": {
       "male": 11,
-      "female": 13,
-      "sum": 24
+      "female": 14,
+      "sum": 25
     }
   },
   {
@@ -891,8 +891,8 @@
     "name": "アテローム血栓性脳梗塞",
     "counts": {
       "male": 11,
-      "female": 8,
-      "sum": 19
+      "female": 9,
+      "sum": 20
     }
   },
   {
@@ -1521,6 +1521,14 @@
   },
   {
     "name": "ネフローゼ症候群(微小変化型)",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
+    }
+  },
+  {
+    "name": "ネフローゼ症候群(膜性腎症)",
     "counts": {
       "male": 1,
       "female": 0,
@@ -14122,9 +14130,9 @@
   {
     "name": "微小変化型ネフローゼ症候群",
     "counts": {
-      "male": 10,
+      "male": 11,
       "female": 7,
-      "sum": 17
+      "sum": 18
     }
   },
   {
