@@ -2495,6 +2495,21 @@ settings: [
     },
   },
   {
+    date: '2026/03/26',
+    file: '001681219-2.csv',
+    output: '001681219-2.json',
+    pages: '',
+    expected_count: {
+      certified: 1,
+      repudiation: 0
+    },
+    reason-type: 'TypeB',
+    script-version: v3,
+    source: {
+      url: https://www.mhlw.go.jp/content/10900000/001681219.pdf,
+    },
+  },
+  {
     date: '2026/04/13',
     file: '001690635.csv',
     output: '001690635.json',
