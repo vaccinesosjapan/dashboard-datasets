@@ -8,24 +8,27 @@
 #    certified: 認定の件数
 #    repudiation: 否認の件数
 #  reason-type: 否認理由が4段階評価になった 2023年3月14日 以降のデータでは TypeB を指定する
-#  script-version: 特に必要がなければ v2 を指定する
+#  script-version:
+#    第193回の分科会から、「定期接種」の被害として申請された案件が登場した。
+#    従来の申請は v2 を使用し、上述の「定期接種」の案件には v3 を使用する。
+#    各症例データの inoculation_type プロパティの値をそれぞれ違う値で扱う。
 #  source
 #    url: 元資料として使ったPDFのURLを記載する
 #
 settings: [
   {
-    date: '2026/04/13',
-    file: '001690635.csv',
-    output: '001690635.json',
+    date: '2026/03/26',
+    file: '001681219-2.csv',
+    output: '001681219-2.json',
     pages: '',
     expected_count: {
-      certified: 4,
-      repudiation: 25
+      certified: 1,
+      repudiation: 0
     },
     reason-type: 'TypeB',
-    script-version: v2,
+    script-version: v3,
     source: {
-      url: https://www.mhlw.go.jp/content/10900000/001690635.pdf,
+      url: https://www.mhlw.go.jp/content/10900000/001681219.pdf,
     },
   }
 ]
