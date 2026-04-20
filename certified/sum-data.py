@@ -4,7 +4,7 @@ import os
 script_dir = os.path.dirname(os.path.abspath(__file__))
 
 # ダッシュボードで直接使うデータ
-sum_certified_path = os.path.join(script_dir, 'scripts', 'sum-certified-reports-v1.py')
+sum_certified_path = os.path.join(script_dir, 'scripts', 'sum-certified-reports-v2.py')
 sum_judged_data_path = os.path.join(script_dir, 'scripts', 'sum-judged-data.py')
 sum_trends_path = os.path.join(script_dir, 'scripts', 'sum-trends.py')
 sum_split_issues_path = os.path.join(script_dir, 'scripts', 'sum-split-issues.py')
