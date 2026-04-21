@@ -5656,6 +5656,14 @@
     }
   },
   {
+    "name": "出血性脳梗塞による全失語",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
     "name": "出血性静脈性脳梗塞",
     "counts": {
       "male": 0,
@@ -6376,6 +6384,14 @@
     }
   },
   {
+    "name": "右上下肢不全麻痺",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
     "name": "右上下肢体幹失調",
     "counts": {
       "male": 0,
@@ -6893,6 +6909,14 @@
       "male": 2,
       "female": 0,
       "sum": 2
+    }
+  },
+  {
+    "name": "右半側空間失認",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
     }
   },
   {
@@ -8035,8 +8059,8 @@
     "name": "右顔面神経麻痺",
     "counts": {
       "male": 19,
-      "female": 14,
-      "sum": 33
+      "female": 15,
+      "sum": 34
     }
   },
   {
@@ -16384,6 +16408,14 @@
     }
   },
   {
+    "name": "成人発症スティル病の増悪",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
     "name": "成人発症スティル病疑い",
     "counts": {
       "male": 1,
@@ -16692,6 +16724,14 @@
     "counts": {
       "male": 1,
       "female": 0,
+      "sum": 1
+    }
+  },
+  {
+    "name": "抗MDA5陽性皮膚筋炎",
+    "counts": {
+      "male": 0,
+      "female": 1,
       "sum": 1
     }
   },
@@ -19858,9 +19898,9 @@
   {
     "name": "肺動脈塞栓症",
     "counts": {
-      "male": 3,
+      "male": 5,
       "female": 0,
-      "sum": 3
+      "sum": 5
     }
   },
   {
