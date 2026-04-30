@@ -26,13 +26,9 @@ df = pd.read_csv(csv_file_path, delimiter=',')
 '''
 以下のような列ヘッダを持つデータを想定する。
 
-  性別,年齢,ワクチン名,請求内容,疾病名,基礎疾患,判定,否認理由,備考
+  性別,年齢,ワクチン名,請求内容,疾病名,基礎疾患,判性別性別性別性別性別性別,年齢,ワクチン名,請求内容,疾病名,基礎疾患,判定,否認理由,備考
+  男,69歳,新型コロナ、インフルエンザ,医療費・医療手当,,,否認,1,
 
->>> >>> df.loc[0]
-性別              女
-年齢            43歳
-ワクチン名       新型コロナ
-請求内容     医療費・医療手当
 疾病名      アナフィラキシー
 基礎疾患          NaN
 判定             認定
@@ -85,7 +81,7 @@ try:
 				pre_existing_conditions.append(row['基礎疾患'])
 
 		judgment_result = row['判定']
-		reasons_for_repudiation = extract_reasons_for_repudiation(row['否認理由'], reason_type)
+		reasons_for_repudiation = extract_reasons_for_repudiation(str(row['否認理由']), reason_type)
 		remarks = row['備考']
 
 		# 「保留」はデータに含めない。通しの番号もないため同一の案件か否かを判別する術がなく、最終的に
