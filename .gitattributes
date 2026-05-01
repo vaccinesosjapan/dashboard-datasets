@@ -1,0 +1,9 @@
+* text=auto
+
+*.bat text eol=crlf
+
+*.json eol=lf
+*.py eol=lf
+*.yaml eol=lf
+
+*.pdf binary

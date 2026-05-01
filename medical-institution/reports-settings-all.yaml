@@ -1259,281 +1259,386 @@ settings: [
   }
 ]
 
-# 以降は、新しい抽出方式で使う設定
-relative_dir: '104th-2'
-file_id: '001325447'
-pages: '2-15'
-count: '269'
-has_concurrent_vaccination: 'true'
-source: {
-  name: '第104回',
-  url: 'https://www.mhlw.go.jp/content/11120000/001325447.pdf'
-}
+settings_v2: [
+  {
+    # 以降は、新しい抽出方式で使う設定
+    relative_dir: '104th-2',
+    file_id: '001325447',
+    pages: '2-15',
+    count: '269',
+    has_concurrent_vaccination: 'true',
+    source: {
+      name: '第104回',
+      url: 'https://www.mhlw.go.jp/content/11120000/001325447.pdf',
+    }
+  },
+  {
+    ## 001325448 は0件
+    relative_dir: '104th-2',
+    file_id: '001325449',
+    pages: '2',
+    count: '6',
+    has_concurrent_vaccination: 'true',
+    source: {
+      name: '第104回',
+      url: 'https://www.mhlw.go.jp/content/11120000/001325449.pdf',
+    }
+  },
+  {
+    relative_dir: '104th-2',
+    file_id: '001325450-1',
+    pages: '2-6',
+    count: '93',
+    has_concurrent_vaccination: 'true',
+    source: {
+      name: '第104回',
+      url: 'https://www.mhlw.go.jp/content/11120000/001325450.pdf',
+    }
+  },
+  {
+    relative_dir: '104th-2',
+    file_id: '001325450-2',
+    pages: '7',
+    count: '4',
+    has_concurrent_vaccination: 'true',
+    source: {
+      name: '第104回',
+      url: 'https://www.mhlw.go.jp/content/11120000/001325450.pdf',
+    }
+  },
+  {
+    relative_dir: '104th-2',
+    file_id: '001325450-3',
+    pages: '8',
+    count: '14',
+    has_concurrent_vaccination: 'true',
+    source: {
+      name: '第104回',
+      url: 'https://www.mhlw.go.jp/content/11120000/001325450.pdf',
+    }
+  },
+  {
+    relative_dir: '104th-2',
+    file_id: '001325451',
+    pages: '2',
+    count: '2',
+    has_concurrent_vaccination: 'true',
+    source: {
+      name: '第104回',
+      url: 'https://www.mhlw.go.jp/content/11120000/001325450.pdf',
+    }
+  },
+]
 
-## 001325448 は0件
-
-relative_dir: '104th-2'
-file_id: '001325449'
-pages: '2'
-count: '6'
-has_concurrent_vaccination: 'true'
-source: {
-  name: '第104回',
-  url: 'https://www.mhlw.go.jp/content/11120000/001325449.pdf'
-}
-
-relative_dir: '104th-2'
-file_id: '001325450-1'
-pages: '2-6'
-count: '93'
-has_concurrent_vaccination: 'true'
-source: {
-  name: '第104回',
-  url: 'https://www.mhlw.go.jp/content/11120000/001325450.pdf'
-}
-
-relative_dir: '104th-2'
-file_id: '001325450-2'
-pages: '7'
-count: '4'
-has_concurrent_vaccination: 'true'
-source: {
-  name: '第104回',
-  url: 'https://www.mhlw.go.jp/content/11120000/001325450.pdf'
-}
-
-relative_dir: '104th-2'
-file_id: '001325450-3'
-pages: '8'
-count: '14'
-has_concurrent_vaccination: 'true'
-source: {
-  name: '第104回',
-  url: 'https://www.mhlw.go.jp/content/11120000/001325450.pdf'
-}
-
-relative_dir: '104th-2'
-file_id: '001325451'
-pages: '2'
-count: '2'
-has_concurrent_vaccination: 'true'
-source: {
-  name: '第104回',
-  url: 'https://www.mhlw.go.jp/content/11120000/001325450.pdf'
-}
-
-# 105th
-relative_dir: '105th'
-file_id: '001383702-MIN'
-pages: '7'
-count: '1'
-has_concurrent_vaccination: 'true'
-script-version: v2
-source: {
-  name: '第105回',
-  url: 'https://www.mhlw.go.jp/content/11120000/001383702.pdf'
-}
-id_metadata: {
-  number: '105th',
-  kind: 'MIN'
-}
-
-# 106th
-relative_dir: '106th'
-file_id: '001475703'
-pages: '7-9'
-count: '28'
-has_concurrent_vaccination: 'true'
-script-version: v2
-source: {
-  name: '第106回',
-  url: 'https://www.mhlw.go.jp/content/11120000/001475703.pdf'
-}
-id_metadata: {
-  number: '106th',
-  kind: 'MIS'
-}
-
-relative_dir: '106th'
-file_id: '001490976'
-pages: '6'
-count: '3'
-has_concurrent_vaccination: 'true'
-script-version: v2
-source: {
-  name: '第106回',
-  url: 'https://www.mhlw.go.jp/content/11120000/001490976.pdf'
-}
-id_metadata: {
-  number: '106th',
-  kind: 'MIS'
-}
-
-# 001490976 の非重篤の一覧はPDFから抽出不可だった
-relative_dir: '106th'
-file_id: '001490976-2'
-pages: '7'
-count: '1'
-has_concurrent_vaccination: 'true'
-script-version: v2
-source: {
-  name: '第106回',
-  url: 'https://www.mhlw.go.jp/content/11120000/001490976.pdf'
-}
-id_metadata: {
-  number: '106th',
-  kind: 'MIN'
-}
-
-# 表の中でNo.1が重複しているので、JSON化した後にidの文字列だけ
-# 手作業で修正する。
-relative_dir: '106th'
-file_id: '001475649'
-pages: '6'
-count: '2'
-has_concurrent_vaccination: 'true'
-script-version: v2
-source: {
-  name: '第106回',
-  url: 'https://www.mhlw.go.jp/content/11120000/001475649.pdf'
-}
-id_metadata: {
-  number: '106th',
-  kind: 'MIS'
-}
-
-# 001475649 の非重篤の一覧はPDFから抽出不可だった
-relative_dir: '106th'
-file_id: '001475649-2'
-pages: '7'
-count: '1'
-has_concurrent_vaccination: 'true'
-script-version: v2
-source: {
-  name: '第106回',
-  url: 'https://www.mhlw.go.jp/content/11120000/001475649.pdf'
-}
-id_metadata: {
-  number: '106th',
-  kind: 'MIN'
-}
-
-relative_dir: '107th'
-file_id: '001522528'
-pages: '7'
-count: '7'
-has_concurrent_vaccination: 'true'
-script-version: v2
-source: {
-  name: '第107回',
-  url: 'https://www.mhlw.go.jp/content/11120000/001522528.pdf'
-}
-id_metadata: {
-  number: '107th',
-  kind: 'MIS'
-}
-
-relative_dir: '107th'
-file_id: '001522528-2'
-pages: '8'
-count: '5'
-has_concurrent_vaccination: 'true'
-script-version: v2
-source: {
-  name: '第107回',
-  url: 'https://www.mhlw.go.jp/content/11120000/001522528.pdf'
-}
-id_metadata: {
-  number: '107th',
-  kind: 'MIN'
-}
-
-relative_dir: '107th'
-file_id: '001522538-1'
-pages: '6'
-count: '1'
-has_concurrent_vaccination: 'true'
-script-version: v2
-source: {
-  name: '第107回',
-  url: 'https://www.mhlw.go.jp/content/11120000/001522538.pdf'
-}
-id_metadata: {
-  number: '107th',
-  kind: 'MIS'
-}
-
-relative_dir: '107th'
-file_id: '001542761-1'
-pages: '7'
-count: '1'
-has_concurrent_vaccination: 'true'
-script-version: v2
-source: {
-  name: '第107回',
-  url: 'https://www.mhlw.go.jp/content/11120000/001542761.pdf'
-}
-id_metadata: {
-  number: '107th',
-  kind: 'MIN'
-}
-
-relative_dir: '109th'
-file_id: '001585488-1'
-pages: '7'
-count: '3'
-has_concurrent_vaccination: 'true'
-script-version: v2
-source: {
-  name: '第109回',
-  url: 'https://www.mhlw.go.jp/content/11120000/001585488.pdf'
-}
-id_metadata: {
-  number: '109th',
-  kind: 'MIS'
-}
-
-relative_dir: '109th'
-file_id: '001585488-2'
-pages: '8'
-count: '2'
-has_concurrent_vaccination: 'true'
-script-version: v2
-source: {
-  name: '第109回',
-  url: 'https://www.mhlw.go.jp/content/11120000/001585488.pdf'
-}
-id_metadata: {
-  number: '109th',
-  kind: 'MIN'
-}
-
-relative_dir: '110th'
-file_id: '001650158-1'
-pages: '7'
-count: '8'
-has_concurrent_vaccination: 'true'
-script-version: v2
-source: {
-  name: '第110回',
-  url: 'https://www.mhlw.go.jp/content/11120000/001650158.pdf'
-}
-id_metadata: {
-  number: '110th',
-  kind: 'MIS'
-}
-
-relative_dir: '110th'
-file_id: '001650158-2'
-pages: '8'
-count: '1'
-has_concurrent_vaccination: 'true'
-script-version: v2
-source: {
-  name: '第110回',
-  url: 'https://www.mhlw.go.jp/content/11120000/001650158.pdf'
-}
-id_metadata: {
-  number: '110th',
-  kind: 'MIN'
-}
+settings_v3: [
+  {
+    # 105th
+    relative_dir: '105th',
+    file_id: '001383702-MIN',
+    pages: '7',
+    count: '1',
+    has_concurrent_vaccination: 'true',
+    script-version: v2,
+    source: {
+      name: '第105回',
+      url: 'https://www.mhlw.go.jp/content/11120000/001383702.pdf',
+    },
+    id_metadata: {
+      number: '105th',
+      kind: 'MIN',
+    }
+  },
+  {
+    # 106th
+    relative_dir: '106th',
+    file_id: '001475703',
+    pages: '7-9',
+    count: '28',
+    has_concurrent_vaccination: 'true',
+    script-version: v2,
+    source: {
+      name: '第106回',
+      url: 'https://www.mhlw.go.jp/content/11120000/001475703.pdf',
+    },
+    id_metadata: {
+      number: '106th',
+      kind: 'MIS',
+    }
+  },
+  {
+    relative_dir: '106th',
+    file_id: '001490976',
+    pages: '6',
+    count: '3',
+    has_concurrent_vaccination: 'true',
+    script-version: v2,
+    source: {
+      name: '第106回',
+      url: 'https://www.mhlw.go.jp/content/11120000/001490976.pdf',
+    },
+    id_metadata: {
+      number: '106th',
+      kind: 'MIS',
+    }
+  },
+  {
+    # 001490976 の非重篤の一覧はPDFから抽出不可だった
+    relative_dir: '106th',
+    file_id: '001490976-2',
+    pages: '7',
+    count: '1',
+    has_concurrent_vaccination: 'true',
+    script-version: v2,
+    source: {
+      name: '第106回',
+      url: 'https://www.mhlw.go.jp/content/11120000/001490976.pdf',
+    },
+    id_metadata: {
+      number: '106th',
+      kind: 'MIN',
+    }
+  },
+  {
+    # 表の中でNo.1が重複しているので、JSON化した後にidの文字列だけ
+    # 手作業で修正する。
+    relative_dir: '106th',
+    file_id: '001475649',
+    pages: '6',
+    count: '2',
+    has_concurrent_vaccination: 'true',
+    script-version: v2,
+    source: {
+      name: '第106回',
+      url: 'https://www.mhlw.go.jp/content/11120000/001475649.pdf',
+    },
+    id_metadata: {
+      number: '106th',
+      kind: 'MIS',
+    }
+  },
+  {
+    # 001475649 の非重篤の一覧はPDFから抽出不可だった
+    relative_dir: '106th',
+    file_id: '001475649-2',
+    pages: '7',
+    count: '1',
+    has_concurrent_vaccination: 'true',
+    script-version: v2,
+    source: {
+      name: '第106回',
+      url: 'https://www.mhlw.go.jp/content/11120000/001475649.pdf',
+    },
+    id_metadata: {
+      number: '106th',
+      kind: 'MIN',
+    }
+  },
+  {
+    relative_dir: '107th',
+    file_id: '001522528',
+    pages: '7',
+    count: '7',
+    has_concurrent_vaccination: 'true',
+    script-version: v2,
+    source: {
+      name: '第107回',
+      url: 'https://www.mhlw.go.jp/content/11120000/001522528.pdf',
+    },
+    id_metadata: {
+      number: '107th',
+      kind: 'MIS',
+    }
+  },
+  {
+    relative_dir: '107th',
+    file_id: '001522528-2',
+    pages: '8',
+    count: '5',
+    has_concurrent_vaccination: 'true',
+    script-version: v2,
+    source: {
+      name: '第107回',
+      url: 'https://www.mhlw.go.jp/content/11120000/001522528.pdf',
+    },
+    id_metadata: {
+      number: '107th',
+      kind: 'MIN',
+    }
+  },
+  {
+    relative_dir: '107th',
+    file_id: '001522538-1',
+    pages: '6',
+    count: '1',
+    has_concurrent_vaccination: 'true',
+    script-version: v2,
+    source: {
+      name: '第107回',
+      url: 'https://www.mhlw.go.jp/content/11120000/001522538.pdf',
+    },
+    id_metadata: {
+      number: '107th',
+      kind: 'MIS',
+    }
+  },
+  {
+    relative_dir: '107th',
+    file_id: '001542761-1',
+    pages: '7',
+    count: '1',
+    has_concurrent_vaccination: 'true',
+    script-version: v2,
+    source: {
+      name: '第107回',
+      url: 'https://www.mhlw.go.jp/content/11120000/001542761.pdf',
+    },
+    id_metadata: {
+      number: '107th',
+      kind: 'MIN',
+    }
+  },
+  {
+    relative_dir: '109th',
+    file_id: '001585488-1',
+    pages: '7',
+    count: '3',
+    has_concurrent_vaccination: 'true',
+    script-version: v2,
+    source: {
+      name: '第109回',
+      url: 'https://www.mhlw.go.jp/content/11120000/001585488.pdf',
+    },
+    id_metadata: {
+      number: '109th',
+      kind: 'MIS',
+    }
+  },
+  {
+    relative_dir: '109th',
+    file_id: '001585488-2',
+    pages: '8',
+    count: '2',
+    has_concurrent_vaccination: 'true',
+    script-version: v2,
+    source: {
+      name: '第109回',
+      url: 'https://www.mhlw.go.jp/content/11120000/001585488.pdf',
+    },
+    id_metadata: {
+      number: '109th',
+      kind: 'MIN',
+    }
+  },
+  {
+    relative_dir: '110th',
+    file_id: '001650158-1',
+    pages: '7',
+    count: '8',
+    has_concurrent_vaccination: 'true',
+    script-version: v2,
+    source: {
+      name: '第110回',
+      url: 'https://www.mhlw.go.jp/content/11120000/001650158.pdf',
+    },
+    id_metadata: {
+      number: '110th',
+      kind: 'MIS',
+    }
+  },
+  {
+    relative_dir: '110th',
+    file_id: '001650158-2',
+    pages: '8',
+    count: '1',
+    has_concurrent_vaccination: 'true',
+    script-version: v2,
+    source: {
+      name: '第110回',
+      url: 'https://www.mhlw.go.jp/content/11120000/001650158.pdf',
+    },
+    id_metadata: {
+      number: '110th',
+      kind: 'MIN',
+    }
+  },
+  {
+    relative_dir: '111th',
+    file_id: '001694100-1',
+    pages: '10-11',
+    count: '13',
+    has_concurrent_vaccination: 'true',
+    script-version: v3,
+    source: {
+      name: '第111回',
+      url: 'https://www.mhlw.go.jp/content/11120000/001694100.pdf',
+    },
+    id_metadata: {
+      number: '111th',
+      kind: 'MIS',
+    }
+  },
+  {
+    relative_dir: '111th',
+    file_id: '001694100-2',
+    pages: '12',
+    count: '2',
+    has_concurrent_vaccination: 'true',
+    script-version: v3,
+    source: {
+      name: '第111回',
+      url: 'https://www.mhlw.go.jp/content/11120000/001694100.pdf',
+    },
+    id_metadata: {
+      number: '111th',
+      kind: 'MIN',
+    }
+  },
+  {
+    relative_dir: '111th',
+    file_id: '001694103',
+    pages: '6',
+    count: '4',
+    has_concurrent_vaccination: 'true',
+    script-version: v3,
+    source: {
+      name: '第111回',
+      url: 'https://www.mhlw.go.jp/content/11120000/001694103.pdf',
+    },
+    id_metadata: {
+      number: '111th',
+      kind: 'MIS',
+    }
+  },
+  {
+    relative_dir: '111th',
+    file_id: '001694106',
+    pages: '7',
+    count: '1',
+    has_concurrent_vaccination: 'true',
+    script-version: v3,
+    source: {
+      name: '第111回',
+      url: 'https://www.mhlw.go.jp/content/11120000/001694106.pdf',
+    },
+    id_metadata: {
+      number: '111th',
+      kind: 'MIS',
+    }
+  },
+  {
+    relative_dir: '111th',
+    file_id: '001694107',
+    pages: '6',
+    count: '2',
+    has_concurrent_vaccination: 'true',
+    script-version: v3,
+    source: {
+      name: '第111回',
+      url: 'https://www.mhlw.go.jp/content/11120000/001694107.pdf'
+    },
+    id_metadata: {
+      number: '111th',
+      kind: 'MIS'
+    }
+  }
+]

@@ -1,0 +1,624 @@
+[
+  {
+    "id": "111th-001694100-MIS-1",
+    "no": 1,
+    "age": 86,
+    "gender": "女",
+    "vaccinated_dates": [
+      "2025/10/23"
+    ],
+    "concurrent_vaccination_flag": false,
+    "concurrent_vaccination": "",
+    "vaccine_name": "新型コロナ(コミナティ)",
+    "sales_name": "コミナティ",
+    "lot_no": "MT4666",
+    "manufacturer": "ファイザー",
+    "pre_existing_disease_names": [
+      "低血圧",
+      "貧血"
+    ],
+    "PT_names": [
+      "アナフィラキシー反応",
+      "失神"
+    ],
+    "onset_dates": [
+      "2025/10/23"
+    ],
+    "days_to_onset": [
+      "0"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "2025/11/21"
+    ],
+    "gross_results": [
+      "後遺症あり"
+    ],
+    "pt_by_expert": "アナフィラキシー反応",
+    "causal_relationship_by_expert": "γ",
+    "brighton_classification_by_expert": "4",
+    "comments_by_expert": "得られた臨床経過の情報は十分ではないが、血管迷走神経反射などの可能性もある。",
+    "source": {
+      "name": "第111回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001694100.pdf"
+    }
+  },
+  {
+    "id": "111th-001694100-MIS-2",
+    "no": 2,
+    "age": 88,
+    "gender": "女",
+    "vaccinated_dates": [
+      "2025/10/23"
+    ],
+    "concurrent_vaccination_flag": false,
+    "concurrent_vaccination": "",
+    "vaccine_name": "新型コロナ(コミナティ)",
+    "sales_name": "コミナティ",
+    "lot_no": "MT4666",
+    "manufacturer": "ファイザー",
+    "pre_existing_disease_names": [
+      "高血圧",
+      "狭心症",
+      "胃食道逆流性疾患",
+      "頭痛",
+      "変形性関節症"
+    ],
+    "PT_names": [
+      "心肺停止",
+      "心臓死",
+      "急性心筋梗塞",
+      "意識消失",
+      "嘔吐",
+      "胸部不快感",
+      "低血圧",
+      "異常感"
+    ],
+    "onset_dates": [
+      "2025/10/23"
+    ],
+    "days_to_onset": [
+      "0"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "2025/10/30"
+    ],
+    "gross_results": [
+      "死亡"
+    ],
+    "pt_by_expert": "心肺停止、心臓死、急性心筋梗塞",
+    "causal_relationship_by_expert": "γ",
+    "brighton_classification_by_expert": "－",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第111回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001694100.pdf"
+    }
+  },
+  {
+    "id": "111th-001694100-MIS-3",
+    "no": 3,
+    "age": 89,
+    "gender": "女",
+    "vaccinated_dates": [
+      "2025/10/23"
+    ],
+    "concurrent_vaccination_flag": false,
+    "concurrent_vaccination": "",
+    "vaccine_name": "新型コロナ(コミナティ)",
+    "sales_name": "コミナティ",
+    "lot_no": "MT4666",
+    "manufacturer": "ファイザー",
+    "pre_existing_disease_names": [
+      "三尖弁閉鎖不全症",
+      "アルツハイマー型認知症"
+    ],
+    "PT_names": [
+      "摂食障害",
+      "発熱"
+    ],
+    "onset_dates": [
+      "2025/10/24"
+    ],
+    "days_to_onset": [
+      "1"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "不明"
+    ],
+    "gross_results": [
+      "不明"
+    ],
+    "pt_by_expert": "",
+    "causal_relationship_by_expert": "",
+    "brighton_classification_by_expert": "",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第111回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001694100.pdf"
+    }
+  },
+  {
+    "id": "111th-001694100-MIS-4",
+    "no": 4,
+    "age": 81,
+    "gender": "男",
+    "vaccinated_dates": [
+      "2025/10/25"
+    ],
+    "concurrent_vaccination_flag": true,
+    "concurrent_vaccination": "インフルエンザワクチン;565A;KMバイオロジクス",
+    "vaccine_name": "新型コロナ(コミナティ)",
+    "sales_name": "コミナティ",
+    "lot_no": "MT4666",
+    "manufacturer": "ファイザー",
+    "pre_existing_disease_names": [
+      "無"
+    ],
+    "PT_names": [
+      "ワクチン接種部位疼痛",
+      "ワクチン投与関連肩損傷",
+      "関節炎"
+    ],
+    "onset_dates": [
+      "2025/10/26"
+    ],
+    "days_to_onset": [
+      "1"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "不明"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "pt_by_expert": "",
+    "causal_relationship_by_expert": "",
+    "brighton_classification_by_expert": "",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第111回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001694100.pdf"
+    }
+  },
+  {
+    "id": "111th-001694100-MIS-5",
+    "no": 5,
+    "age": 72,
+    "gender": "女",
+    "vaccinated_dates": [
+      "2025/10/20"
+    ],
+    "concurrent_vaccination_flag": true,
+    "concurrent_vaccination": "インフルエンザHAワクチン「KMB」;560B;KMバイオロジクス",
+    "vaccine_name": "新型コロナ(コミナティ)",
+    "sales_name": "コミナティ",
+    "lot_no": "MT4666",
+    "manufacturer": "ファイザー",
+    "pre_existing_disease_names": [
+      "糖尿病",
+      "脂質異常症",
+      "骨粗鬆症",
+      "慢性腎臓病",
+      "高カリウム血症"
+    ],
+    "PT_names": [
+      "筋肉痛",
+      "筋力低下",
+      "炎症"
+    ],
+    "onset_dates": [
+      "2025/10/27"
+    ],
+    "days_to_onset": [
+      "7"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "2025/12/16"
+    ],
+    "gross_results": [
+      "後遺症あり"
+    ],
+    "pt_by_expert": "筋肉痛、筋力低下、炎症",
+    "causal_relationship_by_expert": "γ",
+    "brighton_classification_by_expert": "－",
+    "comments_by_expert": "現状の情報では、ワクチンが今回の病態や後遺症に関与したか否かを判断できない。",
+    "source": {
+      "name": "第111回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001694100.pdf"
+    }
+  },
+  {
+    "id": "111th-001694100-MIS-6",
+    "no": 6,
+    "age": 79,
+    "gender": "男",
+    "vaccinated_dates": [
+      "2025/10/28"
+    ],
+    "concurrent_vaccination_flag": false,
+    "concurrent_vaccination": "",
+    "vaccine_name": "新型コロナ(コミナティ)",
+    "sales_name": "コミナティ",
+    "lot_no": "MT4666",
+    "manufacturer": "ファイザー",
+    "pre_existing_disease_names": [
+      "高血圧",
+      "便秘",
+      "背部痛",
+      "心電図異常Ｑ波"
+    ],
+    "PT_names": [
+      "心筋炎",
+      "運動性低下",
+      "発熱",
+      "トロポニンＩ増加",
+      "血中クレアチンホスホキナーゼ増加",
+      "ＱＲＳ軸異常",
+      "心電図異常ＱＲＳ群",
+      "心電図異常Ｑ波"
+    ],
+    "onset_dates": [
+      "2025/10/29"
+    ],
+    "days_to_onset": [
+      "1"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "不明"
+    ],
+    "gross_results": [
+      "不明"
+    ],
+    "pt_by_expert": "心筋炎",
+    "causal_relationship_by_expert": "γ",
+    "brighton_classification_by_expert": "4",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第111回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001694100.pdf"
+    }
+  },
+  {
+    "id": "111th-001694100-MIS-7",
+    "no": 7,
+    "age": 88,
+    "gender": "女",
+    "vaccinated_dates": [
+      "2025/11/13"
+    ],
+    "concurrent_vaccination_flag": false,
+    "concurrent_vaccination": "",
+    "vaccine_name": "新型コロナ(コミナティ)",
+    "sales_name": "コミナティ",
+    "lot_no": "MR6664",
+    "manufacturer": "ファイザー",
+    "pre_existing_disease_names": [
+      "無"
+    ],
+    "PT_names": [
+      "肺炎",
+      "血栓症",
+      "血小板数減少",
+      "フィブリンＤダイマー増加",
+      "発熱",
+      "体調不良",
+      "悪寒",
+      "末梢冷感",
+      "熱感",
+      "湿性咳嗽",
+      "無力症",
+      "蒼白",
+      "変色痰",
+      "尿異常",
+      "血圧低下",
+      "昏睡尺度異常",
+      "酸素飽和度低下",
+      "呼吸困難",
+      "白血球数減少",
+      "尿量減少",
+      "呼吸窮迫",
+      "心拍数増加"
+    ],
+    "onset_dates": [
+      "2025/11/14"
+    ],
+    "days_to_onset": [
+      "1"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "2025/11/20"
+    ],
+    "gross_results": [
+      "死亡"
+    ],
+    "pt_by_expert": "肺炎、血栓症、血小板数減少、フィブリンＤダイマー増加、発熱、体調不良",
+    "causal_relationship_by_expert": "γ",
+    "brighton_classification_by_expert": "－",
+    "comments_by_expert": "接種翌日から発熱、血小板減少など体調不良をきたし、数日のうちに増悪して死に至った。ワクチン接種との時間的前後関係からワクチンの関与を否定できるものでないが、ワクチンが原因と肯定的に病態を説明できる知見は乏しい。",
+    "source": {
+      "name": "第111回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001694100.pdf"
+    }
+  },
+  {
+    "id": "111th-001694100-MIS-8",
+    "no": 8,
+    "age": 74,
+    "gender": "男",
+    "vaccinated_dates": [
+      "2025/11/21"
+    ],
+    "concurrent_vaccination_flag": true,
+    "concurrent_vaccination": "フルービックHAシリンジ;HK74A;阪大微研",
+    "vaccine_name": "新型コロナ(コミナティ)",
+    "sales_name": "コミナティ",
+    "lot_no": "MT4666",
+    "manufacturer": "ファイザー",
+    "pre_existing_disease_names": [
+      "疾患"
+    ],
+    "PT_names": [
+      "尿路出血"
+    ],
+    "onset_dates": [
+      "2025/11/23"
+    ],
+    "days_to_onset": [
+      "2"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "2025/11/27"
+    ],
+    "gross_results": [
+      "回復"
+    ],
+    "pt_by_expert": "",
+    "causal_relationship_by_expert": "",
+    "brighton_classification_by_expert": "",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第111回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001694100.pdf"
+    }
+  },
+  {
+    "id": "111th-001694100-MIS-9",
+    "no": 9,
+    "age": 80,
+    "gender": "女",
+    "vaccinated_dates": [
+      "2025/11/25"
+    ],
+    "concurrent_vaccination_flag": false,
+    "concurrent_vaccination": "",
+    "vaccine_name": "新型コロナ(コミナティ)",
+    "sales_name": "コミナティ",
+    "lot_no": "MR6664",
+    "manufacturer": "ファイザー",
+    "pre_existing_disease_names": [
+      "無"
+    ],
+    "PT_names": [
+      "フィブリンＤダイマー増加",
+      "出血性膀胱炎"
+    ],
+    "onset_dates": [
+      "2025/11/27"
+    ],
+    "days_to_onset": [
+      "2"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "不明"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "pt_by_expert": "",
+    "causal_relationship_by_expert": "",
+    "brighton_classification_by_expert": "",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第111回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001694100.pdf"
+    }
+  },
+  {
+    "id": "111th-001694100-MIS-10",
+    "no": 10,
+    "age": 87,
+    "gender": "男",
+    "vaccinated_dates": [
+      "2025/12/3"
+    ],
+    "concurrent_vaccination_flag": false,
+    "concurrent_vaccination": "",
+    "vaccine_name": "新型コロナ(コミナティ)",
+    "sales_name": "コミナティ",
+    "lot_no": "MR6664",
+    "manufacturer": "ファイザー",
+    "pre_existing_disease_names": [
+      "多系統萎縮症"
+    ],
+    "PT_names": [
+      "よだれ",
+      "意識レベルの低下",
+      "蒼白",
+      "湿性咳嗽",
+      "チアノーゼ",
+      "窒息"
+    ],
+    "onset_dates": [
+      "2025/12/4"
+    ],
+    "days_to_onset": [
+      "1"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "不明"
+    ],
+    "gross_results": [
+      "不明"
+    ],
+    "pt_by_expert": "",
+    "causal_relationship_by_expert": "",
+    "brighton_classification_by_expert": "",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第111回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001694100.pdf"
+    }
+  },
+  {
+    "id": "111th-001694100-MIS-11",
+    "no": 11,
+    "age": 73,
+    "gender": "女",
+    "vaccinated_dates": [
+      "2025/12/19"
+    ],
+    "concurrent_vaccination_flag": false,
+    "concurrent_vaccination": "",
+    "vaccine_name": "新型コロナ(コミナティ)",
+    "sales_name": "コミナティ",
+    "lot_no": "MR6667",
+    "manufacturer": "ファイザー",
+    "pre_existing_disease_names": [
+      "統合失調症"
+    ],
+    "PT_names": [
+      "老衰"
+    ],
+    "onset_dates": [
+      "2025/12/20"
+    ],
+    "days_to_onset": [
+      "1"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "不明"
+    ],
+    "gross_results": [
+      "死亡"
+    ],
+    "pt_by_expert": "",
+    "causal_relationship_by_expert": "",
+    "brighton_classification_by_expert": "",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第111回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001694100.pdf"
+    }
+  },
+  {
+    "id": "111th-001694100-MIS-12",
+    "no": 12,
+    "age": "不明",
+    "gender": "男",
+    "vaccinated_dates": [
+      "不明"
+    ],
+    "concurrent_vaccination_flag": false,
+    "concurrent_vaccination": "",
+    "vaccine_name": "新型コロナ(コミナティ)",
+    "sales_name": "コミナティ",
+    "lot_no": "不明",
+    "manufacturer": "ファイザー",
+    "pre_existing_disease_names": [
+      "新型コロナワクチン4回接",
+      "種しているが詳細な日程",
+      "不明"
+    ],
+    "PT_names": [
+      "COVID-19後遺症様症状"
+    ],
+    "onset_dates": [
+      "不明"
+    ],
+    "days_to_onset": [
+      "不明"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "不明"
+    ],
+    "gross_results": [
+      "未回復"
+    ],
+    "pt_by_expert": "",
+    "causal_relationship_by_expert": "",
+    "brighton_classification_by_expert": "",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第111回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001694100.pdf"
+    }
+  },
+  {
+    "id": "111th-001694100-MIS-13",
+    "no": 13,
+    "age": 55,
+    "gender": "男",
+    "vaccinated_dates": [
+      "不明"
+    ],
+    "concurrent_vaccination_flag": false,
+    "concurrent_vaccination": "",
+    "vaccine_name": "新型コロナ(コミナティ)",
+    "sales_name": "コミナティ",
+    "lot_no": "不明",
+    "manufacturer": "ファイザー",
+    "pre_existing_disease_names": [
+      "コロナワクチン2回接種済",
+      "だが接種日時不明"
+    ],
+    "PT_names": [
+      "COVID-19後遺症様症状"
+    ],
+    "onset_dates": [
+      "不明"
+    ],
+    "days_to_onset": [
+      "不明"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "不明"
+    ],
+    "gross_results": [
+      "未回復"
+    ],
+    "pt_by_expert": "",
+    "causal_relationship_by_expert": "",
+    "brighton_classification_by_expert": "",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第111回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001694100.pdf"
+    }
+  }
+]

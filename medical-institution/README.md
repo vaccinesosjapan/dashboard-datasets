@@ -16,28 +16,34 @@
 医療機関からの報告（重篤、非重篤の両方）に対して、以下の手順を実行する。
 
 1. 新しいPDFを「pdf-files」フォルダにダウンロードする。
-1. ダウンロードしたPDFのファイル名やリンクURLなどを「**reports-settings.yaml**」に記入する。
-1. 同じ内容を「**reports-settings-all.yaml**」の末尾にも追記する。
-1. フォルダ 「./intermediate-files./{relative_dir}」 を作る。
-1. コマンド`python _1-extract-pdf-to-csv.py`を実行して、PDFからCSV形式でデータを抽出する。
+2. ダウンロードしたPDFのファイル名やリンクURLなどを「**reports-settings.yaml**」に記入する。
+3. 同じ内容を「**reports-settings-all.yaml**」の末尾にも追記する。
+4. フォルダ 「./intermediate-files./{relative_dir}」 を作る。
+5. コマンド`python _1-extract-pdf-to-csv.py`を実行して、PDFからCSV形式でデータを抽出する。
     * 抽出結果は 「**{file_id}.csv**」 に保存される。
-1. CSVファイルをコピーして「**{file_id}-pre.csv**」に保存する。
-1. コピーしたCSVを開き、ヘッダ情報を手作業で追加して保存する。
+6. CSVファイルをコピーして「**{file_id}-pre.csv**」に保存する。
+7. コピーしたCSVを開き、ヘッダ情報を手作業で追加して保存する。
     * ヘッダ情報は前回の分を参考にする。
     * 前回と異なる場合、スクリプトをバージョンアップして対応する。yamlの「script-version」も更新する。
-1. コマンド`python _2-standardize-csv.py`を実行して、CSVのデータを整形する。
+8. コマンド`python _2-standardize-csv.py`を実行して、CSVのデータを整形する。
     * 抽出結果は「**{file_id}-converted.csv**」に保存される。
-1. CSVファイルをコピーして「**{file_id}-manually-fixed.csv**」に保存する。
-1. コピーしたCSVを開き、列がおかしい箇所などが無いか目視で確認。必要に応じて手作業で修正する。
+9. CSVファイルをコピーして「**{file_id}-manually-fixed.csv**」に保存する。
+10. コピーしたCSVを開き、列がおかしい箇所などが無いか目視で確認。必要に応じて手作業で修正する。
     * 「VSCode」の「EditCSV」拡張や「Excel」で開いて確認するとスムーズ。
-1. 以下のコマンドを実行して、データの最終的な整形をしつつCSVをJSONに変換して保存する。
+11. 以下のコマンドを実行して、データの最終的な整形をしつつCSVをJSONに変換して保存する。
     * `python _3-save-to-json.py`
 
 一通りのPDFに対して上記手順を実行できたら、最後にサマリ情報を更新する。
 
 1. 「**summary-metadata.yaml**」 を更新する。
-1. `python _4-sum-reports.py` を実行する。
-1. `python _5-generate-id-with-sorting.py` を実行する。
+2. `python _4-sum-reports.py` を実行する。
+3. `python _5-generate-id-with-sorting.py` を実行する。
+
+さらに、件数の集計情報を更新する。
+
+1. `mi-counts`ディレクトリに移動する。
+2. `ordinal_number.yaml`を更新する。
+3. `uv run main.py`を実行する。
 
 ## メモ
 

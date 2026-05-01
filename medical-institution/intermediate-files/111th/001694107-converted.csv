@@ -1,0 +1,8 @@
+no,age,gender,vaccinated_dates,concurrent_vaccination_flag,concurrent_vaccination,vaccine_name,sales_name,lot_no,manufacturer,pre_existing_disease_names,PT_names,onset_dates,days_to_onset,causal_relationship,severity,gross_result_dates,gross_results,pt_by_expert,causal_relationship_by_expert,brighton_classification_by_expert,comments_by_expert
+1,26歳,男,2025/11/10,True,インフルエンザHAワクチン;568A;KMバイオロジクス,新型コロナ(ヌバキソビッド),ヌバキソビッド,NY001,武田薬品工業,"２１トリソミー
+低酸素性虚血性脳症
+肺炎
+気管手術",急性呼吸不全,2025/11/10,0,評価不能,重い,2025/11/11,死亡,"急性呼吸不全
+意識変容状態",γ,－,基礎疾患にダウン症候群と低酸素性虚血性脳症あり。気管孔造設。インフルエンザワクチンと新型コロナワクチン接種当日の夜に意識変容と呼吸不全で突然死。基礎疾患は重篤であったと考えられる。接種後約10時間での死亡だが、それ以外にワクチンとの因果関係を積極的に示唆する情報は無
+2,82歳,女,2025/11/27,False,,新型コロナ(ヌバキソビッド),ヌバキソビッド,NY001,武田薬品工業,"高血圧
+高脂血症",ネフローゼ症候群,2025/11/28,1,評価不能,重い,不明,不明,,,,
