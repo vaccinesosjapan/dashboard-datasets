@@ -30,7 +30,7 @@ csv_data = merged_df.to_csv(index=False)
 
 # %%
 csv_file_path = os.path.join(csv_dir_path, csv_file_name)
-with open(csv_file_path, "w", encoding='utf-8') as f:
+with open(csv_file_path, "w", encoding='utf-8', newline='\n') as f:
 	f.write(csv_data)
 
 # %%
@@ -49,7 +49,7 @@ def remove_empty_lines(source_path, target_path):
                 line = re.sub('^,', '', line)
             fixed_data += line
 
-    with open(target_path, "w", encoding="utf-8") as f:
+    with open(target_path, "w", encoding="utf-8", newline='\n') as f:
         f.write(fixed_data)
 
 remove_empty_lines(csv_file_path, csv_file_path)

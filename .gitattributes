@@ -2,6 +2,7 @@
 
 *.bat text eol=crlf
 
+*.csv eol=lf
 *.json eol=lf
 *.py eol=lf
 *.yaml eol=lf

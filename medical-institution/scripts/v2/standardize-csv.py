@@ -105,7 +105,7 @@ df.loc[concurrent_vaccine_df.index, 'concurrent_vaccination'] = concurrent_vacci
 # %%
 csv_file_name_without_ext = os.path.splitext(csv_file_name)[0].replace('-pre', '-converted')
 csv_file_path = os.path.join(csv_folder, f'{csv_file_name_without_ext}.csv')
-with open(csv_file_path, encoding='utf-8', mode='w') as f:
+with open(csv_file_path, encoding='utf-8', mode='w', newline='\n') as f:
 	f.write(df.to_csv(index=False))
 
 # %%
@@ -121,7 +121,7 @@ def remove_empty_lines(source_path, target_path):
                 line = re.sub('^,', '', line)
             fixed_data += line
 
-    with open(target_path, "w", encoding="utf-8") as f:
+    with open(target_path, "w", encoding="utf-8", newline='\n') as f:
         f.write(fixed_data)
 
 

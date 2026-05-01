@@ -48,7 +48,7 @@ for file in jsonFileList:
 sorted_issues = sorted(medical_institution_issues, key=lambda issue: issue['no'])
 json_string = json.dumps(sorted_issues, ensure_ascii=False, indent=2)
 output_path = os.path.join(output_dir, 'medical-institution-reports.json')
-with open( output_path, "w", encoding='utf-8' ) as f:
+with open( output_path, "w", encoding='utf-8', newline='\n') as f:
 	f.write(json_string)
 
 
@@ -66,7 +66,7 @@ certified_symptoms_metadata = {
 }
 output_file_path = os.path.join(output_dir, 'medical-institution-metadata.json')
 json_string = json.dumps(certified_symptoms_metadata, ensure_ascii=False, indent=2)
-with open( output_file_path, "w", encoding='utf-8') as f:
+with open( output_file_path, "w", encoding='utf-8', newline='\n') as f:
 	f.write(json_string)
 
 
@@ -114,5 +114,5 @@ summary_data = {
 
 json_string = json.dumps(summary_data, ensure_ascii=False, indent=2)
 output_path = os.path.join(output_dir, 'medical-institution-summary-from-reports.json')
-with open( output_path, "w", encoding='utf-8') as f:
+with open( output_path, "w", encoding='utf-8', newline='\n') as f:
     f.write(json_string)

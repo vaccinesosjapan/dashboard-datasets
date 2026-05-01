@@ -38,13 +38,11 @@ def add_id_column(df: pd.DataFrame, source_url: str, id_metadata_number: str, id
 def convert_to_list(df: pd.DataFrame) -> None:
 	'''
 	基礎疾患や接種日など、一部のデータは改行コードでsplitしてlist化する。
-	一度csv化して読み直すとうまく扱えないためstandardize処理では「改行コードをLFに統一する」のみに留めており、
-	この処理でlist化する。
 	引数で受け取ったDataFrameを直接編集する点に注意。
 	'''
 	split_targets = ['vaccinated_dates', 'PT_names', 'pre_existing_disease_names', 'onset_dates', 'days_to_onset', 'gross_result_dates', 'gross_results']
 	for column_name in split_targets:
-		df.loc[:, column_name] = df[column_name].str.split('\n')
+		df.loc[:, column_name] = df[column_name].str.replace('\r\n', '\n').str.split('\n')
 
 
 def main():
@@ -62,7 +60,7 @@ def main():
 
 	csv_file_path = os.path.join(csv_folder, csv_file_name)
 	df = pd.read_csv(csv_file_path, delimiter=',', 
-				  dtype={'days_to_onset': str, 'pre_existing_disease_names': object})
+				  dtype={'lot_no': str, 'days_to_onset': str})
 
 	# このあとの各種処理をしやすくするため、NaNは空文字列に置換しておく。
 	df = df.fillna('')
@@ -75,7 +73,7 @@ def main():
 
 	# pt_by_expert は訳あって、『複数項目を「、」でつないだ文字列』に変換しないといけない。
 	if 'pt_by_expert' in df.columns:
-		df.loc[:, 'pt_by_expert'] = df['pt_by_expert'].str.replace('\n', '、')
+		df.loc[:, 'pt_by_expert'] = df['pt_by_expert'].str.replace('\r\n', '\n').str.replace('\n', '、')
 
 	result_issue_count = df.shape[0]
 	if result_issue_count != expected_issue_count:
@@ -88,7 +86,7 @@ def main():
 	df_string = json.dumps(df_dict, ensure_ascii=False, indent=2)
 
 	json_file_path = os.path.join(json_folder, json_file_name)
-	with open(json_file_path, encoding='utf-8', mode='w') as f:
+	with open(json_file_path, encoding='utf-8', mode='w', newline='\n') as f:
 		f.write(df_string)
 
 	print(f'{json_file_path} にJSON形式で保存しました。')

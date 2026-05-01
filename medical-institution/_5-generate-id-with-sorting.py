@@ -111,7 +111,5 @@ df = df.sort_values(
 df_dict = df.to_dict("records")
 df_string = json.dumps(df_dict, ensure_ascii=False, indent=2)
 
-with open(json_file_path, encoding='utf-8', mode='w') as f:
+with open(json_file_path, encoding='utf-8', mode='w', newline='\n') as f:
 	f.write(df_string)
-
-
