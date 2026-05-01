@@ -4,9 +4,11 @@ import os, sys, json
 import yaml
 
 
-# 第何回の検討部会がいつ開催されたのか（データが発表されたのか）という情報を記載した ordinal_number.yaml を読み込み
-# 医療機関からの副反応疑い報告一覧を使って「発表日」や「累計件数」をまとめたDataFrameを作る。
 def create_published_date_dataframe(df: pd.DataFrame) -> pd.DataFrame:
+    '''
+    第何回の検討部会がいつ開催されたのか（データが発表されたのか）という情報を記載した ordinal_number.yaml を読み込み
+    医療機関からの副反応疑い報告一覧を使って「発表日」や「累計件数」をまとめたDataFrameを作る。
+    '''
     with open("ordinal_number.yaml", encoding='utf-8') as f:
         data = yaml.safe_load(f)
 
@@ -24,18 +26,22 @@ def create_published_date_dataframe(df: pd.DataFrame) -> pd.DataFrame:
     return date_count_df
 
 
-# CSVから報告日と件数、累計件数の情報を抽出してDataFrame形式で返す。
 def extract_df_from_csv(csv_name: str) -> pd.DataFrame:
-	script_dir = Path.cwd()
-	df = pd.read_csv(os.path.join(script_dir, "csv-files", csv_name))
-	df['published_date'] = df['published_date'].str.replace('年','/').str.replace('月','/').str.replace('日','')
-	df = df.drop(columns=['name','date_range', 'remarks']).rename(columns={"delta": "count"}).reindex(columns=['published_date','count','cumulative_count'])
+    '''
+    CSVから報告日と件数、累計件数の情報を抽出してDataFrame形式で返す。
+    '''
+    script_dir = Path.cwd()
+    df = pd.read_csv(os.path.join(script_dir, "csv-files", csv_name))
+    df['published_date'] = df['published_date'].str.replace('年','/').str.replace('月','/').str.replace('日','')
+    df = df.drop(columns=['name','date_range', 'remarks']).rename(columns={"delta": "count"}).reindex(columns=['published_date','count','cumulative_count'])
 
-	return df
+    return df
 
 
-# CSVから読み込んだ累計件数の情報をマージする処理。
 def merge_and_sum_counts(left_df: pd.DataFrame, right_df: pd.DataFrame) -> pd.DataFrame:
+    '''
+    CSVから読み込んだ累計件数の情報をマージする処理。
+    '''
     merged_df = pd.merge(left=left_df, right=right_df, on='published_date', how='left').fillna(0)
     merged_df['count'] = merged_df['count_x'] + merged_df['count_y']
     merged_df['cumulative_count'] = merged_df['cumulative_count_x'] + merged_df['cumulative_count_y']
@@ -45,9 +51,11 @@ def merge_and_sum_counts(left_df: pd.DataFrame, right_df: pd.DataFrame) -> pd.Da
 
     return merged_df
 
-# DataFrameを直接JSON保存すると日付データなどが意図したようなフォーマットで保存されないため、
-# それを解消して良い感じに保存する処理。
+
 def save_json_from_dataframe(df: pd.DataFrame, json_file_path: str):
+    '''
+    DataFrameを直接JSON保存すると日付データなどが意図したようなフォーマットで保存されないため、それを解消して良い感じに保存する処理。
+    '''
     df_dict = df.to_dict("records")
     df_string = json.dumps(df_dict, ensure_ascii=False, indent=2)
 
