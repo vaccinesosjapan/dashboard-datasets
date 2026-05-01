@@ -1,0 +1,92 @@
+[
+  {
+    "id": "111th-001694107-MIS-1",
+    "no": 1,
+    "age": 26,
+    "gender": "男",
+    "vaccinated_dates": [
+      "2025/11/10"
+    ],
+    "concurrent_vaccination_flag": true,
+    "concurrent_vaccination": "インフルエンザHAワクチン;568A;KMバイオロジクス",
+    "vaccine_name": "新型コロナ(ヌバキソビッド)",
+    "sales_name": "ヌバキソビッド",
+    "lot_no": "NY001",
+    "manufacturer": "武田薬品工業",
+    "pre_existing_disease_names": [
+      "２１トリソミー",
+      "低酸素性虚血性脳症",
+      "肺炎",
+      "気管手術"
+    ],
+    "PT_names": [
+      "急性呼吸不全"
+    ],
+    "onset_dates": [
+      "2025/11/10"
+    ],
+    "days_to_onset": [
+      "0"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "2025/11/11"
+    ],
+    "gross_results": [
+      "死亡"
+    ],
+    "pt_by_expert": "急性呼吸不全、意識変容状態",
+    "causal_relationship_by_expert": "γ",
+    "brighton_classification_by_expert": "－",
+    "comments_by_expert": "基礎疾患にダウン症候群と低酸素性虚血性脳症あり。気管孔造設。インフルエンザワクチンと新型コロナワクチン接種当日の夜に意識変容と呼吸不全で突然死。基礎疾患は重篤であったと考えられる。接種後約10時間での死亡だが、それ以外にワクチンとの因果関係を積極的に示唆する情報は無",
+    "source": {
+      "name": "第111回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001694107.pdf"
+    }
+  },
+  {
+    "id": "111th-001694107-MIS-2",
+    "no": 2,
+    "age": 82,
+    "gender": "女",
+    "vaccinated_dates": [
+      "2025/11/27"
+    ],
+    "concurrent_vaccination_flag": false,
+    "concurrent_vaccination": "",
+    "vaccine_name": "新型コロナ(ヌバキソビッド)",
+    "sales_name": "ヌバキソビッド",
+    "lot_no": "NY001",
+    "manufacturer": "武田薬品工業",
+    "pre_existing_disease_names": [
+      "高血圧",
+      "高脂血症"
+    ],
+    "PT_names": [
+      "ネフローゼ症候群"
+    ],
+    "onset_dates": [
+      "2025/11/28"
+    ],
+    "days_to_onset": [
+      "1"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "不明"
+    ],
+    "gross_results": [
+      "不明"
+    ],
+    "pt_by_expert": "",
+    "causal_relationship_by_expert": "",
+    "brighton_classification_by_expert": "",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第111回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001694107.pdf"
+    }
+  }
+]

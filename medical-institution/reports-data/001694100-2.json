@@ -1,0 +1,82 @@
+[
+  {
+    "id": "111th-001694100-MIN-1",
+    "no": 1,
+    "age": 63,
+    "gender": "男",
+    "vaccinated_dates": [
+      "2025/12/8"
+    ],
+    "concurrent_vaccination_flag": false,
+    "concurrent_vaccination": "",
+    "vaccine_name": "新型コロナ(コミナティ)",
+    "sales_name": "コミナティ",
+    "lot_no": "MR6664",
+    "manufacturer": "ファイザー",
+    "pre_existing_disease_names": [
+      "無"
+    ],
+    "PT_names": [
+      "微熱",
+      "接種部位の疼痛"
+    ],
+    "onset_dates": [
+      "2025/12/9"
+    ],
+    "days_to_onset": [
+      "1"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "不明"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "source": {
+      "name": "第111回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001694100.pdf"
+    }
+  },
+  {
+    "id": "111th-001694100-MIN-2",
+    "no": 2,
+    "age": 84,
+    "gender": "男",
+    "vaccinated_dates": [
+      "2025/12/22"
+    ],
+    "concurrent_vaccination_flag": true,
+    "concurrent_vaccination": "インフルエンザHAワクチン「KMB」;571A;KMバイオロジクス",
+    "vaccine_name": "新型コロナ(コミナティ)",
+    "sales_name": "コミナティ",
+    "lot_no": "MR6664",
+    "manufacturer": "ファイザー",
+    "pre_existing_disease_names": [
+      "無"
+    ],
+    "PT_names": [
+      "ふらつき",
+      "血圧上昇"
+    ],
+    "onset_dates": [
+      "2025/12/22"
+    ],
+    "days_to_onset": [
+      "0"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "不明"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "source": {
+      "name": "第111回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001694100.pdf"
+    }
+  }
+]

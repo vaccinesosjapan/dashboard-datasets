@@ -1,0 +1,186 @@
+[
+  {
+    "id": "111th-001694103-MIS-1",
+    "no": 1,
+    "age": 97,
+    "gender": "女",
+    "vaccinated_dates": [
+      "2025/10/22"
+    ],
+    "concurrent_vaccination_flag": true,
+    "concurrent_vaccination": "インフルエンザHAワクチン*デンカ;782-A;デンカ",
+    "vaccine_name": "新型コロナ(スパイクバックス)",
+    "sales_name": "スパイクバックス",
+    "lot_no": 60,
+    "manufacturer": "モデルナ・ジャパン",
+    "pre_existing_disease_names": [
+      "慢性心不全",
+      "糖尿病"
+    ],
+    "PT_names": [
+      "発熱",
+      "呼吸不全",
+      "痰貯留",
+      "誤嚥性肺炎",
+      "意識レベルの低下"
+    ],
+    "onset_dates": [
+      "2025/10/23"
+    ],
+    "days_to_onset": [
+      "1"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "不明"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "pt_by_expert": "",
+    "causal_relationship_by_expert": "",
+    "brighton_classification_by_expert": "",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第111回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001694103.pdf"
+    }
+  },
+  {
+    "id": "111th-001694103-MIS-2",
+    "no": 2,
+    "age": 82,
+    "gender": "男",
+    "vaccinated_dates": [
+      "2025/10/21"
+    ],
+    "concurrent_vaccination_flag": true,
+    "concurrent_vaccination": "インフルエンザHAワクチン*デンカ;783-A;デンカ",
+    "vaccine_name": "新型コロナ(スパイクバックス)",
+    "sales_name": "スパイクバックス",
+    "lot_no": 60,
+    "manufacturer": "モデルナ・ジャパン",
+    "pre_existing_disease_names": [
+      "糖尿病"
+    ],
+    "PT_names": [
+      "間質性肺疾患",
+      "末梢冷感",
+      " 肺炎",
+      "誤嚥性肺炎"
+    ],
+    "onset_dates": [
+      "2025/10/23"
+    ],
+    "days_to_onset": [
+      "2"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "不明"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "pt_by_expert": "",
+    "causal_relationship_by_expert": "",
+    "brighton_classification_by_expert": "",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第111回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001694103.pdf"
+    }
+  },
+  {
+    "id": "111th-001694103-MIS-3",
+    "no": 3,
+    "age": 96,
+    "gender": "女",
+    "vaccinated_dates": [
+      "2025/11/7"
+    ],
+    "concurrent_vaccination_flag": false,
+    "concurrent_vaccination": "",
+    "vaccine_name": "新型コロナ(スパイクバックス)",
+    "sales_name": "スパイクバックス",
+    "lot_no": 60,
+    "manufacturer": "モデルナ・ジャパン",
+    "pre_existing_disease_names": [
+      "肺炎"
+    ],
+    "PT_names": [
+      "肺炎"
+    ],
+    "onset_dates": [
+      "2025/11/7"
+    ],
+    "days_to_onset": [
+      "0"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "2025/11/8"
+    ],
+    "gross_results": [
+      "死亡"
+    ],
+    "pt_by_expert": "肺炎",
+    "causal_relationship_by_expert": "γ",
+    "brighton_classification_by_expert": "－",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第111回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001694103.pdf"
+    }
+  },
+  {
+    "id": "111th-001694103-MIS-4",
+    "no": 4,
+    "age": 94,
+    "gender": "女",
+    "vaccinated_dates": [
+      "2025/12/4"
+    ],
+    "concurrent_vaccination_flag": false,
+    "concurrent_vaccination": "",
+    "vaccine_name": "新型コロナ(スパイクバックス)",
+    "sales_name": "スパイクバックス",
+    "lot_no": 59,
+    "manufacturer": "モデルナ・ジャパン",
+    "pre_existing_disease_names": [
+      "糖尿病",
+      "慢性腎臓病",
+      "腎性貧血",
+      "肝障害"
+    ],
+    "PT_names": [
+      "間質性肺疾患",
+      "呼吸不全"
+    ],
+    "onset_dates": [
+      "2025/12/6"
+    ],
+    "days_to_onset": [
+      "2"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "2025/12/7"
+    ],
+    "gross_results": [
+      "死亡"
+    ],
+    "pt_by_expert": "間質性肺、疾患、呼吸不全",
+    "causal_relationship_by_expert": "γ",
+    "brighton_classification_by_expert": "－",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第111回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001694103.pdf"
+    }
+  }
+]

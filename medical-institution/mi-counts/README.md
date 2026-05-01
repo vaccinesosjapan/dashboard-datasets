@@ -4,6 +4,8 @@
 
 ## 実行方法
 
+データを追加した検討部会に関する情報を`ordinal_number.yaml`に追加する。その後に以下を実行する。
+
 ```sh
 uv run main.py
 ```

@@ -1,0 +1,48 @@
+[
+  {
+    "id": "111th-001694106-MIS-1",
+    "no": 1,
+    "age": 82,
+    "gender": "男",
+    "vaccinated_dates": [
+      "2025/10/30"
+    ],
+    "concurrent_vaccination_flag": false,
+    "concurrent_vaccination": "",
+    "vaccine_name": "新型コロナ(コスタイベ)",
+    "sales_name": "コスタイベ",
+    "lot_no": 1,
+    "manufacturer": "MeijiSeikaファルマ",
+    "pre_existing_disease_names": [
+      "脳血管障害",
+      "高血圧",
+      "認知症",
+      "視床出血"
+    ],
+    "PT_names": [
+      "脳出血"
+    ],
+    "onset_dates": [
+      "2025/11/1"
+    ],
+    "days_to_onset": [
+      "2"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "2025/11/17"
+    ],
+    "gross_results": [
+      "後遺症あり"
+    ],
+    "pt_by_expert": "脳出血",
+    "causal_relationship_by_expert": "γ",
+    "brighton_classification_by_expert": "－",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第111回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001694106.pdf"
+    }
+  }
+]

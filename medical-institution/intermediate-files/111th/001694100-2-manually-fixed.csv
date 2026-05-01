@@ -1,0 +1,5 @@
+no,age,gender,vaccinated_dates,concurrent_vaccination_flag,concurrent_vaccination,vaccine_name,sales_name,lot_no,manufacturer,pre_existing_disease_names,PT_names,onset_dates,days_to_onset,causal_relationship,severity,gross_result_dates,gross_results
+1,63歳,男,2025/12/8,False,,新型コロナ(コミナティ),コミナティ,MR6664,ファイザー,無,"微熱
+接種部位の疼痛",2025/12/9,1,関連あり,重くない,不明,軽快
+2,84歳,男,2025/12/22,True,インフルエンザHAワクチン「KMB」;571A;KMバイオロジクス,新型コロナ(コミナティ),コミナティ,MR6664,ファイザー,無,"ふらつき
+血圧上昇",2025/12/22,0,評価不能,重くない,不明,軽快
