@@ -61168,5 +61168,331 @@
       "name": "第110回",
       "url": "https://www.mhlw.go.jp/content/11120000/001650183.pdf"
     }
+  },
+  {
+    "id": "111-コミナティ-1",
+    "no": 1,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ",
+    "age": 73,
+    "gender": "男",
+    "vaccinated_dates": "2024/10",
+    "onset_dates": [
+      "2024"
+    ],
+    "lot_no": "",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "多系統萎縮症",
+    "PT_names": [
+      "免疫性血小板減少症",
+      "呼吸不全",
+      "肺胞出血",
+      "肺障害"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "ー",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第111回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001694108.pdf"
+    }
+  },
+  {
+    "id": "111-コミナティ-2",
+    "no": 2,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ",
+    "age": 88,
+    "gender": "女",
+    "vaccinated_dates": "2025/10/23",
+    "onset_dates": [
+      "2025/10/30"
+    ],
+    "lot_no": "MT4666",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "変形性関節症\n狭心症\n胃食道逆流性疾患\n頭痛\n高血圧",
+    "PT_names": [
+      "心肺停止",
+      "心臓死",
+      "急性心筋梗塞"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "関連あり",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第111回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001694108.pdf"
+    }
+  },
+  {
+    "id": "111-コミナティ-3",
+    "no": 3,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ",
+    "age": 88,
+    "gender": "女",
+    "vaccinated_dates": "2025/11/13",
+    "onset_dates": [
+      "2025/11/20"
+    ],
+    "lot_no": "MR6664",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "",
+    "PT_names": [
+      "加 発",
+      "フィブリンＤダイマー増",
+      "熱",
+      "肺炎",
+      "血小板数減少",
+      "血栓症",
+      "体調不良"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "接種翌日から発熱、血小板減少など体調不良をきたし、数日のうち\nに増悪して死に至った。ワクチン接種との時間的前後関係からワク\nチンの関与を否定できるものでないが、ワクチンが原因と肯定的に\n病態を説明できる知見は乏しい。",
+    "source": {
+      "name": "第111回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001694108.pdf"
+    }
+  },
+  {
+    "id": "111-コミナティ-4",
+    "no": 4,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ",
+    "age": 88,
+    "gender": "女",
+    "vaccinated_dates": "2025/11/20",
+    "onset_dates": [
+      "2025/11/23"
+    ],
+    "lot_no": "MT4666",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "",
+    "PT_names": [
+      "死亡"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "ー",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "接種3日後の死亡で、不整脈を合併していたということであるが、臨床徴候などの情報がきわめて乏しい。",
+    "source": {
+      "name": "第111回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001694108.pdf"
+    }
+  },
+  {
+    "id": "111-コミナティ-5",
+    "no": 5,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ",
+    "age": 91,
+    "gender": "女",
+    "vaccinated_dates": "",
+    "onset_dates": [
+      "2025/12"
+    ],
+    "lot_no": "",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "",
+    "PT_names": [
+      "マラスムス",
+      "低体温"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "ー",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "接種2日後に死亡し、死亡前は低体温に気付かれていた。死因は老衰と考えられており、年齢や症状の経過を考慮してその可能性はあるが、ワクチンとの因果関係を考察できる情報は乏しい。",
+    "source": {
+      "name": "第111回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001694108.pdf"
+    }
+  },
+  {
+    "id": "111-コミナティ-6",
+    "no": 6,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ",
+    "age": 73,
+    "gender": "女",
+    "vaccinated_dates": "2025/12/19",
+    "onset_dates": [
+      "不明"
+    ],
+    "lot_no": "MR6667",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "",
+    "PT_names": [
+      "調査中"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "調査中",
+    "causal_relationship_by_expert": "調査中",
+    "comments_by_expert": "調査中",
+    "source": {
+      "name": "第111回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001694108.pdf"
+    }
+  },
+  {
+    "id": "111-スパイクバックス-1",
+    "no": 1,
+    "manufacturer": "モデルナ",
+    "vaccine_name": "スパイクバックス",
+    "age": 96,
+    "gender": "女",
+    "vaccinated_dates": "2025/11/07",
+    "onset_dates": [
+      "2025/11/08"
+    ],
+    "lot_no": 60,
+    "vaccinated_times": "",
+    "pre_existing_conditions": "肺炎",
+    "PT_names": [
+      "肺炎"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第111回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001694116.pdf"
+    }
+  },
+  {
+    "id": "111-スパイクバックス-2",
+    "no": 2,
+    "manufacturer": "モデルナ",
+    "vaccine_name": "スパイクバックス",
+    "age": 94,
+    "gender": "女",
+    "vaccinated_dates": "2025/12/04",
+    "onset_dates": [
+      "2025/12/07"
+    ],
+    "lot_no": 59,
+    "vaccinated_times": "",
+    "pre_existing_conditions": "慢性腎臓病\n糖尿病\n肝障害\n腎性貧血",
+    "PT_names": [
+      "呼吸不全",
+      "間質性肺疾患"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "関連あり",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第111回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001694116.pdf"
+    }
+  },
+  {
+    "id": "111-ダイチロナ-1",
+    "no": 1,
+    "manufacturer": "第一三共",
+    "vaccine_name": "ダイチロナ",
+    "age": 73,
+    "gender": "男",
+    "vaccinated_dates": "2024/10",
+    "onset_dates": [
+      "2024"
+    ],
+    "lot_no": "",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "多系統萎縮症",
+    "PT_names": [
+      "免疫性血小板減少症",
+      "肺障害"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "ー",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第111回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001694117.pdf"
+    }
+  },
+  {
+    "id": "111-ヌバキソビッド-1",
+    "no": 1,
+    "manufacturer": "ノババックス／武田",
+    "vaccine_name": "ヌバキソビッド",
+    "age": 72,
+    "gender": "男",
+    "vaccinated_dates": "",
+    "onset_dates": [
+      "不明"
+    ],
+    "lot_no": "NT001",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "",
+    "PT_names": [
+      "死亡"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "ー",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "接種4日後の死亡ということであるが、症状の経過などに関する情報が全く無い",
+    "source": {
+      "name": "第111回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001694119.pdf"
+    }
+  },
+  {
+    "id": "111-ヌバキソビッド-2",
+    "no": 2,
+    "manufacturer": "ノババックス／武田",
+    "vaccine_name": "ヌバキソビッド\nインフルエンザHAワクチン「KMB」",
+    "age": 26,
+    "gender": "男",
+    "vaccinated_dates": "2025/11/10",
+    "onset_dates": [
+      "2025/11/11"
+    ],
+    "lot_no": "NY001\n568A",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "低酸素性虚血性脳症\n気管切開\n肺炎\n２１トリソミー",
+    "PT_names": [
+      "不明"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "基礎疾患にダウン症候群と低酸素性虚血性脳症あり。気管孔造設。\nインフルエンザワクチンと新型コロナワクチン接種当日の夜に意識変容と呼吸不全で突然死。基礎疾患は重篤であったと考えられる。\n接種後約10時間での死亡だが、それ以外にワクチンとの因果関係を積極的に示唆する情報は無し。",
+    "source": {
+      "name": "第111回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001694119.pdf"
+    }
+  },
+  {
+    "id": "111-ヌバキソビッド-3",
+    "no": 3,
+    "manufacturer": "ノババックス／武田",
+    "vaccine_name": "ヌバキソビッド",
+    "age": 90,
+    "gender": "女",
+    "vaccinated_dates": "2025/11/26",
+    "onset_dates": [
+      "2025/11/27"
+    ],
+    "lot_no": "",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "慢性心不全",
+    "PT_names": [
+      "死亡"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "ー",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第111回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001694119.pdf"
+    }
   }
 ]

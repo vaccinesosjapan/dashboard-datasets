@@ -1,0 +1,6 @@
+no,manufacturer,vaccine_name,age,gender,vaccinated_dates,onset_dates,lot_no,vaccinated_times,pre_existing_conditions,PT_names,tests_used_for_determination,causal_relationship,causal_relationship_by_expert,comments_by_expert
+1,モデルナ,スパイクバックス,96,女,2025/11/07,2025/11/08,60,,肺炎,['肺炎'],,評価不能,γ,
+2,モデルナ,スパイクバックス,94,女,2025/12/04,2025/12/07,59,,"慢性腎臓病
+糖尿病
+肝障害
+腎性貧血","['呼吸不全', '間質性肺疾患']",,関連あり,γ,

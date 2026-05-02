@@ -1,0 +1,55 @@
+[
+  {
+    "no": 1,
+    "manufacturer": "モデルナ",
+    "vaccine_name": "スパイクバックス",
+    "age": 96,
+    "gender": "女",
+    "vaccinated_dates": "2025/11/07",
+    "onset_dates": [
+      "2025/11/08"
+    ],
+    "lot_no": 60,
+    "vaccinated_times": "",
+    "pre_existing_conditions": "肺炎",
+    "PT_names": [
+      "肺炎"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "",
+    "id": "111-スパイクバックス-1",
+    "source": {
+      "name": "第111回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001694116.pdf"
+    }
+  },
+  {
+    "no": 2,
+    "manufacturer": "モデルナ",
+    "vaccine_name": "スパイクバックス",
+    "age": 94,
+    "gender": "女",
+    "vaccinated_dates": "2025/12/04",
+    "onset_dates": [
+      "2025/12/07"
+    ],
+    "lot_no": 59,
+    "vaccinated_times": "",
+    "pre_existing_conditions": "慢性腎臓病\n糖尿病\n肝障害\n腎性貧血",
+    "PT_names": [
+      "呼吸不全",
+      "間質性肺疾患"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "関連あり",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "",
+    "id": "111-スパイクバックス-2",
+    "source": {
+      "name": "第111回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001694116.pdf"
+    }
+  }
+]
