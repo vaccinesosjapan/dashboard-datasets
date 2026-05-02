@@ -36,7 +36,7 @@ df_dict = df.to_dict("records")
 json_string = json.dumps(df_dict, ensure_ascii=False, indent=2)
 
 output_path = os.path.join(output_dir, 'death-reports.json')
-with open( output_path, "w", encoding='utf-8') as f:
+with open( output_path, "w", encoding='utf-8', newline='\n') as f:
     f.write(json_string)
 
 # %%
@@ -49,7 +49,7 @@ death_metadata = {
 
 json_string = json.dumps(death_metadata, ensure_ascii=False, indent=2)
 output_file_path = os.path.join(output_dir, 'death-metadata.json')
-with open( output_file_path, "w", encoding='utf-8') as f:
+with open( output_file_path, "w", encoding='utf-8', newline='\n') as f:
 	f.write(json_string)
 
 # %%
@@ -147,7 +147,7 @@ summary_data = {
 # %%
 json_string = json.dumps(summary_data, ensure_ascii=False, indent=2)
 output_path = os.path.join(output_dir, 'death-summary-from-reports.json')
-with open( output_path, "w", encoding='utf-8') as f:
+with open( output_path, "w", encoding='utf-8', newline='\n') as f:
     f.write(json_string)
 
 # %%
@@ -203,7 +203,7 @@ death_summary = {
 # %%
 json_string = json.dumps(death_summary, ensure_ascii=False, indent=2)
 output_path = os.path.join(output_dir, 'death-summary.json')
-with open( output_path, "w", encoding='utf-8') as f:
+with open( output_path, "w", encoding='utf-8', newline='\n') as f:
     f.write(json_string)
 
 
