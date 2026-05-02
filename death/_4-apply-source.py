@@ -37,5 +37,5 @@ with open(json_file_path, "r", encoding='utf-8') as f:
 	each_df_dict = each_df.to_dict("records")
 	each_df_string = json.dumps(each_df_dict, ensure_ascii=False, indent=2)
 
-with open(json_file_path, "w", encoding='utf-8') as f:
+with open(json_file_path, "w", encoding='utf-8', newline='\n') as f:
 	f.write(each_df_string)

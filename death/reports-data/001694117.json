@@ -1,0 +1,29 @@
+[
+  {
+    "no": 1,
+    "manufacturer": "第一三共",
+    "vaccine_name": "ダイチロナ",
+    "age": 73,
+    "gender": "男",
+    "vaccinated_dates": "2024/10",
+    "onset_dates": [
+      "2024"
+    ],
+    "lot_no": "",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "多系統萎縮症",
+    "PT_names": [
+      "免疫性血小板減少症",
+      "肺障害"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "ー",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "",
+    "id": "111-ダイチロナ-1",
+    "source": {
+      "name": "第111回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001694117.pdf"
+    }
+  }
+]
