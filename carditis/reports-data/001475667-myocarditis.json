@@ -13,26 +13,33 @@
     "vaccinated_times": "",
     "lot_no": "LK7363",
     "pre_existing_disease_names": [
-      "良性前立腺肥大症\n胃潰瘍\n貧血"
+      "良性前立腺肥大症",
+      "胃潰瘍",
+      "貧血"
     ],
-    "PT_names": [],
+    "PT_names": [
+      "喘息",
+      "労作性呼吸困難",
+      "ヘモグロビン減少",
+      "心筋炎"
+    ],
     "gross_result_dates": [
       ""
     ],
     "gross_results": [
       "軽快",
-      "不明",
       "軽快",
-      "不明"
+      "回復",
+      "回復"
     ],
     "evaluated_PT": "",
     "evaluated_result": "γ",
     "brighton_classification": 4,
-    "expert_opinion": "ボルタレンに誘発されたアスピリン喘息の可能性も否定できない。",
+    "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第106回",
-      "url": "https://www.mhlw.go.jp/content/11120000/001475667.pdf"
+      "name": "第107回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001522556.pdf"
     }
   },
   {
@@ -49,9 +56,23 @@
     "vaccinated_times": "",
     "lot_no": "LL7260",
     "pre_existing_disease_names": [
-      "心不全\n入院\n血中コレステロール増加\n便秘\n狭心症\n脳梗塞\n頚動脈狭窄\n糖尿病\n高コレステロール血症\n高血圧\n脳内動脈瘤手術\n混合型認知症"
+      "心不全",
+      "入院",
+      "血中コレステロール増加",
+      "便秘",
+      "狭心症",
+      "脳梗塞",
+      "頚動脈狭窄",
+      "糖尿病",
+      "高コレステロール血症",
+      "高血圧",
+      "脳内動脈瘤手術",
+      "混合型認知症"
     ],
-    "PT_names": [],
+    "PT_names": [
+      "慢性心不全",
+      "心筋炎"
+    ],
     "gross_result_dates": [
       ""
     ],
