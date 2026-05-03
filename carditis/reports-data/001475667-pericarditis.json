@@ -11,20 +11,28 @@
     "vaccine_name": "コミナティ",
     "manufacturer": "ファイザー",
     "vaccinated_times": "",
-    "lot_no": "",
+    "lot_no": "LL6410",
     "pre_existing_disease_names": [
-      "慢性腎臓病"
+      "慢性腎臓病",
+      "高リン血症",
+      "高コレステロール血症",
+      "高血圧",
+      "ヘリコバクター感染",
+      "透析",
+      "慢性糸球体腎炎",
+      "腎性貧血",
+      "続発性副甲状腺機能亢進症",
+      "骨粗鬆症",
+      "白内障"
     ],
-    "PT_names": [],
+    "PT_names": [
+      "心膜炎"
+    ],
     "gross_result_dates": [
       ""
     ],
     "gross_results": [
-      "回復",
-      "回復",
-      "不明",
-      "不明",
-      "不明"
+      "回復"
     ],
     "evaluated_PT": "",
     "evaluated_result": "γ",
@@ -32,8 +40,8 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第106回",
-      "url": "https://www.mhlw.go.jp/content/11120000/001475667.pdf"
+      "name": "第107回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001522556.pdf"
     }
   }
 ]

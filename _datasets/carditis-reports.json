@@ -40388,43 +40388,6 @@
     "id": "104-pericarditis-x00130"
   },
   {
-    "no": 1,
-    "age": 81,
-    "gender": "男性",
-    "vaccinated_date": "",
-    "onset_dates": [
-      ""
-    ],
-    "days_to_onset": "",
-    "vaccine_name": "コミナティ",
-    "manufacturer": "ファイザー",
-    "lot_no": "LK7363",
-    "vaccinated_times": "",
-    "pre_existing_disease_names": [
-      "良性前立腺肥大症\n胃潰瘍\n貧血"
-    ],
-    "PT_names": [],
-    "gross_result_dates": [
-      ""
-    ],
-    "gross_results": [
-      "軽快",
-      "不明",
-      "軽快",
-      "不明"
-    ],
-    "evaluated_PT": "",
-    "evaluated_result": "γ",
-    "brighton_classification": 4,
-    "expert_opinion": "ボルタレンに誘発されたアスピリン喘息の可能性も否定できない。",
-    "remarks": "",
-    "source": {
-      "name": "第106回",
-      "url": "https://www.mhlw.go.jp/content/11120000/001475667.pdf"
-    },
-    "id": "106-myocarditis-000001"
-  },
-  {
     "no": 2,
     "age": 89,
     "gender": "男性",
@@ -40438,9 +40401,23 @@
     "lot_no": "LL7260",
     "vaccinated_times": "",
     "pre_existing_disease_names": [
-      "心不全\n入院\n血中コレステロール増加\n便秘\n狭心症\n脳梗塞\n頚動脈狭窄\n糖尿病\n高コレステロール血症\n高血圧\n脳内動脈瘤手術\n混合型認知症"
+      "心不全",
+      "入院",
+      "血中コレステロール増加",
+      "便秘",
+      "狭心症",
+      "脳梗塞",
+      "頚動脈狭窄",
+      "糖尿病",
+      "高コレステロール血症",
+      "高血圧",
+      "脳内動脈瘤手術",
+      "混合型認知症"
     ],
-    "PT_names": [],
+    "PT_names": [
+      "慢性心不全",
+      "心筋炎"
+    ],
     "gross_result_dates": [
       ""
     ],
@@ -40461,6 +40438,50 @@
   },
   {
     "no": 1,
+    "age": 81,
+    "gender": "男性",
+    "vaccinated_date": "",
+    "onset_dates": [
+      ""
+    ],
+    "days_to_onset": "",
+    "vaccine_name": "コミナティ",
+    "manufacturer": "ファイザー",
+    "lot_no": "LK7363",
+    "vaccinated_times": "",
+    "pre_existing_disease_names": [
+      "良性前立腺肥大症",
+      "胃潰瘍",
+      "貧血"
+    ],
+    "PT_names": [
+      "喘息",
+      "労作性呼吸困難",
+      "ヘモグロビン減少",
+      "心筋炎"
+    ],
+    "gross_result_dates": [
+      ""
+    ],
+    "gross_results": [
+      "軽快",
+      "軽快",
+      "回復",
+      "回復"
+    ],
+    "evaluated_PT": "",
+    "evaluated_result": "γ",
+    "brighton_classification": 4,
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第107回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001522556.pdf"
+    },
+    "id": "107-myocarditis-000001"
+  },
+  {
+    "no": 1,
     "age": 77,
     "gender": "女性",
     "vaccinated_date": "",
@@ -40470,21 +40491,29 @@
     "days_to_onset": "",
     "vaccine_name": "コミナティ",
     "manufacturer": "ファイザー",
-    "lot_no": "",
+    "lot_no": "LL6410",
     "vaccinated_times": "",
     "pre_existing_disease_names": [
-      "慢性腎臓病"
+      "慢性腎臓病",
+      "高リン血症",
+      "高コレステロール血症",
+      "高血圧",
+      "ヘリコバクター感染",
+      "透析",
+      "慢性糸球体腎炎",
+      "腎性貧血",
+      "続発性副甲状腺機能亢進症",
+      "骨粗鬆症",
+      "白内障"
     ],
-    "PT_names": [],
+    "PT_names": [
+      "心膜炎"
+    ],
     "gross_result_dates": [
       ""
     ],
     "gross_results": [
-      "回復",
-      "回復",
-      "不明",
-      "不明",
-      "不明"
+      "回復"
     ],
     "evaluated_PT": "",
     "evaluated_result": "γ",
@@ -40492,9 +40521,9 @@
     "expert_opinion": "",
     "remarks": "",
     "source": {
-      "name": "第106回",
-      "url": "https://www.mhlw.go.jp/content/11120000/001475667.pdf"
+      "name": "第107回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001522556.pdf"
     },
-    "id": "106-pericarditis-000001"
+    "id": "107-pericarditis-000001"
   }
 ]

@@ -24,7 +24,7 @@ csv_data = merged_df.to_csv(index=False)
 
 pdf_file_name_without_ext = os.path.splitext(pdf_file_name)[0]
 csv_file_path = os.path.join('..', 'intermediate-files', f'{pdf_file_name_without_ext}-{symptoms}.csv')
-with open(csv_file_path, "w", encoding='utf-8') as f:
+with open(csv_file_path, "w", encoding='utf-8', newline='\n') as f:
 	f.write(csv_data)
 
 print(f'マージしたDataFrameの行数: {merged_df.shape[0]}')
@@ -38,7 +38,7 @@ def remove_empty_lines(source_path, target_path):
                     line = re.sub('^,', '', line)
                 fixed_data += line
 
-    with open(target_path, "w", encoding="utf-8") as f:
+    with open(target_path, "w", encoding="utf-8", newline='\n') as f:
         f.write(fixed_data)
 
 remove_empty_lines(csv_file_path, csv_file_path)

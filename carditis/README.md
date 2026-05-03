@@ -14,7 +14,7 @@
 
 ### PDFの分割
 
-心筋炎(`myocarditis`)と心膜炎(`pericarditis`)とで。症例一覧のPDFを分割しておく。
+心筋炎(`myocarditis`)と心膜炎(`pericarditis`)とで、症例一覧のPDFを分割しておく。  
 例えば、情報ソースのPDFが`001325489.pdf`で、心筋炎の症例一覧が`P30からP45`に掲載されている場合、以下のようにする。
 
 ```sh

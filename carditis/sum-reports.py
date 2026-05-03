@@ -31,6 +31,13 @@ df['id'] = source_df['prefix'] + '-' + df['carditis_type'] + '-' + df['no'].map(
 df = df.drop('carditis_type', axis=1)
 df = df.sort_values('id')
 
+# 列の並び順を調整
+df = df.reindex(['no', 'age', 'gender', 'vaccinated_date', 'onset_dates',
+       'days_to_onset', 'vaccine_name', 'manufacturer', 'lot_no',
+       'vaccinated_times', 'pre_existing_disease_names', 'PT_names',
+       'gross_result_dates', 'gross_results', 'evaluated_PT',
+       'evaluated_result', 'brighton_classification', 'expert_opinion',
+       'remarks', 'source', 'id'], axis=1)
 
 # 心筋炎、心膜炎の全症例をひとつにまとめて carditis-reports.json に保存する処理。
 ##  https://www.mhlw.go.jp/content/11120000/001325489.pdf#page=46
@@ -38,7 +45,7 @@ df_dict = df.to_dict("records")
 json_string = json.dumps(df_dict, ensure_ascii=False, indent=2)
 
 output_path = os.path.join(output_dir, 'carditis-reports.json')
-with open( output_path, "w", encoding='utf-8') as f:
+with open( output_path, "w", encoding='utf-8', newline='\n') as f:
     f.write(json_string)
 
 
@@ -50,7 +57,7 @@ carditis_metadata = {
 
 json_string = json.dumps(carditis_metadata, ensure_ascii=False, indent=2)
 output_file_path = os.path.join(output_dir, 'carditis-metadata.json')
-with open( output_file_path, "w", encoding='utf-8') as f:
+with open( output_file_path, "w", encoding='utf-8', newline='\n') as f:
 	f.write(json_string)
 
 
@@ -89,5 +96,5 @@ summary_data = {
 
 json_string = json.dumps(summary_data, ensure_ascii=False, indent=2)
 output_path = os.path.join(output_dir, 'carditis-summary-from-reports.json')
-with open( output_path, "w", encoding='utf-8') as f:
+with open( output_path, "w", encoding='utf-8', newline='\n') as f:
     f.write(json_string)
