@@ -54,7 +54,7 @@ new_columns = ['no', 'age', 'gender', 'vaccinated_date', 'onset_dates', 'days_to
 df = df.reindex(columns=new_columns)
 
 # %%
-with open(csv_path, encoding='utf-8', mode='w') as f:
+with open(csv_path, encoding='utf-8', mode='w', newline='\n') as f:
 	f.write(df.to_csv(index=False))
 
 # %%
@@ -70,7 +70,7 @@ def remove_empty_lines(source_path, target_path):
                 line = re.sub('^,', '', line)
             fixed_data += line
 
-    with open(target_path, "w", encoding="utf-8") as f:
+    with open(target_path, "w", encoding="utf-8", newline='\n') as f:
         f.write(fixed_data)
 
 # %%
