@@ -6,6 +6,7 @@ def get_args():
  
     parser = argparse.ArgumentParser(description='実行内容を設定します')
     parser.add_argument('-j', '--json', default=False, help='JSON化の処理のみ行います')
+    parser.add_argument('-s', '--script', default='v4', help='スクリプトのバージョンを指定します')
     return parser.parse_args()
 
 
@@ -16,15 +17,16 @@ def main():
         settings = yaml.safe_load(file)
 
     file_id = settings["file_id"]
-    pdf_name = f'{file_id}.pdf'
+    pdf_name = f'{file_id.split('-')[0]}.pdf'
     csv_name = f'{file_id}.csv'
     json_name = f"{file_id}.json"
     manufacturer = settings['manufacturer']
+    pages = settings['pages']
     count = settings['count']
     source_name = settings['source']['name']
     source_url = settings['source']['url']
 
-    script_version = 'v3'
+    script_version = args.script
     os.chdir('scripts')
 
     if not args.json:
@@ -34,7 +36,7 @@ def main():
         '''
         print('1. PDFからデータを抽出し、CSVファイルに保存します。')
         print(f'{settings["name"]} のデータを "{pdf_name}" から抽出中\n', end='', flush=True)
-        subprocess.run([ "python", f"./{script_version}/extract-pdf-to-csv.py", pdf_name])
+        subprocess.run([ "python", f"./{script_version}/extract-pdf-to-csv.py", file_id, pages])
         _ = input(f'./intermediate-files/{csv_name} の内容確認と修正が終わったら ENTER 押してください。')
         print()
 
