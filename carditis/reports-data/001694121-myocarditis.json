@@ -1,0 +1,94 @@
+[
+  {
+    "no": 1,
+    "age": 79,
+    "gender": "男性",
+    "vaccinated_date": "",
+    "onset_dates": [
+      ""
+    ],
+    "days_to_onset": "",
+    "vaccine_name": "コミナティ",
+    "manufacturer": "ファイザー",
+    "vaccinated_times": "",
+    "lot_no": "MT4666",
+    "pre_existing_disease_names": [
+      "高血圧",
+      "便秘",
+      "背部痛",
+      "心電図異常Ｑ波"
+    ],
+    "PT_names": [
+      "心筋炎",
+      "運動性低下",
+      "発熱",
+      "トロポニンＩ増加",
+      "血中クレアチンホスホキナーゼ増加",
+      "ＱＲＳ軸異常",
+      "心電図異常ＱＲＳ群",
+      "心電図異常Ｑ波"
+    ],
+    "gross_result_dates": [
+      ""
+    ],
+    "gross_results": [
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明",
+      "不明"
+    ],
+    "evaluated_PT": "",
+    "evaluated_result": "γ",
+    "brighton_classification": 4,
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第111回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001694121.pdf"
+    }
+  },
+  {
+    "no": 2,
+    "age": "50歳代",
+    "gender": "男性",
+    "vaccinated_date": "",
+    "onset_dates": [
+      ""
+    ],
+    "days_to_onset": "",
+    "vaccine_name": "コミナティ",
+    "manufacturer": "ファイザー",
+    "vaccinated_times": "",
+    "lot_no": "",
+    "pre_existing_disease_names": [
+      "糖尿病",
+      "透析"
+    ],
+    "PT_names": [
+      "心筋炎",
+      "肺炎",
+      "酸素飽和度低下"
+    ],
+    "gross_result_dates": [
+      ""
+    ],
+    "gross_results": [
+      "不明",
+      "軽快",
+      "不明"
+    ],
+    "evaluated_PT": "",
+    "evaluated_result": "γ",
+    "brighton_classification": 4,
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第111回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001694121.pdf"
+    }
+  }
+]

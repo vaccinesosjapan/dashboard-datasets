@@ -155,3 +155,25 @@ source: {
 # これについては第106回のcsvを修正してjsonを再生成して対応した。
 
 # 第108～110回は、新規案件も再評価案件もなし。
+
+# 第111回
+## ここ以降は v4 のスクリプトを使用する。
+name: 'コミナティ筋注シリンジ12歳以上用'
+manufacturer: 'ファイザー'
+file_id: '001694121-myocarditis'
+pages: '3'
+count: '2'
+source: {
+  name: '第111回',
+  url: 'https://www.mhlw.go.jp/content/11120000/001694121.pdf'
+}
+
+name: 'コスタイベ筋注用'
+manufacturer: 'ファイザー'
+file_id: '001694131-pericarditis'
+pages: '4'
+count: '1'
+source: {
+  name: '第111回',
+  url: 'https://www.mhlw.go.jp/content/11120000/001694131.pdf'
+}
