@@ -1,0 +1,37 @@
+[
+  {
+    "no": 1,
+    "age": 47,
+    "gender": "男性",
+    "vaccinated_date": "",
+    "onset_dates": [
+      ""
+    ],
+    "days_to_onset": "",
+    "vaccine_name": "コスタイベ",
+    "manufacturer": "ファイザー",
+    "vaccinated_times": "",
+    "lot_no": "00001",
+    "pre_existing_disease_names": [
+      "なし"
+    ],
+    "PT_names": [
+      "心膜炎"
+    ],
+    "gross_result_dates": [
+      ""
+    ],
+    "gross_results": [
+      "回復"
+    ],
+    "evaluated_PT": "",
+    "evaluated_result": "α",
+    "brighton_classification": 2,
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第111回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001694131.pdf"
+    }
+  }
+]
