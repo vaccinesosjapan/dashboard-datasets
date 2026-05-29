@@ -2598,5 +2598,35 @@ settings: [
     source: {
       url: https://www.mhlw.go.jp/content/10900000/001701783.pdf,
     },
+  },
+  {
+    date: '2026/05/25',
+    file: '001706291.csv',
+    output: '001706291.json',
+    pages: '',
+    expected_count: {
+      certified: 2,
+      repudiation: 18
+    },
+    reason-type: 'TypeB',
+    script-version: v2,
+    source: {
+      url: https://www.mhlw.go.jp/content/10900000/001706291.pdf,
+    },
+  },
+  {
+    date: '2026/05/25',
+    file: '001706291-2.csv',
+    output: '001706291-2.json',
+    pages: '',
+    expected_count: {
+      certified: 1,
+      repudiation: 1
+    },
+    reason-type: 'TypeB',
+    script-version: v3,
+    source: {
+      url: https://www.mhlw.go.jp/content/10900000/001706291.pdf,
+    },
   }
 ]
