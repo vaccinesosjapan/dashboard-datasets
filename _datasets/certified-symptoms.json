@@ -9130,9 +9130,17 @@
   {
     "name": "外傷性くも膜下出血",
     "counts": {
-      "male": 3,
+      "male": 4,
       "female": 0,
-      "sum": 3
+      "sum": 4
+    }
+  },
+  {
+    "name": "外傷性急性硬膜下血種",
+    "counts": {
+      "male": 1,
+      "female": 0,
+      "sum": 1
     }
   },
   {
@@ -17251,8 +17259,8 @@
     "name": "末梢神経障害",
     "counts": {
       "male": 34,
-      "female": 85,
-      "sum": 119
+      "female": 86,
+      "sum": 120
     }
   },
   {
@@ -17307,8 +17315,8 @@
     "name": "末梢神経障害性疼痛",
     "counts": {
       "male": 12,
-      "female": 20,
-      "sum": 32
+      "female": 21,
+      "sum": 33
     }
   },
   {
@@ -17866,9 +17874,9 @@
   {
     "name": "消化管出血",
     "counts": {
-      "male": 2,
+      "male": 3,
       "female": 1,
-      "sum": 3
+      "sum": 4
     }
   },
   {
@@ -19082,9 +19090,9 @@
   {
     "name": "突然死",
     "counts": {
-      "male": 153,
+      "male": 154,
       "female": 99,
-      "sum": 252
+      "sum": 253
     }
   },
   {
