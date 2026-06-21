@@ -11,6 +11,18 @@
   },
   "carditis_issues": {
     "date": "2025/12/31",
+    "issues_by_evaluated_result": {
+      "myocarditis": {
+        "alpha": 1,
+        "beta": 0,
+        "gamma": 620
+      },
+      "pericarditis": {
+        "alpha": 1,
+        "beta": 0,
+        "gamma": 187
+      }
+    },
     "issues_with_vaccine_name": [
       {
         "vaccine_name": "コミナティRTU筋注(1価:オミクロン株XBB.1.5)",
