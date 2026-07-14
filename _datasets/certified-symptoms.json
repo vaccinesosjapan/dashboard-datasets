@@ -14960,6 +14960,14 @@
     }
   },
   {
+    "name": "急性呼吸循環不全",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
     "name": "急性呼吸窮迫症候群",
     "counts": {
       "male": 8,
@@ -20595,8 +20603,8 @@
     "name": "脳出血",
     "counts": {
       "male": 41,
-      "female": 34,
-      "sum": 75
+      "female": 33,
+      "sum": 74
     }
   },
   {
@@ -23115,8 +23123,8 @@
     "name": "遷延性意識障害",
     "counts": {
       "male": 2,
-      "female": 2,
-      "sum": 4
+      "female": 1,
+      "sum": 3
     }
   },
   {
