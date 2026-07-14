@@ -6,13 +6,15 @@
       81
     ],
     "vaccine_name": "新型コロナ",
-    "description_of_claim": "死亡一時金・葬祭料 急性呼吸循環不全",
+    "description_of_claim": "死亡一時金・葬祭料",
     "symptoms": [
+      "急性呼吸循環不全"
+    ],
+    "judgment_result": "認定",
+    "pre_existing_conditions": [
       "脳出血",
       "遷延性意識障害"
     ],
-    "judgment_result": "認定",
-    "pre_existing_conditions": [],
     "reasons_for_repudiation": [],
     "remarks": "",
     "source_url": "https://www.mhlw.go.jp/content/10900000/001722810.pdf"
