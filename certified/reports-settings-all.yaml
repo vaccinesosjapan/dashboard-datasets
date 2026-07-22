@@ -2376,8 +2376,8 @@ settings: [
   },
   {
     date: '2026/01/22',
-    file: '001641368.csv',
-    output: '001641368.json',
+    file: '001726401.csv',
+    output: '001726401.json',
     pages: '',
     expected_count: {
       certified: 8,
@@ -2386,7 +2386,7 @@ settings: [
     reason-type: 'TypeB',
     script-version: v2,
     source: {
-      url: https://www.mhlw.go.jp/content/10900000/001641368.pdf,
+      url: https://www.mhlw.go.jp/content/10900000/001726401.pdf,
     },
   },
   {
@@ -2702,6 +2702,21 @@ settings: [
     script-version: v2,
     source: {
       url: https://www.mhlw.go.jp/content/10900000/001722810.pdf,
+    },
+  },
+  {
+    date: '2026/07/16',
+    file: '001641368.csv',
+    output: '001641368.json',
+    pages: '',
+    expected_count: {
+      certified: 4,
+      repudiation: 20
+    },
+    reason-type: 'TypeB',
+    script-version: v2,
+    source: {
+      url: https://www.mhlw.go.jp/content/10900000/001641368.pdf,
     },
   }
 ]
