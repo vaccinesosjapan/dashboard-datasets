@@ -1,0 +1,81 @@
+[
+  {
+    "id": "112th-001727178-MIN-1",
+    "no": 1,
+    "age": 86,
+    "gender": "女",
+    "vaccinated_dates": [
+      "2025/12/2"
+    ],
+    "concurrent_vaccination_flag": false,
+    "concurrent_vaccination": "",
+    "vaccine_name": "新型コロナ(ヌバキソビッド)",
+    "sales_name": "ヌバキソビッド",
+    "lot_no": "NY001",
+    "manufacturer": "武田薬品工業",
+    "pre_existing_disease_names": [
+      "脳梗塞で治療中、令和７年１１月５日にインフルエンザ予防接種。クロピトグレル、ランソプラゾール、アムロジピン、フルニトラゼパム、ベルソムラ、を内服。ケトプロフェンテープ使用。"
+    ],
+    "PT_names": [
+      "接種部（左肩）の痛み"
+    ],
+    "onset_dates": [
+      "2025/12/2"
+    ],
+    "days_to_onset": [
+      "0"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "不明"
+    ],
+    "gross_results": [
+      "未回復"
+    ],
+    "source": {
+      "name": "第112回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001727178.pdf"
+    }
+  },
+  {
+    "id": "112th-001727178-MIN-2",
+    "no": 2,
+    "age": 69,
+    "gender": "女",
+    "vaccinated_dates": [
+      "2026/3/7"
+    ],
+    "concurrent_vaccination_flag": false,
+    "concurrent_vaccination": "",
+    "vaccine_name": "新型コロナ(ヌバキソビッド)",
+    "sales_name": "ヌバキソビッド",
+    "lot_no": "NY001",
+    "manufacturer": "武田薬品工業",
+    "pre_existing_disease_names": [
+      "無"
+    ],
+    "PT_names": [
+      "嗅覚障害",
+      "味覚障害"
+    ],
+    "onset_dates": [
+      "2026/3/8"
+    ],
+    "days_to_onset": [
+      "1"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "不明"
+    ],
+    "gross_results": [
+      "未回復"
+    ],
+    "source": {
+      "name": "第112回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001727178.pdf"
+    }
+  }
+]

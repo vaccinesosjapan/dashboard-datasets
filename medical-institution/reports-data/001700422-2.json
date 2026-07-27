@@ -1,0 +1,41 @@
+[
+  {
+    "id": "111th-001700422-MIN-1",
+    "no": 1,
+    "age": 48,
+    "gender": "男",
+    "vaccinated_dates": [
+      "2025/10/31"
+    ],
+    "concurrent_vaccination_flag": false,
+    "concurrent_vaccination": "",
+    "vaccine_name": "新型コロナ(ヌバキソビッド)",
+    "sales_name": "ヌバキソビッド",
+    "lot_no": "NY001",
+    "manufacturer": "武田薬品工業",
+    "pre_existing_disease_names": [
+      "無"
+    ],
+    "PT_names": [
+      "皮膚症状"
+    ],
+    "onset_dates": [
+      "2025/11/7"
+    ],
+    "days_to_onset": [
+      "7"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "不明"
+    ],
+    "gross_results": [
+      "未回復"
+    ],
+    "source": {
+      "name": "第111回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001700422.pdf"
+    }
+  }
+]

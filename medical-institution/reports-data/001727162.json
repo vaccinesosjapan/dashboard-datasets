@@ -1,0 +1,234 @@
+[
+  {
+    "id": "112th-001727162-MIS-1",
+    "no": 1,
+    "age": 69,
+    "gender": "女",
+    "vaccinated_dates": [
+      "2024/12/14"
+    ],
+    "concurrent_vaccination_flag": false,
+    "concurrent_vaccination": "",
+    "vaccine_name": "新型コロナ(コミナティ)",
+    "sales_name": "コミナティ",
+    "lot_no": "不明",
+    "manufacturer": "ファイザー",
+    "pre_existing_disease_names": [
+      "無"
+    ],
+    "PT_names": [
+      "間質性肺疾患"
+    ],
+    "onset_dates": [
+      "2024/12/14"
+    ],
+    "days_to_onset": [
+      "0"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "不明"
+    ],
+    "gross_results": [
+      "軽快"
+    ],
+    "pt_by_expert": "",
+    "causal_relationship_by_expert": "",
+    "brighton_classification_by_expert": "",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第112回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001727162.pdf"
+    }
+  },
+  {
+    "id": "112th-001727162-MIS-2",
+    "no": 2,
+    "age": 71,
+    "gender": "男",
+    "vaccinated_dates": [
+      "2025/10/20"
+    ],
+    "concurrent_vaccination_flag": false,
+    "concurrent_vaccination": "",
+    "vaccine_name": "新型コロナ(コミナティ)",
+    "sales_name": "コミナティ",
+    "lot_no": "MT4666",
+    "manufacturer": "ファイザー",
+    "pre_existing_disease_names": [
+      "高血圧",
+      "脂質異常症",
+      "胃食道逆流性疾患"
+    ],
+    "PT_names": [
+      "関節痛",
+      "関節周囲炎"
+    ],
+    "onset_dates": [
+      "2025/10/21"
+    ],
+    "days_to_onset": [
+      "1"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "不明"
+    ],
+    "gross_results": [
+      "未回復"
+    ],
+    "pt_by_expert": "",
+    "causal_relationship_by_expert": "",
+    "brighton_classification_by_expert": "",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第112回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001727162.pdf"
+    }
+  },
+  {
+    "id": "112th-001727162-MIS-3",
+    "no": 3,
+    "age": 72,
+    "gender": "男",
+    "vaccinated_dates": [
+      "2025/12/12"
+    ],
+    "concurrent_vaccination_flag": false,
+    "concurrent_vaccination": "",
+    "vaccine_name": "新型コロナ(コミナティ)",
+    "sales_name": "コミナティ",
+    "lot_no": "MR6664",
+    "manufacturer": "ファイザー",
+    "pre_existing_disease_names": [
+      "脂質異常症",
+      "慢性気管支炎",
+      "肺の悪性新生物",
+      "癌手術"
+    ],
+    "PT_names": [
+      "網膜動脈閉塞",
+      "白内障",
+      "網膜裂孔",
+      "乱視"
+    ],
+    "onset_dates": [
+      "2025/12/14"
+    ],
+    "days_to_onset": [
+      "2"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重い",
+    "gross_result_dates": [
+      "2025/12/14"
+    ],
+    "gross_results": [
+      "不明"
+    ],
+    "pt_by_expert": "",
+    "causal_relationship_by_expert": "",
+    "brighton_classification_by_expert": "",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第112回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001727162.pdf"
+    }
+  },
+  {
+    "id": "112th-001727162-MIS-4",
+    "no": 4,
+    "age": 65,
+    "gender": "女",
+    "vaccinated_dates": [
+      "2026/2/5"
+    ],
+    "concurrent_vaccination_flag": true,
+    "concurrent_vaccination": "肺炎球菌ワクチン;Z0003521;MSD",
+    "vaccine_name": "新型コロナ(コミナティ)",
+    "sales_name": "コミナティ",
+    "lot_no": "不明",
+    "manufacturer": "ファイザー",
+    "pre_existing_disease_names": [
+      "無"
+    ],
+    "PT_names": [
+      "壊死",
+      "ワクチン接種部位蜂巣炎",
+      "ワクチン接種部位紅斑",
+      "ワクチン接種部位腫脹",
+      "ワクチン接種部位小水疱",
+      "血性水疱",
+      "ワクチン接種部位びらん",
+      " 瘢痕",
+      "ワクチン接種部位疼痛"
+    ],
+    "onset_dates": [
+      "2026/2/8"
+    ],
+    "days_to_onset": [
+      "3"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "2026/2/16"
+    ],
+    "gross_results": [
+      "後遺症あり"
+    ],
+    "pt_by_expert": "血性水疱、ワクチン接種部位紅斑、ワクチン接種部位疼痛、ワクチン接種部位蜂巣炎、ワクチン接種部位腫脹、ワクチン接種部位びらん、ワクチン接種部位小水疱",
+    "causal_relationship_by_expert": "α",
+    "brighton_classification_by_expert": "－",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第112回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001727162.pdf"
+    }
+  },
+  {
+    "id": "112th-001727162-MIS-5",
+    "no": 5,
+    "age": "不明",
+    "gender": "女",
+    "vaccinated_dates": [
+      "不明"
+    ],
+    "concurrent_vaccination_flag": false,
+    "concurrent_vaccination": "",
+    "vaccine_name": "新型コロナ(コミナティ)",
+    "sales_name": "コミナティ",
+    "lot_no": "不明",
+    "manufacturer": "ファイザー",
+    "pre_existing_disease_names": [
+      "無"
+    ],
+    "PT_names": [
+      "COVID-19後遺症様症状"
+    ],
+    "onset_dates": [
+      "不明"
+    ],
+    "days_to_onset": [
+      "不明"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "不明"
+    ],
+    "gross_results": [
+      "未回復"
+    ],
+    "pt_by_expert": "",
+    "causal_relationship_by_expert": "",
+    "brighton_classification_by_expert": "",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第112回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001727162.pdf"
+    }
+  }
+]
