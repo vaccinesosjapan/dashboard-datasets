@@ -1,0 +1,19 @@
+no,age,gender,vaccinated_dates,concurrent_vaccination_flag,concurrent_vaccination,vaccine_name,sales_name,lot_no,manufacturer,pre_existing_disease_names,PT_names,onset_dates,days_to_onset,causal_relationship,severity,gross_result_dates,gross_results,pt_by_expert,causal_relationship_by_expert,brighton_classification_by_expert,comments_by_expert
+1,97歳,女,2025/10/22,True,インフルエンザHAワクチン*デンカ;782-A;デンカ,新型コロナ(スパイクバックス),スパイクバックス,0000060,モデルナ・ジャパン,"慢性心不全
+糖尿病","発熱
+呼吸不全
+痰貯留
+誤嚥性肺炎
+意識レベルの低下",2025/10/23,1,関連あり,重い,不明,軽快,,,,
+2,82歳,男,2025/10/21,True,インフルエンザHAワクチン*デンカ;783-A;デンカ,新型コロナ(スパイクバックス),スパイクバックス,0000060,モデルナ・ジャパン,糖尿病,"間質性肺疾患
+末梢冷感
+ 肺炎
+誤嚥性肺炎",2025/10/23,2,関連あり,重い,不明,軽快,,,,
+3,96歳,女,2025/11/7,False,,新型コロナ(スパイクバックス),スパイクバックス,0000060,モデルナ・ジャパン,肺炎,肺炎,2025/11/7,0,評価不能,重い,2025/11/8,死亡,肺炎,γ,－,
+4,94歳,女,2025/12/4,False,,新型コロナ(スパイクバックス),スパイクバックス,0000059,モデルナ・ジャパン,"糖尿病
+慢性腎臓病
+腎性貧血
+肝障害","間質性肺疾患
+呼吸不全",2025/12/6,2,関連あり,重い,2025/12/7,死亡,"間質性肺
+疾患
+呼吸不全",γ,－,

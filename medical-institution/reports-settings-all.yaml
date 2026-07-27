@@ -1595,14 +1595,14 @@ settings_v3: [
   },
   {
     relative_dir: '111th',
-    file_id: '001694103',
+    file_id: '001700420',
     pages: '6',
     count: '4',
     has_concurrent_vaccination: 'true',
     script-version: v3,
     source: {
       name: '第111回',
-      url: 'https://www.mhlw.go.jp/content/11120000/001694103.pdf',
+      url: 'https://www.mhlw.go.jp/content/11120000/001700420.pdf',
     },
     id_metadata: {
       number: '111th',
@@ -1611,14 +1611,14 @@ settings_v3: [
   },
   {
     relative_dir: '111th',
-    file_id: '001694106',
+    file_id: '001700421',
     pages: '7',
     count: '1',
     has_concurrent_vaccination: 'true',
     script-version: v3,
     source: {
       name: '第111回',
-      url: 'https://www.mhlw.go.jp/content/11120000/001694106.pdf',
+      url: 'https://www.mhlw.go.jp/content/11120000/001700421.pdf',
     },
     id_metadata: {
       number: '111th',
@@ -1627,18 +1627,34 @@ settings_v3: [
   },
   {
     relative_dir: '111th',
-    file_id: '001694107',
+    file_id: '001700422',
     pages: '6',
     count: '2',
     has_concurrent_vaccination: 'true',
     script-version: v3,
     source: {
       name: '第111回',
-      url: 'https://www.mhlw.go.jp/content/11120000/001694107.pdf'
+      url: 'https://www.mhlw.go.jp/content/11120000/001700422.pdf'
     },
     id_metadata: {
       number: '111th',
       kind: 'MIS'
+    }
+  },
+  {
+    relative_dir: '111th',
+    file_id: '001700422-2',
+    pages: '7',
+    count: '1',
+    has_concurrent_vaccination: 'true',
+    script-version: v3,
+    source: {
+      name: '第111回',
+      url: 'https://www.mhlw.go.jp/content/11120000/001700422.pdf'
+    },
+    id_metadata: {
+      number: '111th',
+      kind: 'MIN'
     }
   },
   {
