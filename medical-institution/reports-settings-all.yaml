@@ -1640,5 +1640,69 @@ settings_v3: [
       number: '111th',
       kind: 'MIS'
     }
+  },
+  {
+  relative_dir: '112th',
+    file_id: '001727162',
+    pages: '10',
+    count: '5',
+    has_concurrent_vaccination: 'true',
+    script-version: v3,
+    source: {
+      name: '第112回',
+      url: 'https://www.mhlw.go.jp/content/11120000/001727162.pdf'
+    },
+    id_metadata: {
+      number: '112th',
+      kind: 'MIS'
+    }
+  },
+  {
+  relative_dir: '112th',
+    file_id: '001727162',
+    pages: '11',
+    count: '1',
+    has_concurrent_vaccination: 'true',
+    script-version: v3,
+    source: {
+      name: '第112回',
+      url: 'https://www.mhlw.go.jp/content/11120000/001727162.pdf'
+    },
+    id_metadata: {
+      number: '112th',
+      kind: 'MIN'
+    }
+  },
+  {
+  relative_dir: '112th',
+    file_id: '001727165',
+    pages: '5',
+    count: '1',
+    has_concurrent_vaccination: 'true',
+    script-version: v3,
+    source: {
+      name: '第112回',
+      url: 'https://www.mhlw.go.jp/content/11120000/001727165.pdf'
+    },
+    id_metadata: {
+      number: '112th',
+      kind: 'MIS'
+    }
+  },
+  {
+  relative_dir: '112th',
+    file_id: '001727178',
+    pages: '6',
+    count: '2',
+    has_concurrent_vaccination: 'true',
+    script-version: v3,
+    source: {
+      name: '第112回',
+      url: 'https://www.mhlw.go.jp/content/11120000/001727178.pdf'
+    },
+    id_metadata: {
+      number: '112th',
+      kind: 'MIN'
+    }
   }
 ]

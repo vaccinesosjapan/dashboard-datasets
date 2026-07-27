@@ -55,6 +55,8 @@ def convert_newline_code(df: pd.DataFrame) -> None:
 	if 'pt_by_expert' in df.columns:
 		convert_newline_code_targets.append('pt_by_expert')
 	for column_name in convert_newline_code_targets:
+		# データ数が少ない場合などfloat型などになっている場合があるので、文字列型の列に変換してから処理する
+		df[column_name] = df[column_name].fillna('').astype(str)
 		df.loc[:, column_name] = df[column_name].str.replace('\r\n', '\n')
 
 

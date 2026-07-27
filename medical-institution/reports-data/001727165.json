@@ -1,0 +1,54 @@
+[
+  {
+    "id": "112th-001727165-MIS-1",
+    "no": 1,
+    "age": 83,
+    "gender": "男",
+    "vaccinated_dates": [
+      "2025/11/12"
+    ],
+    "concurrent_vaccination_flag": false,
+    "concurrent_vaccination": "",
+    "vaccine_name": "新型コロナ(スパイクバックス)",
+    "sales_name": "スパイクバックス",
+    "lot_no": "0000061",
+    "manufacturer": "モデルナ・ジャパン",
+    "pre_existing_disease_names": [
+      "高血圧",
+      "糖尿病",
+      "高脂血症",
+      "脳幹梗塞",
+      "嚥下障害",
+      "胃瘻造設術"
+    ],
+    "PT_names": [
+      "脱水",
+      "誤嚥性肺炎",
+      "呼吸不全",
+      "頻脈",
+      "発熱"
+    ],
+    "onset_dates": [
+      "2025/11/12"
+    ],
+    "days_to_onset": [
+      "0"
+    ],
+    "causal_relationship": "関連あり",
+    "severity": "重い",
+    "gross_result_dates": [
+      "2025/11/25"
+    ],
+    "gross_results": [
+      "不明"
+    ],
+    "pt_by_expert": "",
+    "causal_relationship_by_expert": "",
+    "brighton_classification_by_expert": "",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第112回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001727165.pdf"
+    }
+  }
+]

@@ -13,18 +13,18 @@
 #      MIN: 上記以外の（Not serious）症例
 
 {
-  relative_dir: '111th',
-    file_id: '001694107',
+  relative_dir: '112th',
+    file_id: '001727178',
     pages: '6',
     count: '2',
     has_concurrent_vaccination: 'true',
     script-version: v3,
     source: {
-      name: '第111回',
-      url: 'https://www.mhlw.go.jp/content/11120000/001694107.pdf'
+      name: '第112回',
+      url: 'https://www.mhlw.go.jp/content/11120000/001727178.pdf'
     },
     id_metadata: {
-      number: '111th',
-      kind: 'MIS'
+      number: '112th',
+      kind: 'MIN'
     }
 }

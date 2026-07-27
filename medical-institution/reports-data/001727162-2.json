@@ -1,0 +1,41 @@
+[
+  {
+    "id": "112th-001727162-MIN-1",
+    "no": 1,
+    "age": 70,
+    "gender": "男",
+    "vaccinated_dates": [
+      "不明"
+    ],
+    "concurrent_vaccination_flag": false,
+    "concurrent_vaccination": "",
+    "vaccine_name": "新型コロナ(コミナティ)",
+    "sales_name": "コミナティ",
+    "lot_no": "不明",
+    "manufacturer": "ファイザー",
+    "pre_existing_disease_names": [
+      "記載なし"
+    ],
+    "PT_names": [
+      "左肩痛"
+    ],
+    "onset_dates": [
+      "2024/10/3"
+    ],
+    "days_to_onset": [
+      "不明"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "2025/8"
+    ],
+    "gross_results": [
+      "回復"
+    ],
+    "source": {
+      "name": "第112回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001727162.pdf"
+    }
+  }
+]

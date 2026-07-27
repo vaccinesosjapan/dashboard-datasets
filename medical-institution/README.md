@@ -17,11 +17,14 @@
 
 1. 新しいPDFを「pdf-files」フォルダにダウンロードする。
 1. ダウンロードしたPDFのファイル名やリンクURLなどを「**reports-settings.yaml**」に記入する。
+    * `{file_id}`は、CSVファイル名になるため重篤・非重篤などデータ毎に別にする。
+    * `{file_id}`は、PDFファイル名としても使われるため`{pdfファイル}-{序数}`というフォーマットにする。
 1. 同じ内容を「**reports-settings-all.yaml**」の末尾にも追記する。
 1. フォルダ 「./intermediate-files./{relative_dir}」 を作る。
 1. コマンド`python _1-extract-pdf-to-csv.py`を実行して、PDFからCSV形式でデータを抽出する。
     * 抽出結果は 「**{file_id}.csv**」と「**{file_id}-pre.csv**」 に保存される。
 1. 「**{file_id}-pre.csv**」を手作業で編集する。
+    * 同時接種の名称やロット番号などは、1つ下の空の行に列を揃えて記載することで後工程のスクリプトで処理可能
 1. コマンド`python _2-standardize-csv.py`を実行して、CSVのデータを整形する。
     * 抽出結果は「**{file_id}-converted.csv**」と「**{file_id}-manually-fixed.csv**」に保存される。
 1. 「**{file_id}-manually-fixed.csv**」を手作業で編集する。
