@@ -1,0 +1,20 @@
+[
+  {
+    "certified_date": "2026/07/30",
+    "gender": "男",
+    "age": [
+      88
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "医療費・医療手当",
+    "symptoms": [],
+    "judgment_result": "否認",
+    "pre_existing_conditions": [],
+    "reasons_for_repudiation": [
+      "TypeB-1"
+    ],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001732000.pdf",
+    "inoculation_type": 1
+  }
+]

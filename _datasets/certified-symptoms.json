@@ -155,8 +155,8 @@
     "name": "IgA腎症の増悪",
     "counts": {
       "male": 3,
-      "female": 7,
-      "sum": 10
+      "female": 8,
+      "sum": 11
     }
   },
   {
@@ -2249,6 +2249,14 @@
   },
   {
     "name": "上下肢しびれ・脱力",
+    "counts": {
+      "male": 0,
+      "female": 1,
+      "sum": 1
+    }
+  },
+  {
+    "name": "上下肢の疼痛としびれ",
     "counts": {
       "male": 0,
       "female": 1,
@@ -18531,8 +18539,8 @@
     "name": "発熱",
     "counts": {
       "male": 212,
-      "female": 304,
-      "sum": 516
+      "female": 305,
+      "sum": 517
     }
   },
   {
@@ -19106,9 +19114,9 @@
   {
     "name": "突然死",
     "counts": {
-      "male": 155,
+      "male": 156,
       "female": 100,
-      "sum": 255
+      "sum": 256
     }
   },
   {
@@ -20059,8 +20067,8 @@
     "name": "肺血栓塞栓症",
     "counts": {
       "male": 9,
-      "female": 10,
-      "sum": 19
+      "female": 11,
+      "sum": 20
     }
   },
   {
