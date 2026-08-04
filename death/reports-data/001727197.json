@@ -1,0 +1,28 @@
+[
+  {
+    "no": 1,
+    "manufacturer": "Meiji Seika ファルマ",
+    "vaccine_name": "コスタイベ",
+    "age": 94,
+    "gender": "男",
+    "vaccinated_dates": "2025/03/10",
+    "onset_dates": [
+      "2025/04/30"
+    ],
+    "lot_no": "00001-16",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "便秘\n心房細動\n心筋梗塞\n慢性心不全\n湿疹\n胸水\n良性前立腺肥大症\n認知症",
+    "PT_names": [
+      "喘鳴"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "ー",
+    "causal_relationship_by_expert": "β",
+    "comments_by_expert": "",
+    "id": "112-コスタイベ-1",
+    "source": {
+      "name": "第112回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001727197.pdf"
+    }
+  }
+]

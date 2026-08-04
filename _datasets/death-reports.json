@@ -61126,7 +61126,7 @@
     "onset_dates": [
       "2025/04/11"
     ],
-    "lot_no": 1.0,
+    "lot_no": "00001",
     "vaccinated_times": "",
     "pre_existing_conditions": "そう痒症\nアルツハイマー型認知症\n便秘\n尿閉\n激越\n肺の悪性新生物\n良性前立腺肥大症",
     "PT_names": [
@@ -61136,33 +61136,6 @@
     "tests_used_for_determination": "",
     "causal_relationship": "ー",
     "causal_relationship_by_expert": "β",
-    "comments_by_expert": "",
-    "source": {
-      "name": "第110回",
-      "url": "https://www.mhlw.go.jp/content/11120000/001650183.pdf"
-    }
-  },
-  {
-    "id": "110-コスタイベ-2",
-    "no": 2,
-    "manufacturer": "Meiji Seika ファルマ",
-    "vaccine_name": "コスタイベ",
-    "age": 94,
-    "gender": "男",
-    "vaccinated_dates": "2025/03/10",
-    "onset_dates": [
-      "2025/04/30"
-    ],
-    "lot_no": "",
-    "vaccinated_times": "",
-    "pre_existing_conditions": "便秘\n心房細動\n心筋梗塞\n慢性心不全\n湿疹\n胸水\n良性前立腺肥大症\n認知症",
-    "PT_names": [
-      "喘鳴",
-      "心不全"
-    ],
-    "tests_used_for_determination": "",
-    "causal_relationship": "ー",
-    "causal_relationship_by_expert": "γ",
     "comments_by_expert": "",
     "source": {
       "name": "第110回",
@@ -61306,32 +61279,6 @@
     "causal_relationship": "ー",
     "causal_relationship_by_expert": "γ",
     "comments_by_expert": "接種2日後に死亡し、死亡前は低体温に気付かれていた。死因は老衰と考えられており、年齢や症状の経過を考慮してその可能性はあるが、ワクチンとの因果関係を考察できる情報は乏しい。",
-    "source": {
-      "name": "第111回",
-      "url": "https://www.mhlw.go.jp/content/11120000/001694108.pdf"
-    }
-  },
-  {
-    "id": "111-コミナティ-6",
-    "no": 6,
-    "manufacturer": "ファイザー",
-    "vaccine_name": "コミナティ",
-    "age": 73,
-    "gender": "女",
-    "vaccinated_dates": "2025/12/19",
-    "onset_dates": [
-      "不明"
-    ],
-    "lot_no": "MR6667",
-    "vaccinated_times": "",
-    "pre_existing_conditions": "",
-    "PT_names": [
-      "調査中"
-    ],
-    "tests_used_for_determination": "",
-    "causal_relationship": "調査中",
-    "causal_relationship_by_expert": "調査中",
-    "comments_by_expert": "調査中",
     "source": {
       "name": "第111回",
       "url": "https://www.mhlw.go.jp/content/11120000/001694108.pdf"
@@ -61493,6 +61440,138 @@
     "source": {
       "name": "第111回",
       "url": "https://www.mhlw.go.jp/content/11120000/001694119.pdf"
+    }
+  },
+  {
+    "id": "112-コミナティ-1",
+    "no": 1,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ",
+    "age": 73,
+    "gender": "女",
+    "vaccinated_dates": "2025/12/19",
+    "onset_dates": [
+      "2025/12/20"
+    ],
+    "lot_no": "MR6667",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "統合失調症",
+    "PT_names": [
+      "マラスムス",
+      "呼吸停止"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第112回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001727179.pdf"
+    }
+  },
+  {
+    "id": "112-コスタイベ-1",
+    "no": 1,
+    "manufacturer": "Meiji Seika ファルマ",
+    "vaccine_name": "コスタイベ",
+    "age": 94,
+    "gender": "男",
+    "vaccinated_dates": "2025/03/10",
+    "onset_dates": [
+      "2025/04/30"
+    ],
+    "lot_no": "00001-16",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "便秘\n心房細動\n心筋梗塞\n慢性心不全\n湿疹\n胸水\n良性前立腺肥大症\n認知症",
+    "PT_names": [
+      "喘鳴"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "ー",
+    "causal_relationship_by_expert": "β",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第112回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001727197.pdf"
+    }
+  },
+  {
+    "id": "112-ヌバキソビッド-1",
+    "no": 1,
+    "manufacturer": "ノババックス／武田",
+    "vaccine_name": "ヌバキソビッド",
+    "age": 97,
+    "gender": "女",
+    "vaccinated_dates": "2025/12/24",
+    "onset_dates": [
+      "不明"
+    ],
+    "lot_no": "",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "慢性腎臓病\n肺炎\n脂質異常症\n腎機能障害\n認知症\n貧血\n高血圧",
+    "PT_names": [
+      "死亡"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "ー",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第112回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001727198.pdf"
+    }
+  },
+  {
+    "id": "112-ヌバキソビッド-2",
+    "no": 2,
+    "manufacturer": "ノババックス／武田",
+    "vaccine_name": "ヌバキソビッド",
+    "age": 90,
+    "gender": "女",
+    "vaccinated_dates": "2025/11/08",
+    "onset_dates": [
+      "2025/12/24"
+    ],
+    "lot_no": "NY001",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "慢性腎臓病\n糖尿病\n脳梗塞\n高血圧",
+    "PT_names": [
+      "完全房室ブロック",
+      "心不全"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "ー",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第112回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001727198.pdf"
+    }
+  },
+  {
+    "id": "112-ヌバキソビッド-3",
+    "no": 3,
+    "manufacturer": "ノババックス／武田",
+    "vaccine_name": "ヌバキソビッド",
+    "age": 93,
+    "gender": "女",
+    "vaccinated_dates": "2025/12/16",
+    "onset_dates": [
+      "2025/12/22"
+    ],
+    "lot_no": "NY001",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "うっ血性心不全\n尿路感染\n認知症\n高ナトリウム血症\n高血圧",
+    "PT_names": [
+      "死亡"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "ー",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第112回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001727198.pdf"
     }
   }
 ]

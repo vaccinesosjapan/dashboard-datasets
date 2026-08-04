@@ -1,0 +1,81 @@
+[
+  {
+    "no": 1,
+    "manufacturer": "ノババックス／武田",
+    "vaccine_name": "ヌバキソビッド",
+    "age": 97,
+    "gender": "女",
+    "vaccinated_dates": "2025/12/24",
+    "onset_dates": [
+      "不明"
+    ],
+    "lot_no": "",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "慢性腎臓病\n肺炎\n脂質異常症\n腎機能障害\n認知症\n貧血\n高血圧",
+    "PT_names": [
+      "死亡"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "ー",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "",
+    "id": "112-ヌバキソビッド-1",
+    "source": {
+      "name": "第112回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001727198.pdf"
+    }
+  },
+  {
+    "no": 2,
+    "manufacturer": "ノババックス／武田",
+    "vaccine_name": "ヌバキソビッド",
+    "age": 90,
+    "gender": "女",
+    "vaccinated_dates": "2025/11/08",
+    "onset_dates": [
+      "2025/12/24"
+    ],
+    "lot_no": "NY001",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "慢性腎臓病\n糖尿病\n脳梗塞\n高血圧",
+    "PT_names": [
+      "完全房室ブロック",
+      "心不全"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "ー",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "",
+    "id": "112-ヌバキソビッド-2",
+    "source": {
+      "name": "第112回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001727198.pdf"
+    }
+  },
+  {
+    "no": 3,
+    "manufacturer": "ノババックス／武田",
+    "vaccine_name": "ヌバキソビッド",
+    "age": 93,
+    "gender": "女",
+    "vaccinated_dates": "2025/12/16",
+    "onset_dates": [
+      "2025/12/22"
+    ],
+    "lot_no": "NY001",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "うっ血性心不全\n尿路感染\n認知症\n高ナトリウム血症\n高血圧",
+    "PT_names": [
+      "死亡"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "ー",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "",
+    "id": "112-ヌバキソビッド-3",
+    "source": {
+      "name": "第112回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001727198.pdf"
+    }
+  }
+]
