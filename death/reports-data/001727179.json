@@ -1,0 +1,29 @@
+[
+  {
+    "no": 1,
+    "manufacturer": "ファイザー",
+    "vaccine_name": "コミナティ",
+    "age": 73,
+    "gender": "女",
+    "vaccinated_dates": "2025/12/19",
+    "onset_dates": [
+      "2025/12/20"
+    ],
+    "lot_no": "MR6667",
+    "vaccinated_times": "",
+    "pre_existing_conditions": "統合失調症",
+    "PT_names": [
+      "マラスムス",
+      "呼吸停止"
+    ],
+    "tests_used_for_determination": "",
+    "causal_relationship": "評価不能",
+    "causal_relationship_by_expert": "γ",
+    "comments_by_expert": "",
+    "id": "112-コミナティ-1",
+    "source": {
+      "name": "第112回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001727179.pdf"
+    }
+  }
+]
