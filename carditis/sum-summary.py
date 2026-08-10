@@ -51,14 +51,6 @@ def main() -> int:
 	pericarditis_sum_count = int(pDf_by_manufacturer['count'].sum())
 	total_sum_count = myocarditis_sum_count + pericarditis_sum_count
 
-	df_m = myocarditis_df.rename(columns={'count': 'myocarditis_count'}).drop(['carditis_types', 'alpha', 'beta', 'gamma'], axis=1)
-	df_p = pericarditis_df.rename(columns={'count': 'pericarditis_count'}).drop(['carditis_types', 'alpha', 'beta', 'gamma'], axis=1)
-	merged_df = pd.merge(df_m, df_p, on=['file_name_prefix', 'manufacturer', 'name'])
-
-	merged_df['name'] = merged_df['name'].map(lambda x: unicodedata.normalize("NFKC", str(x)))
-	merged_df = merged_df.drop(['file_name_prefix', 'manufacturer'], axis=1)
-	df_by_vaccine_name = merged_df.rename(columns={'name': 'vaccine_name'})
-
 	# 集計した症例一覧のデータを読み込み、情報の抽出や「予測値」とのチェック、特定列の値のチェックなどを行う。
 	with open(json_file_path, 'r', encoding='utf-8') as f:
 		data = json.load(f)
@@ -142,7 +134,6 @@ def main() -> int:
 					"gamma": pericarditis_gamma,
 				}
 			},
-			"issues_with_vaccine_name": df_by_vaccine_name.to_dict(orient='records'),
 			"issues_m_by_manufacturers": mDf_by_manufacturer.to_dict(orient='records'),
 			"issues_p_by_manufacturers": pDf_by_manufacturer.to_dict(orient='records'),
 			"issues_by_ages": {
