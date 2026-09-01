@@ -92,7 +92,7 @@ def main():
 	certified_count = certified_df.shape[0]
 	denied_count = denied_df.shape[0]    
 	print(f'判定結果: {df["judgment_result"].unique()}')
-	print(f'請求内容: {df['description_of_claim'].unique()}')
+	print(f'請求内容: {list(df['description_of_claim'].unique())}')
 	print(f'否認理由: {sorted(df['reasons_for_repudiation'].str.join(',').unique())}')
 	print(' -> 意図していない内容が含まれている場合は、データの調査が必要。')
 
