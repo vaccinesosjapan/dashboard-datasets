@@ -2,11 +2,11 @@
   "date": "2026/08/31",
   "total_entries": 15603,
   "certified_count": 9505,
-  "denied_count": 4878,
+  "denied_count": 4879,
   "pending_count": 20,
-  "open_cases_count": 1200,
+  "open_cases_count": 1199,
   "certified_death_count": 1079,
-  "denied_death_count": 785,
+  "denied_death_count": 786,
   "certified_counts": [
     {
       "name": "medical_expenses",
@@ -40,7 +40,7 @@
     },
     {
       "name": "death",
-      "count": 785
+      "count": 786
     }
   ]
 }

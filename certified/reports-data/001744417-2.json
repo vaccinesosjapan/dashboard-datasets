@@ -1,0 +1,20 @@
+[
+  {
+    "certified_date": "2026/08/31",
+    "gender": "男",
+    "age": [
+      76
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "遺族年金・葬祭料",
+    "symptoms": [],
+    "judgment_result": "否認",
+    "pre_existing_conditions": [],
+    "reasons_for_repudiation": [
+      "TypeB-1"
+    ],
+    "remarks": "同時接種: インフルエンザ",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001744417.pdf",
+    "inoculation_type": 1
+  }
+]
