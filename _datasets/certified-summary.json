@@ -1,16 +1,16 @@
 {
-  "date": "2026/09/14",
-  "total_entries": 15642,
-  "certified_count": 9507,
-  "denied_count": 4901,
+  "date": "2026/09/17",
+  "total_entries": 15644,
+  "certified_count": 9511,
+  "denied_count": 4925,
   "pending_count": 20,
-  "open_cases_count": 1214,
+  "open_cases_count": 1188,
   "certified_death_count": 1079,
-  "denied_death_count": 789,
+  "denied_death_count": 795,
   "certified_counts": [
     {
       "name": "medical_expenses",
-      "count": 8201
+      "count": 8203
     },
     {
       "name": "disability_pension_of_children",
@@ -18,7 +18,7 @@
     },
     {
       "name": "disability_pension",
-      "count": 226
+      "count": 228
     },
     {
       "name": "death",
@@ -28,7 +28,7 @@
   "denied_counts": [
     {
       "name": "medical_expenses",
-      "count": 3421
+      "count": 3435
     },
     {
       "name": "disability_pension_of_children",
@@ -36,11 +36,11 @@
     },
     {
       "name": "disability_pension",
-      "count": 666
+      "count": 670
     },
     {
       "name": "death",
-      "count": 789
+      "count": 795
     }
   ]
 }

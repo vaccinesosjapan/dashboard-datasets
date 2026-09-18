@@ -2808,5 +2808,20 @@ settings: [
     source: {
       url: https://www.mhlw.go.jp/content/10900000/001749732.pdf,
     },
+  },
+  {
+    date: '2026/09/17',
+    file: '001751519.csv',
+    output: '001751519.json',
+    pages: '',
+    expected_count: {
+      certified: 4,
+      repudiation: 24
+    },
+    reason-type: 'TypeB',
+    script-version: v2,
+    source: {
+      url: https://www.mhlw.go.jp/content/10900000/001751519.pdf,
+    },
   }
 ]
