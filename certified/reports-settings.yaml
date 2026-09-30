@@ -10,25 +10,27 @@
 #  reason-type: 否認理由が4段階評価になった 2023年3月14日 以降のデータでは TypeB を指定する
 #  script-version:
 #    第193回の分科会から、「定期接種」の被害として申請された案件が登場した。
-#    従来の申請は v2 を使用し、上述の「定期接種」の案件には v3 を使用する。
+#    以下のスクリプトのバージョンを分けて対応する。
+#      v2: 従来の申請
+#      v3: 上述の「定期接種」の案件
 #    各症例データの inoculation_type プロパティの値をそれぞれ違う値で扱う。
 #  source
 #    url: 元資料として使ったPDFのURLを記載する
 #
 settings: [
   {
-    date: '2026/09/17',
-    file: '001751519.csv',
-    output: '001751519.json',
+    date: '2026/09/29',
+    file: '001754302-1.csv',
+    output: '001754302-1.json',
     pages: '',
     expected_count: {
-      certified: 4,
+      certified: 2,
       repudiation: 24
     },
     reason-type: 'TypeB',
     script-version: v2,
     source: {
-      url: https://www.mhlw.go.jp/content/10900000/001751519.pdf,
+      url: https://www.mhlw.go.jp/content/10900000/001754302.pdf,
     },
   }
 ]
