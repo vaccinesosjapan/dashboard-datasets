@@ -1,10 +1,10 @@
 {
   "medical_institution_summary_from_reports": {
-    "date": "2026/03/31",
-    "total_count": 37739,
+    "date": "2026/06/30",
+    "total_count": 37740,
     "sum_causal_relationship": {
       "関連あり": 21517,
-      "評価不能": 10612,
+      "評価不能": 10613,
       "(空白)": 4065,
       "関連なし": 1541,
       "記載なし": 4
@@ -118,7 +118,7 @@
           "manufacturer": "モデルナ/武田"
         }
       ],
-      "invalid_count": 3160
+      "invalid_count": 3161
     }
   }
 }

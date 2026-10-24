@@ -1718584,5 +1718584,49 @@
     "brighton_classification_by_expert": "",
     "comments_by_expert": "",
     "sales_name": "ヌバキソビッド"
+  },
+  {
+    "id": "114th-001762129-MIN-1",
+    "no": 1,
+    "age": "不明",
+    "gender": "女",
+    "vaccinated_dates": [
+      "不明"
+    ],
+    "onset_dates": [
+      "不明"
+    ],
+    "days_to_onset": [
+      "不明"
+    ],
+    "vaccine_name": "新型コロナ(コミナティ)",
+    "manufacturer": "ファイザー",
+    "lot_no": "不明",
+    "PT_names": [
+      "めまい",
+      "月経不順"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "不明"
+    ],
+    "gross_results": [
+      "不明"
+    ],
+    "source": {
+      "name": "第114回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001762129.pdf"
+    },
+    "pre_existing_disease_names": [
+      "記載なし"
+    ],
+    "concurrent_vaccination": "",
+    "concurrent_vaccination_flag": false,
+    "pt_by_expert": "",
+    "causal_relationship_by_expert": "",
+    "brighton_classification_by_expert": "",
+    "comments_by_expert": "",
+    "sales_name": "コミナティ"
   }
 ]
