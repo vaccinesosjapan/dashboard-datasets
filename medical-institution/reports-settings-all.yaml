@@ -1720,5 +1720,21 @@ settings_v3: [
       number: '112th',
       kind: 'MIN'
     }
+  },
+  {
+  relative_dir: '114th',
+  file_id: '001762129-1',
+  pages: '8',
+  count: '1',
+  has_concurrent_vaccination: 'true',
+  script-version: v4,
+  source: {
+    name: '第114回',
+    url: 'https://www.mhlw.go.jp/content/11120000/001762129.pdf'
+  },
+  id_metadata: {
+    number: '114th',
+    kind: 'MIN'
   }
+}
 ]

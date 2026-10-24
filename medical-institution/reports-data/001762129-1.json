@@ -1,0 +1,46 @@
+[
+  {
+    "id": "114th-001762129-MIN-1",
+    "no": 1,
+    "age": "不明",
+    "gender": "女",
+    "vaccinated_dates": [
+      "不明"
+    ],
+    "concurrent_vaccination_flag": false,
+    "concurrent_vaccination": "",
+    "vaccine_name": "新型コロナ(コミナティ)",
+    "sales_name": "コミナティ",
+    "lot_no": "不明",
+    "manufacturer": "ファイザー",
+    "pre_existing_disease_names": [
+      "記載なし"
+    ],
+    "PT_names": [
+      "めまい",
+      "月経不順"
+    ],
+    "onset_dates": [
+      "不明"
+    ],
+    "days_to_onset": [
+      "不明"
+    ],
+    "causal_relationship": "評価不能",
+    "severity": "重くない",
+    "gross_result_dates": [
+      "不明"
+    ],
+    "gross_results": [
+      "不明"
+    ],
+    "pt_by_expert": "",
+    "causal_relationship_by_expert": "",
+    "brighton_classification_by_expert": "",
+    "comments_by_expert": "",
+    "source": {
+      "name": "第114回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001762129.pdf"
+    }
+  }
+]
