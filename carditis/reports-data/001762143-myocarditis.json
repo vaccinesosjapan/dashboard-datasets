@@ -1,0 +1,37 @@
+[
+  {
+    "no": 1,
+    "age": 33,
+    "gender": "女性",
+    "vaccinated_date": "",
+    "onset_dates": [
+      ""
+    ],
+    "days_to_onset": "",
+    "vaccine_name": "コミナティ",
+    "manufacturer": "ファイザー",
+    "vaccinated_times": "",
+    "lot_no": "",
+    "pre_existing_disease_names": [
+      "なし"
+    ],
+    "PT_names": [
+      "心筋炎"
+    ],
+    "gross_result_dates": [
+      ""
+    ],
+    "gross_results": [
+      "不明"
+    ],
+    "evaluated_PT": "",
+    "evaluated_result": "γ",
+    "brighton_classification": 4,
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第114回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001762143.pdf"
+    }
+  }
+]

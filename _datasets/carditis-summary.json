@@ -1,21 +1,21 @@
 {
   "carditis_summary": {
-    "date": "2026/07/24",
-    "total": 809,
-    "myocarditis": 621,
+    "date": "2026/10/23",
+    "total": 810,
+    "myocarditis": 622,
     "pericarditis": 188,
     "source": {
-      "name": "第112回厚生科学審議会予防接種・ワクチン分科会副反応検討部会",
-      "url": "https://www.mhlw.go.jp/stf/shingi2/newpage_00295.html"
+      "name": "第114回厚生科学審議会予防接種・ワクチン分科会副反応検討部会",
+      "url": "https://www.mhlw.go.jp/stf/shingi2/newpage_00312.html"
     }
   },
   "carditis_issues": {
-    "date": "2026/03/31",
+    "date": "2026/06/30",
     "issues_by_evaluated_result": {
       "myocarditis": {
         "alpha": 1,
         "beta": 0,
-        "gamma": 620
+        "gamma": 621
       },
       "pericarditis": {
         "alpha": 1,
@@ -26,7 +26,7 @@
     "issues_m_by_manufacturers": [
       {
         "manufacturer": "ファイザー",
-        "count": 400
+        "count": 401
       },
       {
         "manufacturer": "モデルナ",
@@ -64,7 +64,7 @@
       }
     ],
     "issues_by_ages": {
-      "ages_count": 765,
+      "ages_count": 766,
       "unknown_ages_count": 44,
       "issues": [
         {
@@ -81,7 +81,7 @@
         },
         {
           "x": "30代",
-          "y": 70
+          "y": 71
         },
         {
           "x": "40代",
