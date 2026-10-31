@@ -20,15 +20,15 @@
 settings: [
   {
     date: '2026/10/29',
-    file: '001764880.csv',
-    output: '001764880.json',
+    file: '001764880-2.csv',
+    output: '001764880-2.json',
     pages: '',
     expected_count: {
       certified: 0,
-      repudiation: 29
+      repudiation: 4
     },
     reason-type: 'TypeB',
-    script-version: v2,
+    script-version: v3,
     source: {
       url: https://www.mhlw.go.jp/content/10900000/001764880.pdf,
     },

@@ -285173,9 +285173,9 @@
   {
     "no": 14535,
     "certified_date": "2026/10/29",
-    "gender": "男",
+    "gender": "女",
     "age": [
-      46
+      80
     ],
     "vaccine_name": "新型コロナ",
     "description_of_claim": "医療費・医療手当",
@@ -285185,35 +285185,35 @@
     "reasons_for_repudiation": [
       "TypeB-1"
     ],
-    "remarks": "",
+    "remarks": "同時接種: インフルエンザ",
     "source_url": "https://www.mhlw.go.jp/content/10900000/001764880.pdf",
-    "inoculation_type": 0
+    "inoculation_type": 1
   },
   {
     "no": 14536,
     "certified_date": "2026/10/29",
-    "gender": "男",
+    "gender": "女",
     "age": [
-      52
+      80
     ],
     "vaccine_name": "新型コロナ",
-    "description_of_claim": "医療費・医療手当",
+    "description_of_claim": "遺族一時金・葬祭料",
     "symptoms": [],
     "judgment_result": "否認",
     "pre_existing_conditions": [],
     "reasons_for_repudiation": [
       "TypeB-1"
     ],
-    "remarks": "",
+    "remarks": "同時接種: インフルエンザ",
     "source_url": "https://www.mhlw.go.jp/content/10900000/001764880.pdf",
-    "inoculation_type": 0
+    "inoculation_type": 1
   },
   {
     "no": 14537,
     "certified_date": "2026/10/29",
     "gender": "女",
     "age": [
-      49
+      67
     ],
     "vaccine_name": "新型コロナ",
     "description_of_claim": "医療費・医療手当",
@@ -285225,33 +285225,34 @@
     ],
     "remarks": "",
     "source_url": "https://www.mhlw.go.jp/content/10900000/001764880.pdf",
-    "inoculation_type": 0
+    "inoculation_type": 1
   },
   {
     "no": 14538,
     "certified_date": "2026/10/29",
     "gender": "女",
     "age": [
-      49
+      85
     ],
     "vaccine_name": "新型コロナ",
-    "description_of_claim": "障害年金",
+    "description_of_claim": "医療費・医療手当",
     "symptoms": [],
     "judgment_result": "否認",
     "pre_existing_conditions": [],
     "reasons_for_repudiation": [
-      "TypeB-1"
+      "TypeB-1",
+      "TypeB-2"
     ],
     "remarks": "",
     "source_url": "https://www.mhlw.go.jp/content/10900000/001764880.pdf",
-    "inoculation_type": 0
+    "inoculation_type": 1
   },
   {
     "no": 14539,
     "certified_date": "2026/10/29",
     "gender": "男",
     "age": [
-      80
+      46
     ],
     "vaccine_name": "新型コロナ",
     "description_of_claim": "医療費・医療手当",
@@ -285270,7 +285271,7 @@
     "certified_date": "2026/10/29",
     "gender": "男",
     "age": [
-      49
+      52
     ],
     "vaccine_name": "新型コロナ",
     "description_of_claim": "医療費・医療手当",
@@ -285289,7 +285290,7 @@
     "certified_date": "2026/10/29",
     "gender": "女",
     "age": [
-      82
+      49
     ],
     "vaccine_name": "新型コロナ",
     "description_of_claim": "医療費・医療手当",
@@ -285308,10 +285309,10 @@
     "certified_date": "2026/10/29",
     "gender": "女",
     "age": [
-      97
+      49
     ],
     "vaccine_name": "新型コロナ",
-    "description_of_claim": "死亡一時金・葬祭料",
+    "description_of_claim": "障害年金",
     "symptoms": [],
     "judgment_result": "否認",
     "pre_existing_conditions": [],
@@ -285327,7 +285328,7 @@
     "certified_date": "2026/10/29",
     "gender": "男",
     "age": [
-      57
+      80
     ],
     "vaccine_name": "新型コロナ",
     "description_of_claim": "医療費・医療手当",
@@ -285346,7 +285347,7 @@
     "certified_date": "2026/10/29",
     "gender": "男",
     "age": [
-      41
+      49
     ],
     "vaccine_name": "新型コロナ",
     "description_of_claim": "医療費・医療手当",
@@ -285362,6 +285363,82 @@
   },
   {
     "no": 14545,
+    "certified_date": "2026/10/29",
+    "gender": "女",
+    "age": [
+      82
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "医療費・医療手当",
+    "symptoms": [],
+    "judgment_result": "否認",
+    "pre_existing_conditions": [],
+    "reasons_for_repudiation": [
+      "TypeB-1"
+    ],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001764880.pdf",
+    "inoculation_type": 0
+  },
+  {
+    "no": 14546,
+    "certified_date": "2026/10/29",
+    "gender": "女",
+    "age": [
+      97
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "死亡一時金・葬祭料",
+    "symptoms": [],
+    "judgment_result": "否認",
+    "pre_existing_conditions": [],
+    "reasons_for_repudiation": [
+      "TypeB-1"
+    ],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001764880.pdf",
+    "inoculation_type": 0
+  },
+  {
+    "no": 14547,
+    "certified_date": "2026/10/29",
+    "gender": "男",
+    "age": [
+      57
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "医療費・医療手当",
+    "symptoms": [],
+    "judgment_result": "否認",
+    "pre_existing_conditions": [],
+    "reasons_for_repudiation": [
+      "TypeB-1"
+    ],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001764880.pdf",
+    "inoculation_type": 0
+  },
+  {
+    "no": 14548,
+    "certified_date": "2026/10/29",
+    "gender": "男",
+    "age": [
+      41
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "医療費・医療手当",
+    "symptoms": [],
+    "judgment_result": "否認",
+    "pre_existing_conditions": [],
+    "reasons_for_repudiation": [
+      "TypeB-1"
+    ],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001764880.pdf",
+    "inoculation_type": 0
+  },
+  {
+    "no": 14549,
     "certified_date": "2026/10/29",
     "gender": "男",
     "age": [
@@ -285380,7 +285457,7 @@
     "inoculation_type": 0
   },
   {
-    "no": 14546,
+    "no": 14550,
     "certified_date": "2026/10/29",
     "gender": "女",
     "age": [
@@ -285399,7 +285476,7 @@
     "inoculation_type": 0
   },
   {
-    "no": 14547,
+    "no": 14551,
     "certified_date": "2026/10/29",
     "gender": "女",
     "age": [
@@ -285418,7 +285495,7 @@
     "inoculation_type": 0
   },
   {
-    "no": 14548,
+    "no": 14552,
     "certified_date": "2026/10/29",
     "gender": "女",
     "age": [
@@ -285437,7 +285514,7 @@
     "inoculation_type": 0
   },
   {
-    "no": 14549,
+    "no": 14553,
     "certified_date": "2026/10/29",
     "gender": "女",
     "age": [
@@ -285456,7 +285533,7 @@
     "inoculation_type": 0
   },
   {
-    "no": 14550,
+    "no": 14554,
     "certified_date": "2026/10/29",
     "gender": "男",
     "age": [
@@ -285475,7 +285552,7 @@
     "inoculation_type": 0
   },
   {
-    "no": 14551,
+    "no": 14555,
     "certified_date": "2026/10/29",
     "gender": "男",
     "age": [
@@ -285494,7 +285571,7 @@
     "inoculation_type": 0
   },
   {
-    "no": 14552,
+    "no": 14556,
     "certified_date": "2026/10/29",
     "gender": "女",
     "age": [
@@ -285514,7 +285591,7 @@
     "inoculation_type": 0
   },
   {
-    "no": 14553,
+    "no": 14557,
     "certified_date": "2026/10/29",
     "gender": "女",
     "age": [
@@ -285533,7 +285610,7 @@
     "inoculation_type": 0
   },
   {
-    "no": 14554,
+    "no": 14558,
     "certified_date": "2026/10/29",
     "gender": "女",
     "age": [
@@ -285552,7 +285629,7 @@
     "inoculation_type": 0
   },
   {
-    "no": 14555,
+    "no": 14559,
     "certified_date": "2026/10/29",
     "gender": "男",
     "age": [
@@ -285571,7 +285648,7 @@
     "inoculation_type": 0
   },
   {
-    "no": 14556,
+    "no": 14560,
     "certified_date": "2026/10/29",
     "gender": "男",
     "age": [
@@ -285591,7 +285668,7 @@
     "inoculation_type": 0
   },
   {
-    "no": 14557,
+    "no": 14561,
     "certified_date": "2026/10/29",
     "gender": "男",
     "age": [
@@ -285610,7 +285687,7 @@
     "inoculation_type": 0
   },
   {
-    "no": 14558,
+    "no": 14562,
     "certified_date": "2026/10/29",
     "gender": "男",
     "age": [
@@ -285629,7 +285706,7 @@
     "inoculation_type": 0
   },
   {
-    "no": 14559,
+    "no": 14563,
     "certified_date": "2026/10/29",
     "gender": "女",
     "age": [
@@ -285648,7 +285725,7 @@
     "inoculation_type": 0
   },
   {
-    "no": 14560,
+    "no": 14564,
     "certified_date": "2026/10/29",
     "gender": "女",
     "age": [
@@ -285667,7 +285744,7 @@
     "inoculation_type": 0
   },
   {
-    "no": 14561,
+    "no": 14565,
     "certified_date": "2026/10/29",
     "gender": "女",
     "age": [
@@ -285686,7 +285763,7 @@
     "inoculation_type": 0
   },
   {
-    "no": 14562,
+    "no": 14566,
     "certified_date": "2026/10/29",
     "gender": "女",
     "age": [
@@ -285705,7 +285782,7 @@
     "inoculation_type": 0
   },
   {
-    "no": 14563,
+    "no": 14567,
     "certified_date": "2026/10/29",
     "gender": "女",
     "age": [
