@@ -149,6 +149,7 @@ def extract_reasons_for_repudiation(cell, rType):
 	# 
 	# strip()では「1、 3」というように文字列中に半角スペースがある場合に、半角スペースの除去
 	# がうまくいかないのでreplace()で対応する。
+	cell = str(cell)
 	cell = cell.replace('、', ',').replace('.', ',').replace(' ', '')
 
 	reasons_for_repudiation = []
