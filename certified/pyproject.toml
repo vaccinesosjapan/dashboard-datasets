@@ -1,0 +1,21 @@
+[project]
+name = "certified"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "kaede96az", email = "147464913+kaede96az@users.noreply.github.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "camelot-py>=2.0.0",
+    "pandas>=3.1.0",
+    "pyyaml>=6.0.3",
+]
+
+[project.scripts]
+certified = "certified:main"
+
+[build-system]
+requires = ["uv_build>=0.12.18,<0.13.0"]
+build-backend = "uv_build"

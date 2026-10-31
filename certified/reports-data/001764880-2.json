@@ -1,0 +1,75 @@
+[
+  {
+    "certified_date": "2026/10/29",
+    "gender": "女",
+    "age": [
+      80
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "医療費・医療手当",
+    "symptoms": [],
+    "judgment_result": "否認",
+    "pre_existing_conditions": [],
+    "reasons_for_repudiation": [
+      "TypeB-1"
+    ],
+    "remarks": "同時接種: インフルエンザ",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001764880.pdf",
+    "inoculation_type": 1
+  },
+  {
+    "certified_date": "2026/10/29",
+    "gender": "女",
+    "age": [
+      80
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "遺族一時金・葬祭料",
+    "symptoms": [],
+    "judgment_result": "否認",
+    "pre_existing_conditions": [],
+    "reasons_for_repudiation": [
+      "TypeB-1"
+    ],
+    "remarks": "同時接種: インフルエンザ",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001764880.pdf",
+    "inoculation_type": 1
+  },
+  {
+    "certified_date": "2026/10/29",
+    "gender": "女",
+    "age": [
+      67
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "医療費・医療手当",
+    "symptoms": [],
+    "judgment_result": "否認",
+    "pre_existing_conditions": [],
+    "reasons_for_repudiation": [
+      "TypeB-1"
+    ],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001764880.pdf",
+    "inoculation_type": 1
+  },
+  {
+    "certified_date": "2026/10/29",
+    "gender": "女",
+    "age": [
+      85
+    ],
+    "vaccine_name": "新型コロナ",
+    "description_of_claim": "医療費・医療手当",
+    "symptoms": [],
+    "judgment_result": "否認",
+    "pre_existing_conditions": [],
+    "reasons_for_repudiation": [
+      "TypeB-1",
+      "TypeB-2"
+    ],
+    "remarks": "",
+    "source_url": "https://www.mhlw.go.jp/content/10900000/001764880.pdf",
+    "inoculation_type": 1
+  }
+]
