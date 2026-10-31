@@ -11,12 +11,12 @@
 #  source: 使用するPDFが扱われている検討部会の名称とPDFのURL
 #
 
-name: 'コスタイベ筋注用'
-manufacturer: 'Meiji Seika ファルマ'
-file_id: '001694131-pericarditis'
-pages: '4'
+name: 'コミナティ筋注シリンジ12歳以上用'
+manufacturer: 'ファイザー'
+file_id: '001762143-myocarditis'
+pages: '3'
 count: '1'
 source: {
-  name: '第111回',
-  url: 'https://www.mhlw.go.jp/content/11120000/001694131.pdf'
+  name: '第114回',
+  url: 'https://www.mhlw.go.jp/content/11120000/001762143.pdf'
 }

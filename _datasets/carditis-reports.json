@@ -40655,5 +40655,41 @@
       "url": "https://www.mhlw.go.jp/content/11120000/001694131.pdf"
     },
     "id": "111-pericarditis-000001"
+  },
+  {
+    "no": 1,
+    "age": 33,
+    "gender": "女性",
+    "vaccinated_date": "",
+    "onset_dates": [
+      ""
+    ],
+    "days_to_onset": "",
+    "vaccine_name": "コミナティ",
+    "manufacturer": "ファイザー",
+    "lot_no": "",
+    "vaccinated_times": "",
+    "pre_existing_disease_names": [
+      "なし"
+    ],
+    "PT_names": [
+      "心筋炎"
+    ],
+    "gross_result_dates": [
+      ""
+    ],
+    "gross_results": [
+      "不明"
+    ],
+    "evaluated_PT": "",
+    "evaluated_result": "γ",
+    "brighton_classification": 4,
+    "expert_opinion": "",
+    "remarks": "",
+    "source": {
+      "name": "第114回",
+      "url": "https://www.mhlw.go.jp/content/11120000/001762143.pdf"
+    },
+    "id": "114-myocarditis-000001"
   }
 ]
