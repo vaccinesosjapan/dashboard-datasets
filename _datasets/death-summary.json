@@ -1,15 +1,15 @@
 {
   "death_summary": {
-    "date": "2026/07/24",
+    "date": "2026/10/23",
     "source": {
-      "name": "第112回厚生科学審議会予防接種・ワクチン分科会副反応検討部会",
-      "url": "https://www.mhlw.go.jp/stf/shingi2/newpage_00295.html"
+      "name": "第114回厚生科学審議会予防接種・ワクチン分科会副反応検討部会",
+      "url": "https://www.mhlw.go.jp/stf/shingi2/newpage_00312.html"
     },
     "sum_by_evaluation": {
-      "total": 2322,
+      "total": 2323,
       "alpha": 2,
       "beta": 13,
-      "gamma": 2307
+      "gamma": 2308
     },
     "sum_by_vaccine_name": [
       {
@@ -105,7 +105,7 @@
         "evaluations": {
           "alpha": 0,
           "beta": 0,
-          "gamma": 12
+          "gamma": 13
         }
       },
       {
@@ -143,11 +143,11 @@
         "death_count": 271
       },
       {
-        "manufacturer": "ノババックス／武田",
-        "death_count": 12
+        "manufacturer": "第一三共",
+        "death_count": 13
       },
       {
-        "manufacturer": "第一三共",
+        "manufacturer": "ノババックス／武田",
         "death_count": 12
       },
       {
@@ -161,6 +161,6 @@
     ]
   },
   "death_issues": {
-    "date": "2026/03/31"
+    "date": "2026/06/30"
   }
 }

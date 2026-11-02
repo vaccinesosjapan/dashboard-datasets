@@ -9,22 +9,28 @@
 
 ## 報告一覧の抽出
 
+### PDFごとに行う処理
+
 以下の手順を **death-table.csv** に追記した全てのPDFに対して実行する。
 
-1. **reports-settings.yaml** に、PDFから情報を抽出するための情報を記載する。
-1. `python _1-extract-pdf-to-csv.py`を実行して、CSVファイルを2つ保存する。
-    * **intermediate-files** フォルダ以下の `{pdfファイル名}.csv`と`{pdfファイル名}-pre.csv`
-1. `{pdfファイル名}-pre.csv`を開き、手作業で整える。
-1. `python _2-standardize-csv.py`を実行し、データの整形を行う。
-    * **intermediate-files** フォルダ以下の `{pdfファイル名}-converted.csv`と`{pdfファイル名}-manually-fixed.csv`の2つ
-1. `{pdfファイル名}-manually-fixed.csv`を開き、手作業で仕上げる。
-1. `python _3-save-to-json.py`を実行して、JSONファイルへと変換する。
-    * **reports-files** フォルダ以下の`{pdfファイル名}.json`
-1. `python _4-apply-source.py {pdfファイル名}.json` を実行して、JSONに **source** 情報を付与する。
+1. **reports-settings.yaml** に、PDFから情報を抽出するための情報を記載する
+1. `uv run _1-extract-pdf-to-csv.py` を実行する
+    * 結果、 **intermediate-files** フォルダ以下に `{pdfファイル名}.csv` と `{pdfファイル名}-pre.csv` が作成される
+1. `{pdfファイル名}-pre.csv` を開き、手作業で整える
+    * 「年齢（単位）」の列は削除して対応する（`v2`スクリプトの仕様）
+1. `uv run _2-standardize-csv.py` を実行し、データの整形を行う
+    * 結果、 **intermediate-files** フォルダ以下に `{pdfファイル名}-converted.csv` と `{pdfファイル名}-manually-fixed.csv` が作成される
+1. `{pdfファイル名}-manually-fixed.csv` を開き、手作業で仕上げる
+1. `uv run _3-save-to-json.py` を実行する
+    * 結果、 **reports-files** フォルダ以下に `{pdfファイル名}.json` が作成される
+1. `uv run _4-apply-source.py {pdfファイル名}.json` を実行する
+    * 結果、 上述の手順で作成したJSONファイルに **source** 情報が付与される
+
+### まとめの処理
 
 上記の繰り返し処理ができたら、サマリ生成のために以下を実行する。
 
-1. `python _5-sum-reports.py` を実行して、レポートや集計データを完成させる。
+1. `uv run _5-sum-reports.py` を実行して、レポートや集計データを完成させる。
 
 ## 懸案事項
 
