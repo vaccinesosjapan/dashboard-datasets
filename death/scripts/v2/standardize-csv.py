@@ -1,7 +1,6 @@
 # %%
 import os, re, math, sys
 import pandas as pd
-from distutils.util import strtobool
 
 # スクリプトへエクスポートした際に、必要に応じてパスの更新が必要な情報
 csv_folder = os.path.join('..','intermediate-files')
