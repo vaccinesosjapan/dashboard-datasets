@@ -15,12 +15,12 @@ pivot_df = df.pivot_table('no', index=['certified_date'], columns=['description_
 # 亡くなった方々に関する請求内容がいくつか分かれてしまっているので「死亡一時金', '葬祭料」として合算してまとめる。
 pivot_df[('merged', '認定')] = pivot_df[('死亡一時金', '認定')] + pivot_df[('葬祭料', '認定')] + pivot_df[('死亡一時金・葬祭料', '認定')]
 pivot_df[('merged', '否認')] = pivot_df[('死亡一時金', '否認')] + pivot_df[('葬祭料', '否認')] + pivot_df[('死亡一時金・葬祭料', '否認')]
-pivot_df.drop(columns=[
+pivot_df = pivot_df.drop(columns=[
 	('死亡一時金', '否認'), ('死亡一時金', '認定'),
 	('死亡一時金・葬祭料', '否認'), ('死亡一時金・葬祭料', '認定'),
 	('葬祭料', '否認'), ('葬祭料', '認定')
-], inplace=True)
-pivot_df.rename(columns={'merged': '死亡一時金・葬祭料'}, inplace=True)
+])
+pivot_df = pivot_df.rename(columns={'merged': '死亡一時金・葬祭料'})
 
 # %%
 # 列名を半角英数の文字列に変換しつつ、MultiIndexを解除してフラットな文字列に。
@@ -34,7 +34,7 @@ columns_replace_dict = copy.deepcopy(columns_dict)
 columns_replace_dict['認定'] = 'certified'
 columns_replace_dict['否認'] = 'denied'
 
-pivot_df.rename(columns=columns_replace_dict, inplace=True)
+pivot_df = pivot_df.rename(columns=columns_replace_dict)
 pivot_df.columns = ['_'.join(col) for col in pivot_df.columns]
 
 # %%

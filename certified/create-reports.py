@@ -18,6 +18,6 @@ for s in settings:
     extract_script_path = os.path.join(script_dir, 'scripts', f"extract-certified-reports-{script_version}.py")
     certified_count = s['expected_count']['certified']
     repudiation_count = s['expected_count']['repudiation']
-    subprocess.run([ "python", extract_script_path,
+    subprocess.run([ sys.executable, extract_script_path,
                     s['file'], s['output'], s['pages'], s['date'], s['reason-type'], f'{certified_count}', f'{repudiation_count}', s['source']['url'] ],
                     cwd=script_dir)

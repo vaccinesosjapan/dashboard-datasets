@@ -24,7 +24,7 @@ def create_reports(source: str) -> pd.DataFrame:
         reports = pd.concat([reports, df], ignore_index=True)
 
     # 元々は組み込みのsorted()を使ってlistをソートしていた。その時と同様の並びになるようstableソートを指定して使う。
-    reports.sort_values(by=["certified_date"], kind='stable', ignore_index=True, inplace=True)
+    reports = reports.sort_values(by=["certified_date"], kind='stable', ignore_index=True)
     # 第193回の分科会から、従来の予防接種と同じ表に列挙される案件が登場した。
     # これ以前のデータでは接種タイプ（inoculation_type）を区別していないため、ゼロ埋めする。
     reports['inoculation_type'] = reports['inoculation_type'].fillna(0).astype(int)
@@ -91,7 +91,7 @@ def main():
 	denied_df = df[df['judgment_result'] == '否認']
 	certified_count = certified_df.shape[0]
 	denied_count = denied_df.shape[0]    
-	print(f'判定結果: {df["judgment_result"].unique()}')
+	print(f'判定結果: {list(df["judgment_result"].unique())}')
 	print(f'請求内容: {list(df['description_of_claim'].unique())}')
 	print(f'否認理由: {sorted(df['reasons_for_repudiation'].str.join(',').unique())}')
 	print(' -> 意図していない内容が含まれている場合は、データの調査が必要。')
